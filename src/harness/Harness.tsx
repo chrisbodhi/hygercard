@@ -12,7 +12,8 @@ import { copyEventsAsJson, emit, eventLog, useEvents } from "./events";
 import { readFixture } from "./fixtureReader";
 import { Keymap } from "./keymap";
 import { readJson, writeJson } from "./persist";
-import { variantById, variants, type KnobSchema, type KnobValues, type Variant } from "./registry";
+import { variantById, variants } from "./registry";
+import type { KnobSchema, KnobValues, Variant } from "./variant";
 
 const store = new Store();
 const keymap = new Keymap();
@@ -167,11 +168,13 @@ export function Harness() {
   const dataMessage = useData(mode);
   const [showLog, setShowLog] = useState(() => readJson("hygercard:log", true));
   const [showKeys, setShowKeys] = useState(false);
+  const [showKnobs, setShowKnobs] = useState(() => readJson("hygercard:knobs-open", false));
   const events = useEvents();
 
   useEffect(() => keymap.attach(document), []);
   useEffect(() => writeJson("hygercard:mode", mode), [mode]);
   useEffect(() => writeJson("hygercard:log", showLog), [showLog]);
+  useEffect(() => writeJson("hygercard:knobs-open", showKnobs), [showKnobs]);
 
   if (!variant) return <p className="empty">No variants found under src/variants/.</p>;
 
@@ -191,6 +194,7 @@ export function Harness() {
             <option value="live">live (via dev proxy)</option>
           </select>
         </label>
+        <button onClick={() => setShowKnobs(!showKnobs)} aria-pressed={showKnobs}>knobs</button>
         <button onClick={() => setShowKeys(!showKeys)} aria-pressed={showKeys}>keys</button>
         <button onClick={() => setShowLog(!showLog)} aria-pressed={showLog}>log {events.length}</button>
       </header>
@@ -201,7 +205,7 @@ export function Harness() {
       </main>
       {showLog && <EventLog />}
       {showKeys && <KeyHelp />}
-      <Leva collapsed titleBar={{ title: "knobs", position: { x: 0, y: 96 } }} />
+      <Leva hidden={!showKnobs} titleBar={{ title: "knobs", position: { x: 0, y: 40 } }} />
     </div>
   );
 }

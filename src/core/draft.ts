@@ -26,6 +26,11 @@ function splice(md: string, boundary: number, insert: string): string {
   return join(raws, eolOf(md));
 }
 
+/** Add a paragraph of the author's own words. */
+export function insertProse(md: string, boundary: number, text: string): string {
+  return splice(md, boundary, proseText(text) + eolOf(md));
+}
+
 /** Write a whole quote: `![[id]]` on its own line. */
 export function insertWholeQuote(md: string, boundary: number, id: string, label?: string | null): string {
   return splice(md, boundary, directiveLine(id, label) + eolOf(md));

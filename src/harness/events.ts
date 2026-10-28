@@ -15,10 +15,11 @@ export type HarnessEvent =
   | { type: "selection.changed"; item?: ItemRef; start?: number; end?: number; text?: string; valid: boolean; reason?: string }
   /** A selection that lies inside a baked nested quote: allowed, and a design question for later. */
   | { type: "selection.nested-quote"; item: ItemRef; quotedId: string; depth: number }
-  | { type: "drag.start"; kind: "whole" | "partial"; item: ItemRef; start?: number; end?: number }
-  | { type: "drag.cancel"; kind: "whole" | "partial"; reason: string }
-  /** The directive a drop wrote into content_md. */
-  | { type: "drop.commit"; directive: "whole" | "partial"; boundary: number; item: ItemRef; selection?: string }
+  /** `move` reorders a block already in the draft; the others write a directive. */
+  | { type: "drag.start"; kind: "whole" | "partial" | "move"; item?: ItemRef; from?: number; start?: number; end?: number }
+  | { type: "drag.cancel"; kind: "whole" | "partial" | "move"; reason: string }
+  /** The directive a drop wrote into content_md (or `move`, which writes none). */
+  | { type: "drop.commit"; directive: "whole" | "partial" | "move"; boundary: number; item?: ItemRef; from?: number; selection?: string }
   | { type: "bake.result"; blocks: number; transclusions: number; errors: Array<{ block: number; code: string; message: string }> }
   | { type: "band.state"; band: string; state: BandState; previous?: BandState; anchor?: Anchor["kind"] };
 

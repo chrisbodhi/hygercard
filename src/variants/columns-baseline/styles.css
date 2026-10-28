@@ -1,0 +1,56 @@
+/* Deliberately plain. Only what the gestures need to be legible. */
+.cb-root { position: absolute; inset: 0; display: flex; flex-direction: column; font-size: 14px; }
+.cb-columns { flex: 1; min-height: 0; display: flex; gap: 0; }
+.cb-col { min-width: 0; display: flex; flex-direction: column; border-right: 1px solid #8884; }
+.cb-col:last-child { border-right: 0; }
+.cb-col-head { display: flex; gap: 0.4rem; align-items: center; padding: 0.3rem 0.5rem; border-bottom: 1px solid #8884; font-size: 12px; }
+.cb-col-head select { min-width: 0; flex: 1; }
+.cb-scroll { flex: 1; min-height: 0; overflow: auto; overscroll-behavior: contain; padding: 0.5rem; }
+
+.cb-card { border: 1px solid #8886; border-radius: 4px; margin-bottom: 0.6rem; background: Canvas; }
+.cb-card.l0 { border-style: dashed; opacity: 0.85; }
+.cb-card-head { display: flex; gap: 0.4rem; align-items: center; padding: 0.2rem 0.4rem; font-size: 11px; opacity: 0.8; border-bottom: 1px solid #8883; }
+.cb-card-head .meta { flex: 1; }
+.cb-badge { padding: 0 0.35rem; border: 1px solid currentColor; border-radius: 3px; font-size: 10px; text-transform: uppercase; }
+.cb-card-body { padding: 0.4rem 0.6rem; overflow-wrap: anywhere; }
+.cb-card-body p { margin: 0.4em 0; }
+.cb-card-body img { max-width: 100%; height: auto; }
+.cb-card-body blockquote { margin: 0.5em 0; padding-left: 0.7em; border-left: 3px solid #8886; }
+.cb-card-body blockquote.blyg-transclusion { border-left-color: #4a7fb5; }
+.cb-card-body blockquote.blyg-partial { border-left-style: dotted; }
+.cb-card-body pre { overflow: auto; }
+
+.cb-handle { touch-action: none; user-select: none; -webkit-user-select: none; cursor: grab; border: 1px solid #8886; border-radius: 3px; background: Canvas; color: inherit; padding: 0 0.4rem; font: inherit; line-height: 1.4; }
+.cb-handle:active { cursor: grabbing; }
+
+.cb-draft-head { display: flex; gap: 0.4rem; align-items: center; flex-wrap: wrap; padding: 0.3rem 0.5rem; border-bottom: 1px solid #8884; font-size: 12px; }
+.cb-draft-head .grow { flex: 1; }
+.cb-block { position: relative; border: 1px solid transparent; border-radius: 4px; padding: 0.2rem 0.4rem 0.2rem 1.7rem; }
+.cb-block:hover { border-color: #8884; }
+.cb-block .tools { position: absolute; left: 0.2rem; top: 0.2rem; display: flex; flex-direction: column; gap: 0.2rem; }
+.cb-block .tools button { padding: 0 0.3rem; font-size: 11px; }
+.cb-block.prose { cursor: text; }
+.cb-block p { margin: 0.4em 0; }
+.cb-block blockquote { margin: 0.4em 0; padding-left: 0.7em; border-left: 3px solid #8886; }
+.cb-block blockquote.blyg-transclusion { border-left-color: #4a7fb5; }
+.cb-block blockquote.blyg-partial { border-left-style: dotted; }
+.cb-block .state { font-size: 10px; text-transform: uppercase; opacity: 0.8; }
+.cb-block textarea { width: 100%; min-height: 4.5em; font: inherit; resize: vertical; }
+.cb-error { margin: 0.3em 0; padding: 0.25em 0.5em; border: 1px solid #c0392b; border-radius: 3px; color: #c0392b; background: #c0392b14; font-size: 12px; }
+.cb-error code { font-size: 11px; }
+
+.cb-zone { position: relative; height: 14px; display: flex; align-items: center; justify-content: center; }
+.cb-zone .add { opacity: 0; font-size: 10px; padding: 0 0.4rem; line-height: 1.2; }
+.cb-zone:hover .add, .cb-zone:focus-within .add { opacity: 1; }
+@media (pointer: coarse) { .cb-zone .add { opacity: 0.6; } .cb-zone { height: 26px; } }
+.cb-zone .line { position: absolute; left: 0; right: 0; top: 50%; height: 3px; margin-top: -1.5px; border-radius: 2px; background: #4a7fb5; }
+.cb-empty { padding: 1rem; opacity: 0.6; }
+
+.cb-raw { border-top: 1px solid #8884; max-height: 34%; overflow: auto; margin: 0; padding: 0.3rem 0.5rem; font: 11px/1.4 ui-monospace, monospace; white-space: pre-wrap; overflow-wrap: anywhere; }
+.cb-raw .changed { background: #4a7fb533; }
+
+.cb-status { padding: 0.15rem 0.5rem; font-size: 12px; border-bottom: 1px solid #8883; min-height: 1.6em; }
+.cb-status .rejected { color: #c0392b; }
+.cb-selection-handle { position: absolute; z-index: 5; touch-action: none; }
+.cb-ghost { position: fixed; z-index: 100; pointer-events: none; max-width: 260px; padding: 0.25rem 0.5rem; border: 1px solid #4a7fb5; border-radius: 4px; background: Canvas; box-shadow: 0 2px 8px #0003; font-size: 12px; }
+.cb-ghost code { display: block; font-size: 11px; opacity: 0.7; }

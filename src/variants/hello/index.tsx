@@ -4,7 +4,7 @@
 import { useEffect, useSyncExternalStore } from "react";
 import type { HarnessEvent } from "../../harness/events";
 import type { Keymap } from "../../harness/keymap";
-import { defineVariant, type VariantProps } from "../../harness/registry";
+import { defineVariant, type VariantProps } from "../../harness/variant";
 
 const schema = {
   size: { value: 14, min: 10, max: 32, step: 1, label: "font size" },

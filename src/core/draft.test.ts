@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { commit, editProse, insertPartialQuote, insertWholeQuote, moveBlock, proseText, redo, removeBlock, startHistory, undo } from "./draft";
+import { commit, editProse, insertPartialQuote, insertProse, insertWholeQuote, moveBlock, proseText, redo, removeBlock, startHistory, undo } from "./draft";
 import { parse } from "./grammar";
 import { id } from "./testing";
 
@@ -47,6 +47,18 @@ describe("inserting quotes", () => {
   it("keeps CRLF documents CRLF", () => {
     const md = insertPartialQuote("Intro.\r\n", 1, A, "x\ny");
     expect(md).toBe(`Intro.\r\n\r\n![[${A}]]\r\n> x\r\n>\r\n> y\r\n`);
+  });
+});
+
+describe("inserting prose", () => {
+  it("adds a paragraph at a boundary, separated from its neighbours", () => {
+    expect(insertProse("", 0, "Hello.")).toBe("Hello.\n");
+    expect(insertProse("One.\n\nTwo.\n", 1, "Between.")).toBe("One.\n\nBetween.\n\nTwo.\n");
+    expect(kinds(insertProse(`![[${A}]]\n`, 1, "After."))).toEqual(["directive", "prose"]);
+  });
+
+  it("a paragraph typed against a quote cannot turn it partial", () => {
+    expect(kinds(insertProse(`![[${A}]]\n`, 1, "> looks like a quote"))).toEqual(["directive", "prose"]);
   });
 });
 

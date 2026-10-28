@@ -1,49 +1,7 @@
-// The variant contract and the registry. A variant is a folder under
-// src/variants/ whose index.tsx default-exports `defineVariant({...})`; it is
-// found by a glob, so adding one touches nothing else.
+// The registry: every variant under src/variants/*/index.tsx, found by a glob,
+// so adding a variant touches nothing else. The contract is in variant.ts.
 
-import type { ComponentType } from "react";
-import type { Store } from "../core/store";
-import type { HarnessEvent } from "./events";
-import type { Keymap } from "./keymap";
-
-/** A knob, in the shape the harness's knobs panel takes. Variants declare knobs as plain data. */
-export type KnobSpec =
-  | { value: number; min?: number; max?: number; step?: number; label?: string }
-  | { value: boolean; label?: string }
-  | { value: string; options: readonly string[]; label?: string };
-
-export type KnobSchema = Record<string, KnobSpec>;
-
-export type KnobValues<S extends KnobSchema> = {
-  [K in keyof S]: S[K] extends { options: readonly (infer O)[] } ? O : S[K]["value"] extends number ? number : S[K]["value"] extends boolean ? boolean : string;
-};
-
-export interface VariantProps<S extends KnobSchema = KnobSchema> {
-  /** Current knob values. */
-  knobs: KnobValues<S>;
-  /** The local snapshot store: fixtures or live data, as the harness has loaded them. */
-  store: Store;
-  /** Register key bindings (Emacs notation). Remove them when the variant unmounts. */
-  keymap: Keymap;
-  /** Append to the interaction event log. */
-  emit: (event: HarnessEvent) => void;
-  /** Whether the store holds live data rather than fixtures. */
-  live: boolean;
-}
-
-export interface Variant<S extends KnobSchema = KnobSchema> {
-  id: string;
-  name: string;
-  description: string;
-  knobs: S;
-  Component: ComponentType<VariantProps<S>>;
-}
-
-/** Type-check a variant against its own knob schema, then erase the schema for the registry. */
-export function defineVariant<S extends KnobSchema>(variant: Variant<S>): Variant {
-  return variant as unknown as Variant;
-}
+import type { Variant } from "./variant";
 
 const modules = import.meta.glob<{ default: Variant }>("../variants/*/index.tsx", { eager: true });
 

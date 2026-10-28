@@ -34,6 +34,8 @@ export interface BandsProps {
   visibility: Visibility;
   /** Ids of the bands whose quote is under the pointer. */
   hovered?: ReadonlySet<string>;
+  /** Other endpoints for the same tracker to follow, such as a selection handle. */
+  extra?: readonly EndpointSpec[];
 }
 
 /** Whether a band is drawn at all, under a visibility setting. */
@@ -49,9 +51,9 @@ const Chevron = ({ at }: { at: Endpoint }) => {
   return <path d={`M ${at.x - 5} ${y + tip * -0.2} L ${at.x} ${y + tip} L ${at.x + 5} ${y + tip * -0.2}`} fill="none" stroke="currentColor" strokeWidth={1.5} />;
 };
 
-export function Bands({ tracker, bands, curvature, opacity, visibility, hovered }: BandsProps) {
+export function Bands({ tracker, bands, curvature, opacity, visibility, hovered, extra = [] }: BandsProps) {
   // Let the tracker know what to follow, after every render: the targets are looked up lazily, so a stale spec is harmless.
-  useEffect(() => tracker?.sync(bands.flatMap((band) => [band.source, band.center])));
+  useEffect(() => tracker?.sync([...bands.flatMap((band) => [band.source, band.center]), ...extra]));
   const [empty] = useState(() => new Map<string, Endpoint | null>());
   const readings = useSyncExternalStore(
     tracker?.subscribe ?? (() => () => {}),
