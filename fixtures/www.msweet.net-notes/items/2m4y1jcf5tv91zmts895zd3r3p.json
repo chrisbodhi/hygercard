@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "2m4y1jcf5tv91zmts895zd3r3p",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "138-maroon-hares",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-25T15:41:39Z",
+  "updated": "2026-10-25T15:41:39Z",
+  "version": 1,
+  "content_md": "Sutton’s law: you must always learn the Bitter Lesson, even when you take into account the Bitter Lesson.",
+  "content_html": "<p>Sutton’s law: you must always learn the Bitter Lesson, even when you take into account the Bitter Lesson.</p>",
+  "content_hash": "sha256:2616d34c979887014c0a719c75613b07255874e00b9789cd3d4628792dd8bf94",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T15:41:39Z",
+      "note": null
+    }
+  ]
+}

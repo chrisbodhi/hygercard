@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "3de9sqv82whtg5t7r2yyt7cqpw",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "132-teal-seals",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-22T16:38:26Z",
+  "updated": "2026-10-22T16:38:26Z",
+  "version": 1,
+  "content_md": "All ideologies are idiotic, but not all idiotic beliefs are ideologies. This stance may or may not be idiotic, or even ideological.",
+  "content_html": "<p>All ideologies are idiotic, but not all idiotic beliefs are ideologies. This stance may or may not be idiotic, or even ideological.</p>",
+  "content_hash": "sha256:4d1c58cacdac80d4097f23e03e9e2e8d8ea362f9676216c45cf415528c346711",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-22T16:38:26Z",
+      "note": null
+    }
+  ]
+}

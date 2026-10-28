@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "5jkynhnbp4tz5xxfvxrt1ndee4",
+  "kind": "fragment",
+  "origin": "https://bradydale.com/blyg/",
+  "page": "f/5jkynhnbp4tz5xxfvxrt1ndee4/",
+  "author": {
+    "name": "Brady Dale",
+    "url": "https://bradydale.com/"
+  },
+  "created": "2026-10-26T15:23:05Z",
+  "updated": "2026-10-26T15:23:05Z",
+  "version": 1,
+  "content_md": "These studs [trapped an antimatter particle](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/) and stared at it for a month.\n\nWhat are you doing with your life?",
+  "content_html": "<p>These studs <a href=\"https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/\">trapped an antimatter particle</a> and stared at it for a month.</p><p>What are you doing with your life?</p>",
+  "content_hash": "sha256:42e88aa0117caf281d076e88b8966a13974bfb3c5fac6699aefd97fe09daeaf3",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T15:23:05Z",
+      "note": "Fragment from openers.html"
+    }
+  ]
+}

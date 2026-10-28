@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "399bx6sp678e2tx17e7azmmtwf",
+  "kind": "fragment",
+  "origin": "https://bradydale.com/blyg/",
+  "page": "f/399bx6sp678e2tx17e7azmmtwf/",
+  "author": {
+    "name": "Brady Dale",
+    "url": "https://bradydale.com/"
+  },
+  "created": "2026-10-27T14:52:31Z",
+  "updated": "2026-10-27T14:52:31Z",
+  "version": 1,
+  "content_md": "Are there Apple stans in the Thicket? I converted pretty much whole sale, starting with my first iPhone in 2017. Now I use a MacBook. I've got HomePods and EarPods and tablets.\n\nDoes anyone else feel like the company is fraying at the edges?\n\nLastest example: I requested my Apple Music data yesterday (I want to dump it into ChatGPT to find bands I've forgotten about). Apparently a request like this **can take a week** to process. A week! For a trillion dollar company!\n\nYou can get your data off Twitter almost as soon as you request it. Just seems strange. Like the zeal to win is long gone.\n\n**IMHO:**The best thing the government could do for that company is repeal the absurd Apple tax on the iOS store. That gravy train of rent extraction is making them lazy. Addicted to recurring revenue.",
+  "content_html": "<p>Are there Apple stans in the Thicket? I converted pretty much whole sale, starting with my first iPhone in 2017. Now I use a MacBook. I've got HomePods and EarPods and tablets.</p><p>Does anyone else feel like the company is fraying at the edges? </p><p>Lastest example: I requested my Apple Music data yesterday (I want to dump it into ChatGPT to find bands I've forgotten about). Apparently a request like this <b>can take a week</b> to process. A week! For a trillion dollar company! </p><p>You can get your data off Twitter almost as soon as you request it. Just seems strange. Like the zeal to win is long gone. </p><p><b>IMHO: </b>The best thing the government could do for that company is repeal the absurd Apple tax on the iOS store. That gravy train of rent extraction is making them lazy. Addicted to recurring revenue. </p>",
+  "content_hash": "sha256:1408639c994f357842b7314344d85dbd6bae44a9ceca08a9c769cd86b3fa1bdb",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-27T14:52:31Z",
+      "note": "Fragment from openers.html"
+    }
+  ]
+}

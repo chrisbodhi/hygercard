@@ -1,0 +1,46 @@
+{
+  "blyg": "0.3",
+  "id": "3a6y3gqwrk8c6x4fz3dh096kq2",
+  "kind": "thread",
+  "origin": "https://rslantonie.com/blyg/",
+  "page": "t/3a6y3gqwrk8c6x4fz3dh096kq2/",
+  "author": {
+    "name": "Russell Antonie Pasetes",
+    "url": "https://rslantonie.com/"
+  },
+  "created": "2026-10-18T04:52:43Z",
+  "updated": "2026-10-18T05:00:29Z",
+  "version": 2,
+  "content_md": "![[0n9xjd0r362w55hvfm59wz2cxp]]\n\noh thank god for the “ignyr” directive, supressing version changes will make rapid updates way less annoying.\n\nalmost time for slopcanons to go brrrrr\n\n(also looks like reply stubs work on blyxt now LFG)",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"0n9xjd0r362w55hvfm59wz2cxp\" data-blyg-version=\"2\"><p>how can fragments retcon to threads?</p>\n<p>or rather, how can it feel less annoying to keep building things out over time?</p>\n<p>annoying in the sense of &quot;making too much <em>noise</em>&quot; that buries useful signal for others to really listen</p>\n<p>coming from a medium like twitter, mobile-native feels like a design choice worth committing to when building blyxt. but growing into more long-form over time requires working with what the protocol allows, rather than what the client restricts</p>\n<p>working with a thickety metaphor, there&#39;s more than enough room for anyone on blygger to write as messily and ferally their hearts content, and i can just clean things up later because it&#39;s all layered in with each version</p>\n<p>you can rewrite<br>you can illege</p>\n</blockquote>\n<p>oh thank god for the “ignyr” directive, supressing version changes will make rapid updates way less annoying.</p>\n<p>almost time for slopcanons to go brrrrr</p>\n<p>(also looks like reply stubs work on blyxt now LFG)</p>\n",
+  "content_hash": "sha256:344752750fbd2a7a3cde799cc6534a511fa2de2e18a30bc57de099bef91f99c9",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "0n9xjd0r362w55hvfm59wz2cxp",
+      "version": 2
+    }
+  ],
+  "stub_of": {
+    "origin": "https://rslantonie.com/blyg/",
+    "id": "0n9xjd0r362w55hvfm59wz2cxp",
+    "version": 2,
+    "cited": {
+      "url": "https://rslantonie.com/blyg/f/0n9xjd0r362w55hvfm59wz2cxp/",
+      "excerpt": "how can fragments retcon to threads? or rather, how can it feel less annoying to keep building things out over time? annoying in the sense of \"making too much noise\" that buries useful signal for othe…",
+      "retrieved": "2026-10-18T04:52:43Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-18T04:52:43Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-18T05:00:29Z",
+      "note": null
+    }
+  ]
+}

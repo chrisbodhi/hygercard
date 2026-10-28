@@ -1,0 +1,44 @@
+{
+  "blyg": "0.4",
+  "id": "35d0bnbxtq31tzbaj76x7mgq9h",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/35d0bnbxtq31tzbaj76x7mgq9h/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-09-29T02:49:42Z",
+  "updated": "2026-09-29T02:50:24Z",
+  "version": 1,
+  "content_md": "![[7k89sm5thgbfhzep7jfd58nm6m]]\n\n",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"7k89sm5thgbfhzep7jfd58nm6m\" data-blyg-version=\"2\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>Please don’t name your blyg just <em>blyg.</em> Call it something like <em>John Doe’s blyg</em> if you can’t think of a creative name. Otherwise the reading feed is very confusing. Please stub this far and wide to propagate this norm. I’ll make the reference client pick better personalized default names but I can’t control what other clients do.</p>\n\n</blockquote>\n",
+  "content_hash": "sha256:7674fc78a22292885cdedace9b146df767b2cf444a817111f29ab689fd72152b",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "7k89sm5thgbfhzep7jfd58nm6m",
+      "version": 2,
+      "origin": "https://venkateshrao.com/blyg/"
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "7k89sm5thgbfhzep7jfd58nm6m",
+    "version": 2,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Please don’t name your blyg just blyg. Call it something like John Doe’s blyg if…",
+      "url": "https://venkateshrao.com/blyg/f/7k89sm5thgbfhzep7jfd58nm6m/",
+      "retrieved": "2026-09-29T02:50:24Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-29T02:50:24Z",
+      "note": null
+    }
+  ]
+}

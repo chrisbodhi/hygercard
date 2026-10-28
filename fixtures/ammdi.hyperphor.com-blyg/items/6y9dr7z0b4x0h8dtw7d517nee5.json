@@ -1,0 +1,21 @@
+{
+  "updated": "2026-10-27T07:26:41Z",
+  "content_md": "Something unstable in it; it threatens to break out into actual war.",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-27T07:26:41Z",
+      "note": null
+    }
+  ],
+  "created": "2026-10-27T07:26:41Z",
+  "page": "f/6y9dr7z0b4x0h8dtw7d517nee5/",
+  "content_hash": "sha256:a81a9b098761c2c7480063e67d6bd16d225b83f2b980f29d77810044de5fad31",
+  "id": "6y9dr7z0b4x0h8dtw7d517nee5",
+  "kind": "fragment",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div>Something unstable in it; it threatens to break out into actual war.</div>",
+  "version": 1,
+  "media": [],
+  "blyg": "0.3"
+}

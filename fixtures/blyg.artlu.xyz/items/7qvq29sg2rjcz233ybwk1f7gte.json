@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "7qvq29sg2rjcz233ybwk1f7gte",
+  "kind": "thread",
+  "origin": "https://blyg.artlu.xyz/",
+  "page": "t/7qvq29sg2rjcz233ybwk1f7gte/",
+  "author": {
+    "name": "ultrA",
+    "url": "https://blyg.artlu.xyz/"
+  },
+  "created": "2026-10-13T23:06:12Z",
+  "updated": "2026-10-13T23:08:43Z",
+  "version": 2,
+  "content_md": "![[12cq260vtzxtggp07nxdsp33m5]]\n\n> Do I own enough Alphabet? (I don't think I do.)\n\nthere has been plenty of time to not Miss Out (yet)\n\nFD: long GOOG",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"12cq260vtzxtggp07nxdsp33m5\" data-blyg-version=\"2\" data-blyg-origin=\"https://caseyjr.org/blyg/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"18q6e6ge6yrq267pxpc8jcymwq\" data-blyg-version=\"1\">\n<p>Returning to a kitchen-table musing from last December on \"open source and the AI bubble\"</p>\n<p>Still holds up, imo, and still believe in the arguments</p>\n<p><a href=\"https://bits.caseyjr.org/will-open-source-pop-the-ai-bubble/\">https://bits.caseyjr.org/will-open-source-pop-the-ai-bubble/</a></p>\n</blockquote>\n<p>Claim: by June 19, 2027, an open-weights model will match the best closed model of December 2025.</p>\n<p>This formalizes a line from my December 19, 2025 post: that open models would deliver &quot;good-enough&quot; performance for general use within 18 months. That post gave no probability. I'm setting one now, ten months in, so read this as an October 2026 forecast with December 2025 provenance.</p>\n<p>Probability: 0.85</p>\n<p>Resolves YES if, on or before 2027-06-19, a model with downloadable weights and a license that allows commercial use scores at or above the highest-rated closed model released on or before 2025-12-19, on the LMArena text leaderboard. If LMArena is gone or no longer lists both, I'll use the Artificial Analysis Intelligence Index and say so. Resolves NO otherwise.</p>\n<p>The resolution will be a new version of this item, with evidence. Any revision before then will say what changed and why.</p>\n<p>This is a first live test of the prediction-journal shape we've been discussing in blygger-spec#10: <a href=\"https://github.com/blygger/blygger-spec/issues/10\">https://github.com/blygger/blygger-spec/issues/10</a></p>\n<pre><code class=\"language-json\">{\n  &quot;claim&quot;: &quot;An open-weights model matches the best closed model of 2025-12-19 by 2027-06-19&quot;,\n  &quot;probability&quot;: 0.85,\n  &quot;resolves_by&quot;: &quot;2027-06-19&quot;,\n  &quot;criteria&quot;: &quot;Open weights + commercial-use license; LMArena text score &gt;= top closed model released on or before 2025-12-19; fallback Artificial Analysis Intelligence Index&quot;,\n  &quot;provenance&quot;: &quot;https://bits.caseyjr.org/will-open-source-pop-the-ai-bubble/&quot;,\n  &quot;discussion&quot;: &quot;https://github.com/blygger/blygger-spec/issues/10&quot;\n}\n</code></pre>\n\n</blockquote>\n<blockquote>\n<p>Do I own enough Alphabet? (I don't think I do.)</p>\n</blockquote>\n<p>there has been plenty of time to not Miss Out (yet)</p>\n<p>FD: long GOOG</p>\n",
+  "content_hash": "sha256:2858820f39a0677551a3bf2ccc36374eeb0965ee1079d7c8f0cf0369e6e74862",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "12cq260vtzxtggp07nxdsp33m5",
+      "version": 2,
+      "origin": "https://caseyjr.org/blyg/",
+      "cited": {
+        "source": "Mike Casey's blyg",
+        "author": "Mike Casey",
+        "excerpt": "Returning to a kitchen-table musing from last December on \"open source and the A…",
+        "url": "https://caseyjr.org/blyg/t/12cq260vtzxtggp07nxdsp33m5/",
+        "retrieved": "2026-10-13T23:08:43Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://caseyjr.org/blyg/",
+    "id": "12cq260vtzxtggp07nxdsp33m5",
+    "version": 2,
+    "cited": {
+      "source": "Mike Casey's blyg",
+      "author": "Mike Casey",
+      "excerpt": "Returning to a kitchen-table musing from last December on \"open source and the A…",
+      "url": "https://caseyjr.org/blyg/t/12cq260vtzxtggp07nxdsp33m5/",
+      "retrieved": "2026-10-13T23:08:43Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-13T23:07:54Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-13T23:08:43Z",
+      "note": "financial disclosure"
+    }
+  ]
+}

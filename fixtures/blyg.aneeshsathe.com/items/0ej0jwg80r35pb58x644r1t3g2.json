@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "0ej0jwg80r35pb58x644r1t3g2",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/0ej0jwg80r35pb58x644r1t3g2/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-24T17:31:23Z",
+  "updated": "2026-10-24T17:31:49Z",
+  "version": 1,
+  "content_md": "![[34883n5h51qtjy3zc05eh67rm8]]\n\nTest webmention stub",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"34883n5h51qtjy3zc05eh67rm8\" data-blyg-version=\"1\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<p>Would someone mind stubbing this — or anything — or transcluding or whatever? In theory I have webmentions going. Just as a notification in Blynger. But I want to see if it works.</p>\n</blockquote>\n<p>Test webmention stub</p>\n",
+  "content_hash": "sha256:7ab8f713b267829016763362b406e716b894b723bc05469fc4583bf4aafa3e13",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "34883n5h51qtjy3zc05eh67rm8",
+      "version": 1,
+      "origin": "https://bradydale.com/blyg/",
+      "cited": {
+        "source": "Brady Dale's blyg",
+        "author": "Brady Dale",
+        "excerpt": "Would someone mind stubbing this — or anything — or transcluding or whatever? In…",
+        "url": "https://bradydale.com/blyg/f/34883n5h51qtjy3zc05eh67rm8/",
+        "retrieved": "2026-10-24T17:31:49Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://bradydale.com/blyg/",
+    "id": "34883n5h51qtjy3zc05eh67rm8",
+    "version": 1,
+    "cited": {
+      "source": "Brady Dale's blyg",
+      "author": "Brady Dale",
+      "excerpt": "Would someone mind stubbing this — or anything — or transcluding or whatever? In…",
+      "url": "https://bradydale.com/blyg/f/34883n5h51qtjy3zc05eh67rm8/",
+      "retrieved": "2026-10-24T17:31:49Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-24T17:31:49Z",
+      "note": null
+    }
+  ]
+}

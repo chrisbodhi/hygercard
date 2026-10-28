@@ -1,0 +1,35 @@
+{
+  "blyg": "0.4",
+  "id": "2ba4jjx71hnpatspwpa7a3kv4k",
+  "kind": "thread",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/2ba4jjx71hnpatspwpa7a3kv4k/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-10-04T02:30:32Z",
+  "updated": "2026-10-04T02:30:32Z",
+  "version": 1,
+  "content_md": "Conformance exercise for gate G10 (decision #55, blygger-studio 0.18.0): a stub of a plain web page whose `stub_of` carries the human half of the citation, checked after import on another node. The page is the living 0.3 spec.",
+  "content_html": "<p>Conformance exercise for gate G10 (decision #55, blygger-studio 0.18.0): a stub of a plain web page whose <code>stub_of</code> carries the human half of the citation, checked after import on another node. The page is the living 0.3 spec.</p>\n",
+  "content_hash": "sha256:4302ab9a76b738a06a96c4414344f064af3c0dc03f778c08893c322483d94658",
+  "media": [],
+  "transclusions": [],
+  "stub_of": {
+    "url": "https://blygger.org/spec/0.3/",
+    "cited": {
+      "source": "blygger.org",
+      "excerpt": "The Blygger Protocol — Version 0.3",
+      "url": "https://blygger.org/spec/0.3/",
+      "retrieved": "2026-10-04T02:30:32Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-04T02:30:32Z",
+      "note": null
+    }
+  ]
+}

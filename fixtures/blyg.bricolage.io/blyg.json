@@ -1,0 +1,18 @@
+{
+  "blyg": "0.4",
+  "level": 2,
+  "generator": "blygger-studio/0.48.2",
+  "generator_url": "https://github.com/blygger/blygger-studio",
+  "site": "https://blyg.bricolage.io/",
+  "title": "Kyle's blyg",
+  "author": {
+    "name": "Kyle Mathews",
+    "bio": "",
+    "links": []
+  },
+  "feed": "feed.xml",
+  "items": "items/index.json",
+  "updated": "2026-10-26T19:37:31Z",
+  "blogroll": "blogroll.opml",
+  "webmention": "webmention"
+}

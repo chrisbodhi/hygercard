@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "43w3e6edw2wd02fmd0e3gr2zff",
+  "kind": "fragment",
+  "origin": "https://blyg.thoughtfolio.xyz/",
+  "page": "f/43w3e6edw2wd02fmd0e3gr2zff/",
+  "author": {
+    "name": "",
+    "url": "https://blyg.thoughtfolio.xyz/"
+  },
+  "created": "2026-09-26T09:20:02Z",
+  "updated": "2026-09-26T09:50:06Z",
+  "version": 1,
+  "content_md": "Hello, World!",
+  "content_html": "<p>Hello, World!</p>\n",
+  "content_hash": "sha256:dffd6021bb2bd5b0af676290809ec3a53191dd81c7f70a4b28688a362182986f",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-26T09:50:06Z",
+      "note": null
+    }
+  ]
+}

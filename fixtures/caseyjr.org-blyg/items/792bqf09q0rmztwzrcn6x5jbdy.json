@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "792bqf09q0rmztwzrcn6x5jbdy",
+  "kind": "thread",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "t/792bqf09q0rmztwzrcn6x5jbdy/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-19T23:02:41Z",
+  "updated": "2026-10-19T23:06:18Z",
+  "version": 1,
+  "content_md": "![[3c0xw7pftq4t89nhyrsbhar23x]]\n\nI agree\n\n[Current](https://www.currentreader.app/) is a cool attempt at an ephemeral RSS reader that I enjoy because it doesn't feel like an inbox / homework. However, the time-sequential feed feels less appropriate for people whose interests wander widely then return to prior thoughts. ",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"3c0xw7pftq4t89nhyrsbhar23x\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<p><a href=\"https://venkateshrao.com/blyg/t/1n3w184p3y2r3p9seps20281g5/\">The thicket is a maze-like oriented space, not a graph</a></p>\n<p>A strong suspicion i have is that the RSS/feed style blyg reading might be the wrong UI. I think it needs something more <em>geographic</em> but I can't even think of what to ask the AI to build. Maps and terrains, and pixel art like interactions all feel wrong.</p>\n\n</blockquote>\n<p>I agree</p>\n<p><a href=\"https://www.currentreader.app/\">Current</a> is a cool attempt at an ephemeral RSS reader that I enjoy because it doesn't feel like an inbox / homework. However, the time-sequential feed feels less appropriate for people whose interests wander widely then return to prior thoughts.</p>\n",
+  "content_hash": "sha256:f4538e79d560a2eadaff117cd660943071ba8a4cb983f13c679c9e5457a3bdca",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "3c0xw7pftq4t89nhyrsbhar23x",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "cited": {
+        "source": "And Yet Here We Are 🚀",
+        "author": "Aneesh Sathe",
+        "excerpt": "The thicket is a maze-like oriented space, not a graph A strong suspicion i have…",
+        "url": "https://blyg.aneeshsathe.com/t/3c0xw7pftq4t89nhyrsbhar23x/",
+        "retrieved": "2026-10-19T23:06:18Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "3c0xw7pftq4t89nhyrsbhar23x",
+    "version": 1,
+    "cited": {
+      "source": "And Yet Here We Are 🚀",
+      "author": "Aneesh Sathe",
+      "excerpt": "The thicket is a maze-like oriented space, not a graph A strong suspicion i have…",
+      "url": "https://blyg.aneeshsathe.com/t/3c0xw7pftq4t89nhyrsbhar23x/",
+      "retrieved": "2026-10-19T23:06:18Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T23:06:18Z",
+      "note": null
+    }
+  ]
+}

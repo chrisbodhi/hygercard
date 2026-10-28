@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "6f1e7cdb66xz8rm4pa7arkhwxk",
+  "kind": "fragment",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "f/6f1e7cdb66xz8rm4pa7arkhwxk/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-28T06:15:04Z",
+  "updated": "2026-10-28T06:15:24Z",
+  "version": 1,
+  "content_md": "It's funny how the lazier I get, the more effective I become. 🙃",
+  "content_html": "<p>It's funny how the lazier I get, the more effective I become. 🙃</p>\n",
+  "content_hash": "sha256:814b942c3ac6bbb019f9ae794707125adfaf4b195ed0f9671f8091ebf959b775",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-28T06:15:24Z",
+      "note": null
+    }
+  ]
+}

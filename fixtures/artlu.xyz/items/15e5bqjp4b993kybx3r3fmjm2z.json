@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "15e5bqjp4b993kybx3r3fmjm2z",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/lost-in-an-idea-maze/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-11-18T01:09:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "Micropayments are not for me today, neither as a provider nor as a user.\n\nThis may change in the future (and I attempt to explore situations below).\n\n---\n\n# As a seller of content and services\n\nI do not want to sell **drips of services** to AI agents. I assume that's a cutthroat market, where other sellers will optimize and/or cheat, and race against me to the bottom. I'm not a fast cutter; I'm a lazy competitor!\n\nI do not want to sell things online, to people, for less than a dollar per transaction. Things that **sell too cheaply** trivialize the attention, the interaction, and the value provided. That's human psychology.\n\nFor transactions at less than a dollar, I'd rather just give it out freely for attention, or as a loss leader.\n\nFurthermore, there is no more fair mechanism than price, to gate against abuse. You should generally charge for valuable stuff.\n\n---\n# As a consumer of content and services\n\nI don't find x402 (a standard designed for micropayments) to provide better UX than simply sending value permissionless",
+  "content_html": "<p>Micropayments are not for me today, neither as a provider nor as a user.</p>\n<p>This may change in the future (and I attempt to explore situations below).</p>\n<hr>\n<h1 class=\"heading\">As a seller of content and services<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<p>I do not want to sell <strong>drips of services</strong> to AI agents. I assume that's a cutthroat market, where other sellers will optimize and/or cheat, and race against me to the bottom. I'm not a fast cutter; I'm a lazy competitor!</p>\n<p>I do not want to sell things online, to people, for less than a dollar per transaction. Things that <strong>sell too cheaply</strong> trivialize the attention, the interaction, and the value provided. That's human psychology.</p>\n<p>For transactions at less than a dollar, I'd rather just give it out freely for attention, or as a loss leader.</p>\n<p>Furthermore, there is no more fair mechanism than price, to gate against abuse. You should generally charge for valuable stuff.</p>\n<hr>\n<h1 class=\"heading\">As a consumer of content and services<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<p>I don't find x402 (a standard designed for micropayments) to provide better UX than simply sending value permissionless</p>",
+  "content_hash": "sha256:6e6efc7a031c9a49b0e45bd80adeef8d68379e3f55e829edfcd9fd4d34d6ce50",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-11-18T01:09:00Z",
+      "note": "Lost In An Idea Maze"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

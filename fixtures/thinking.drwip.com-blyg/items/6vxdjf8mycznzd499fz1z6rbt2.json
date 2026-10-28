@@ -1,0 +1,24 @@
+{
+  "blyg": "0.3",
+  "id": "6vxdjf8mycznzd499fz1z6rbt2",
+  "kind": "fragment",
+  "origin": "https://thinking.drwip.com/blyg/",
+  "page": "f/6vxdjf8mycznzd499fz1z6rbt2/",
+  "author": {
+    "name": "Will Abramson"
+  },
+  "created": "2026-06-25T00:00:00Z",
+  "updated": "2026-06-25T00:00:00Z",
+  "version": 1,
+  "content_md": "# Rearchitecting our Digital Work Environment\n\nReflecting on [Durable AI Adoption](https://protocolized.summerofprotocols.com/p/durable-ai-adoption) by Sachin & rafa\n\n> The cultivated track is trace-making – how an organization produces the patterns of coordination that a new medium makes possible, the equivalent of the desire lines worn across a park, the kits and practices that no central planner could have specified in advance. The governed track is trace-selection – how an organization reads those emerging patterns and decides which to reinforce into shared infrastructure and which to let fade.\n> \n> A governed track with nothing underneath it standardizes too early. It freezes a layout before new traces have formed, the way laggard manufacturers kept the line shaft. A cultivated track with no governance generates patterns endlessly but never consolidates them, accumulating risk it cannot see. It is frontier territory with no ecosystem to sustain and learn from it. The maturity ladder is really a measure of how well an organization coordinates these two tracks as the ground keeps shifting.\n\nVery eloquently put!\n\nWe are indeed rearchitecting the digital environment within which knowledge work takes place.\n\nA good reminder of the importance and the interplay between bottom up exploration and top down structure. The desire lines get worn by people moving through the space; the work is reading which paths to pave and which to let the grass grow back over.\n\nDefinitely worth checking out this thought provoking guide from Rafa and Sachin: [https://ai.protocolized.dev/#cover](https://ai.protocolized.dev/#cover).",
+  "content_html": "<h1 id=\"rearchitecting-our-digital-work-environment\">Rearchitecting our Digital Work Environment</h1>\n<p>Reflecting on <a href=\"https://protocolized.summerofprotocols.com/p/durable-ai-adoption\">Durable AI Adoption</a> by Sachin &#x26; rafa</p>\n<blockquote>\n<p>The cultivated track is trace-making – how an organization produces the patterns of coordination that a new medium makes possible, the equivalent of the desire lines worn across a park, the kits and practices that no central planner could have specified in advance. The governed track is trace-selection – how an organization reads those emerging patterns and decides which to reinforce into shared infrastructure and which to let fade.</p>\n<p>A governed track with nothing underneath it standardizes too early. It freezes a layout before new traces have formed, the way laggard manufacturers kept the line shaft. A cultivated track with no governance generates patterns endlessly but never consolidates them, accumulating risk it cannot see. It is frontier territory with no ecosystem to sustain and learn from it. The maturity ladder is really a measure of how well an organization coordinates these two tracks as the ground keeps shifting.</p>\n</blockquote>\n<p>Very eloquently put!</p>\n<p>We are indeed rearchitecting the digital environment within which knowledge work takes place.</p>\n<p>A good reminder of the importance and the interplay between bottom up exploration and top down structure. The desire lines get worn by people moving through the space; the work is reading which paths to pave and which to let the grass grow back over.</p>\n<p>Definitely worth checking out this thought provoking guide from Rafa and Sachin: <a href=\"https://ai.protocolized.dev/#cover\">https://ai.protocolized.dev/#cover</a>.</p>",
+  "media": [],
+  "content_hash": "sha256:ad4461d83ac03cc97e2ba9476a51bd914780029766b0daf28e19f3e5f36dd20f",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-06-25T00:00:00Z",
+      "note": null
+    }
+  ]
+}

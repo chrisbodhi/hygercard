@@ -1,0 +1,215 @@
+{
+  "title": "Simon Willison's Weblog",
+  "items": [
+    {
+      "blyg": "L0",
+      "id": "l0:7f577f4b01c6fc58e5ce0f31b6",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-28T13:55:15Z",
+      "updated": "2026-10-28T13:55:15Z",
+      "content_md": "[The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)\n\nI've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflect…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/28/vibe-game-development/\">The October inflection point for vibe game development</a></p><p>I&#39;ve written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we&#39;ve reached a new inflect…</p>",
+      "content_hash": "sha256:650e9cb562f20ec72cec61428d81ab652dd8452bcbc1722c41f498678f8d7c1d",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-28T13:55:15Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:2cf23206607f40daee574c462b",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-28T10:09:07Z",
+      "updated": "2026-10-28T10:09:07Z",
+      "content_md": "[Quoting Terk Terkowitz](https://simonwillison.net/2026/Oct/28/terk-terkowitz/)\n\nIf your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating t…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/28/terk-terkowitz/\">Quoting Terk Terkowitz</a></p><p>If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating t…</p>",
+      "content_hash": "sha256:d36fc068bb829d2dd648cc9121256ad32ddba46d395998c445781524a881e610",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-28T10:09:07Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:8333c89d9d7c203a0369214c26",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-27T19:34:18Z",
+      "updated": "2026-10-27T19:34:18Z",
+      "content_md": "[Game Boy Color on My Conference Badge](https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/)\n\nGame Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/\">Game Boy Color on My Conference Badge</a></p><p>Game Boy Color on My Conference Badge I&#39;m at GitHub Universe this week and, similar to last year, the conference badge is a full-blown color screen computer. I&#39;ve been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES…</p>",
+      "content_hash": "sha256:6d6482ac0ca9437d9d43bab588f92c3b4a9239adc9dee619adc5894faab0d05a",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-27T19:34:18Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:c15b1e3c66d845646c4c6440a2",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-26T23:53:07Z",
+      "updated": "2026-10-26T23:53:07Z",
+      "content_md": "[GPT-6.1 Terra](https://simonwillison.net/2026/Oct/26/gpt-61-terra/)\n\nGPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/26/gpt-61-terra/\">GPT-6.1 Terra</a></p><p>GPT-6.1 Terra It&#39;s always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra, a fast, efficient model that combines detailed…</p>",
+      "content_hash": "sha256:855a2ecd7d21f770f2e317aedf2ea09400ea93954445ec19d531085db73eef1a",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-26T23:53:07Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:de56fb996b09bd294143039165",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-26T19:00:25Z",
+      "updated": "2026-10-26T19:00:25Z",
+      "content_md": "[Quoting Jason Koebler](https://simonwillison.net/2026/Oct/26/jason-koebler/)\n\nBecause big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/26/jason-koebler/\">Quoting Jason Koebler</a></p><p>Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support…</p>",
+      "content_hash": "sha256:0eb09b512f42f82fa8e8ce92f83a4db87bad3ce1772f51f7fe329ba802f8a37c",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-26T19:00:25Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/26/jason-koebler/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:db71bb0ca35a812059311a3615",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-26T16:15:00Z",
+      "updated": "2026-10-26T16:15:00Z",
+      "content_md": "[webframe: evaluated as a scraper and a sandbox](https://simonwillison.net/2026/Oct/26/webframe-evaluation/)\n\nResearch: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard outpu…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/26/webframe-evaluation/\">webframe: evaluated as a scraper and a sandbox</a></p><p>Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you &quot;run a web page like a program&quot; - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard outpu…</p>",
+      "content_hash": "sha256:af190d4ce1949e890cd9b16ab553400dc748b925e4d9ec48fde8df48be6192c1",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-26T16:15:00Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:452814709e1615f5b494d0517f",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-25T15:10:19Z",
+      "updated": "2026-10-25T15:10:19Z",
+      "content_md": "[Seam Cutter](https://simonwillison.net/2026/Oct/25/seam-cutter/)\n\nTool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I o…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/25/seam-cutter/\">Seam Cutter</a></p><p>Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I o…</p>",
+      "content_hash": "sha256:660a2181d210b9f1caddbe8a09d303118b28200a3cc27cafaff99c40e7529b86",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-25T15:10:19Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/25/seam-cutter/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:d1879513a33727bd2922010517",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-24T03:59:57Z",
+      "updated": "2026-10-24T03:59:57Z",
+      "content_md": "[battledrones v14: Compass Rose, a four player map](https://simonwillison.net/2026/Oct/24/battledrones/)\n\nRelease: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works wi…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/24/battledrones/\">battledrones v14: Compass Rose, a four player map</a></p><p>Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here&#39;s the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works wi…</p>",
+      "content_hash": "sha256:bee3f4c5139d07dc18e85ad39e9dc275e5c2c51bfff11ab7b286985a1d1b1acf",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-24T03:59:57Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/24/battledrones/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:1560ea04dee0e58af37b6a0a1c",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-23T21:35:13Z",
+      "updated": "2026-10-23T21:35:13Z",
+      "content_md": "[Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/)\n\nTool: Quick Study Prompt to Claude Opus 5.5 High: Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolo…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/23/quick-study-painter/\">Quick Study</a></p><p>Tool: Quick Study Prompt to Claude Opus 5.5 High: Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolo…</p>",
+      "content_hash": "sha256:8a72eae9ca47d42688fa46642186f971407dbdbb7df913aeecc46190616b1650",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-23T21:35:13Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/23/quick-study-painter/"
+    },
+    {
+      "blyg": "L0",
+      "id": "l0:9e0308113d32ae3fc53655209a",
+      "kind": "fragment",
+      "origin": "https://simonwillison.net/atom/everything/",
+      "version": 1,
+      "created": "2026-10-23T19:40:54Z",
+      "updated": "2026-10-23T19:40:54Z",
+      "content_md": "[Introducing Kimi K3.1 Pro](https://simonwillison.net/2026/Oct/23/kimi-k31-pro/)\n\nIntroducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token…",
+      "content_html": "<p><a href=\"https://simonwillison.net/2026/Oct/23/kimi-k31-pro/\">Introducing Kimi K3.1 Pro</a></p><p>Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it&#39;s not yet open weights, but Moonshot promise &quot;Full model weights will be released by Nov 4, 2026&quot;. They&#39;re also offering a &quot;Highspeed&quot; version that&#39;s 2-3x faster, at twice the price (except for input token…</p>",
+      "content_hash": "sha256:aa89ec1286f6f602ecaec63854a710b5c57bf931fddac430cbf3dd7f1a0521f5",
+      "changelog": [
+        {
+          "version": 1,
+          "at": "2026-10-23T19:40:54Z",
+          "note": null
+        }
+      ],
+      "media": [],
+      "page": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+    }
+  ]
+}

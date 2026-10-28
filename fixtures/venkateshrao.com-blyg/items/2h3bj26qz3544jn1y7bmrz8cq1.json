@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "2h3bj26qz3544jn1y7bmrz8cq1",
+  "kind": "fragment",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "f/2h3bj26qz3544jn1y7bmrz8cq1/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-22T02:46:35Z",
+  "updated": "2026-10-22T02:47:06Z",
+  "version": 1,
+  "content_md": "# Fear-Glee Index Site is Live\n\nI've posted before about my idea for a \"fear glee\" index for AI, and I just whipped up a quick MVP of the index here based on people just recording their current sentiment (you can add a record every 24h). Could you take a minute to vote right now? Anonymous, and asks a couple of basic demographic questions to help weight the responses in interesting ways. [Fear-Glee Index Site](https://fearglee.protocolized.io/)",
+  "content_html": "<h1>Fear-Glee Index Site is Live</h1>\n<p>I've posted before about my idea for a &quot;fear glee&quot; index for AI, and I just whipped up a quick MVP of the index here based on people just recording their current sentiment (you can add a record every 24h). Could you take a minute to vote right now? Anonymous, and asks a couple of basic demographic questions to help weight the responses in interesting ways. <a href=\"https://fearglee.protocolized.io/\">Fear-Glee Index Site</a></p>\n",
+  "content_hash": "sha256:60d20ce66de17a0198c5ad42604ce8c508b94e2d14fd0d62a9d1df8a1a5b2d4a",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-22T02:47:06Z",
+      "note": null
+    }
+  ]
+}

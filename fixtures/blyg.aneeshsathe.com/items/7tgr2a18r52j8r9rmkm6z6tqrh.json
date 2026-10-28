@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "7tgr2a18r52j8r9rmkm6z6tqrh",
+  "kind": "fragment",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "f/7tgr2a18r52j8r9rmkm6z6tqrh/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-20T15:40:59Z",
+  "updated": "2026-10-20T15:41:35Z",
+  "version": 1,
+  "content_md": "Thickets are an internal goods",
+  "content_html": "<p>Thickets are an internal goods</p>\n",
+  "content_hash": "sha256:8dd2cba3ad57739f8d4ff4ee6321ddc611780484947d6050fb533a9925339c8d",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-20T15:41:35Z",
+      "note": null
+    }
+  ]
+}

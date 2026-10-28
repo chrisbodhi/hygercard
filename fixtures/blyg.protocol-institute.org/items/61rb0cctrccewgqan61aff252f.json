@@ -1,0 +1,30 @@
+{
+  "blyg": "0.4",
+  "id": "61rb0cctrccewgqan61aff252f",
+  "kind": "fragment",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "f/61rb0cctrccewgqan61aff252f/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-25T17:08:03Z",
+  "updated": "2026-09-25T21:13:32Z",
+  "version": 2,
+  "content_md": "# Calls to action\n\n1. [Join the SIGS](https://protocol-institute.org/sigs/)\n1. Write up your talk as a paper/essay for a Proceedings volume\n1. Join the planned November book-writing month\n1. Support [Monstrous Times]()\n1. Support PI\n1.1 Individual support\n1.1 Warm intros to sources of institutional support\n1.1 Champion for sponsored research projects\n1. Start your own protocol thing\n1.1. Seapunk\n1.1 Protocollege (Fotis)",
+  "content_html": "<h1>Calls to action</h1>\n<ol>\n<li><a href=\"https://protocol-institute.org/sigs/\">Join the SIGS</a></li>\n<li>Write up your talk as a paper/essay for a Proceedings volume</li>\n<li>Join the planned November book-writing month</li>\n<li>Support <a href=\"\">Monstrous Times</a></li>\n<li>Support PI\n1.1 Individual support\n1.1 Warm intros to sources of institutional support\n1.1 Champion for sponsored research projects</li>\n<li>Start your own protocol thing\n1.1. Seapunk\n1.1 Protocollege (Fotis)</li>\n</ol>\n",
+  "content_hash": "sha256:c8099fabcde61e57ecd337e036538ef249e7cb5eec843469f43c473f7c6d0770",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-25T17:08:03Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-09-25T21:13:32Z",
+      "note": null
+    }
+  ]
+}

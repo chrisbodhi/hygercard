@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "3kvjz7aey64he0a5hha01xn06e",
+  "kind": "fragment",
+  "origin": "https://blyg.sachinbenny.xyz/",
+  "author": {
+    "name": "Sachin Benny",
+    "url": "https://sachinbenny.xyz/"
+  },
+  "created": "2026-09-27T17:30:48Z",
+  "updated": "2026-09-27T17:30:48Z",
+  "version": 1,
+  "content_md": "Pynchon and Dickens\n\n**Dickens:** dignity meets physical accident.\n\n**Looney Tunes:** the body becomes infinitely deformable under mechanical causality.\n\n**Pynchon:** historical/technical systems acquire Looney Tunes physics.\n\n**After Pynchon:** people become spectators of their own systemic deformation.\n",
+  "content_html": "<p>Pynchon and Dickens</p>\n<p><strong>Dickens:</strong> dignity meets physical accident.</p>\n<p><strong>Looney Tunes:</strong> the body becomes infinitely deformable under mechanical causality.</p>\n<p><strong>Pynchon:</strong> historical/technical systems acquire Looney Tunes physics.</p>\n<p><strong>After Pynchon:</strong> people become spectators of their own systemic deformation.</p>",
+  "content_hash": "sha256:db1201c48ded541ccedeb391e0e6cfc7331d30bd8684365ffd05f873d696c3ff",
+  "media": [],
+  "page": "f/3kvjz7aey64he0a5hha01xn06e/",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T17:30:48Z",
+      "note": null
+    }
+  ]
+}

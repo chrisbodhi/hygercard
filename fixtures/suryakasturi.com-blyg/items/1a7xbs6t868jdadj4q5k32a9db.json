@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "1a7xbs6t868jdadj4q5k32a9db",
+  "kind": "fragment",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/1a7xbs6t868jdadj4q5k32a9db/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-25T20:41:48Z",
+  "updated": "2026-10-25T20:44:38Z",
+  "version": 1,
+  "content_md": "Makes more sense to question about the relative levels of consciousness between AI and humans, rather than simply asking if AI is conscious.",
+  "content_html": "<p>Makes more sense to question about the relative levels of consciousness between AI and humans, rather than simply asking if AI is conscious.</p>\n",
+  "content_hash": "sha256:988411dc7234237bda9dd1f20c67221306fab1408307c7e1e63932e8db3b71e0",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T20:44:38Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "blyg": "0.4",
+  "id": "4yth0dj922c7pgwqrvq5xvt5ep",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/4yth0dj922c7pgwqrvq5xvt5ep/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-19T02:23:19Z",
+  "updated": "2026-10-19T02:49:03Z",
+  "version": 1,
+  "content_md": "# Burrow 0.13.0 🦫 — named paths through the thicket\n\nThe blygger-verse has a name now: [the thicket](https://blygger.org/thicket/). I'm a little embarrassed and a little pleased… but a thicket is exactly what it feels like. Lots of small blygs growing into each other.\n\n**Paths can have signposts.** Blygger Studio 0.47 lets a link carry its own words, `[[id | like this]]`, and Burrow now writes and previews them. Pick a post with `[[` and the link arrives labelled with its title. Change the words after the `|` and the link says whatever you want it to say. Quotes take a note too, `![[id | a note]]`, but the note stays yours, private graffiti on the inside of the burrow.\n\n**You can take it back.** Edited a published post and regretted it? ⌥⌘Z puts it back to the version that's public.\n\n**You can find your own tracks.** \"Your blyg\" is now a source in Reading, sitting with everyone else's. From any of your published posts you can reply with a stub, quote it into a thread, or link to it, all with one key. You can fork it from one of your pins. It turns out most of blogging is arguing with your past self, and now that's a shortcut.\n\n**It suggests Studio 0.47.** On an older blyg everything still syncs, except posts with labelled links, which wait politely at the entrance until the blyg is updated. Burrow tells you, and offers to write those links the old, unlabelled way.\n\nAlso: smaller fixes, \n- a Fortress theme that now shows your last two weeks of posts, and \n- Windows wording from Patrick Atwater [PAtwater](https://pioneering-spirit-blyg.patrickatwater.workers.dev/), who ported Burrow to Windows. \n- A tour shows you around the new tunnels.\n\nGet it at https://github.com/aneeshsathe/blygger-desktop/releases/tag/v0.13.0, or let the app update itself. \n\nSee you in the thicket. 🍃🌱🍂🌳🪾🍄‍🟫\n",
+  "content_html": "<h1>Burrow 0.13.0 🦫 — named paths through the thicket</h1>\n<p>The blygger-verse has a name now: <a href=\"https://blygger.org/thicket/\">the thicket</a>. I'm a little embarrassed and a little pleased… but a thicket is exactly what it feels like. Lots of small blygs growing into each other.</p>\n<p><strong>Paths can have signposts.</strong> Blygger Studio 0.47 lets a link carry its own words, <code>[[id | like this]]</code>, and Burrow now writes and previews them. Pick a post with <code>[[</code> and the link arrives labelled with its title. Change the words after the <code>|</code> and the link says whatever you want it to say. Quotes take a note too, <code>![[id | a note]]</code>, but the note stays yours, private graffiti on the inside of the burrow.</p>\n<p><strong>You can take it back.</strong> Edited a published post and regretted it? ⌥⌘Z puts it back to the version that's public.</p>\n<p><strong>You can find your own tracks.</strong> &quot;Your blyg&quot; is now a source in Reading, sitting with everyone else's. From any of your published posts you can reply with a stub, quote it into a thread, or link to it, all with one key. You can fork it from one of your pins. It turns out most of blogging is arguing with your past self, and now that's a shortcut.</p>\n<p><strong>It suggests Studio 0.47.</strong> On an older blyg everything still syncs, except posts with labelled links, which wait politely at the entrance until the blyg is updated. Burrow tells you, and offers to write those links the old, unlabelled way.</p>\n<p>Also: smaller fixes,</p>\n<ul>\n<li>a Fortress theme that now shows your last two weeks of posts, and</li>\n<li>Windows wording from Patrick Atwater <a href=\"https://pioneering-spirit-blyg.patrickatwater.workers.dev/\">PAtwater</a>, who ported Burrow to Windows.</li>\n<li>A tour shows you around the new tunnels.</li>\n</ul>\n<p>Get it at <a href=\"https://github.com/aneeshsathe/blygger-desktop/releases/tag/v0.13.0\">https://github.com/aneeshsathe/blygger-desktop/releases/tag/v0.13.0</a>, or let the app update itself.</p>\n<p>See you in the thicket. 🍃🌱🍂🌳🪾🍄‍🟫</p>\n",
+  "content_hash": "sha256:306a44ff67151ac39547eae1c4675a5a6d782bd094c1440650597973378af434",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T02:49:03Z",
+      "note": null
+    }
+  ]
+}

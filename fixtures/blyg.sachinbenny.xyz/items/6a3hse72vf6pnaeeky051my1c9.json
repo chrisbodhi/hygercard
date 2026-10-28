@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "6a3hse72vf6pnaeeky051my1c9",
+  "kind": "fragment",
+  "origin": "https://blyg.sachinbenny.xyz/",
+  "author": {
+    "name": "Sachin Benny",
+    "url": "https://sachinbenny.xyz/"
+  },
+  "created": "2026-09-30T20:44:45Z",
+  "updated": "2026-09-30T20:44:45Z",
+  "version": 1,
+  "content_md": "Maker vs Manager schedule \nClaude code go brrrr vs I go brrr schedule\n",
+  "content_html": "<p>Maker vs Manager schedule \nClaude code go brrrr vs I go brrr schedule</p>",
+  "content_hash": "sha256:d2610a7f97977630711b66e49de19facbe7a1700641601d963576fd0f8eee291",
+  "media": [],
+  "page": "f/6a3hse72vf6pnaeeky051my1c9/",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-30T20:44:45Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "3sjparpv0avwp8q4wn13z81xs2",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/fear/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2023-04-21T12:00:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "<img \n    src=\"https://images.unsplash.com/photo-1447433865958-f402f562b843?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D\"\n    alt=\"Astronaut photo by NASA\"\n    height=\"350\"\n    width=\"350\"\n/>\nAstronaut photo by NASA: unsplash.com/photos/OLlj17tUZnU\n\n### Fascinating and the opposite of terrifying\n\nThis guy:\n\n- uses a VPN\n- uses a yubikey\n- disables phone 2fa on gmail\n- never entered ledger seed (which has passphrase) online\n- never stored it on any device that has connection to the internet\n- uses a separate laptop ONLY for crypto\n- uses QubesOS that only has brave and discord installed\n- uses @\\_joinfire and @DefiLlama web extensions to warn of malicious approvals\n- uses @Rabby_io 95% of the time\n\nAn amazing community response on CT, including some entertaining and good-natured (?) shitposting.\n\nDude's been open, transparent and **accountable** throughout.\n\nhttps://twitter.com/fiatphobia/status/1648714128578715650\n\n---\n\n### Pattern-Matching\n\nAs a kid in Reagan's America, I was convinced I would die of AIDS when a bully took his _ABC_ gum out of his mouth and smacked it on my lips.\n\nWe all just went through the pandemic. Huuuge relief, followed by not-so-much Hot Boy Summer. Fully vaxxed, and still wearing masks for prolonged indoor exp",
+  "content_html": "<p>\nAstronaut photo by NASA: unsplash.com/photos/OLlj17tUZnU</p>\n<h3 class=\"heading\">Fascinating and the opposite of terrifying<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<p>This guy:</p>\n<ul>\n<li>uses a VPN</li>\n<li>uses a yubikey</li>\n<li>disables phone 2fa on gmail</li>\n<li>never entered ledger seed (which has passphrase) online</li>\n<li>never stored it on any device that has connection to the internet</li>\n<li>uses a separate laptop ONLY for crypto</li>\n<li>uses QubesOS that only has brave and discord installed</li>\n<li>uses @_joinfire and @DefiLlama web extensions to warn of malicious approvals</li>\n<li>uses @Rabby_io 95% of the time</li>\n</ul>\n<p>An amazing community response on CT, including some entertaining and good-natured (?) shitposting.</p>\n<p>Dude's been open, transparent and <strong>accountable</strong> throughout.</p>\n<p><a href=\"https://twitter.com/fiatphobia/status/1648714128578715650\" rel=\"noopener noreferrer\" target=\"_blank\">https://twitter.com/fiatphobia/status/1648714128578715650</a><i class=\"iconfont icon-external-link\"></i></p>\n<hr>\n<h3 class=\"heading\">Pattern-Matching<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<p>As a kid in Reagan's America, I was convinced I would die of AIDS when a bully took his <em>ABC</em> gum out of his mouth and smacked it on my lips.</p>\n<p>We all just went through the pandemic. Huuuge relief, followed by not-so-much Hot Boy Summer. Fully vaxxed, and still wearing masks for prolonged indoor exp</p>",
+  "content_hash": "sha256:401438776a404f14e7f6dd831446a2727c04507dfb220b7ce202ddf995c32cd1",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2023-04-21T12:00:00Z",
+      "note": "The Greatest Antidote to Fear Is Competence"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

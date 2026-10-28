@@ -1,0 +1,26 @@
+{
+  "blyg": "0.4",
+  "id": "4n8w2paz92mybt0mw48am1y5v2",
+  "kind": "fragment",
+  "origin": " https://blyg.jdbb.net/",
+  "page": "f/4n8w2paz92mybt0mw48am1y5v2/",
+  "author": {
+    "name": "jenna dixon",
+    "url": " https://blyg.jdbb.net/"
+  },
+  "created": "2026-09-24T23:53:14Z",
+  "updated": "2026-09-24T23:53:14Z",
+  "version": 1,
+  "content_md": "vgr dogfooding protocols by making one in a notoriously difficult space ftw",
+  "content_html": "<p>vgr dogfooding protocols by making one in a notoriously difficult space ftw</p>\n",
+  "content_hash": "sha256:7a98a928391c15fdd46b5fac6f58de10d769ae68df6a5fa9258bca81d5b861a0",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-24T23:53:14Z",
+      "note": null,
+      "pinned": true
+    }
+  ]
+}

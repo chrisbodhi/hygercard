@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "6hxrj53833hrxq24bk5msqf4ch",
+  "kind": "fragment",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "f/6hxrj53833hrxq24bk5msqf4ch/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-21T13:23:54Z",
+  "updated": "2026-10-21T13:29:48Z",
+  "version": 1,
+  "content_md": "# Blyg Business!\n\nI’m at a leadership retreat with a client and it suddenly struck me that Blygger is actually perfect for improving business communications radically. Things like Yammer (Twitter for business) never really took off. Slack is an expensive and unnecessarily centralized lock-in solution that is now fraught with AI data risk. \n\nAn internal network of blygs is a perfect solution. It’s a decentralized, opt-in pursue network with proper tracking and accountability. It’s fully open source.\n\nThose of us who are indie consultants can offer consulting for internal comms architecture using Blygger without the conflict of interest of being software vendors trying to lock people into services.\n\nWe can discuss and develop this idea in SIGfB on the PI discord.",
+  "content_html": "<h1>Blyg Business!</h1>\n<p>I’m at a leadership retreat with a client and it suddenly struck me that Blygger is actually perfect for improving business communications radically. Things like Yammer (Twitter for business) never really took off. Slack is an expensive and unnecessarily centralized lock-in solution that is now fraught with AI data risk.</p>\n<p>An internal network of blygs is a perfect solution. It’s a decentralized, opt-in pursue network with proper tracking and accountability. It’s fully open source.</p>\n<p>Those of us who are indie consultants can offer consulting for internal comms architecture using Blygger without the conflict of interest of being software vendors trying to lock people into services.</p>\n<p>We can discuss and develop this idea in SIGfB on the PI discord.</p>\n",
+  "content_hash": "sha256:ffd9ad10ec72a48667baf34287a268e082d8052c7785fc77ba96581fc1c646e9",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T13:29:48Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "0z475jcx88crhzvy0k4wcxhgc6",
+  "kind": "fragment",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/0z475jcx88crhzvy0k4wcxhgc6/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-08T20:02:35Z",
+  "updated": "2026-10-08T20:02:36Z",
+  "version": 1,
+  "content_md": "How to establish provenance of thought? we can potentially establish provenance of the artifact at the time of its creation, and usefully but forever erroneously tease out p-categories like pangram, but is it possible for thoughts and ideas?\n",
+  "content_html": "<p>How to establish provenance of thought? we can potentially establish provenance of the artifact at the time of its creation, and usefully but forever erroneously tease out p-categories like pangram, but is it possible for thoughts and ideas?</p>\n",
+  "content_hash": "sha256:1b0d0d29c2beffafbc446ff3e90449a3c6e78866610817fff637fc783068f323",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-08T20:02:36Z",
+      "note": null
+    }
+  ]
+}

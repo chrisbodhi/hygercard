@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "0kv43nwjjx8eprs3pzcz4tax0t",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/0kv43nwjjx8eprs3pzcz4tax0t/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# SIGPfB Study Group: AI, Robotics, and Technology Adoption Patterns\n\n*Session of 4 May 2026.* Participants: rafa_0x, drevius., sachbenny, bah.eth, stevebeans., anurajenp, plague_year, timber1997.\n\nThe SIGPfB study group discussed multiple interconnected topics centered on robotics and AI adoption. The group reviewed robotics projects and discussed securing funding for hardware. A significant portion of discussion focused on understanding AI/LLM adoption patterns by drawing historical parallels to phreaking and early telephone adoption, with participants noting that rural or marginalized internet populations may be early adopters because they experience greater time constraints that LLMs can address. The conversation explored how robot design and aesthetics impact perception, and highlighted emerging possibilities for robots that can autonomously find ways to fund themselves through local services while maintaining the ability to learn and acquire new capabilities. The group reviewed several projects and resources related to machine behavior and robot autonomy.\n\n**Key points**\n\n- LLM adoption may follow patterns similar to phreaking and early telephone adoption, with rural/marginalized internet populations adopting first due to experiencing greater time gaps.\n- Unlike spatial technologies (phones, cars), LLMs are fundamentally time-related technologies, making adoption driven by those who feel time constraints most acutely.\n- There is tension in the AI space with engineers repeatedly claiming users are 'using LLMs/agents wrong,' paralleling historical technology adoption friction.\n- Robots combining autonomous task-finding with useful local services (e.g., hiring themselves as DJs, acquiring necessary equipment) represent an emerging economic model worth exploring.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2026-05-04-sigpfb-study-group-ai-robotics-and-technology-adoption) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2026-05-04-sigpfb-study-group-ai-robotics-and-technology-adoption/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>SIGPfB Study Group: AI, Robotics, and Technology Adoption Patterns</h1>\n<p><em>Session of 4 May 2026.</em> Participants: rafa_0x, drevius., sachbenny, bah.eth, stevebeans., anurajenp, plague_year, timber1997.</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB study group discussed multiple interconnected topics centered on robotics and AI adoption. The group reviewed robotics projects and discussed securing funding for hardware. A significant portion of discussion focused on understanding AI/LLM adoption patterns by drawing historical parallels to phreaking and early telephone adoption, with participants noting that rural or marginalized internet populations may be early adopters because they experience greater time constraints that LLMs can address. The conversation explored how robot design and aesthetics impact perception, and highlighted emerging possibilities for robots that can autonomously find ways to fund themselves through local services while maintaining the ability to learn and acquire new capabilities. The group reviewed several projects and resources related to machine behavior and robot autonomy.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>LLM adoption may follow patterns similar to phreaking and early telephone adoption, with rural/marginalized internet populations adopting first due to experiencing greater time gaps.</li>\n<li>Unlike spatial technologies (phones, cars), LLMs are fundamentally time-related technologies, making adoption driven by those who feel time constraints most acutely.</li>\n<li>There is tension in the AI space with engineers repeatedly claiming users are 'using LLMs/agents wrong,' paralleling historical technology adoption friction.</li>\n<li>Robots combining autonomous task-finding with useful local services (e.g., hiring themselves as DJs, acquiring necessary equipment) represent an emerging economic model worth exploring.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2026-05-04-sigpfb-study-group-ai-robotics-and-technology-adoption\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2026-05-04-sigpfb-study-group-ai-robotics-and-technology-adoption/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:93d7486eac63b536451c515780673bb6e6c5783635bf5d3c138dd257419d12a0",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

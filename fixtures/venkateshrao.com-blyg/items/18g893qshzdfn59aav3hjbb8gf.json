@@ -1,0 +1,26 @@
+{
+  "blyg": "0.4",
+  "id": "18g893qshzdfn59aav3hjbb8gf",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/18g893qshzdfn59aav3hjbb8gf/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-23T15:11:27Z",
+  "updated": "2026-10-23T15:14:09Z",
+  "version": 1,
+  "content_md": "Farcaster’s buyout by Network State is not entirely terrible since they’re only locking down the default client while leaving the protocol open. But realistically they control that too as a protectorate since they’re the ones with the money. It’s like US in NATO.\n\nFarcaster’s mistake was building a default client that had too much of a competitive edge. Bluesky made the same mistake. It’s the “you can have any color so long as it’s black” (Henry Ford apocryphal line about Model T) mistake for protocols. We should try hard to avoid that mistake with the blygger protocol. I kinda want to deliberately handicap the studio in some ways to cancel its advantage.",
+  "content_html": "<p>Farcaster’s buyout by Network State is not entirely terrible since they’re only locking down the default client while leaving the protocol open. But realistically they control that too as a protectorate since they’re the ones with the money. It’s like US in NATO.</p>\n<p>Farcaster’s mistake was building a default client that had too much of a competitive edge. Bluesky made the same mistake. It’s the “you can have any color so long as it’s black” (Henry Ford apocryphal line about Model T) mistake for protocols. We should try hard to avoid that mistake with the blygger protocol. I kinda want to deliberately handicap the studio in some ways to cancel its advantage.</p>\n",
+  "content_hash": "sha256:77cba47f823361f1172f860873413476730dc54eec22bd3deba4ec0e83857a58",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T15:14:09Z",
+      "note": null
+    }
+  ]
+}

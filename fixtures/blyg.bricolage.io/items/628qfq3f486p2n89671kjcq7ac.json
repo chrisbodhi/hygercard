@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "628qfq3f486p2n89671kjcq7ac",
+  "kind": "fragment",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "f/628qfq3f486p2n89671kjcq7ac/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-09-30T02:19:26Z",
+  "updated": "2026-09-30T02:19:26Z",
+  "version": 1,
+  "content_md": "Hilarious — Hamilton-esque. Apparently what Claude 5.5 made when asked if AI was a normal technology. https://x.com/sevdeawesome/status/2104985610012504181",
+  "content_html": "<p>Hilarious — Hamilton-esque. Apparently what Claude 5.5 made when asked if AI was a normal technology. <a href=\"https://x.com/sevdeawesome/status/2104985610012504181\">https://x.com/sevdeawesome/status/2104985610012504181</a></p>\n",
+  "content_hash": "sha256:41a25f263b5f7164aa5d413db105df87bb020b4f78d0f7dde9384cb4204254ca",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-30T02:19:26Z",
+      "note": null
+    }
+  ]
+}

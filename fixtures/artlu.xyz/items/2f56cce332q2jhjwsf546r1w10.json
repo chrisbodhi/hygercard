@@ -1,0 +1,35 @@
+{
+  "blyg": "0.3",
+  "id": "2f56cce332q2jhjwsf546r1w10",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/magical-data/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2026-02-02T23:40:00Z",
+  "updated": "2026-10-03T01:36:11Z",
+  "version": 3,
+  "content_md": "I guesstimate <100 people have played with this new tech before. (The inventor doesn't consider it ready for the HN crowd yet.)\n\nTry saving something [here](https://localmark.uk). Get that same data to show up on a totally unconnected other machine (desktop or mobile).\n\nPersonal data that's easy to get anywhere, anytime; nearly impossible to get if you are not you.\n\nNot client-server or peer-to-peer but a secret third thing.\n\nA static web site with Javascript, no backend, no database on any server. Everyone using a shared common space, but no crypto token value games.\n\nPart bandwidth, part storage, kinda both.\n\nIf you delete the data from all places where it lives, it disappears forever. But as long as one place stays connected to the internet, your data stays accessible to you immediately and forever.\n\nThe inventor is still [feverishly adding new features](https://github.com/evoluhq/evolu/commit/fdbc8349ca8a93c2d496e4ecf1c1e605deb370f6), but the interfaces are stable.\n\nDid I mention the underlying tech is [MIT Licensed](https://github.com/evoluhq/evolu?tab=MIT-1-ov-file)?\n\n---\n\n",
+  "content_html": "<p>I guesstimate &#x3C;100 people have played with this new tech before. (The inventor doesn't consider it ready for the HN crowd yet.)</p>\n<p>Try saving something <a href=\"https://localmark.uk\" rel=\"noopener noreferrer\" target=\"_blank\">here</a><i class=\"iconfont icon-external-link\"></i>. Get that same data to show up on a totally unconnected other machine (desktop or mobile).</p>\n<p>Personal data that's easy to get anywhere, anytime; nearly impossible to get if you are not you.</p>\n<p>Not client-server or peer-to-peer but a secret third thing.</p>\n<p>A static web site with Javascript, no backend, no database on any server. Everyone using a shared common space, but no crypto token value games.</p>\n<p>Part bandwidth, part storage, kinda both.</p>\n<p>If you delete the data from all places where it lives, it disappears forever. But as long as one place stays connected to the internet, your data stays accessible to you immediately and forever.</p>\n<p>The inventor is still <a href=\"https://github.com/evoluhq/evolu/commit/fdbc8349ca8a93c2d496e4ecf1c1e605deb370f6\" rel=\"noopener noreferrer\" target=\"_blank\">feverishly adding new features</a><i class=\"iconfont icon-external-link\"></i>, but the interfaces are stable.</p>\n<p>Did I mention the underlying tech is <a href=\"https://github.com/evoluhq/evolu?tab=MIT-1-ov-file\" rel=\"noopener noreferrer\" target=\"_blank\">MIT Licensed</a><i class=\"iconfont icon-external-link\"></i>?</p>\n<hr>",
+  "content_hash": "sha256:9869521a2a65cd841f2d9c5e88d99eab171a08e8e58688f7373032f456f11239",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-02-02T23:40:00Z",
+      "note": "Magical Data"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:18Z",
+      "note": "update"
+    },
+    {
+      "version": 3,
+      "at": "2026-10-03T01:36:11Z",
+      "note": "update"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "2xcn9bn5zk9nyhsz1vqjw3vh9k",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/2xcn9bn5zk9nyhsz1vqjw3vh9k/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-21T12:43:01Z",
+  "updated": "2026-10-21T12:54:53Z",
+  "version": 1,
+  "content_md": "![[2bvvpsxdq5mzmeb7r7f3s7t8n8]]\n\nThis is functional unfixedness. Functional fixedness when a thing has one purpose and it's hard to see beyond that one purpose. A hammer is for pounding nails and it's hard to see that it call also be good for cracking coconuts or skulls etc. Writing is nearly always done with a purpose in mind, especially longer form. Even on twitter, a post is a passing thought on a specific provocation (hot take) or a part of a particular thread or a reply. It's not open-ended.\n\nWhen you know revisions are part of the design as opposed to anomalous \"correction\" actions (on X, if you pay you get an hour to edit, on Notes, you can silently edit making dependent responses nonsensical), you post in ways that anticipate unknown tbd changes and incorporations in future threads.\n\nThere's no free lunch. The downside is that your blyg can sprawl into an unnavigable thicket. It's not naturally set up for \"curation\" the way a content garden is because it's open to others to mess with. This is part of another tradeoff -- I never got into content gardening because I like social interaction around content, and content gardening always seemed to me to be a bit of a showcasing paradigm. A read-only public performance of an otherwise private activity. Suitable for some things, but if you want to have a call-and-response dialectic with others, you have to give up some curatorial control.\n\nIn the case of blyg, the choice is to make that dialectic somewhat oblique, by keeping the social graph aspect at arm's length, and the focus on content nodes rather than the centering the conversation itself. I have this visual image of 2 people looking at a scene together and commenting to each other about it, but not looking at each other. Like if you're both standing on the edge of the grand canyon that's what you're looking at. \n\nIt's \"look at that!\" content rather than \"look at me!\" content, which I've always been more comfortable with. It's like pointers.",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"2bvvpsxdq5mzmeb7r7f3s7t8n8\" data-blyg-version=\"1\" data-blyg-origin=\"https://www.msweet.net/notes/\">\n<p>Can confirm. Have found myself lowering all the bars. It’s way easier to escalate from a “move” and through the intermediary stages to a Blyg. Leads to more thoughts, which means different thoughts, which means…</p>\n<blockquote><p>A Blygger archive can actually become a thicket: persistent little things growing independently, crossing, grafting onto each other, becoming substrate for later growth, without any single privileged hierarchy.</p></blockquote>\n<p class=\"source\"><a href=\"https://blyg.aneeshsathe.com/t/594r3c8n14h0f9qgqbpsvnqeqp\">How to Blyg — And Yet Here We Are 🚀 ↗</a></p>\n</blockquote>\n<p>This is functional unfixedness. Functional fixedness when a thing has one purpose and it's hard to see beyond that one purpose. A hammer is for pounding nails and it's hard to see that it call also be good for cracking coconuts or skulls etc. Writing is nearly always done with a purpose in mind, especially longer form. Even on twitter, a post is a passing thought on a specific provocation (hot take) or a part of a particular thread or a reply. It's not open-ended.</p>\n<p>When you know revisions are part of the design as opposed to anomalous &quot;correction&quot; actions (on X, if you pay you get an hour to edit, on Notes, you can silently edit making dependent responses nonsensical), you post in ways that anticipate unknown tbd changes and incorporations in future threads.</p>\n<p>There's no free lunch. The downside is that your blyg can sprawl into an unnavigable thicket. It's not naturally set up for &quot;curation&quot; the way a content garden is because it's open to others to mess with. This is part of another tradeoff -- I never got into content gardening because I like social interaction around content, and content gardening always seemed to me to be a bit of a showcasing paradigm. A read-only public performance of an otherwise private activity. Suitable for some things, but if you want to have a call-and-response dialectic with others, you have to give up some curatorial control.</p>\n<p>In the case of blyg, the choice is to make that dialectic somewhat oblique, by keeping the social graph aspect at arm's length, and the focus on content nodes rather than the centering the conversation itself. I have this visual image of 2 people looking at a scene together and commenting to each other about it, but not looking at each other. Like if you're both standing on the edge of the grand canyon that's what you're looking at.</p>\n<p>It's &quot;look at that!&quot; content rather than &quot;look at me!&quot; content, which I've always been more comfortable with. It's like pointers.</p>\n",
+  "content_hash": "sha256:90594b990c07a77de1f937b7fcc4897785c92300924b5823ec204d0f5cd4bda7",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "2bvvpsxdq5mzmeb7r7f3s7t8n8",
+      "version": 1,
+      "origin": "https://www.msweet.net/notes/",
+      "cited": {
+        "source": "Notes | Matthew McDowell-Sweet",
+        "author": "Matthew McDowell-Sweet",
+        "excerpt": "Can confirm. Have found myself lowering all the bars. It’s way easier to escalat…",
+        "url": "https://www.msweet.net/notes/923-fern-deer",
+        "retrieved": "2026-10-21T12:54:53Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://www.msweet.net/notes/",
+    "id": "2bvvpsxdq5mzmeb7r7f3s7t8n8",
+    "version": 1,
+    "cited": {
+      "source": "Notes | Matthew McDowell-Sweet",
+      "author": "Matthew McDowell-Sweet",
+      "excerpt": "Can confirm. Have found myself lowering all the bars. It’s way easier to escalat…",
+      "url": "https://www.msweet.net/notes/923-fern-deer",
+      "retrieved": "2026-10-21T12:54:53Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T12:54:53Z",
+      "note": null
+    }
+  ]
+}

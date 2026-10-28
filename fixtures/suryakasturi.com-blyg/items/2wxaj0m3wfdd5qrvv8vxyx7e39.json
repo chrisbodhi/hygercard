@@ -1,0 +1,35 @@
+{
+  "blyg": "0.4",
+  "id": "2wxaj0m3wfdd5qrvv8vxyx7e39",
+  "kind": "fragment",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/2wxaj0m3wfdd5qrvv8vxyx7e39/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-11T03:35:45Z",
+  "updated": "2026-10-11T03:43:16Z",
+  "version": 3,
+  "content_md": "All feeds have the same limitation: they incorrectly assume past behavior is indicative of future intent. They drift toward what users have done than what they are after. Present intent is much more indicative but they have no clean way for the user to say what they want right now.",
+  "content_html": "<p>All feeds have the same limitation: they incorrectly assume past behavior is indicative of future intent. They drift toward what users have done than what they are after. Present intent is much more indicative but they have no clean way for the user to say what they want right now.</p>\n",
+  "content_hash": "sha256:dbb0cb00af08a269b924de305523f5976b77251a21f847a50df3caedad450dc0",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-11T03:37:06Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-11T03:39:23Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-10-11T03:43:16Z",
+      "note": null
+    }
+  ]
+}

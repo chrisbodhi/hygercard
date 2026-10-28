@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "02ahmfdtqb83dwmx9xkqr1rcxj",
+  "kind": "thread",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "t/02ahmfdtqb83dwmx9xkqr1rcxj/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-20T12:11:55Z",
+  "updated": "2026-10-20T12:12:57Z",
+  "version": 1,
+  "content_md": "![[62kp6hq27we8b7srwp2weeskwp]]\n\nI'm thinking of paid labor (jobs), particularly for cognitive tasks. \n",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"62kp6hq27we8b7srwp2weeskwp\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"5xw1kgd0f40h1kbaybw5cezt8j\" data-blyg-version=\"1\" data-blyg-origin=\"https://caseyjr.org/blyg/\">\n<p>This is likely an unpopular thought in the thicket, but the return on a lot of labor is going to zero</p>\n\n</blockquote>\n<p>dunno what counts are labor... most my life is oriented around fun. A lot of it is difficult fun, and needs work—heck, even labor—but still fun.</p>\n\n</blockquote>\n<p>I'm thinking of paid labor (jobs), particularly for cognitive tasks.</p>\n",
+  "content_hash": "sha256:5fa5ba457c6392a0f5aea0265fcbc884fe39f5c687b3f89f7ffd29efe91e1937",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "62kp6hq27we8b7srwp2weeskwp",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "cited": {
+        "source": "And Yet Here We Are 🚀",
+        "author": "Aneesh Sathe",
+        "excerpt": "This is likely an unpopular thought in the thicket, but the return on a lot of l…",
+        "url": "https://blyg.aneeshsathe.com/t/62kp6hq27we8b7srwp2weeskwp/",
+        "retrieved": "2026-10-20T12:12:57Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "62kp6hq27we8b7srwp2weeskwp",
+    "version": 1,
+    "cited": {
+      "source": "And Yet Here We Are 🚀",
+      "author": "Aneesh Sathe",
+      "excerpt": "This is likely an unpopular thought in the thicket, but the return on a lot of l…",
+      "url": "https://blyg.aneeshsathe.com/t/62kp6hq27we8b7srwp2weeskwp/",
+      "retrieved": "2026-10-20T12:12:57Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-20T12:12:57Z",
+      "note": null
+    }
+  ]
+}

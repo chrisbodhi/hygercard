@@ -1,0 +1,43 @@
+{
+  "blyg": "0.4",
+  "id": "0jn01jp6k8qjzdw2h234qawycr",
+  "kind": "fragment",
+  "origin": " https://blyg.jdbb.net/",
+  "page": "f/0jn01jp6k8qjzdw2h234qawycr/",
+  "author": {
+    "name": "jenna dixon",
+    "url": " https://blyg.jdbb.net/"
+  },
+  "created": "2026-10-05T11:29:25Z",
+  "updated": "2026-10-05T11:33:50Z",
+  "version": 3,
+  "content_md": "Gullivers’s Travels imagined automated book machines\nhttps://www.openculture.com/2026/10/gullivers-travels-imagined-automated-machines-writing-books-and-producing-knowledge.html\n\n![](/media/y1vfsg1b.png)",
+  "content_html": "<p>Gullivers’s Travels imagined automated book machines\n<a href=\"https://www.openculture.com/2026/10/gullivers-travels-imagined-automated-machines-writing-books-and-producing-knowledge.html\">https://www.openculture.com/2026/10/gullivers-travels-imagined-automated-machines-writing-books-and-producing-knowledge.html</a></p>\n<p><img src=\"https://jd-blyg.exe.xyz/media/y1vfsg1b.png\" alt=\"\"></p>\n",
+  "content_hash": "sha256:40daf906c24bcc46c527e38fd3da7452ff756694e718f3e94efa0e16c65c97c5",
+  "media": [
+    {
+      "url": "media/y1vfsg1b.png",
+      "mime": "image/png",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-05T11:30:55Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-05T11:32:36Z",
+      "note": "Removed the second image and the repeated link at the end. The piece now has the article link followed by a single image.",
+      "generated": true
+    },
+    {
+      "version": 3,
+      "at": "2026-10-05T11:33:50Z",
+      "note": "Added a headline above the link and image, which are unchanged. The headline says Gulliver's Travels imagined automated book machines.",
+      "generated": true
+    }
+  ]
+}

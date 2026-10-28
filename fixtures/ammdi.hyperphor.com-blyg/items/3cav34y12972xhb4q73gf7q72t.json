@@ -1,0 +1,80 @@
+{
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "2dcx9q4sdm5a6q71ks30r5y392",
+    "version": 1,
+    "cited": {
+      "retrieved": "2026-10-26T06:27:20Z",
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "One of the points I’ve wanted to develop in my AI philosophy is a proper account of goals. Ironically, despite their strongly consequentialist stance, the rationalist crowd has no meaningful account o…",
+      "url": "https://venkateshrao.com/blyg/t/2dcx9q4sdm5a6q71ks30r5y392/"
+    }
+  },
+  "updated": "2026-10-26T06:27:16Z",
+  "content_md": "![[3wkm8zg952k438e3vqc86r3sq2]]\n\n![[3ab8xr37awdxexw1tk9hen1tys]]\n\n![[0pmektzw5ycshhgv5sx7hg02s6]]\n\n![[0t57ttv02zx1e75851xfbfvbcr]]\n\n![[02as8a1zqw7xw0jgdaggwq36vv]]\n\n![[5n255zpgkj4j7sm0q31fegfzkf]]\n\n![[3cfyv3gmcb1skk227ymd3ssbws]]\n\n![[0wh7e69sjr7rxywxat54sf4hqx]]\n\n![[6wdf1ch08t4vp2rm6v6yj7jerg]]\n\n![[0r87d124bvaygqwbtxex5x7mq6]]\n\n![[2dcx9q4sdm5a6q71ks30r5y392]]",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T06:27:16Z",
+      "note": null
+    }
+  ],
+  "transclusions": [
+    {
+      "id": "3wkm8zg952k438e3vqc86r3sq2",
+      "version": 1
+    },
+    {
+      "id": "3ab8xr37awdxexw1tk9hen1tys",
+      "version": 1
+    },
+    {
+      "id": "0pmektzw5ycshhgv5sx7hg02s6",
+      "version": 1
+    },
+    {
+      "id": "0t57ttv02zx1e75851xfbfvbcr",
+      "version": 1
+    },
+    {
+      "id": "02as8a1zqw7xw0jgdaggwq36vv",
+      "version": 1
+    },
+    {
+      "id": "5n255zpgkj4j7sm0q31fegfzkf",
+      "version": 1
+    },
+    {
+      "id": "3cfyv3gmcb1skk227ymd3ssbws",
+      "version": 1
+    },
+    {
+      "id": "0wh7e69sjr7rxywxat54sf4hqx",
+      "version": 1
+    },
+    {
+      "id": "6wdf1ch08t4vp2rm6v6yj7jerg",
+      "version": 1
+    },
+    {
+      "id": "0r87d124bvaygqwbtxex5x7mq6",
+      "version": 1
+    },
+    {
+      "id": "2dcx9q4sdm5a6q71ks30r5y392",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/"
+    }
+  ],
+  "created": "2026-10-26T06:27:16Z",
+  "page": "f/3cav34y12972xhb4q73gf7q72t/",
+  "content_hash": "sha256:e0b7628b5e8977430b00f9a615f0e34c0a7fca9835139f4fcd11a77a63b6c266",
+  "id": "3cav34y12972xhb4q73gf7q72t",
+  "kind": "thread",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div><div> </div><blockquote class=\"blyg-transclusion\" data-blyg-id=\"3wkm8zg952k438e3vqc86r3sq2\" data-blyg-version=\"1\"><div><blockquote>One of the points I’ve wanted to develop in my AI philosophy is a proper account of goals. Ironically, despite their strongly consequentialist stance, the rationalist crowd has no meaningful account of them and don’t seem to realize they need one for a complete theory. That’s why they find themselves resorting to thought experiments like paperclip maximizers.</blockquote></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"3ab8xr37awdxexw1tk9hen1tys\" data-blyg-version=\"1\"><div><span>Yes I agree with this 100%, I&apos;ve kind of been hammering on this point for a decade. Except it&apos;s slightly worse, they actually have an anti-theory of goals (the <a class=\"pagelink\" href=\"https://ammdi.hyperphor.com/orthogonality-thesis\">orthogonality thesis</a>) which ensures they will never have a decent theory of goal-directed behavior. See <a class=\"pagelink\" href=\"https://ammdi.hyperphor.com/LWMap∕Being-a-Robust-Agent\">LWMap/Being a Robust Agent</a> and [<a class=\"pagelink\" href=\"https://ammdi.hyperphor.com/LWMap∕Agency-Introduction\">LWMap/Agency: Introduction</a> .</span></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"0pmektzw5ycshhgv5sx7hg02s6\" data-blyg-version=\"1\"><div><blockquote>it is pretty clear that future goals emerge from current behaviors through a kind of bootstrapping from innate drives (feeding, sex, energy minimization, play).</blockquote></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"0t57ttv02zx1e75851xfbfvbcr\" data-blyg-version=\"1\"><div><span><a class=\"pagelink\" href=\"https://ammdi.hyperphor.com/psychoanalysis\">Freud</a> is out of fashion but this is mostly what he was trying to investigate (focusing on the pathologies of the process of course, because they are easier to see than the normal cases). Rationalism is pretty pathological in its denial of desire, which also probably explains why it has <a class=\"external\" href=\"https://www.verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in-berkeley-california\" target=\"_blank\">morphed into a sex cult</a> via enantiodromia.</span></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"02as8a1zqw7xw0jgdaggwq36vv\" data-blyg-version=\"1\"><div></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"5n255zpgkj4j7sm0q31fegfzkf\" data-blyg-version=\"1\"><div></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"3cfyv3gmcb1skk227ymd3ssbws\" data-blyg-version=\"1\"><div></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"0wh7e69sjr7rxywxat54sf4hqx\" data-blyg-version=\"1\"><div></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"6wdf1ch08t4vp2rm6v6yj7jerg\" data-blyg-version=\"1\"><div></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"0r87d124bvaygqwbtxex5x7mq6\" data-blyg-version=\"1\"><div></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"2dcx9q4sdm5a6q71ks30r5y392\" data-blyg-origin=\"https://venkateshrao.com/blyg/\" data-blyg-version=\"1\"><p>One of the points I’ve wanted to develop in my AI philosophy is a proper account of goals. Ironically, despite their strongly consequentialist stance, the rationalist crowd has no meaningful account of them and don’t seem to realize they need one for a complete theory. That’s why they find themselves resorting to thought experiments like paperclip maximizers. Critics attack the explicit optimization frame, but that doesn’t bother me much. Treating goal seeking in constrained optimization terms is reasonable. What’s actually ridiculous is an account of goals that’s forced to make up absurdities like paperclips because it has no idea where goals come from.</p>\n<p>The thing is, in the only examples we have of goal-directedness, the behavior of complex life that can think more than one step ahead, it is pretty clear that future goals emerge from current behaviors through a kind of bootstrapping from innate drives (feeding, sex, energy minimization, play). The ontogeny of goals involves a rich behavioral ecology. The idea of an entity going from “I think, therefore I am” to “I need to maximize paperclips” sounds absurd because it is. The phenomenology of goal emergence is much richer than that, and significantly more constrained by the path-dependent emergence process than we realize. Goals don’t emerge arbitrarily or get pursued indefinitely regardless of environmental effects and behavioral history. Our goals for today come from our behaviors and experiences yesterday. So what AIs will want in the future will be a strong function of what we ask them to do today, which is a strong function of what humans want and do. Even for AIs we let loose with minimal human-biased pretrainings in alien environments aren’t and cannot be blank slates. A protein-folding AI let loose in the mind of a Europa-exploring space probe is not a blank slates. It won’t suddenly decide to paperclip maximize.</p>\n<p>This doesn’t mean AIs can’t set and pursue goals that might be dangerous to humans. But it does mean the goals won’t be arbitrary or disconnected from the environments of evolutionary adaptation in which they evolve. There will be stories that unfold along the way, in which our own behaviors will feature meaningfully.</p>\n</blockquote></div>",
+  "version": 1,
+  "media": [],
+  "blyg": "0.3"
+}

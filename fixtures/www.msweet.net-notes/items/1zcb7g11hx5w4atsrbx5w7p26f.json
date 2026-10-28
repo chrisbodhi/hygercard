@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "1zcb7g11hx5w4atsrbx5w7p26f",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "883-slate-egrets",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-23T06:04:30Z",
+  "updated": "2026-10-23T06:04:30Z",
+  "version": 1,
+  "content_md": "Hmmm.\n\n> We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). The AAIF will provide a neutral home to the standard going forward, ensuring the community has a say in where Agent Skills go next.\n\n[Donating Agent Skills to the Agentic AI Foundation \\\\ Anthropic ↗](https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation)",
+  "content_html": "<p>Hmmm.</p>\n<blockquote><p>We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). The AAIF will provide a neutral home to the standard going forward, ensuring the community has a say in where Agent Skills go next.</p></blockquote>\n<p class=\"source\"><a href=\"https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation\">Donating Agent Skills to the Agentic AI Foundation \\ Anthropic ↗</a></p>",
+  "content_hash": "sha256:e597ff9527722ae01f7bc02f79082fe9f13e2ed2e822c1a2a1725ad1bcb166bf",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T06:04:30Z",
+      "note": null
+    }
+  ]
+}

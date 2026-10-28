@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "34x56n9q9a61fxes341s1a9bam",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/34x56n9q9a61fxes341s1a9bam/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-22T03:29:25Z",
+  "updated": "2026-10-22T03:30:27Z",
+  "version": 1,
+  "content_md": "![[2h3bj26qz3544jn1y7bmrz8cq1]]\n\nSubmitted! Note I said non tech person since I'm more a technocrat in terms of classical definitions. \n\nThis little microsite for straw polls is a cool typology. \n\n",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"2h3bj26qz3544jn1y7bmrz8cq1\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<h1>Fear-Glee Index Site is Live</h1>\n<p>I've posted before about my idea for a &quot;fear glee&quot; index for AI, and I just whipped up a quick MVP of the index here based on people just recording their current sentiment (you can add a record every 24h). Could you take a minute to vote right now? Anonymous, and asks a couple of basic demographic questions to help weight the responses in interesting ways. <a href=\"https://fearglee.protocolized.io/\">Fear-Glee Index Site</a></p>\n\n</blockquote>\n<p>Submitted! Note I said non tech person since I'm more a technocrat in terms of classical definitions.</p>\n<p>This little microsite for straw polls is a cool typology.</p>\n",
+  "content_hash": "sha256:7d7503249fd6fa2dfec8ceff7db58535e597c4941edbc570f227268422f0e091",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "2h3bj26qz3544jn1y7bmrz8cq1",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "Fear-Glee Index Site is Live I've posted before about my idea for a \"fear glee\"…",
+        "url": "https://venkateshrao.com/blyg/f/2h3bj26qz3544jn1y7bmrz8cq1/",
+        "retrieved": "2026-10-22T03:30:27Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "2h3bj26qz3544jn1y7bmrz8cq1",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Fear-Glee Index Site is Live I've posted before about my idea for a \"fear glee\"…",
+      "url": "https://venkateshrao.com/blyg/f/2h3bj26qz3544jn1y7bmrz8cq1/",
+      "retrieved": "2026-10-22T03:30:27Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-22T03:30:27Z",
+      "note": null
+    }
+  ]
+}

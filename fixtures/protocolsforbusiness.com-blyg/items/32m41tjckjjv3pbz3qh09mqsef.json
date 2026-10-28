@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "32m41tjckjjv3pbz3qh09mqsef",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/32m41tjckjjv3pbz3qh09mqsef/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# Protocols for Business: Protocol Fiction Aesthetics and AI-Native Organization\n\n*Session of 18 May 2026.* Participants: rafa_0x, _vgr, sachbenny, timber1997, drwip, tomguarriello.\n\nThe SIGPfB group discussed the etymology of business terminology and explored why certain terms may not make intuitive sense upon scrutiny. The conversation then shifted to developing better communication frameworks for their complex protocol work. A key proposal emerged around using 'terraforming' as a unifying visual metaphor to explain various organizational concepts like factories, rooms, and agent spaces in more accessible ways.\n\n**Key points**\n\n- The term 'vertical integration' may derive from physical factory architecture (steam engine shafts) rather than supply chain concepts, though Ford's mines-to-cars integration is likely the actual origin.\n- A 'terraforming' visual metaphor was proposed to unify discussions of factories, rooms, and agent spaces as a more accessible framework for explaining complex protocols.\n- Content needs to be LLM-friendly and designed for non-readers, as modern attention spans are limited to tweet-length content, though the underlying reports are substantive.\n- The group is developing a 'New Nature' branding strategy to make their work accessible to mainstream audiences, positioning technology-created AI protocols as a new layer of natural laws.\n- AI-native companies and products represent a post-adoption reality where artificial beings operate within this new technological nature, similar to conclusions from distributed AI workshops.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2026-05-18-protocols-for-business-protocol-fiction-aesthetics-and) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2026-05-18-protocols-for-business-protocol-fiction-aesthetics-and/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>Protocols for Business: Protocol Fiction Aesthetics and AI-Native Organization</h1>\n<p><em>Session of 18 May 2026.</em> Participants: rafa_0x, _vgr, sachbenny, timber1997, drwip, tomguarriello.</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB group discussed the etymology of business terminology and explored why certain terms may not make intuitive sense upon scrutiny. The conversation then shifted to developing better communication frameworks for their complex protocol work. A key proposal emerged around using 'terraforming' as a unifying visual metaphor to explain various organizational concepts like factories, rooms, and agent spaces in more accessible ways.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>The term 'vertical integration' may derive from physical factory architecture (steam engine shafts) rather than supply chain concepts, though Ford's mines-to-cars integration is likely the actual origin.</li>\n<li>A 'terraforming' visual metaphor was proposed to unify discussions of factories, rooms, and agent spaces as a more accessible framework for explaining complex protocols.</li>\n<li>Content needs to be LLM-friendly and designed for non-readers, as modern attention spans are limited to tweet-length content, though the underlying reports are substantive.</li>\n<li>The group is developing a 'New Nature' branding strategy to make their work accessible to mainstream audiences, positioning technology-created AI protocols as a new layer of natural laws.</li>\n<li>AI-native companies and products represent a post-adoption reality where artificial beings operate within this new technological nature, similar to conclusions from distributed AI workshops.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2026-05-18-protocols-for-business-protocol-fiction-aesthetics-and\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2026-05-18-protocols-for-business-protocol-fiction-aesthetics-and/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:7c34fdc0a2bd04840d2e6a3ff4bdb482fb956555baf030c9595fec7ceda9999e",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

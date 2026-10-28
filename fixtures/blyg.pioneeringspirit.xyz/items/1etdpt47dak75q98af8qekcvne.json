@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "1etdpt47dak75q98af8qekcvne",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/1etdpt47dak75q98af8qekcvne/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-24T03:08:52Z",
+  "updated": "2026-10-24T03:09:06Z",
+  "version": 1,
+  "content_md": "![[5gaytep72qsves6nj8t4ngk7tp]]\n\nHmmmmmm indeed ",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"5gaytep72qsves6nj8t4ngk7tp\" data-blyg-version=\"1\" data-blyg-origin=\"https://www.msweet.net/notes/\">\n<p>It’s handy to have a default way to signal, to yourself and others, that you think <em>something</em> about X but aren’t sure what. “Hmmm” is becoming that for me. This yields a surprising boon to the economics of noticing: it lowers the bar for what gets registered. More things snag, without a matching rise in the energy it takes to capture them.</p>\n</blockquote>\n<p>Hmmmmmm indeed</p>\n",
+  "content_hash": "sha256:8fbf87c9d0077c3d5f0b0dd1b144e5fa37ed091dc722cdb643a6f5e79246b743",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "5gaytep72qsves6nj8t4ngk7tp",
+      "version": 1,
+      "origin": "https://www.msweet.net/notes/",
+      "cited": {
+        "source": "Notes | Matthew McDowell-Sweet",
+        "author": "Matthew McDowell-Sweet",
+        "excerpt": "It’s handy to have a default way to signal, to yourself and others, that you thi…",
+        "url": "https://www.msweet.net/notes/136-coral-frogs",
+        "retrieved": "2026-10-24T03:09:06Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://www.msweet.net/notes/",
+    "id": "5gaytep72qsves6nj8t4ngk7tp",
+    "version": 1,
+    "cited": {
+      "source": "Notes | Matthew McDowell-Sweet",
+      "author": "Matthew McDowell-Sweet",
+      "excerpt": "It’s handy to have a default way to signal, to yourself and others, that you thi…",
+      "url": "https://www.msweet.net/notes/136-coral-frogs",
+      "retrieved": "2026-10-24T03:09:06Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-24T03:09:06Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "0n9xjd0r362w55hvfm59wz2cxp",
+  "kind": "fragment",
+  "origin": "https://rslantonie.com/blyg/",
+  "page": "f/0n9xjd0r362w55hvfm59wz2cxp/",
+  "author": {
+    "name": "Russell Antonie Pasetes",
+    "url": "https://rslantonie.com/"
+  },
+  "created": "2026-10-14T02:15:40Z",
+  "updated": "2026-10-14T02:42:50Z",
+  "version": 2,
+  "content_md": "how can fragments retcon to threads?\n\nor rather, how can it feel less annoying to keep building things out over time?\n\nannoying in the sense of \"making too much *noise*\" that buries useful signal for others to really listen\n\ncoming from a medium like twitter, mobile-native feels like a design choice worth committing to when building blyxt. but growing into more long-form over time requires working with what the protocol allows, rather than what the client restricts\n\nworking with a thickety metaphor, there's more than enough room for anyone on blygger to write as messily and ferally their hearts content, and i can just clean things up later because it's all layered in with each version\n\nyou can rewrite\nyou can illege",
+  "content_html": "<p>how can fragments retcon to threads?</p>\n<p>or rather, how can it feel less annoying to keep building things out over time?</p>\n<p>annoying in the sense of &quot;making too much <em>noise</em>&quot; that buries useful signal for others to really listen</p>\n<p>coming from a medium like twitter, mobile-native feels like a design choice worth committing to when building blyxt. but growing into more long-form over time requires working with what the protocol allows, rather than what the client restricts</p>\n<p>working with a thickety metaphor, there&#39;s more than enough room for anyone on blygger to write as messily and ferally their hearts content, and i can just clean things up later because it&#39;s all layered in with each version</p>\n<p>you can rewrite<br>you can illege</p>\n",
+  "content_hash": "sha256:69633d80887da5abd15fb57e4ff4855d263534741694e5127ff2ea24bbb6e49e",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-14T02:15:40Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-14T02:42:50Z",
+      "note": null
+    }
+  ]
+}

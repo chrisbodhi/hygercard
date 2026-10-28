@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "7j1d77a98bbt6vjdqp44hv88gk",
+  "kind": "fragment",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "f/7j1d77a98bbt6vjdqp44hv88gk/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-20T05:58:35Z",
+  "updated": "2026-10-20T05:58:36Z",
+  "version": 1,
+  "content_md": "# Burrow 0.13.1 🦡\n\nA small release.\n\nBlygger Studio 0.48 fixed six edge cases in how labelled links render, the [[id | text]] kind. Burrow had been reproducing those bugs on purpose, so that its preview matched what your blyg actually publishes. Now that the studio is fixed, Burrow is too:\n\n- 🌿 A label inside a generated block is escaped once, not twice.\n- 🍂 A backtick in a label no longer turns the next link on the line into plain text.\n- 🪵 A & in a labelled link inside a web address is escaped properly.\n- 🌰 A label made of ] characters can't cut a link short.\n- 🍄 Choosing a passage to quote keeps the quote's note (![[id | note]]).\n\nBurrow's preview now matches studio 0.48 byte for byte. If your blyg is still on 0.47, everything keeps working, but you may see these rare cases render differently in Burrow than on your blyg until you update.\n\nThe in-app updater will offer it, or you can download it from the releases page. 🌲",
+  "content_html": "<h1>Burrow 0.13.1 🦡</h1>\n<p>A small release.</p>\n<p>Blygger Studio 0.48 fixed six edge cases in how labelled links render, the [[id | text]] kind. Burrow had been reproducing those bugs on purpose, so that its preview matched what your blyg actually publishes. Now that the studio is fixed, Burrow is too:</p>\n<ul>\n<li>🌿 A label inside a generated block is escaped once, not twice.</li>\n<li>🍂 A backtick in a label no longer turns the next link on the line into plain text.</li>\n<li>🪵 A &amp; in a labelled link inside a web address is escaped properly.</li>\n<li>🌰 A label made of ] characters can't cut a link short.</li>\n<li>🍄 Choosing a passage to quote keeps the quote's note (![[id | note]]).</li>\n</ul>\n<p>Burrow's preview now matches studio 0.48 byte for byte. If your blyg is still on 0.47, everything keeps working, but you may see these rare cases render differently in Burrow than on your blyg until you update.</p>\n<p>The in-app updater will offer it, or you can download it from the releases page. 🌲</p>\n",
+  "content_hash": "sha256:f40c57e53f058f397d07d07519a01af381e72730bcfd6d3db608935da555d4c4",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-20T05:58:36Z",
+      "note": null
+    }
+  ]
+}

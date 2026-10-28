@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "4vw7pnp3gh7dnzqf1d520780as",
+  "kind": "fragment",
+  "origin": "https://rslantonie.com/blyg/",
+  "page": "f/4vw7pnp3gh7dnzqf1d520780as/",
+  "author": {
+    "name": "Russell Antonie Pasetes",
+    "url": "https://rslantonie.com/"
+  },
+  "created": "2026-10-10T07:00:27Z",
+  "updated": "2026-10-10T22:33:21Z",
+  "version": 2,
+  "content_md": "# Epigraph\n\n“You get surreal numbers by playing games.”\n— John Horton Conway\n\n“The last two things to leave this 🌏 will be water and music.”\n— Quincy Jones",
+  "content_html": "<h1>Epigraph</h1>\n<p>“You get surreal numbers by playing games.”<br>— John Horton Conway</p>\n<p>“The last two things to leave this 🌏 will be water and music.”<br>— Quincy Jones</p>\n",
+  "content_hash": "sha256:07f172d943319d6ad032d27c9a9944d57e15261e4729febecf9667579c0336b3",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-10T07:00:27Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-10T22:33:21Z",
+      "note": null
+    }
+  ]
+}

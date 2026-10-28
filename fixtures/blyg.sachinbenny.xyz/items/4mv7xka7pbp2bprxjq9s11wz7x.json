@@ -1,0 +1,31 @@
+{
+  "blyg": "0.3",
+  "id": "4mv7xka7pbp2bprxjq9s11wz7x",
+  "kind": "fragment",
+  "origin": "https://blyg.sachinbenny.xyz/",
+  "author": {
+    "name": "Sachin Benny",
+    "url": "https://sachinbenny.xyz/"
+  },
+  "created": "2026-10-13T03:33:33Z",
+  "updated": "2026-10-13T03:33:33Z",
+  "version": 1,
+  "content_md": "![Screenshot 2026-10-12 at 10.32.47 PM](media/a35da74c4272-Screenshot-2026-10-12-at-10.32.47-PM.png)\nwhat if your whole personality was built in a yandex data center that is not more\n",
+  "content_html": "<p><img alt=\"Screenshot 2026-10-12 at 10.32.47 PM\" src=\"https://blyg.sachinbenny.xyz/media/a35da74c4272-Screenshot-2026-10-12-at-10.32.47-PM.png\" />\nwhat if your whole personality was built in a yandex data center that is not more</p>",
+  "content_hash": "sha256:de68ed02f7f3b11f30620de63a209a7b8938d40bb76702ed44587b6511f8995f",
+  "media": [
+    {
+      "url": "media/a35da74c4272-Screenshot-2026-10-12-at-10.32.47-PM.png",
+      "mime": "image/png",
+      "alt": "Screenshot 2026-10-12 at 10.32.47 PM"
+    }
+  ],
+  "page": "f/4mv7xka7pbp2bprxjq9s11wz7x/",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-13T03:33:33Z",
+      "note": null
+    }
+  ]
+}

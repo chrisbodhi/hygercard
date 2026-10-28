@@ -1,0 +1,26 @@
+{
+  "blyg": "0.4",
+  "id": "2mdp4cvepbwtr8kj1s6wh90bde",
+  "kind": "thread",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "t/2mdp4cvepbwtr8kj1s6wh90bde/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-09T05:12:45Z",
+  "updated": "2026-10-09T05:12:59Z",
+  "version": 1,
+  "content_md": "# Human perception of relational knowledge on graphical interfaces\n\nThere’s really no good interface for humans to perceive knowledge in multi-dimensional, non-linear relationships, on 2D screens and 1D scrolls.\n\nWhen interfaces typically project graph-like knowledge on the screen, they usually default to flattening these complex, multi-dimensional structures into lists and tables. However, in doing so, they lose the “relational” and \"global\" essence that makes a graph valuable. In getting familiar with the app, users need to identify implicit relations within the application themselves.\n\nGraph-like knowledge is typically accessed by searching the node attributes. Usually, search interfaces have strong limitations on the attributes allowed in the search. Sometimes, it’s funny and indicative of this, when Google Search outperforms Twitter and Reddit on their own content.\n\nDisplaying more than one node side by side for comparison has been useful in code review and online retail. They reveal relationships, one at a time. Switching one node with another of a certain choice still relies upon the user guiding the navigation on a path they do not see.\n\nShowing breadth-first or depth-first relationships on a side panel helps as an interface for making exploration and exploitation tradeoffs. Cases like showing recommendations and similar products on a side panel.\n\nAt the block level, complex structures are projected by bullet point lists and tables. When the number of nodes is significantly larger than the number of relations, tables and nested lists work really great. But they fail as the number of relations grows from one to three and beyond.\n\nChat panels have opened a new option to pick the most relevant nodes from the tree, regardless of whether they are on the user’s current path. They are making surprises happen these days, but at the expense of imposing significantly more effort from the user in typing.\n\nIn ChatGPT-style interfaces, I’m not sure the barrier of implicit knowledge has been lowered as much as it has been displaced with new ones. (eg, now people have to figure out what prompts work, run it by a council, etc.)",
+  "content_html": "<h1>Human perception of relational knowledge on graphical interfaces</h1>\n<p>There’s really no good interface for humans to perceive knowledge in multi-dimensional, non-linear relationships, on 2D screens and 1D scrolls.</p>\n<p>When interfaces typically project graph-like knowledge on the screen, they usually default to flattening these complex, multi-dimensional structures into lists and tables. However, in doing so, they lose the “relational” and &quot;global&quot; essence that makes a graph valuable. In getting familiar with the app, users need to identify implicit relations within the application themselves.</p>\n<p>Graph-like knowledge is typically accessed by searching the node attributes. Usually, search interfaces have strong limitations on the attributes allowed in the search. Sometimes, it’s funny and indicative of this, when Google Search outperforms Twitter and Reddit on their own content.</p>\n<p>Displaying more than one node side by side for comparison has been useful in code review and online retail. They reveal relationships, one at a time. Switching one node with another of a certain choice still relies upon the user guiding the navigation on a path they do not see.</p>\n<p>Showing breadth-first or depth-first relationships on a side panel helps as an interface for making exploration and exploitation tradeoffs. Cases like showing recommendations and similar products on a side panel.</p>\n<p>At the block level, complex structures are projected by bullet point lists and tables. When the number of nodes is significantly larger than the number of relations, tables and nested lists work really great. But they fail as the number of relations grows from one to three and beyond.</p>\n<p>Chat panels have opened a new option to pick the most relevant nodes from the tree, regardless of whether they are on the user’s current path. They are making surprises happen these days, but at the expense of imposing significantly more effort from the user in typing.</p>\n<p>In ChatGPT-style interfaces, I’m not sure the barrier of implicit knowledge has been lowered as much as it has been displaced with new ones. (eg, now people have to figure out what prompts work, run it by a council, etc.)</p>\n",
+  "content_hash": "sha256:5ccb8d9e88df61d91ad2bc18efcad1ae10a50648a125500af30f08b77ac9dcf1",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-09T05:12:59Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "59xdrbcrtd3a7nc4h13m2xmysc",
+  "kind": "thread",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/59xdrbcrtd3a7nc4h13m2xmysc/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-29T01:29:43Z",
+  "updated": "2026-10-03T02:58:01Z",
+  "version": 2,
+  "content_md": "PSA\n![[7k89sm5thgbfhzep7jfd58nm6m]]\n\n",
+  "content_html": "<p>PSA</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"7k89sm5thgbfhzep7jfd58nm6m\" data-blyg-version=\"2\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>Please don’t name your blyg just <em>blyg.</em> Call it something like <em>John Doe’s blyg</em> if you can’t think of a creative name. Otherwise the reading feed is very confusing. Please stub this far and wide to propagate this norm. I’ll make the reference client pick better personalized default names but I can’t control what other clients do.</p>\n\n</blockquote>\n",
+  "content_hash": "sha256:7abbb7772cefab116727217b12a0f2debe3126fc08f4529a8056ecc08b01cef3",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "7k89sm5thgbfhzep7jfd58nm6m",
+      "version": 2,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "Please don’t name your blyg just blyg. Call it something like John Doe’s blyg if…",
+        "url": "https://venkateshrao.com/blyg/f/7k89sm5thgbfhzep7jfd58nm6m/",
+        "retrieved": "2026-10-03T02:58:01Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "7k89sm5thgbfhzep7jfd58nm6m",
+    "version": 2,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Please don’t name your blyg just blyg. Call it something like John Doe’s blyg if…",
+      "url": "https://venkateshrao.com/blyg/f/7k89sm5thgbfhzep7jfd58nm6m/",
+      "retrieved": "2026-10-03T02:58:01Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-29T01:30:05Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T02:58:01Z",
+      "note": null
+    }
+  ]
+}

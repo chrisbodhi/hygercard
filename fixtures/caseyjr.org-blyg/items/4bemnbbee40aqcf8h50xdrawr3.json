@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "4bemnbbee40aqcf8h50xdrawr3",
+  "kind": "fragment",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "f/4bemnbbee40aqcf8h50xdrawr3/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-16T00:20:00Z",
+  "updated": "2026-10-16T00:21:15Z",
+  "version": 1,
+  "content_md": "I don't know if y'all remember, but coding with Claude & ChatGPT 18 months ago was terrible\n\nYou'd use up your quota quickly\n\nSpend multiple cycles troubleshooting problems of the AI's own making\n\nTruly frustrating while also being liberating and fueling creativity\n\nThe shape of AI today is unrecognizable from that period\n\nIt's truly unbelievable how quickly you can build things in software now",
+  "content_html": "<p>I don't know if y'all remember, but coding with Claude &amp; ChatGPT 18 months ago was terrible</p>\n<p>You'd use up your quota quickly</p>\n<p>Spend multiple cycles troubleshooting problems of the AI's own making</p>\n<p>Truly frustrating while also being liberating and fueling creativity</p>\n<p>The shape of AI today is unrecognizable from that period</p>\n<p>It's truly unbelievable how quickly you can build things in software now</p>\n",
+  "content_hash": "sha256:9b9bd4d6ea674151e22689158ce7e2ad50217c1e5f0f4959b6a8b02dee9a9816",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-16T00:21:15Z",
+      "note": null
+    }
+  ]
+}

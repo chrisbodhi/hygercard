@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "4yr64fzbjqr3r1tcmzhw5drhg7",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "134-ivory-moles",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-23T14:44:27Z",
+  "updated": "2026-10-23T14:44:27Z",
+  "version": 1,
+  "content_md": "APIs are [spaces](https://aneeshsathe.com/nakatomi-drift) which agents transform into [places](https://rafael.fyi/blyg/t/4hqgvzmb3nyahj0cjfga098d4p/) via [intentional contracts](https://markburgess.org/promises.html). This is [protocolisation](https://venkatesh-rao.gitbook.io/summer-of-protocols) at its finest; [strange rules](https://simondenny.net/strange-rules-protocol-art/) are [eating the world](https://books.venkateshrao.com/breakingsmart/).",
+  "content_html": "<p>APIs are <a href=\"https://aneeshsathe.com/nakatomi-drift\">spaces</a> which agents transform into <a href=\"https://rafael.fyi/blyg/t/4hqgvzmb3nyahj0cjfga098d4p/\">places</a> via <a href=\"https://markburgess.org/promises.html\">intentional contracts</a>. This is <a href=\"https://venkatesh-rao.gitbook.io/summer-of-protocols\">protocolisation</a> at its finest; <a href=\"https://simondenny.net/strange-rules-protocol-art/\">strange rules</a> are <a href=\"https://books.venkateshrao.com/breakingsmart/\">eating the world</a>.</p>",
+  "content_hash": "sha256:0f0876a35859b0e000b613431bf410c12a2ad8b1289650e99a8aad625816db8a",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T14:44:27Z",
+      "note": null
+    }
+  ]
+}

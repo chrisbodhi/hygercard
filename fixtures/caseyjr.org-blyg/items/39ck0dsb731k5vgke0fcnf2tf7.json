@@ -1,0 +1,49 @@
+{
+  "blyg": "0.4",
+  "id": "39ck0dsb731k5vgke0fcnf2tf7",
+  "kind": "thread",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "t/39ck0dsb731k5vgke0fcnf2tf7/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-05T15:29:30Z",
+  "updated": "2026-10-05T15:29:37Z",
+  "version": 1,
+  "content_md": "![[xnnf9vt2fa7a46sr2zqtvdyrym]]\n\nthis is really cool",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"xnnf9vt2fa7a46sr2zqtvdyrym\" data-blyg-version=\"1\" data-blyg-origin=\"https://florianlohse.com/blyg/\">\n<p>For <a href=\"https://florianlohse.com/\">my personal website</a> I put together a fun tool to fine tune the front page animation, based on a video I took last summer from light playing on the surface of the Mediterranean Sea: https://florianlohse.com/water-and-shadows/</p>\n</blockquote>\n<p>this is really cool</p>\n",
+  "content_hash": "sha256:0dcc9fa5b2f26756212eeb3836f50ba7ba310faa825b625add802671cb623bff",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "xnnf9vt2fa7a46sr2zqtvdyrym",
+      "version": 1,
+      "origin": "https://florianlohse.com/blyg/",
+      "cited": {
+        "source": "florianlohse",
+        "excerpt": "For my personal website I put together a fun tool to fine tune the front page an…",
+        "url": "https://florianlohse.com/blyg/f/xnnf9vt2fa7a46sr2zqtvdyrym/",
+        "retrieved": "2026-10-05T15:29:37Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://florianlohse.com/blyg/",
+    "id": "xnnf9vt2fa7a46sr2zqtvdyrym",
+    "version": 1,
+    "cited": {
+      "source": "florianlohse",
+      "excerpt": "For my personal website I put together a fun tool to fine tune the front page an…",
+      "url": "https://florianlohse.com/blyg/f/xnnf9vt2fa7a46sr2zqtvdyrym/",
+      "retrieved": "2026-10-05T15:29:37Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-05T15:29:37Z",
+      "note": null
+    }
+  ]
+}

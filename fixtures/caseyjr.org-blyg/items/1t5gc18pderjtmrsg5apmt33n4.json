@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "1t5gc18pderjtmrsg5apmt33n4",
+  "kind": "thread",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "t/1t5gc18pderjtmrsg5apmt33n4/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-15T09:18:20Z",
+  "updated": "2026-10-15T09:18:56Z",
+  "version": 1,
+  "content_md": "Love this\n\n![[3c6rc4ye8e3e6yt954syzgj5rw]]\n\n",
+  "content_html": "<p>Love this</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"3c6rc4ye8e3e6yt954syzgj5rw\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<p>Skimming this and thought it would be useful to think about Blygger through the lens of changemaking:</p>\n<p><a href=\"https://collections.fes.de/publikationen/download/pdf/458931\">Practical Guide to Transformative Change Making</a></p>\n<div class=\"blyg-tk-gen\"><h1>From Social Media to Self-Sovereign Intermedia</h1>\n<p>The most interesting thing about Blygger is that it is not really an attempt to build a better social network. It suggests something more fundamental: that we may have mistaken the social network itself for a necessary piece of infrastructure.</p>\n<p>Over the past twenty years, social media platforms have gradually bundled together almost every function of public life online. They provide identity, publishing, discovery, distribution, conversation, social graphs, archives, and increasingly even the algorithms through which we decide what deserves our attention. This arrangement is convenient, but it creates a peculiar dependency. To participate in the network, we must inhabit somebody else’s territory. Leaving the platform means not merely changing software, but potentially abandoning an audience, an archive, a set of relationships, and a public identity.</p>\n<p>Blygger starts from a very different assumption. The basic unit of the social web need not be the platform. It can be the sovereign publication: a place that belongs to its author, connected to other such places through open protocols.</p>\n<p>This is where the framework of Transformative Change Making is useful. Its central insight is that major change rarely happens because somebody presents a superior technical solution. People operate within existing narratives about what is normal, possible, and desirable. Transformative change therefore requires both a new narrative and small, credible projects that demonstrate the alternative in practice. The guide calls these catalytic projects: concrete examples that make a larger possibility believable and create networks of trust around it.</p>\n<p>The narrative around Blygger could begin with a simple threat: we have allowed participation in public life to become synonymous with residence inside privately governed platforms. Our writing, relationships, identities, and attention increasingly exist on rented ground.</p>\n<p>The alternative is not isolation from the social web. It is a different architecture for sociality.</p>\n<p>Imagine the web as an intermedia rather than a social medium. Instead of everybody gathering inside the same container, each person maintains their own publication. Following, quoting, responding, discovering, and collaborating happen across the spaces between those publications.</p>\n<p>In a platform, the network owns the nodes. In an intermedia, the nodes own themselves and the network emerges from their relationships.</p>\n<p>Blygger is interesting precisely because it approaches this future without demanding an entirely new internet. It works with deliberately ordinary primitives: websites, files, feeds, links, quotations, and provenance. The ambition is not to construct another giant machine that everyone must join. It is to make individually owned pieces capable of forming something larger.</p>\n<p>AI potentially makes this much more plausible. Maintaining an independent website once required a certain amount of technical competence. Increasingly, that competence can be supplied locally by software. An AI assistant can configure a site, manage feeds, help with formatting, maintain archives, discover compatible publications, or construct interfaces around open protocols. The sophistication can live in the tools surrounding the sovereign node rather than in a centralized service controlling the network.</p>\n<p>That produces an important change in the psychology of decentralization.</p>\n<p>The crucial message cannot simply be: “This kind of web can be built.”</p>\n<p>It has to become: “I can do this.”</p>\n<p>I can have my own domain. I can publish something that remains mine. I can follow people without revealing my reading habits to a central platform. I can quote another writer while preserving provenance. I can participate in conversations that cross websites. And I can do these things without first becoming a system administrator or joining a movement.</p>\n<p>This corresponds to the “confidence” component of a transformative narrative. The point is not merely to convince people that an alternative future is theoretically possible, but to make their own participation in it feel possible. A transformation becomes credible when people can imagine themselves acting inside it.</p>\n<p>This is also why Blygger should probably not begin by trying to replace Twitter, Instagram, Substack, or any other platform at scale. Transformative Change Making argues that narratives become believable through catalytic projects: carefully chosen, achievable experiments whose success demonstrates that the larger idea works.</p>\n<p>For Blygger, the catalytic project might be surprisingly small.</p>\n<p>Imagine twenty writers, researchers, artists, or technologists each operating their own blyg. They follow one another, quote one another, respond across sites, maintain their own archives, and allow ideas to travel between publications. They may still syndicate outward to conventional social networks, but the canonical objects—and increasingly the relationships between them—exist outside those platforms.</p>\n<p>If such a small ecology became genuinely lively, something important would have been demonstrated.</p>\n<p>Sociality does not require social media.</p>\n<p>That realization is more consequential than creating another decentralized network. It changes the imagined default. The internet becomes a world in which people inhabit their own places while protocols allow those places to communicate.</p>\n<p>The ethical proposition follows naturally: our ability to speak publicly should not require surrendering ownership of the place from which we speak.</p>\n<p>The long-term ambition of Blygger, then, may not be decentralization at all. It may be the normalization of self-sovereignty.</p>\n<p>The Transformative Change Making framework argues that changing people’s expectations about the future can change how they understand their interests in the present.</p>\n<p>The real success of Blygger would therefore arrive when owning one’s public presence no longer feels like an eccentric technical choice.</p>\n<p>It simply feels like how the web works.</p>\n</div>\n\n</blockquote>\n",
+  "content_hash": "sha256:d97789d376bcf2522955c89be48722c35383e8adecebeb603a780149f22e5378",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "3c6rc4ye8e3e6yt954syzgj5rw",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "cited": {
+        "source": "And Yet Here We Are 🚀",
+        "author": "Aneesh Sathe",
+        "excerpt": "Skimming this and thought it would be useful to think about Blygger through the…",
+        "url": "https://blyg.aneeshsathe.com/t/3c6rc4ye8e3e6yt954syzgj5rw/",
+        "retrieved": "2026-10-15T09:18:56Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "3c6rc4ye8e3e6yt954syzgj5rw",
+    "version": 1,
+    "cited": {
+      "source": "And Yet Here We Are 🚀",
+      "author": "Aneesh Sathe",
+      "excerpt": "Skimming this and thought it would be useful to think about Blygger through the…",
+      "url": "https://blyg.aneeshsathe.com/t/3c6rc4ye8e3e6yt954syzgj5rw/",
+      "retrieved": "2026-10-15T09:18:56Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-15T09:18:56Z",
+      "note": null
+    }
+  ]
+}

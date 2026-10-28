@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "21c5gwy58n36ep2g7sjqnh8tgw",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "137-teal-crabs",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-25T12:10:56Z",
+  "updated": "2026-10-25T12:10:56Z",
+  "version": 1,
+  "content_md": "To cross the [Gramsci gap](https://open.substack.com/pub/contraptions/p/the-gramsci-gap), old rules must become the new exceptions. This holds for every agent, human or machine, and for the sociotechnical systems around them.",
+  "content_html": "<p>To cross the <a href=\"https://open.substack.com/pub/contraptions/p/the-gramsci-gap\">Gramsci gap</a>, old rules must become the new exceptions. This holds for every agent, human or machine, and for the sociotechnical systems around them.</p>",
+  "content_hash": "sha256:927bd6719b9dab8dc4aeb388d4a77599f2e9791b41d784dbf3740f3169f27e7a",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T12:10:56Z",
+      "note": null
+    }
+  ]
+}

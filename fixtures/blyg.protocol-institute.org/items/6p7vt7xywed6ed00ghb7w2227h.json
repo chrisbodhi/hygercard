@@ -1,0 +1,31 @@
+{
+  "blyg": "0.4",
+  "id": "6p7vt7xywed6ed00ghb7w2227h",
+  "kind": "fragment",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "f/6p7vt7xywed6ed00ghb7w2227h/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-25T21:21:36Z",
+  "updated": "2026-09-25T21:21:59Z",
+  "version": 1,
+  "content_md": "Photorealism in science",
+  "content_html": "<p>Photorealism in science</p>\n",
+  "content_hash": "sha256:45d6e0c566f86ab06edd25e7db0dfedc58b016759450efaecf0dd900f15e0c88",
+  "media": [
+    {
+      "url": "media/3bzhv5w2.png",
+      "mime": "image/png",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-25T21:21:59Z",
+      "note": null
+    }
+  ]
+}

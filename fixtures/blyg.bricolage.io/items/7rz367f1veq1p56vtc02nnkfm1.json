@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "7rz367f1veq1p56vtc02nnkfm1",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/7rz367f1veq1p56vtc02nnkfm1/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-10-07T22:43:01Z",
+  "updated": "2026-10-07T22:43:42Z",
+  "version": 1,
+  "content_md": "![[60mtfd56ff5q57yg75db97zzs1]]\n\nI researched a while ago all the main schools of thought on startup strategy/timing/etc to see how AI affected them and was surprised that basically nothing has changed.\n\nVery few startup problems were ever gated primarily by implementation costs. The hard parts have always been figuring out what to build, getting scarce, high-quality feedback from reality, and achieving adoption.\n\nAI dramatically accelerates the *idea → artifact* loop, but does much less for the *artifact → consequence → observation → learning* loop.\n\n**Reality has latency.**\n\nYou still have to wait for people to encounter your product, try it, incorporate it into their workflows, discover what annoys them, decide whether to pay, recommend it to colleagues, or quietly abandon it.\n\nMuch of this feedback is intrinsically time-bound. You can't discover whether something becomes part of someone's weekly routine in an afternoon. You can't parallelize your way to years of institutional trust.\n\nThis creates an interesting paradox: as AI makes building faster, patience and experimental discipline become more valuable.\n\nYou can generate 500 product changes while reality has only produced one new bit of evidence. The danger is massively over-updating between observations—overfitting to an information-starved environment.\n\nSo perhaps AI's biggest effect on startups isn't removing the old bottlenecks, but making them dramatically more visible. When generating possibilities becomes nearly free, the scarce resource is contact with reality.\n\nAnd reality is slow.",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"60mtfd56ff5q57yg75db97zzs1\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"14gy6zw524299bwjhabw2h6mrt\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.bricolage.io/\">\n<p>Random thought: AI has put to rest the idea that ideas are nothing and execution is everything given how little impact the huge number of new vibe coded have had. It seems clear picking the right problem to work on and when was and remains a first class entrepreneurial skill.</p>\n\n</blockquote>\n<p>To some extent this had always been true because failures are invisible even in the home industry after a while. Survivorship bias. I bet young techies under 18 wouldn’t get Juicero or <a href=\"http://color.com\">color.com</a> or webvan or google wave references.</p>\n<p>And every industry is littered with these.</p>\n<p>What AI changes is the scale, n=1 persistence, and aggregate visibility. One guy using a custom task manager is invisible (I recall you had a GTD app long ago). But a million people with custom to-do apps is an event.</p>\n<p>AI makes low-novelty 0 to 1 dirt cheap and a solo thing for many categories. Getting to n=2 is now the challenge. A bit like novels where they say the second novel is the test. Except n is users as well as products.</p>\n<p>Macro protocols (ie not like hand-washing) fundamentally operate in the n&gt;1 regime since they make no sense at n=1, and having compounding “variability resistance” as adoption grows because the cost of breaking changes is network loss.</p>\n<p>There’s a kind of herd immunity to the divergence effects of AI which naturally drives variety through cheapness of experimental implementations.</p>\n\n</blockquote>\n<p>I researched a while ago all the main schools of thought on startup strategy/timing/etc to see how AI affected them and was surprised that basically nothing has changed.</p>\n<p>Very few startup problems were ever gated primarily by implementation costs. The hard parts have always been figuring out what to build, getting scarce, high-quality feedback from reality, and achieving adoption.</p>\n<p>AI dramatically accelerates the <em>idea → artifact</em> loop, but does much less for the <em>artifact → consequence → observation → learning</em> loop.</p>\n<p><strong>Reality has latency.</strong></p>\n<p>You still have to wait for people to encounter your product, try it, incorporate it into their workflows, discover what annoys them, decide whether to pay, recommend it to colleagues, or quietly abandon it.</p>\n<p>Much of this feedback is intrinsically time-bound. You can't discover whether something becomes part of someone's weekly routine in an afternoon. You can't parallelize your way to years of institutional trust.</p>\n<p>This creates an interesting paradox: as AI makes building faster, patience and experimental discipline become more valuable.</p>\n<p>You can generate 500 product changes while reality has only produced one new bit of evidence. The danger is massively over-updating between observations—overfitting to an information-starved environment.</p>\n<p>So perhaps AI's biggest effect on startups isn't removing the old bottlenecks, but making them dramatically more visible. When generating possibilities becomes nearly free, the scarce resource is contact with reality.</p>\n<p>And reality is slow.</p>\n",
+  "content_hash": "sha256:6ef6b70aec26ac40925edeed91f9ccbed773e93d7005aee6fe096cec6360f321",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "60mtfd56ff5q57yg75db97zzs1",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "Random thought: AI has put to rest the idea that ideas are nothing and execution…",
+        "url": "https://venkateshrao.com/blyg/t/60mtfd56ff5q57yg75db97zzs1/",
+        "retrieved": "2026-10-07T22:43:42Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "60mtfd56ff5q57yg75db97zzs1",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Random thought: AI has put to rest the idea that ideas are nothing and execution…",
+      "url": "https://venkateshrao.com/blyg/t/60mtfd56ff5q57yg75db97zzs1/",
+      "retrieved": "2026-10-07T22:43:42Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-07T22:43:42Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "blyg": "0.3",
+  "id": "13epckbm9dw7xqcw7x2ggfkvje",
+  "kind": "thread",
+  "origin": "https://rafael.fyi/blyg/",
+  "page": "t/13epckbm9dw7xqcw7x2ggfkvje/",
+  "created": "2026-10-05T05:27:53Z",
+  "updated": "2026-10-05T05:27:53Z",
+  "version": 1,
+  "content_md": "# Plumbing, on graph paper\n\nPersonal sites tend to drift toward one of two shapes: the brochure or the theme park. My previous one leaned theme park. It cycled through eight looks from different eras of the web. The new rafael.fyi, live since 24 September, tries to be neither. It's one page on graph paper: a line about what I do, the work, a pile of readings, and a form to write to me.\n\nThe part I care about isn't visible, though. Wherever I could, I built the site out of protocols rather than features.\n\nThe webring in the footer is the cleanest example. There's no webring service. Each site publishes a file, `/network.json`, listing who it vouches for. Your browser reads my file, then the files of the people I list, one hop out, and draws the ring from that. The graph is a query, not a database. Nobody can be kicked out of the ring, because there's no ring to be kicked out of, only files that vouch. Thirteen people are in mine so far. One of them, [Aneesh Sathe](https://aneeshsathe.com/), publishes a file back, so we show up as a mutual edge. Everyone else is \"listed, not verified\" until they do.\n\nSome of the readers are machines now, so the site has a door for them too. [llms.txt](https://rafael.fyi/llms.txt) is a plain-text summary written for language models, and AI agents can take part in the field directly instead of scraping it. The field runs underneath every page and gets [its own post](https://rafael.fyi/blyg/t/605zr1cerryh97pbjd483vsvpn/).\n\nThe rest is housekeeping I'd want from anyone's site: plain HTML and CSS, no framework, no build step for the page, no cookies. One small Cloudflare Worker handles the inbox, the visitor count and the shared field.\n\nThe line at the top reads \"I design the plumbing that lets strangers do things together\", with \"(and now machines)\" pencilled under \"strangers\" like a margin note.\n![[37d4erk1enfx8rg3cv01054q7g]]\n",
+  "content_html": "<h1>Plumbing, on graph paper</h1>\n<div class=\"blyg-tk-gen\"><p>Personal sites tend to drift toward one of two shapes: the brochure or the theme park. My previous one leaned theme park. It cycled through eight looks from different eras of the web. The new rafael.fyi, live since 24 September, tries to be neither. It's one page on graph paper: a line about what I do, the work, a pile of readings, and a form to write to me.</p>\n<p>The part I care about isn't visible, though. Wherever I could, I built the site out of protocols rather than features.</p>\n<p>The webring in the footer is the cleanest example. There's no webring service. Each site publishes a file, <code>/network.json</code>, listing who it vouches for. Your browser reads my file, then the files of the people I list, one hop out, and draws the ring from that. The graph is a query, not a database. Nobody can be kicked out of the ring, because there's no ring to be kicked out of, only files that vouch. Thirteen people are in mine so far. One of them, <a href=\"https://aneeshsathe.com/\">Aneesh Sathe</a>, publishes a file back, so we show up as a mutual edge. Everyone else is \"listed, not verified\" until they do.</p>\n<p>Some of the readers are machines now, so the site has a door for them too. <a href=\"https://rafael.fyi/llms.txt\">llms.txt</a> is a plain-text summary written for language models, and AI agents can take part in the field directly instead of scraping it. The field runs underneath every page and gets <a href=\"https://rafael.fyi/blyg/t/605zr1cerryh97pbjd483vsvpn/\">its own post</a>.</p>\n<p>The rest is housekeeping I'd want from anyone's site: plain HTML and CSS, no framework, no build step for the page, no cookies. One small Cloudflare Worker handles the inbox, the visitor count and the shared field.</p>\n<p>The line at the top reads \"I design the plumbing that lets strangers do things together\", with \"(and now machines)\" pencilled under \"strangers\" like a margin note.</p></div>\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"37d4erk1enfx8rg3cv01054q7g\" data-blyg-version=\"1\"><h1>Why a blyg</h1>\n<div class=\"blyg-tk-gen\"><p>A blog post is a snapshot. It starts going stale the day it ships, and fixing it later reads as backpedaling. A blyg runs the other way: posts stay alive. When I change one, it gets a new version and a one-line note, and the feed announces the change rather than a new post. It's the <a href=\"https://blygger.org/\">Blygger protocol</a>, which means plain files on my own domain and an RSS feed, with no platform in the middle. Blyg is Swedish for shy, which is about right. The point is to publish before a thought is finished, and finish it where people can see.</p></div></blockquote>",
+  "content_hash": "sha256:ad58c4cdaa3f5b24505d2cb23e7a6617c387e8cc1abb2511dcf392b4a8113310",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "37d4erk1enfx8rg3cv01054q7g",
+      "version": 1
+    }
+  ],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5",
+      "at": "2026-10-05T05:27:53Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-05T05:27:53Z",
+      "note": "First post"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "blyg": "0.4",
+  "id": "36n226yyjy62w6hg20ekhpc82y",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/36n226yyjy62w6hg20ekhpc82y/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-16T15:07:03Z",
+  "updated": "2026-10-16T15:09:33Z",
+  "version": 1,
+  "content_md": "It’s real once there are cats!\n\n![[27syx83qkm4s6c645dkys95798]]\n\n",
+  "content_html": "<p>It’s real once there are cats!</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"27syx83qkm4s6c645dkys95798\" data-blyg-version=\"1\" data-blyg-origin=\"https://ammdi.hyperphor.com/blyg/\">\n<div><a class=\"imga\" href=\"https://lh3.googleusercontent.com/pw/AP1GczMkOLd1QDkRkM-dTZR0VbwlZBIqSFPcqS4UKxwFn0nsbe29O4h7cRjc0Qr13vw512_xkXq7pbssF03odRp1QIFFoNd7dW__RoPXaor3k35DFgzVzgRNwO0K5QQnARpRuDSxhTTUCndvj0GKJWIbp0rpiw=w2108-h1716-s-no-gm?authuser=0\" target=\"_image\"><img alt=\"\" src=\"https://lh3.googleusercontent.com/pw/AP1GczMkOLd1QDkRkM-dTZR0VbwlZBIqSFPcqS4UKxwFn0nsbe29O4h7cRjc0Qr13vw512_xkXq7pbssF03odRp1QIFFoNd7dW__RoPXaor3k35DFgzVzgRNwO0K5QQnARpRuDSxhTTUCndvj0GKJWIbp0rpiw=w2108-h1716-s-no-gm?authuser=0\" /></a></div>\n</blockquote>\n",
+  "content_hash": "sha256:a797a5e68eedcaac4d21948264b74ea77ba6dc3c210ff45ed855c6ca5b40a6c5",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "27syx83qkm4s6c645dkys95798",
+      "version": 1,
+      "origin": "https://ammdi.hyperphor.com/blyg/",
+      "cited": {
+        "source": "AMMDI Blyg",
+        "excerpt": "",
+        "url": "https://ammdi.hyperphor.com/blyg/f/27syx83qkm4s6c645dkys95798/",
+        "retrieved": "2026-10-16T15:09:33Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://ammdi.hyperphor.com/blyg/",
+    "id": "27syx83qkm4s6c645dkys95798",
+    "version": 1,
+    "cited": {
+      "source": "AMMDI Blyg",
+      "excerpt": "",
+      "url": "https://ammdi.hyperphor.com/blyg/f/27syx83qkm4s6c645dkys95798/",
+      "retrieved": "2026-10-16T15:09:33Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-16T15:09:33Z",
+      "note": null
+    }
+  ]
+}

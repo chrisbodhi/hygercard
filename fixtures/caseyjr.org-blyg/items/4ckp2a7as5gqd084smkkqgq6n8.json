@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "4ckp2a7as5gqd084smkkqgq6n8",
+  "kind": "thread",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "t/4ckp2a7as5gqd084smkkqgq6n8/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-20T12:10:11Z",
+  "updated": "2026-10-20T12:11:04Z",
+  "version": 1,
+  "content_md": "![[3ad1aq0b3vnzesezw8vp00fbbc]]\n\nSee also Toynbee's 'withdrawal-and-return' in *A Study of History*",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"3ad1aq0b3vnzesezw8vp00fbbc\" data-blyg-version=\"1\" data-blyg-origin=\"https://www.msweet.net/notes/\">\n<p>Winston Churchill had this notion of “wilderness years,” where a politician is out of power and irrelevant but nevertheless survives, grapples with fundamental questions, and emerges on a larger stage than before. Involutionary productivity feels like “wildless” years, in a way.</p>\n<blockquote><p>Involutionary productivity is being highly productive while mostly being a reclusive shut-in in your pajamas on a couch with an iPad. The basic presumption among older GenX and Boomer pearl-clutching analysts as well as some anxious younger people, that involution (hikkikomori, laying flat, quiet quitting…) is necessarily synonymous with low productivity or economic dropping-out is false.</p></blockquote>\n<p class=\"source\"><a href=\"https://venkateshrao.com/blyg/t/6mtq16hvnwaqfj28ywgk94qygz\">Involutionary Productivity… ↗</a></p>\n</blockquote>\n<p>See also Toynbee's 'withdrawal-and-return' in <em>A Study of History</em></p>\n",
+  "content_hash": "sha256:84bb802eb38015c608c6669806a7ebcba23bb4433e85ac039a284de70e20e892",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "3ad1aq0b3vnzesezw8vp00fbbc",
+      "version": 1,
+      "origin": "https://www.msweet.net/notes/",
+      "cited": {
+        "source": "Notes | Matthew McDowell-Sweet",
+        "author": "Matthew McDowell-Sweet",
+        "excerpt": "Winston Churchill had this notion of “wilderness years,” where a politician is o…",
+        "url": "https://www.msweet.net/notes/953-ash-snipes",
+        "retrieved": "2026-10-20T12:11:04Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://www.msweet.net/notes/",
+    "id": "3ad1aq0b3vnzesezw8vp00fbbc",
+    "version": 1,
+    "cited": {
+      "source": "Notes | Matthew McDowell-Sweet",
+      "author": "Matthew McDowell-Sweet",
+      "excerpt": "Winston Churchill had this notion of “wilderness years,” where a politician is o…",
+      "url": "https://www.msweet.net/notes/953-ash-snipes",
+      "retrieved": "2026-10-20T12:11:04Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-20T12:11:04Z",
+      "note": null
+    }
+  ]
+}

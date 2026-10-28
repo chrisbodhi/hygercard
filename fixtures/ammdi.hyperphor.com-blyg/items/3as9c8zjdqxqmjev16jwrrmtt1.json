@@ -1,0 +1,21 @@
+{
+  "updated": "2026-10-24T17:21:20Z",
+  "content_md": "Big infra repair project in [Pacifica](https://ammdi.hyperphor.com/Pacifica)",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-24T17:21:20Z",
+      "note": null
+    }
+  ],
+  "created": "2026-10-24T17:21:20Z",
+  "page": "f/3as9c8zjdqxqmjev16jwrrmtt1/",
+  "content_hash": "sha256:f51d21b2135986ceef50223061347d9d8d6d91ced34cc559cf5c313c2c38ee13",
+  "id": "3as9c8zjdqxqmjev16jwrrmtt1",
+  "kind": "fragment",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div><span><iframe allow=\"accelerometer; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/V3B39PLzDX4?autoplay=0\" width=\"560\"></iframe>  Big infra repair project in <a class=\"pagelink\" href=\"https://ammdi.hyperphor.com/Pacifica\">Pacifica</a></span></div>",
+  "version": 1,
+  "media": [],
+  "blyg": "0.3"
+}

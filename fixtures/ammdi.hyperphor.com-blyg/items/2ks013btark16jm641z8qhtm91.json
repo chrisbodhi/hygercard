@@ -1,0 +1,21 @@
+{
+  "updated": "2026-10-23T05:34:37Z",
+  "content_md": "The use of TODO lists and similar tools  means we are all like the Memento guy, desperately trying to get a message to a future version of ourself.",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T05:34:37Z",
+      "note": null
+    }
+  ],
+  "created": "2026-10-23T05:34:37Z",
+  "page": "f/2ks013btark16jm641z8qhtm91/",
+  "content_hash": "sha256:52ebca4d38ed60a457ae5c71a3e58609a489c0c53db42f7631bf7b13a4a74960",
+  "id": "2ks013btark16jm641z8qhtm91",
+  "kind": "fragment",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div><span>The use of TODO lists and similar tools  means we are all like the <i>Memento</i> guy, desperately trying to get a message to a future version of ourself. </span></div>",
+  "version": 1,
+  "media": [],
+  "blyg": "0.3"
+}

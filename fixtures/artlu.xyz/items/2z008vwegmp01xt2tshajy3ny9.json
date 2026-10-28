@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "2z008vwegmp01xt2tshajy3ny9",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/one-outcome-six-approaches/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2026-03-11T15:14:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "HowTo: *monitor my 3 Gmail's, 1 Outlook, and 2 Proton email accounts for actionable items*\n\nPain Point: *I just can't keep up. Would be nice if a robot would help me. Maybe I'd pay $5 to Just Do It For Me. Imagine \\$x x N users = \\$quadrillion\\$\\$\\$ in TAM via productivity gains unlocked by AI*\n\n### American Approach 1 - Apple Mail\n\n- always there, syncs seamlessly across devices\n- better than good enough privacy, as Mossad appears to try other approaches rather than hacking it directly\n- don't sell actual AI solutions, sell Mac Mini's!\n\n### Global Tech Approach 2 - OpenClaw\n\n- give it all the signins and skills. yolo\n- chat with it. maybe get a funny story, like that woman who works for Meta AI who shouted STOP in Telegram then sprinted over to unplug her Mac Mini. Good times\n\n### Chinese Approach 3 - Claude Code + general IMAP MCP\n\n- written fast and lean by some Chinese guy\n- handles everything\n- 1000 stars on Github, enough to get recommended by LLMs\n\n### Turkish Approach 4 - Claude Code + specialized MCPs for each provider\n\n- maybe 19 stars each",
+  "content_html": "<p>HowTo: <em>monitor my 3 Gmail's, 1 Outlook, and 2 Proton email accounts for actionable items</em></p>\n<p>Pain Point: <em>I just can't keep up. Would be nice if a robot would help me. Maybe I'd pay $5 to Just Do It For Me. Imagine $x x N users = $quadrillion$$$ in TAM via productivity gains unlocked by AI</em></p>\n<h3 class=\"heading\">American Approach 1 - Apple Mail<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<ul>\n<li>always there, syncs seamlessly across devices</li>\n<li>better than good enough privacy, as Mossad appears to try other approaches rather than hacking it directly</li>\n<li>don't sell actual AI solutions, sell Mac Mini's!</li>\n</ul>\n<h3 class=\"heading\">Global Tech Approach 2 - OpenClaw<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<ul>\n<li>give it all the signins and skills. yolo</li>\n<li>chat with it. maybe get a funny story, like that woman who works for Meta AI who shouted STOP in Telegram then sprinted over to unplug her Mac Mini. Good times</li>\n</ul>\n<h3 class=\"heading\">Chinese Approach 3 - Claude Code + general IMAP MCP<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<ul>\n<li>written fast and lean by some Chinese guy</li>\n<li>handles everything</li>\n<li>1000 stars on Github, enough to get recommended by LLMs</li>\n</ul>\n<h3 class=\"heading\">Turkish Approach 4 - Claude Code + specialized MCPs for each provider<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<ul>\n<li>maybe 19 stars each</li>\n</ul>",
+  "content_hash": "sha256:cf3ffb0ce43a6eb9b1229924fbf019d3710e8602a0f2e3d4c038eb5a641fc40a",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-03-11T15:14:00Z",
+      "note": "One Outcome, Six Approaches"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

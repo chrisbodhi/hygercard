@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "44ba0n728avrwf69dbkkmxj389",
+  "kind": "fragment",
+  "origin": "https://rslantonie.com/blyg/",
+  "page": "f/44ba0n728avrwf69dbkkmxj389/",
+  "author": {
+    "name": "Russell Antonie Pasetes",
+    "url": "https://rslantonie.com/"
+  },
+  "created": "2026-10-24T03:08:45Z",
+  "updated": "2026-10-24T03:08:45Z",
+  "version": 1,
+  "content_md": "Feeling a bit pigeonholed this past week on how to move forward with my blyg, especially with the 0.4 changes. As I’m starting to feel the limitations of my mobile client, noticing my energy sapping toward extending blyxt further when I’d rather direct my attention toward capturing more complex thoughts that the medium of Blygger affords.\n\nFeel like a way forward can come from starting with fresh context in a Claude Code session and fork Burrow to build a desktop client that’s compatible with Blyxt somehow. Idrc if there’s an impedance mismatch, think the importance comes with using Burrow to immerse myself in the ecosystem proper, rather than just doing my own thing in the corner, blissfully unaware of the shifting environment.",
+  "content_html": "<p>Feeling a bit pigeonholed this past week on how to move forward with my blyg, especially with the 0.4 changes. As I’m starting to feel the limitations of my mobile client, noticing my energy sapping toward extending blyxt further when I’d rather direct my attention toward capturing more complex thoughts that the medium of Blygger affords.</p>\n<p>Feel like a way forward can come from starting with fresh context in a Claude Code session and fork Burrow to build a desktop client that’s compatible with Blyxt somehow. Idrc if there’s an impedance mismatch, think the importance comes with using Burrow to immerse myself in the ecosystem proper, rather than just doing my own thing in the corner, blissfully unaware of the shifting environment.</p>\n",
+  "content_hash": "sha256:7591bf6d7387d1fe125dd8a37973703eb19ed91b976034d2eed6269c15b3f018",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-24T03:08:45Z",
+      "note": null
+    }
+  ]
+}

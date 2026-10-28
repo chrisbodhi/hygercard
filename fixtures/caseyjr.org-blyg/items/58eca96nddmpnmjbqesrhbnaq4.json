@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "58eca96nddmpnmjbqesrhbnaq4",
+  "kind": "thread",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "t/58eca96nddmpnmjbqesrhbnaq4/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-24T23:40:48Z",
+  "updated": "2026-10-24T23:41:10Z",
+  "version": 1,
+  "content_md": "👍👍\n\n![[6trkw0kd7ndesbmkh3m15rgdkn]]\n\n",
+  "content_html": "<p>👍👍</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"6trkw0kd7ndesbmkh3m15rgdkn\" data-blyg-version=\"2\" data-blyg-origin=\"https://blyg.bricolage.io/\">\n<p>LLM (linguistic computing) adoption keeps reminding me of the adoption of early computers. Talking to an LLM seems superficially much easier than using an early computer w/ programming and math etc. but both require the capacity to want to &quot;ride the computer intelligence&quot; with specific goals that require much more intention and dedicated focus than normal day-to-day life requires.</p>\n<p>Which is why serious AI usage seems fairly constrained to people already used to serious intellectual work just like early computers. Most people will only use modern AI as it diffuses into normal software.</p>\n<p>Which doesn't bode well for avoiding a big AI financial crash <span class=\"blyg-tk-gen\">— a point <a href=\"https://braddelong.substack.com/p/torsten-slok-beats-the-ai-bear-drum\">Brad DeLong made recently</a>, riffing on charts from Apollo's Torsten Slok. His image is a bullwhip: the tip cracks and the body moves fast, but the handle, the &quot;S&amp;P 493&quot; of ordinary non-tech companies, doesn't budge. Revenue per worker and profit margins there are flat, measured productivity shows no AI boost, and mainstream firms are starting to treat token spending as a cost center rather than paying up for the latest models. That's what you'd expect if serious use is confined to people who already know how to ride their own brains. The tip of the whip is a small population doing intense, intentional work with these tools. The handle is everyone else, waiting for AI to show up inside the software they already use.</p>\n<p>DeLong thinks the value AI does create shows up mostly as user surplus, which is real but hard for anyone to capture as profit. And even that surplus isn't nearly big enough yet to justify current valuations, because it can't scale beyond the small group riding the whip until AI diffuses into normal software and day-to-day workflows. That diffusion will come, but slowly, the way computing did. In the meantime, markets are pricing in a payoff the rest of the economy isn't yet equipped to deliver.</span></p>\n\n<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"75vdmatmmhxap7fxg8h05vqr3v\" data-blyg-version=\"3\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>Why am I going on about this? Because “intelligence” in practice is not the social performance associated with “license to smart” but the demonstrated capability to “ride your brain” in some visible way.</p>\n<p>This brings us to AI. AI is like riding a powered two-wheeler, like a motorcycle or scooter. Some people who learn to ride a bike never go on to learn to ride powered two-wheelers. You need excess regulatory capacity to manage the greater mass and velocity. This is harder than either riding a bike or driving a car.</p>\n<p>A lot of failure to use AI effectively looks to me like bike riders struggling with two wheelers because they have acquired licenses to drive 4-wheelers.</p>\n<p>So to adopt AI you really need to have an overdeveloped capacity to ride your own brain.</p>\n</blockquote>\n</blockquote>\n",
+  "content_hash": "sha256:97b1ea926bef6727987564a7e92a6b2fd3b8eb3a36d4beb33c2ebf1b862614ce",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "6trkw0kd7ndesbmkh3m15rgdkn",
+      "version": 2,
+      "origin": "https://blyg.bricolage.io/",
+      "cited": {
+        "source": "Kyle's blyg",
+        "author": "Kyle Mathews",
+        "excerpt": "LLM (linguistic computing) adoption keeps reminding me of the adoption of early…",
+        "url": "https://blyg.bricolage.io/t/6trkw0kd7ndesbmkh3m15rgdkn/",
+        "retrieved": "2026-10-24T23:41:10Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.bricolage.io/",
+    "id": "6trkw0kd7ndesbmkh3m15rgdkn",
+    "version": 2,
+    "cited": {
+      "source": "Kyle's blyg",
+      "author": "Kyle Mathews",
+      "excerpt": "LLM (linguistic computing) adoption keeps reminding me of the adoption of early…",
+      "url": "https://blyg.bricolage.io/t/6trkw0kd7ndesbmkh3m15rgdkn/",
+      "retrieved": "2026-10-24T23:41:10Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-24T23:41:10Z",
+      "note": null
+    }
+  ]
+}

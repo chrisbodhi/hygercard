@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "38sccrbnpy8vtaazntdmfhe1b7",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "638-amber-bats",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-25T17:04:36Z",
+  "updated": "2026-10-25T17:04:36Z",
+  "version": 1,
+  "content_md": "> In a paper entitled Stress that Doesn’t Pay, Swiss economists Bruno Frey and Alois Stutzer wrote that a bad commute reduces happiness regardless of how long we’re exposed to it. Even the loss of a limb or winning the lottery doesn’t create a permanent and sizable shift in happiness, but a bad commute does. They call this the “commute paradox”.\n\n[The Commute Paradox ↗](https://nealmueller.com/the-commute-paradox)",
+  "content_html": "<blockquote><p>In a paper entitled Stress that Doesn’t Pay, Swiss economists Bruno Frey and Alois Stutzer wrote that a bad commute reduces happiness regardless of how long we’re exposed to it. Even the loss of a limb or winning the lottery doesn’t create a permanent and sizable shift in happiness, but a bad commute does. They call this the “commute paradox”.</p></blockquote>\n<p class=\"source\"><a href=\"https://nealmueller.com/the-commute-paradox\">The Commute Paradox ↗</a></p>",
+  "content_hash": "sha256:240ace1ff7d832812fc493515815347267e08e970a26ee79888382e3a9d93a28",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T17:04:36Z",
+      "note": null
+    }
+  ]
+}

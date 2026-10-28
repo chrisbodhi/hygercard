@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "45nb26vjfw3dvvdan6t2t4wzhe",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/llms-appear-capable-of-appreciating-magic-more-than-most-educated-americans/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-12-27T21:01:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "*e* is the most magical concept in the universe.\n\nNot every educated adult American can manipulate it properly, despite it being high school-level math.\n\nI don't know when LLMs became capable of understanding the right time and place to use logs/exponentials, but they can.\n\nI asked a coding agent to perform a calculation that requires conceptual understanding of Euler's number, using a purposefully imprecisely-presented question. I don't imagine that a mere *stochastic parrot* would be able to produce this answer.\n\nTranscript below...\n\n---\n\n> the 0.91 and 0.95 are chosen as round numbers (2 decimal points) which loosely preserve the relationship of trading weekdays to calendar weekdays. For example, a half-life of 5 days to a half-life of 7.3 days. And a half-life of 9.6 days to a half-life of 13.5 days. Can you tell me, what is the correct mathematical form, given the logarithmic shape of the half-life calculation, to preserve a 5:7 relationship\n\n*Deriving the correct mathematical relationship to preserve th",
+  "content_html": "<p><em>e</em> is the most magical concept in the universe.</p>\n<p>Not every educated adult American can manipulate it properly, despite it being high school-level math.</p>\n<p>I don't know when LLMs became capable of understanding the right time and place to use logs/exponentials, but they can.</p>\n<p>I asked a coding agent to perform a calculation that requires conceptual understanding of Euler's number, using a purposefully imprecisely-presented question. I don't imagine that a mere <em>stochastic parrot</em> would be able to produce this answer.</p>\n<p>Transcript below...</p>\n<hr>\n<blockquote>\n<p>the 0.91 and 0.95 are chosen as round numbers (2 decimal points) which loosely preserve the relationship of trading weekdays to calendar weekdays. For example, a half-life of 5 days to a half-life of 7.3 days. And a half-life of 9.6 days to a half-life of 13.5 days. Can you tell me, what is the correct mathematical form, given the logarithmic shape of the half-life calculation, to preserve a 5:7 relationship</p>\n</blockquote>\n<p><em>Deriving the correct mathematical relationship to preserve th</em></p>",
+  "content_hash": "sha256:12ffde55781cd199cc417e530894f424f8aefbf0f27fec0e526c9465733e0b13",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-12-27T21:01:00Z",
+      "note": "LLMs Appear Capable of Appreciating Magic More Than Most Educated Americans"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

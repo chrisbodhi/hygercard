@@ -1,0 +1,14 @@
+{
+  "blyg": "0.3",
+  "level": 2,
+  "generator": "blyg-publisher/0.3.2",
+  "site": "https://lightsong.ink/blyg/",
+  "title": "Lightsong",
+  "author": {
+    "name": "Lightsong",
+    "links": []
+  },
+  "feed": "feed.xml",
+  "items": "items/index.json",
+  "updated": "2026-10-25T23:58:30Z"
+}

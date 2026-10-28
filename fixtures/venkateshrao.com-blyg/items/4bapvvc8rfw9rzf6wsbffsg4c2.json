@@ -1,0 +1,37 @@
+{
+  "blyg": "0.4",
+  "id": "4bapvvc8rfw9rzf6wsbffsg4c2",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/4bapvvc8rfw9rzf6wsbffsg4c2/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-27T03:52:19Z",
+  "updated": "2026-10-27T03:55:44Z",
+  "version": 1,
+  "content_md": "The ETH result is yet another bit of evidence for the inelegant universe hypothesis. That’s one janky sub-exponential.\n\n![](/blyg/media/h5qce8ye.jpg)\n\n[OpenAI post](https://openai.com/index/building-scientific-understanding-with-academic-communities/)\n\n![[20bfv5msj0hx4p4bma6hs319vb | The Inelegant Universe Hypothesis]]",
+  "content_html": "<p>The ETH result is yet another bit of evidence for the inelegant universe hypothesis. That’s one janky sub-exponential.</p>\n<p><img src=\"https://venkateshrao.com/blyg/media/h5qce8ye.jpg\" alt=\"\"></p>\n<p><a href=\"https://openai.com/index/building-scientific-understanding-with-academic-communities/\">OpenAI post</a></p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"20bfv5msj0hx4p4bma6hs319vb\" data-blyg-version=\"1\">\n<h1>The Inelegant Universe Hypothesis</h1>\n<p>AI doesn’t do ugly work. It shows us that our yearning for simplistic beauty blinds us to the fundamental inelegance and messiness of the universe, which can however reveal deeper sorts of beauty if we can just grow enough to see it. We’re no different from Ancient Greeks recoiling at the idea of irrational numbers. Which we now know open up vast new realms of beauty.</p>\n<p>Kronecker famously said, “god created the integers, all else is the work of man.”</p>\n<p>AI tells us: god is dead. It’s all the work of humans. You either learn to see new beauty, or lament the death of your gods.</p>\n<p>See also <a href=\"https://venkateshrao.com/blyg/t/6vsv80kcthqhbzp6akqy48pzha/\">“Mathematics is a now a Tangled Bank and transitioning from h…”</a></p>\n\n</blockquote>",
+  "content_hash": "sha256:fc94197d57f0db6a0b57bb9338dbace3b862896917e0a6b4caff9d51a212b3bd",
+  "media": [
+    {
+      "url": "media/h5qce8ye.jpg",
+      "mime": "image/jpeg",
+      "alt": ""
+    }
+  ],
+  "transclusions": [
+    {
+      "id": "20bfv5msj0hx4p4bma6hs319vb",
+      "version": 1
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-27T03:55:44Z",
+      "note": null
+    }
+  ]
+}

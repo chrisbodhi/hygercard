@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "11nfhnd05v93j23rr47sw3jfy3",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "130-onyx-finches",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-20T04:48:55Z",
+  "updated": "2026-10-22T15:51:52Z",
+  "version": 2,
+  "content_md": "Is running a reading group, pound-for-pound, one of [the most radical things](https://youtu.be/RMfQ8DPHQQ0) a person can do?",
+  "content_html": "<p>Is running a reading group, pound-for-pound, one of <a href=\"https://youtu.be/RMfQ8DPHQQ0\">the most radical things</a> a person can do?</p>",
+  "content_hash": "sha256:1552459d9e5f08bbfbd16acd669c37eab12ec221c890332377af35c178cecbc7",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-20T04:48:55Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-22T15:51:52Z",
+      "note": null
+    }
+  ]
+}

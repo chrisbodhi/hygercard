@@ -1,0 +1,32 @@
+{
+  "updated": "2026-10-21T05:06:05Z",
+  "content_md": "I was really dismayed by Stewart Brand's praise of Musk in his [Maintenance of Everything](https://ammdi.hyperphor.com/Maintenance-of-Everything) book\n\n![[1jazhk4f2xm8bg60f4gsktnj25]]",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T01:52:56Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-21T05:06:05Z",
+      "note": null
+    }
+  ],
+  "transclusions": [
+    {
+      "id": "1jazhk4f2xm8bg60f4gsktnj25",
+      "version": 1
+    }
+  ],
+  "created": "2026-10-21T01:52:56Z",
+  "page": "f/30tbgf81hwfahtr96rwr9jvfmw/",
+  "content_hash": "sha256:95148d44005cc3df22c05be7c1caf62090512048d07d34cfde8c972bdef05ed5",
+  "id": "30tbgf81hwfahtr96rwr9jvfmw",
+  "kind": "thread",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div><div><div class=\"blyg-title\"><span>I was really dismayed by Stewart Brand&apos;s praise of Musk in his <a class=\"pagelink\" href=\"https://ammdi.hyperphor.com/Maintenance-of-Everything\">Maintenance of Everything</a> book </span></div></div><blockquote class=\"blyg-transclusion\" data-blyg-id=\"1jazhk4f2xm8bg60f4gsktnj25\" data-blyg-version=\"1\"><div><span>but held off commenting for many reasons, not least that he&apos;s on his last legs. But then this happened on X <blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Stewart – I was surprised and disappointed by your praise of Musk in your Maintenance book. Aside from his other sins, he&#39;s responsible for dismantling many important institutions of maintenance like the CDC. Any change of heart about that?</p>&mdash; mtraven (@mtraven) <a href=\"https://x.com/mtraven/status/2111552000580296979?ref_src=twsrc%5Etfw\">October 17, 2026</a></blockquote>\n<script async src=\"https://platform.x.com/widgets.js\" charset=\"utf-8\"></script>\n\n</span></div></blockquote></div>",
+  "version": 2,
+  "media": [],
+  "blyg": "0.3"
+}

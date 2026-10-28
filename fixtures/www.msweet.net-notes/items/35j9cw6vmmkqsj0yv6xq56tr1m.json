@@ -1,0 +1,38 @@
+{
+  "blyg": "0.3",
+  "id": "35j9cw6vmmkqsj0yv6xq56tr1m",
+  "kind": "thread",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "716-flax-lynxes",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-24T17:42:15Z",
+  "updated": "2026-10-24T17:42:15Z",
+  "version": 1,
+  "content_md": "Seems directionally right that true AI use is dynamic, embodied, alive, motion-full. Reminds me of an idea that those who excel at abstract thought aren’t really thinking abstractly; they’ve just learned to concretise and embody the abstractness somehow or somewhere. This seems like that.\n\n> This brings us to AI. AI is like riding a powered two-wheeler, like a motorcycle or scooter. Some people who learn to ride a bike never go on to learn to ride powered two-wheelers. You need excess regulatory capacity to manage the greater mass and velocity. This is harder than either riding a bike or driving a car.\n\n[On Learning to Ride Your Brain Unless you’re active in one o… ↗](https://venkateshrao.com/blyg/t/75vdmatmmhxap7fxg8h05vqr3v)",
+  "content_html": "<p>Seems directionally right that true AI use is dynamic, embodied, alive, motion-full. Reminds me of an idea that those who excel at abstract thought aren’t really thinking abstractly; they’ve just learned to concretise and embody the abstractness somehow or somewhere. This seems like that.</p>\n<blockquote><p>This brings us to AI. AI is like riding a powered two-wheeler, like a motorcycle or scooter. Some people who learn to ride a bike never go on to learn to ride powered two-wheelers. You need excess regulatory capacity to manage the greater mass and velocity. This is harder than either riding a bike or driving a car.</p></blockquote>\n<p class=\"source\"><a href=\"https://venkateshrao.com/blyg/t/75vdmatmmhxap7fxg8h05vqr3v\">On Learning to Ride Your Brain Unless you’re active in one o… ↗</a></p>",
+  "content_hash": "sha256:d2eb380d851514309b777271c9068582cdee43abd2fdc47f47a006c3c3cd52ad",
+  "media": [],
+  "transclusions": [],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "75vdmatmmhxap7fxg8h05vqr3v",
+    "version": 3,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "On Learning to Ride Your Brain Steve Jobs was wrong. A traditional computer was never a bicycle for the brain. It was never a coherent enough machine to require, or enable, the holistic mode of…",
+      "url": "https://venkateshrao.com/blyg/t/75vdmatmmhxap7fxg8h05vqr3v/",
+      "retrieved": "2026-10-24T17:42:35Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-24T17:42:15Z",
+      "note": null
+    }
+  ]
+}

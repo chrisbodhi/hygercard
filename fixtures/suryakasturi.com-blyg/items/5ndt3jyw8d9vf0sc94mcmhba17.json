@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "5ndt3jyw8d9vf0sc94mcmhba17",
+  "kind": "thread",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "t/5ndt3jyw8d9vf0sc94mcmhba17/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-13T07:15:07Z",
+  "updated": "2026-10-13T08:36:07Z",
+  "version": 2,
+  "content_md": "It's the bet that when AI models are 1000x faster (see taalas.com) and better, everything in the programmable world can be bootstrapped on-demand and just-in-time from the protocols. \n\n![[5jf9rp7xm9qknskjcq077qz0x0]]\n\n",
+  "content_html": "<p>It's the bet that when AI models are 1000x faster (see <a href=\"http://taalas.com\">taalas.com</a>) and better, everything in the programmable world can be bootstrapped on-demand and just-in-time from the protocols.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"5jf9rp7xm9qknskjcq077qz0x0\" data-blyg-version=\"1\" data-blyg-origin=\"https://www.msweet.net/notes/\">\n<p>Did someone say “protocols”?</p>\n<blockquote><p>there is a billion dollars waiting for those who turn the core social primitives that organizations run on into technical infrastructure</p></blockquote>\n<p class=\"source\"><a href=\"https://x.com/kaseyklimes/status/2109800727644438747\">kasey on X: core social primitives &gt; technical infrastructure / X ↗</a></p>\n</blockquote>\n",
+  "content_hash": "sha256:89ed7109b3ea34ff24f4f76fa5c32466260057b3c727f954c5786a9ff460b8cf",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "5jf9rp7xm9qknskjcq077qz0x0",
+      "version": 1,
+      "origin": "https://www.msweet.net/notes/",
+      "cited": {
+        "source": "Notes | Matthew McDowell-Sweet",
+        "author": "Matthew McDowell-Sweet",
+        "excerpt": "Did someone say “protocols”? there is a billion dollars waiting for those who tu…",
+        "url": "https://www.msweet.net/notes/975-cream-moths",
+        "retrieved": "2026-10-13T08:36:07Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://www.msweet.net/notes/",
+    "id": "5jf9rp7xm9qknskjcq077qz0x0",
+    "version": 1,
+    "cited": {
+      "source": "Notes | Matthew McDowell-Sweet",
+      "author": "Matthew McDowell-Sweet",
+      "excerpt": "Did someone say “protocols”? there is a billion dollars waiting for those who tu…",
+      "url": "https://www.msweet.net/notes/975-cream-moths",
+      "retrieved": "2026-10-13T08:36:07Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-13T07:34:21Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-13T08:36:07Z",
+      "note": null
+    }
+  ]
+}

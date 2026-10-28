@@ -1,0 +1,36 @@
+{
+  "updated": "2026-10-21T05:06:05Z",
+  "content_md": "AI makes all my old software instincts wrong. It's kind of a bracing exhilarating feeling when it isn't totally depressing\n\n![[5gdh6zjgfz3hqeqptzpnh8sh1g]]\n\n![[0c09ns8j5v3ehy4074pyhbtdtb]]",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T01:52:56Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-21T05:06:05Z",
+      "note": null
+    }
+  ],
+  "transclusions": [
+    {
+      "id": "5gdh6zjgfz3hqeqptzpnh8sh1g",
+      "version": 1
+    },
+    {
+      "id": "0c09ns8j5v3ehy4074pyhbtdtb",
+      "version": 2
+    }
+  ],
+  "created": "2026-10-21T01:52:56Z",
+  "page": "f/1k1kw16q5rkser0wz2gqr150d6/",
+  "content_hash": "sha256:a8a27e3864629141f46eb3c63f616c94667348497890aefabdece3259bdbc9f6",
+  "id": "1k1kw16q5rkser0wz2gqr150d6",
+  "kind": "thread",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div><div><div class=\"blyg-title\">AI makes all my old software instincts wrong. It&apos;s kind of a bracing exhilarating feeling when it isn&apos;t totally depressing </div></div><blockquote class=\"blyg-transclusion\" data-blyg-id=\"5gdh6zjgfz3hqeqptzpnh8sh1g\" data-blyg-version=\"1\"><div><div>Depressing side:</div><div>Having your primary skill set / craft be taken over by machines is an economic threat and and ego threat.</div><div>Nail in the coffin for GOFAI, OOP, ontology, and all other attempts to put computational knowledge on a structured footing. Also death knell to visual programming languages, something I used to specialize in.</div><div>Software slop is even worse than text slop. The latter can just be ignored; but software is where I live.</div><div>At my age I should be settling into old habits instead of inventing new ones. The pace of change is exhausting for everybody, but especially me, I&apos;m too old for this shit.</div></div></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"0c09ns8j5v3ehy4074pyhbtdtb\" data-blyg-version=\"2\"><div><div>Exhilarating side:</div><div>It&apos;s easy to make stuff, and its ridiculously easy to turn vague ideas into real software.</div><div><div>It&apos;s not really the death of all the old powerful ideas of computation. something like them will have to be reinvented for the new world. I would hazard they are needed more than ever, it&apos;s just nobody knows what that means yet.</div><div><span>In fact maybe this is what the <a class=\"pagelink\" href=\"https://ammdi.hyperphor.com/Protocols\">Protocol</a> movement is really about, now that I come to think of it.</span></div></div><div>The thing I actually care most about – building better interfaces between human and machine knowledge – is a problem and task that won&apos;t go away. The design space just changed radically, but the basic goal is the same. This is actually great news because UI thinking has been stuck in a rut for like 40 years.</div><div><span>Much as I might like to rest, it&apos;s probably better if I&apos;m forced to learn new tricks. <span class=\"empty\">old</span></span></div></div></blockquote></div>",
+  "version": 2,
+  "media": [],
+  "blyg": "0.3"
+}

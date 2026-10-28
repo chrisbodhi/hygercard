@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "3f0rd4r9t0jvjyh0v4h4kcgajg",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/no-fraud-friday/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-10-13T15:40:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "*EDIT 2025-10-15 a long footnote 5 on subsequent Backpack developments*\n\nOn Friday, 10 October 2025, crypto markets saw $19+ billion in liquidations, the largest day ever. See also, global markets plummeted.\n\n# preliminary statement\n\nMass vigilance is good! People should be able to shout \"fkery\" at will, and to snipe at market leaders (\"punching up\"). The cost of this is a lot of noise tho.\n\nNow, to cut through the noise...\n\n# wut happened\n\n- binance internal policies + market structure (*i.e.*, permissionless leverage from 100k+ global degens due to an ecosystem of farming incentives) produced a weakness\n- weak points got attacked for ~$200m profit\n- billions of liquidations -> collateral damage (sorry)\n- lower leverage overall -> is healing\n- tide going out shows who was swimming naked, and/or previously unseen weak points in various systems (notably Backpack, Binance, Rabby, DeBank + other DeFi pillars)\n- MM liquidity pullback was side effect of ADL consequences (internal system shows a position, reality is different a",
+  "content_html": "<p><em>EDIT 2025-10-15 a long footnote 5 on subsequent Backpack developments</em></p>\n<p>On Friday, 10 October 2025, crypto markets saw $19+ billion in liquidations, the largest day ever. See also, global markets plummeted.</p>\n<h1 class=\"heading\">preliminary statement<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<p>Mass vigilance is good! People should be able to shout \"fkery\" at will, and to snipe at market leaders (\"punching up\"). The cost of this is a lot of noise tho.</p>\n<p>Now, to cut through the noise...</p>\n<h1 class=\"heading\">wut happened<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<ul>\n<li>binance internal policies + market structure (<em>i.e.</em>, permissionless leverage from 100k+ global degens due to an ecosystem of farming incentives) produced a weakness</li>\n<li>weak points got attacked for ~$200m profit</li>\n<li>billions of liquidations -> collateral damage (sorry)</li>\n<li>lower leverage overall -> is healing</li>\n<li>tide going out shows who was swimming naked, and/or previously unseen weak points in various systems (notably Backpack, Binance, Rabby, DeBank + other DeFi pillars)</li>\n<li>MM liquidity pullback was side effect of ADL consequences (internal system shows a position, reality is different a</li>\n</ul>",
+  "content_hash": "sha256:7570534e3366cc3acca9e07f2f8bf79d0d26d8a5c46e1c624721159af93322b3",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-10-13T15:40:00Z",
+      "note": "No Fraud Friday"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

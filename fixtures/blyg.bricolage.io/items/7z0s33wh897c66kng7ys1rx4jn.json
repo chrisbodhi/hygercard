@@ -1,0 +1,35 @@
+{
+  "blyg": "0.4",
+  "id": "7z0s33wh897c66kng7ys1rx4jn",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/7z0s33wh897c66kng7ys1rx4jn/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-10-09T15:50:47Z",
+  "updated": "2026-10-09T15:51:17Z",
+  "version": 1,
+  "content_md": "We're living in interesting times indeed\n\n> [Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/)\n\n> Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]\n> \n> The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with the very best AI assistance) are just orders of magnitude different. You only recover from a surprise like this if you do the preparation in advance.\n> \n> — Matthew Green , on Twitter. I looked it up and Minicrypt is Russell Impagliazzo’s hypothetical world in which public-key encryption is impossible.\n\n",
+  "content_html": "<p>We're living in interesting times indeed</p>\n<blockquote>\n<p><a href=\"https://simonwillison.net/2026/Oct/9/matthew-green/\">Quoting Matthew Green</a></p>\n</blockquote>\n<blockquote>\n<p>Everyone is very concerned about being respectable, so I’m going to be the goofball who raises worst-case possibilities. I think there is a 1% chance we live in Minicrypt, and a 15% chance we functionally lose confidence in our existing public-key encryption algorithms. [...]</p>\n<p>The problem here is that the speed of AI producing surprises, and the speed of human beings replacing standards (even with the very best AI assistance) are just orders of magnitude different. You only recover from a surprise like this if you do the preparation in advance.</p>\n<p>— Matthew Green , on Twitter. I looked it up and Minicrypt is Russell Impagliazzo’s hypothetical world in which public-key encryption is impossible.</p>\n</blockquote>\n",
+  "content_hash": "sha256:ac6974ded5131fc759f0f3c8c8f37ccb6d30e48c32603a268f20f14b00a0547b",
+  "media": [],
+  "transclusions": [],
+  "stub_of": {
+    "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+    "cited": {
+      "source": "simonwillison.net",
+      "excerpt": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+      "retrieved": "2026-10-09T15:50:47Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-09T15:51:17Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "776n77dae9e83m6prq0sd00y24",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/776n77dae9e83m6prq0sd00y24/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-09-30T13:53:15Z",
+  "updated": "2026-09-30T13:54:34Z",
+  "version": 1,
+  "content_md": "Whatever it is it's pretty mysterious how parents can pluck emerging popular names out the air. I've had several friends who deliberately tried to pick uncommon names yet somehow the name they picked shot up into the top ten that year.\n\n![[6mbaeh1vc7rj79fzyhncfkmpf0]]\n\n",
+  "content_html": "<p>Whatever it is it's pretty mysterious how parents can pluck emerging popular names out the air. I've had several friends who deliberately tried to pick uncommon names yet somehow the name they picked shot up into the top ten that year.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"6mbaeh1vc7rj79fzyhncfkmpf0\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>Precommodification followed by a virtuous salience cycle? Perhaps seeded by a famous Kyle in a previous generation?</p>\n\n<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"3n1zdwzy0q5hh1ybvdg7tcz89v\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.bricolage.io/\">\n<p>My name was from someone my parents met at Disneyland yet &quot;Kyle&quot; still peaked as a name around when I was born 🤔</p>\n</blockquote>\n\n</blockquote>\n",
+  "content_hash": "sha256:0aa4157dbc963793a761f067475fe3dc2d5ee66b9cca42cd976a1233dcf57a0d",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "6mbaeh1vc7rj79fzyhncfkmpf0",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "Precommodification followed by a virtuous salience cycle? Perhaps seeded by a fa…",
+        "url": "https://venkateshrao.com/blyg/t/6mbaeh1vc7rj79fzyhncfkmpf0/",
+        "retrieved": "2026-09-30T13:54:34Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "6mbaeh1vc7rj79fzyhncfkmpf0",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Precommodification followed by a virtuous salience cycle? Perhaps seeded by a fa…",
+      "url": "https://venkateshrao.com/blyg/t/6mbaeh1vc7rj79fzyhncfkmpf0/",
+      "retrieved": "2026-09-30T13:54:34Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-30T13:54:34Z",
+      "note": null
+    }
+  ]
+}

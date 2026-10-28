@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "785dzf8a3ssrc1hh960y6m7h2c",
+  "kind": "fragment",
+  "origin": "https://bradydale.com/blyg/",
+  "page": "f/785dzf8a3ssrc1hh960y6m7h2c/",
+  "author": {
+    "name": "Brady Dale",
+    "url": "https://bradydale.com/"
+  },
+  "created": "2026-10-25T22:46:53Z",
+  "updated": "2026-10-25T22:46:53Z",
+  "version": 1,
+  "content_md": "## Question for the Thicket:\n\nI'm thinking about vibecoding up a new app. For a very long time I have wanted to write branching fiction online, in the spirit of [the old \"Choose Your Own Adventure\" style books](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure). I've always known this was do'able but I needed technical help. Now I have that, in agents.\n\nSo my options are:\n\n* Build a client based on [Twine](https://twinery.org/) or one of the other open source apps out there (there's a couple things they don't do that I'd like in my client, but this all seems quiet solvable), which have already been built for basically this purpose.\n* **Or build it on Blygger.** Like, each possible path off a given scene could be a **stub**of that scene. Which seems interesting! On the other hand, it would not be a straightforward blog. Reverse chronological order wouldn't really matter.\n\nI can't decide if this is exactly the kind of experiment that the Thicket needs or if it would honestly kind of being an annoying entry into the thicket verse? What do folks think?\n\nAlso, addendum… One thing I'm not sure about in the spec… I might want to sometimes write such that Branches sometimes converge. Like, there's might be a couple ways that you find yourself arriving at the dark cave in the woods, you know?  **And I don't know if the spec supports an entry being a stub of multiple posts?**\n\nAnyway, would love to hear reactions here. If I do it, it will be a whole new site, whole new URL. Not part of the site that this blyg is published on, though I'd probably write about it on here sometimes.",
+  "content_html": "<h2>Question for the Thicket:</h2><p>I'm thinking about vibecoding up a new app. For a very long time I have wanted to write branching fiction online, in the spirit of <a href=\"https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure\">the old \"Choose Your Own Adventure\" style books</a>. I've always known this was do'able but I needed technical help. Now I have that, in agents. </p><p>So my options are:</p><ul><li>Build a client based on <a href=\"https://twinery.org/\">Twine</a> or one of the other open source apps out there (there's a couple things they don't do that I'd like in my client, but this all seems quiet solvable), which have already been built for basically this purpose.</li><li><b>Or build it on Blygger.</b> Like, each possible path off a given scene could be a <b>stub</b><i> </i>of that scene. Which seems interesting! On the other hand, it would not be a straightforward blog. Reverse chronological order wouldn't really matter. </li></ul><p>I can't decide if this is exactly the kind of experiment that the Thicket needs or if it would honestly kind of being an annoying entry into the thicket verse? What do folks think?</p><p>Also, addendum… One thing I'm not sure about in the spec… I might want to sometimes write such that Branches sometimes converge. Like, there's might be a couple ways that you find yourself arriving at the dark cave in the woods, you know?  <b>And I don't know if the spec supports an entry being a stub of multiple posts? </b><br/></p><p>Anyway, would love to hear reactions here. If I do it, it will be a whole new site, whole new URL. Not part of the site that this blyg is published on, though I'd probably write about it on here sometimes. </p>",
+  "content_hash": "sha256:145c351d8b924660ba9a2e45a8d8e1222d66ec8697fc0aef417720112cea606e",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T22:46:53Z",
+      "note": "Fragment from openers.html"
+    }
+  ]
+}

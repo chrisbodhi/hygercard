@@ -1,0 +1,26 @@
+{
+  "blyg": "0.3",
+  "id": "0j3h5mda97e8jq38qy0y3es75r",
+  "kind": "fragment",
+  "origin": "https://lightsong.ink/blyg/",
+  "page": "f/0j3h5mda97e8jq38qy0y3es75r/",
+  "title": "AI and the Public Education Workload",
+  "author": {
+    "name": "Lightsong",
+    "url": "https://lightsong.ink/blyg/"
+  },
+  "created": "2026-10-25T23:58:30Z",
+  "updated": "2026-10-25T23:58:30Z",
+  "version": 1,
+  "content_md": "I've been playing around with GrokBot this weekend. I feel like the \"agent in the cloud with a linux computer\" is a substantive iteration in AI product. Similar to the transition from chatbot to coding harness. I've been setting up automations to handle my workflows as an educator in a public high school. The amount of repetitive, administrative, and managerial tasks I'm able to offload onto an AI like GrokBot is meaningfully impactful on my workload. Kind of bittersweet that the tool that is allowing me to actually do many of the things I want to as a teacher is also eroding the socio-institutional arrangements that undergird public education in the U.S.",
+  "content_html": "<p>I've been playing around with GrokBot this weekend. I feel like the &quot;agent in the cloud with a linux computer&quot; is a substantive iteration in AI product. Similar to the transition from chatbot to coding harness. I've been setting up automations to handle my workflows as an educator in a public high school. The amount of repetitive, administrative, and managerial tasks I'm able to offload onto an AI like GrokBot is meaningfully impactful on my workload. Kind of bittersweet that the tool that is allowing me to actually do many of the things I want to as a teacher is also eroding the socio-institutional arrangements that undergird public education in the U.S.</p>\n",
+  "content_hash": "sha256:c9e16f71769003cdc598d40aebf2774ec8c5467ddaa8305bd114d34843714a92",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T23:58:30Z",
+      "note": null
+    }
+  ]
+}

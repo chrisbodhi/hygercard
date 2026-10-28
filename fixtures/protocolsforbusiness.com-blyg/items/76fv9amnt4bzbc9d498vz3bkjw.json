@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "76fv9amnt4bzbc9d498vz3bkjw",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/76fv9amnt4bzbc9d498vz3bkjw/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# SIGPfB Study Group: Protocols for Business Discussion\n\n*Session of 26 February 2023.* Participants: rafa_0x, sachbenny, timber1997, nicolascero, thewanderingeditor, zhgnv, scottwerner.\n\nThe SIGPfB study group convened to discuss protocols for business, with Rafa leading by sharing key resources on token economics, protocol consulting, and related tools. The meeting centered on refining the group's approach and objectives, with participants questioning whether the initial focus on protocol literacy was sufficiently ambitious or concrete. Sachbenny, Timber, and the Wandering Editor pushed for the group to define specific tasks and interventions rather than remaining at the theoretical level. A key framing emerged from Rafa's observation that AI infrastructure operates more like utilities (AWS/Azure) than traditional SaaS, fundamentally changing business model considerations. The group also discussed balancing the role of the Protocol Institute in guiding versus enabling community-led development, with recognition that their initial judgments would likely be imperfect but necessary to move forward.\n\n**Key points**\n\n- AI should be understood closer to cloud utilities (AWS/Azure) than traditional SaaS, requiring different infrastructure management approaches.\n- Protocol literacy alone is insufficient as an outcome; the group needs to define concrete tasks and steps to achieve desired outcomes rather than just building knowledge.\n- There's tension between the group taking the lead on developing interventions versus equipping others to do so, requiring careful balance.\n- The group acknowledged their initial approach is exploratory with uncertain judgment, but emphasized the importance of starting somewhere and iterating.\n- Scott Werner's coding approach emphasizes allowing AI models to generate ideas and then refining, rather than prescriptive upfront specifications.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2023-02-26-sigpfb-study-group-protocols-for-business-discussion) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2023-02-26-sigpfb-study-group-protocols-for-business-discussion/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>SIGPfB Study Group: Protocols for Business Discussion</h1>\n<p><em>Session of 26 February 2023.</em> Participants: rafa_0x, sachbenny, timber1997, nicolascero, thewanderingeditor, zhgnv, scottwerner.</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB study group convened to discuss protocols for business, with Rafa leading by sharing key resources on token economics, protocol consulting, and related tools. The meeting centered on refining the group's approach and objectives, with participants questioning whether the initial focus on protocol literacy was sufficiently ambitious or concrete. Sachbenny, Timber, and the Wandering Editor pushed for the group to define specific tasks and interventions rather than remaining at the theoretical level. A key framing emerged from Rafa's observation that AI infrastructure operates more like utilities (AWS/Azure) than traditional SaaS, fundamentally changing business model considerations. The group also discussed balancing the role of the Protocol Institute in guiding versus enabling community-led development, with recognition that their initial judgments would likely be imperfect but necessary to move forward.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>AI should be understood closer to cloud utilities (AWS/Azure) than traditional SaaS, requiring different infrastructure management approaches.</li>\n<li>Protocol literacy alone is insufficient as an outcome; the group needs to define concrete tasks and steps to achieve desired outcomes rather than just building knowledge.</li>\n<li>There's tension between the group taking the lead on developing interventions versus equipping others to do so, requiring careful balance.</li>\n<li>The group acknowledged their initial approach is exploratory with uncertain judgment, but emphasized the importance of starting somewhere and iterating.</li>\n<li>Scott Werner's coding approach emphasizes allowing AI models to generate ideas and then refining, rather than prescriptive upfront specifications.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2023-02-26-sigpfb-study-group-protocols-for-business-discussion\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2023-02-26-sigpfb-study-group-protocols-for-business-discussion/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:3d52fef2ae1d536a017c5248bf5188ac28060c2d238f5104ef55a723bc17e119",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

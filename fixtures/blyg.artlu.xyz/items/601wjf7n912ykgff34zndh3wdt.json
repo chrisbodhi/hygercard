@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "601wjf7n912ykgff34zndh3wdt",
+  "kind": "fragment",
+  "origin": "https://blyg.artlu.xyz/",
+  "page": "f/601wjf7n912ykgff34zndh3wdt/",
+  "author": {
+    "name": "ultrA",
+    "url": "https://blyg.artlu.xyz/"
+  },
+  "created": "2026-10-13T22:35:36Z",
+  "updated": "2026-10-13T22:37:44Z",
+  "version": 1,
+  "content_md": "Changi was set like a pearl on the eastern tip of Singapore Island, iridescent under the bowl of tropical skies.",
+  "content_html": "<p>Changi was set like a pearl on the eastern tip of Singapore Island, iridescent under the bowl of tropical skies.</p>\n",
+  "content_hash": "sha256:8a7d844b5534f8c18fd6df6c92d22fd96f2d162bdc52e0b87236135b414c2b61",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-13T22:37:44Z",
+      "note": null
+    }
+  ]
+}

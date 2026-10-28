@@ -1,0 +1,31 @@
+{
+  "blyg": "0.4",
+  "id": "0180khm1xmrgpsqqe65v51bp4w",
+  "kind": "withdrawn",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/0180khm1xmrgpsqqe65v51bp4w/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-29T16:24:36Z",
+  "updated": "2026-10-03T02:57:04Z",
+  "version": 2,
+  "content_md": "",
+  "content_html": "",
+  "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-29T16:24:49Z",
+      "note": "conformance exercise: partial transclusion (§16.4)"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T02:57:04Z",
+      "note": null
+    }
+  ]
+}

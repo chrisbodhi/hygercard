@@ -1,0 +1,32 @@
+{
+  "blyg": "0.4",
+  "id": "5trxq51b577eyegzq8r7tspvdk",
+  "kind": "thread",
+  "origin": "https://www.robertpeake.com/blyg/",
+  "page": "https://www.robertpeake.com/archives/96477-two-poems-in-december-30-1.html",
+  "author": {
+    "name": "Robert Peake",
+    "url": "https://www.robertpeake.com/"
+  },
+  "created": "2019-05-21T13:22:35Z",
+  "updated": "2019-05-22T08:12:03Z",
+  "version": 1,
+  "content_md": "# Two Poems in December 30.1\n\n![](https://www.robertpeake.com/files/2019/05/december.png)\n\nI received my contributor’s copy of December 30.1 (Spring/Summer 2019) today. The new editors have done a smashing job of carrying on its literary legacy, and I’m delighted to have work within its pages.\n\nYou can catch order issue 30.1 or subscribe [on the December website.](https://decembermag.org/)\n",
+  "content_html": "<h1>Two Poems in December 30.1</h1>\n<figure><img src=\"https://www.robertpeake.com/files/2019/05/december.png\" alt=\"\" width=\"600\" height=\"600\"></figure>\n<p>I received my contributor’s copy of December 30.1 (Spring/Summer 2019) today. The new editors have done a smashing job of carrying on its literary legacy, and I’m delighted to have work within its pages.</p>\n<p>You can catch order issue 30.1 or subscribe <a href=\"https://decembermag.org/\">on the December website.</a></p>",
+  "content_hash": "sha256:48a4dc4842f1632c99ccd69beb31bbddb3e5b5e49d81e714a3b25af66eb169ec",
+  "media": [
+    {
+      "url": "https://www.robertpeake.com/files/2019/05/december.png",
+      "mime": "image/png",
+      "alt": ""
+    }
+  ],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2019-05-22T08:12:03Z",
+      "note": "imported from WordPress"
+    }
+  ]
+}

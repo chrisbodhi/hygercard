@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "4ce5zbe2bf2p9pmp19nb7k385r",
+  "kind": "fragment",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "f/4ce5zbe2bf2p9pmp19nb7k385r/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-18T18:51:24Z",
+  "updated": "2026-10-18T18:55:02Z",
+  "version": 1,
+  "content_md": "Misc internet musings\n\n- Would micropayments for customer reviews help with the spam review problem? (I.e. issues with Amazon, Google Maps and other reviews are from bot ish accounts.) \n- What would provide a way to solve the identity issues? Is part of the underlying problem really just that the core internet economy is based on advertising? I saw a presentation for a protocol at a recent symposium that was intriguing though was pretty high level and didn’t seem ready to test. I am interested in testing alternative approaches locally. Think global act local as they say. ",
+  "content_html": "<p>Misc internet musings</p>\n<ul>\n<li>Would micropayments for customer reviews help with the spam review problem? (I.e. issues with Amazon, Google Maps and other reviews are from bot ish accounts.)</li>\n<li>What would provide a way to solve the identity issues? Is part of the underlying problem really just that the core internet economy is based on advertising? I saw a presentation for a protocol at a recent symposium that was intriguing though was pretty high level and didn’t seem ready to test. I am interested in testing alternative approaches locally. Think global act local as they say.</li>\n</ul>\n",
+  "content_hash": "sha256:b09f587781c2a25b23019388cd5bffec03d946c301be4909cc24a2b80b88d53a",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-18T18:55:02Z",
+      "note": null
+    }
+  ]
+}

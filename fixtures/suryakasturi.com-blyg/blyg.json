@@ -1,0 +1,39 @@
+{
+  "blyg": "0.4",
+  "level": 2,
+  "generator": "blygger-studio/0.47.0",
+  "generator_url": "https://github.com/blygger/blygger-studio",
+  "site": "https://suryakasturi.com/blyg/",
+  "title": "Surya Kasturi's Blyg",
+  "author": {
+    "name": "Surya Kasturi",
+    "bio": "",
+    "avatar": "media/kjqgq6sx.jpg",
+    "links": [
+      {
+        "label": "Home",
+        "url": "https://suryakasturi.com"
+      },
+      {
+        "label": "Blyg",
+        "url": "https://suryakasturi.com/blyg"
+      },
+      {
+        "label": "Archive",
+        "url": "https://suryakasturi.com/blyg/archive"
+      },
+      {
+        "label": "Made with Blygger",
+        "url": "https://blygger.org"
+      },
+      {
+        "label": "Find more blygs",
+        "url": "https://blygger.com"
+      }
+    ]
+  },
+  "feed": "feed.xml",
+  "items": "items/index.json",
+  "updated": "2026-10-25T20:44:38Z",
+  "webmention": "webmention"
+}

@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "2qcrc2qwr6qm2a36fwsfe2kr07",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "855-crimson-bitterns",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-23T06:45:56Z",
+  "updated": "2026-10-23T06:45:56Z",
+  "version": 1,
+  "content_md": "This is very good. I do wonder what it looks like when one constructs such games based on a more disembodied, abstract domain such as software. I bet it still works and is just as effective, provided the facilitator is sufficiently skilled.\n\n> The real goal of a TDG is to get you to become better at frame construction. The better you are at frame construction, the richer your frames, the more capable you will become at dealing with situations you’ve never seen before. This is why Peterson writes that “experts are able to pattern match against scenarios they have never seen before.”\n\n[Why Tactical Decision Games Work ↗](https://commoncog.com/why-tactical-decision-games-work)",
+  "content_html": "<p>This is very good. I do wonder what it looks like when one constructs such games based on a more disembodied, abstract domain such as software. I bet it still works and is just as effective, provided the facilitator is sufficiently skilled.</p>\n<blockquote><p>The real goal of a TDG is to get you to become better at frame construction. The better you are at frame construction, the richer your frames, the more capable you will become at dealing with situations you’ve never seen before. This is why Peterson writes that “experts are able to pattern match against scenarios they have never seen before.”</p></blockquote>\n<p class=\"source\"><a href=\"https://commoncog.com/why-tactical-decision-games-work\">Why Tactical Decision Games Work ↗</a></p>",
+  "content_hash": "sha256:a62a2880de6dfda0a0cdd345ee2f397255db0b06cc0ec441bee739da4c4ccc9c",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T06:45:56Z",
+      "note": null
+    }
+  ]
+}

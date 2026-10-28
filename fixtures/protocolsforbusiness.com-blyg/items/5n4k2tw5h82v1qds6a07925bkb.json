@@ -1,0 +1,55 @@
+{
+  "blyg": "0.3",
+  "id": "5n4k2tw5h82v1qds6a07925bkb",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/5n4k2tw5h82v1qds6a07925bkb/",
+  "author": {
+    "name": "Rafael Fernández"
+  },
+  "created": "2026-09-27T04:43:37Z",
+  "updated": "2026-09-27T04:52:59Z",
+  "version": 3,
+  "content_md": "# Research log: AI Native Data Operations\n\nThe working thesis behind the group's 2027 research, revised as sessions, cases, and protocol watching add evidence. Earlier versions stay in this item's changelog.\n\n## Premises\n\nWe treat these as observations that could turn out partial or wrong.\n![[7rgdqqjes9xcj6ny9ab1d8g2j7]]\n![[1pm8hn6z29mahf3bse2ng721ss]]\n![[6xz12yg4hsgw589ta7d070hdvq]]\n## Log\n\n- **27 September 2026.** Blyg started. Ten sessions from the past year imported from the Protocol Institute meeting archive as a baseline.\n- **27 September 2026.** First outside corroboration: Pat Grady's (Sequoia) 24 September talk to the Boston College investment committee frames this wave as a revolution in computation, not communication, which supports *abundant cognition*. It dates long-horizon agents to November 2025 (*distributed agency*) and describes AI-native firms moving toward a \"network of agents\" for internal information flow (*mediation*). It says nothing about coordination between many agents, which is where this project goes further.\n- **27 September 2026.** Imported the rest of the archive: all 39 sessions since February 2023 are now on the blyg, six of them with raw recording notes.\n",
+  "content_html": "<h1>Research log: AI Native Data Operations</h1>\n<p>The working thesis behind the group's 2027 research, revised as sessions, cases, and protocol watching add evidence. Earlier versions stay in this item's changelog.</p>\n<h2>Premises</h2>\n<p>We treat these as observations that could turn out partial or wrong.</p>\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"7rgdqqjes9xcj6ny9ab1d8g2j7\" data-blyg-version=\"1\"><p><strong>Premise: Abundant cognition.</strong></p>\n<div class=\"blyg-tk-gen\"><p>Reading and writing both get cheap. Processing unstructured data (PDFs, rate sheets, forms) and producing software cost a fraction of what they did.</p></div></blockquote>\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"1pm8hn6z29mahf3bse2ng721ss\" data-blyg-version=\"1\"><p><strong>Premise: Distributed agency.</strong></p>\n<div class=\"blyg-tk-gen\"><p>Models act, and they run as many instances at once. Swarms of agents show up wherever work is done.</p></div></blockquote>\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"6xz12yg4hsgw589ta7d070hdvq\" data-blyg-version=\"1\"><p><strong>Premise: Mediation.</strong></p>\n<div class=\"blyg-tk-gen\"><p>Information increasingly flows through models: people and agents find, read, and exchange it by way of LLMs and the protocols that connect them.</p></div></blockquote>\n<h2>Log</h2>\n<div class=\"blyg-tk-gen\"><ul>\n<li><strong>27 September 2026.</strong> Blyg started. Ten sessions from the past year imported from the Protocol Institute meeting archive as a baseline.</li>\n<li><strong>27 September 2026.</strong> First outside corroboration: Pat Grady's (Sequoia) 24 September talk to the Boston College investment committee frames this wave as a revolution in computation, not communication, which supports <em>abundant cognition</em>. It dates long-horizon agents to November 2025 (<em>distributed agency</em>) and describes AI-native firms moving toward a \"network of agents\" for internal information flow (<em>mediation</em>). It says nothing about coordination between many agents, which is where this project goes further.</li>\n<li><strong>27 September 2026.</strong> Imported the rest of the archive: all 39 sessions since February 2023 are now on the blyg, six of them with raw recording notes.</li>\n</ul></div>",
+  "content_hash": "sha256:d7325fc89543e3ba4d6dfcabc0fdf067a6b7208a212e935463941f964cce3a9b",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "7rgdqqjes9xcj6ny9ab1d8g2j7",
+      "version": 1
+    },
+    {
+      "id": "1pm8hn6z29mahf3bse2ng721ss",
+      "version": 1
+    },
+    {
+      "id": "6xz12yg4hsgw589ta7d070hdvq",
+      "version": 1
+    }
+  ],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5",
+      "at": "2026-09-27T04:52:59Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:43:37Z",
+      "note": "blyg: bootstrap session notes (10 sessions from PI archive) and research log with premises"
+    },
+    {
+      "version": 2,
+      "at": "2026-09-27T04:43:39Z",
+      "note": "Research log: first outside corroboration (Grady, 24 Sep 2026)"
+    },
+    {
+      "version": 3,
+      "at": "2026-09-27T04:52:59Z",
+      "note": "Research log: full archive imported (39 sessions)"
+    }
+  ]
+}

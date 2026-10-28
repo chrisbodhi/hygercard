@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "65n50grb8pb1tfkcfk5vfmdcwz",
+  "kind": "thread",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "t/65n50grb8pb1tfkcfk5vfmdcwz/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-17T10:41:13Z",
+  "updated": "2026-10-17T10:54:43Z",
+  "version": 1,
+  "content_md": "![[45d8a8yzhvnacb2k6e2ky0y512]]\n\nValuation of 75x revenue demands elite execution. 3.5 years of 100% revenue growth approaches $1.2bn top line. \n\nHow sticky is their ARR? Will enterprise adopt it over Microsoft? Will they need to raise additional rounds? If so, how much at what valuation? What are the margins?\n\nI don’t have a view, but it makes me go 🤔 ",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"45d8a8yzhvnacb2k6e2ky0y512\" data-blyg-version=\"2\" data-blyg-origin=\"https://blyg.bricolage.io/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"4bx8vv7yyemfbbxakk665pcsrz\" data-blyg-version=\"4\" data-blyg-origin=\"https://caseyjr.org/blyg/\">\n<p>Things that make you go 🤔</p>\n<p>9 October // a16z <a href=\"https://a16z.com/announcement/investing-in-typesafe-ai/\">leads</a> $870 million Series A for TypeSafe AI (Jev) at a $7.5bn valuation</p>\n<p>Also 9 October // Microsoft <a href=\"https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\">introduces Decision-1</a> with higher accuracy and lower latency than Jev</p>\n\n</blockquote>\n<p>Typesafe is already at $100m ARR is what was leaked. Investors and customers are probably comfortable betting the inventors of a new category will continue to out innovate fast followers.</p>\n\n</blockquote>\n<p>Valuation of 75x revenue demands elite execution. 3.5 years of 100% revenue growth approaches $1.2bn top line.</p>\n<p>How sticky is their ARR? Will enterprise adopt it over Microsoft? Will they need to raise additional rounds? If so, how much at what valuation? What are the margins?</p>\n<p>I don’t have a view, but it makes me go 🤔</p>\n",
+  "content_hash": "sha256:a2df8e9fecf8cd930e144ddc84beb3f3974c09deb6f06ab56b856fbe5cc063bc",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "45d8a8yzhvnacb2k6e2ky0y512",
+      "version": 2,
+      "origin": "https://blyg.bricolage.io/",
+      "cited": {
+        "source": "Kyle's blyg",
+        "author": "Kyle Mathews",
+        "excerpt": "Things that make you go 🤔 9 October // a16z leads $870 million Series A for Typ…",
+        "url": "https://blyg.bricolage.io/t/45d8a8yzhvnacb2k6e2ky0y512/",
+        "retrieved": "2026-10-17T10:54:43Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.bricolage.io/",
+    "id": "45d8a8yzhvnacb2k6e2ky0y512",
+    "version": 2,
+    "cited": {
+      "source": "Kyle's blyg",
+      "author": "Kyle Mathews",
+      "excerpt": "Things that make you go 🤔 9 October // a16z leads $870 million Series A for Typ…",
+      "url": "https://blyg.bricolage.io/t/45d8a8yzhvnacb2k6e2ky0y512/",
+      "retrieved": "2026-10-17T10:54:43Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-17T10:54:43Z",
+      "note": null
+    }
+  ]
+}

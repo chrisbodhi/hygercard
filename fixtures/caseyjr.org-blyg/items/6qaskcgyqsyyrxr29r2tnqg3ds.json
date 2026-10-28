@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "6qaskcgyqsyyrxr29r2tnqg3ds",
+  "kind": "thread",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "t/6qaskcgyqsyyrxr29r2tnqg3ds/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-22T17:00:24Z",
+  "updated": "2026-10-22T17:05:11Z",
+  "version": 1,
+  "content_md": "![[5p8r2zmvdbp4abah5q6vvvy4c8]]\n\n\n🤔 \n\nWas discussing a similar idea this morning",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"5p8r2zmvdbp4abah5q6vvvy4c8\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>Reading Joyce Appleby’s book <em>Relentless Revolution</em>, I’m struck by a parallel between how capitalism could not be unlocked until farm labor was made more efficient and how post-digital economics cannot be unlocked until thinking is made more efficient. Back then the challenge was to improve it so it didn’t suck up 80% of human energy. “Thinking” similarly sucks up 80% of human attention today. But it’s just thought-farming. We’re attached to it the same way farmers were attached to farming lifestyles and identities.We’re stuck because we can’t imagine the future in the same way farmers were stuck trying to imagine capitalism through the lens of pre-capitalist trade and commerce caught in a Malthusian boom-bust prison.</p>\n\n</blockquote>\n<p>🤔</p>\n<p>Was discussing a similar idea this morning</p>\n",
+  "content_hash": "sha256:5bfab8421b48f318dcbeb0c3486f7c213d12afbac6a3249eaca3acaaa2986e17",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "5p8r2zmvdbp4abah5q6vvvy4c8",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "Reading Joyce Appleby’s book Relentless Revolution, I’m struck by a parallel bet…",
+        "url": "https://venkateshrao.com/blyg/t/5p8r2zmvdbp4abah5q6vvvy4c8/",
+        "retrieved": "2026-10-22T17:05:11Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "5p8r2zmvdbp4abah5q6vvvy4c8",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Reading Joyce Appleby’s book Relentless Revolution, I’m struck by a parallel bet…",
+      "url": "https://venkateshrao.com/blyg/t/5p8r2zmvdbp4abah5q6vvvy4c8/",
+      "retrieved": "2026-10-22T17:05:11Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-22T17:05:11Z",
+      "note": null
+    }
+  ]
+}

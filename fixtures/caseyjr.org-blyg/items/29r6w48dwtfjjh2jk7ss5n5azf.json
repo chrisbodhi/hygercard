@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "29r6w48dwtfjjh2jk7ss5n5azf",
+  "kind": "fragment",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "f/29r6w48dwtfjjh2jk7ss5n5azf/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-11T01:56:34Z",
+  "updated": "2026-10-11T01:56:45Z",
+  "version": 1,
+  "content_md": "This conversation is delightful. A gift!\n\nWhat a beautiful mind. Have ordered Hayles' latest book [Bacteria to AI](https://press.uchicago.edu/ucp/books/book/chicago/B/bo238941793.html)\n\nhttps://www.youtube.com/watch?v=rryjPdKMxO4",
+  "content_html": "<p>This conversation is delightful. A gift!</p>\n<p>What a beautiful mind. Have ordered Hayles' latest book <a href=\"https://press.uchicago.edu/ucp/books/book/chicago/B/bo238941793.html\">Bacteria to AI</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=rryjPdKMxO4\">https://www.youtube.com/watch?v=rryjPdKMxO4</a></p>\n",
+  "content_hash": "sha256:fbdedcacc9e110fa02478109619d5482eeb8ed8b1e5d9c5e32843e42300b88a1",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-11T01:56:45Z",
+      "note": null
+    }
+  ]
+}

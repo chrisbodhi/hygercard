@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "086qve42052vq5nnf4jgny6j7a",
+  "kind": "fragment",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "f/086qve42052vq5nnf4jgny6j7a/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-10-10T01:46:21Z",
+  "updated": "2026-10-10T01:46:23Z",
+  "version": 1,
+  "content_md": "We've discovered linguistic computing, but we're still trying to understand it using theories about artificial people, when the more relevant intellectual traditions might be the study of media, institutions, and the evolution of complex systems.",
+  "content_html": "<p>We've discovered linguistic computing, but we're still trying to understand it using theories about artificial people, when the more relevant intellectual traditions might be the study of media, institutions, and the evolution of complex systems.</p>\n",
+  "content_hash": "sha256:6ae55ac0a719fbed7d63efa14c060b1ea7f7f9fa5198b9a535c736c158195a24",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-10T01:46:23Z",
+      "note": null
+    }
+  ]
+}

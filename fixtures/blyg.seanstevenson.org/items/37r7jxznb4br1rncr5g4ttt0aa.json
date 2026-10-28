@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "37r7jxznb4br1rncr5g4ttt0aa",
+  "kind": "fragment",
+  "origin": "https://blyg.seanstevenson.org/",
+  "page": "f/37r7jxznb4br1rncr5g4ttt0aa/",
+  "author": {
+    "name": "Sean Stevenson",
+    "url": "https://seanstevenson.org"
+  },
+  "created": "2026-10-21T13:15:14Z",
+  "updated": "2026-10-21T13:16:05Z",
+  "version": 1,
+  "content_md": "Interesting quote from Ada Palmer in recent Asterisk interview - drives home the need for eventfulness as a possible third or fourth way. “ Ada: We’re all aware of the type of history we call Great Man theory of history, which centers all agency in a couple of heroized figures, and which we’ve been trying to move away from. But one of the biggest types of history people turn to instead is Great Forces history, in which everything is giant gears grinding, and as soon as there’s a certain amount of torque in the system, the machine tips. That’s an important analytical tool. But just as much as Great Man history, Great Forces history erases agency for everyone, except perhaps economists, who get to believe they’re wielding the great forces.”",
+  "content_html": "<p>Interesting quote from Ada Palmer in recent Asterisk interview - drives home the need for eventfulness as a possible third or fourth way. “ Ada: We’re all aware of the type of history we call Great Man theory of history, which centers all agency in a couple of heroized figures, and which we’ve been trying to move away from. But one of the biggest types of history people turn to instead is Great Forces history, in which everything is giant gears grinding, and as soon as there’s a certain amount of torque in the system, the machine tips. That’s an important analytical tool. But just as much as Great Man history, Great Forces history erases agency for everyone, except perhaps economists, who get to believe they’re wielding the great forces.”</p>\n",
+  "content_hash": "sha256:4f478cabb435de7ff50f7ad7e25d72860ea4df164e10aeb6bfcf996b678d9267",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T13:16:05Z",
+      "note": null
+    }
+  ]
+}

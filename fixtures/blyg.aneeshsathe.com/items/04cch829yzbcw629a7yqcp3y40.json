@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "04cch829yzbcw629a7yqcp3y40",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/04cch829yzbcw629a7yqcp3y40/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-17T16:47:07Z",
+  "updated": "2026-10-17T16:48:52Z",
+  "version": 1,
+  "content_md": "Given the boat/burrow conversation we had it’s interesting that, apparently, the most famous quote from Kenneth Grahame's The Wind in the Willows is Water Rat's advice to Mole about boating: \n\n> “Believe me, my young friend, there is nothing—absolutely nothing—half so much worth doing as simply messing about in boats.”\n\n\n\n![[6dgtat9znqh1prn48zb060mstz]]\n\n",
+  "content_html": "<p>Given the boat/burrow conversation we had it’s interesting that, apparently, the most famous quote from Kenneth Grahame's The Wind in the Willows is Water Rat's advice to Mole about boating:</p>\n<blockquote>\n<p>“Believe me, my young friend, there is nothing—absolutely nothing—half so much worth doing as simply messing about in boats.”</p>\n</blockquote>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"6dgtat9znqh1prn48zb060mstz\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"4s8axky65tq51dba4pmcnhyt94\" data-blyg-version=\"2\" data-blyg-origin=\"https://www.msweet.net/notes/\">\n<p>New Nature needs a ruin. Anna Lowenhaupt Tsing’s matsutake don’t thrive in pristine forest; they come up in logged-over ruins once the extraction has moved on, feeding on what the clearcut left behind</p>\n</blockquote>\n<p>Hmm this feels possibly too strong. While some parts are like secondary growth, other parts are probably just new layers over still living old layers.</p>\n<p>For social media in particular, I think this model is too clean. I think the thicket will be like a ragged wilderness periphery past the edges of platform suburbia. Pre-weirding social media is mostly ruins, like a decayed urban core (that’s enshittification). But substack isn’t. That’s more like suburbia. Discord and slack are almost urban. Messaging groups are small neighborhood cafes. And urban revival is a distinct process than peripheral rewilding which is what I hope blygger can participate in.</p>\n<p>This mental model of blygger seems accurate for now, but remember, this is just a couple of dozen blygs or so right now, and hasn’t been advertised. If it gets bigger, blygger will acquire some of its character through encounters with adjacent media spaces and the interaction dynamics. Some bits, like identity, are deliberately underspecified precisely to allow those encounters to have interesting optionality. For example I don’t see Substack as fundamentally competitive. If Substack supports blygger feeds and semantics thus can become kinda like a parks-and-rec area for substackers who want to picnic or go on day hikes. If media outlets want to use blygger as a medium for (say) fast changing stories, that would not be very thickety, but like a stream through the thicket perhaps.</p>\n<p>I’d like the thicket to be highly capable of a pluralist existence with other modes rather than having an expansionary or exclusionary tendency for its native logic. Extending the imagery of the burrow animation that inspired Aneesh’s client, I’m inspired by the world of Kenneth Graham’s Wind in the Willows. Mole is perhaps the protagonist who embodies the thicket spirit, but rat, toad, and badger all inhabit slightly different milieus and they all get along. My least favorite part of that book is how stoats and weasels are turned into unnecessary antagonists for a set-piece climactic showdown that adds nothing to an otherwise charming tale. It’s like a Le Guin style carrier bag tale that panicked at the last minute and tacked on a hero’s journey ending.</p>\n<p>The thicket needs no villains to sustain its drama I think.</p>\n\n</blockquote>\n",
+  "content_hash": "sha256:28af7c42d3e25cbab35582bfecf5abea7a3b93bc9282ca8f8e5c637ea7063df5",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "6dgtat9znqh1prn48zb060mstz",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "New Nature needs a ruin. Anna Lowenhaupt Tsing’s matsutake don’t thrive in prist…",
+        "url": "https://venkateshrao.com/blyg/t/6dgtat9znqh1prn48zb060mstz/",
+        "retrieved": "2026-10-17T16:48:52Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "6dgtat9znqh1prn48zb060mstz",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "New Nature needs a ruin. Anna Lowenhaupt Tsing’s matsutake don’t thrive in prist…",
+      "url": "https://venkateshrao.com/blyg/t/6dgtat9znqh1prn48zb060mstz/",
+      "retrieved": "2026-10-17T16:48:52Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-17T16:48:52Z",
+      "note": null
+    }
+  ]
+}

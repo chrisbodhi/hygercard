@@ -1,0 +1,50 @@
+{
+  "blyg": "0.4",
+  "id": "4v83q9vdtvprnspxnks4z9mzvn",
+  "kind": "withdrawn",
+  "origin": "https://blyg.florianlohse.com/",
+  "page": "f/4v83q9vdtvprnspxnks4z9mzvn/",
+  "author": {
+    "name": "Florian Lohse",
+    "url": "https://florianlohse.com/"
+  },
+  "created": "2026-10-26T12:25:54Z",
+  "updated": "2026-10-27T06:09:33Z",
+  "version": 6,
+  "content_md": "",
+  "content_html": "",
+  "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T12:25:56Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-26T12:26:57Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-10-26T12:28:15Z",
+      "note": null
+    },
+    {
+      "version": 4,
+      "at": "2026-10-26T12:32:58Z",
+      "note": null
+    },
+    {
+      "version": 5,
+      "at": "2026-10-26T12:36:43Z",
+      "note": null
+    },
+    {
+      "version": 6,
+      "at": "2026-10-27T06:09:33Z",
+      "note": null
+    }
+  ]
+}

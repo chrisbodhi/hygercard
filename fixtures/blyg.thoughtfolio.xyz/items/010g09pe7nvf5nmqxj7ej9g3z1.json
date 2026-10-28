@@ -1,0 +1,31 @@
+{
+  "blyg": "0.3",
+  "id": "010g09pe7nvf5nmqxj7ej9g3z1",
+  "kind": "thread",
+  "origin": "https://blyg.thoughtfolio.xyz/",
+  "page": "t/010g09pe7nvf5nmqxj7ej9g3z1/",
+  "author": {
+    "name": "",
+    "url": "https://blyg.thoughtfolio.xyz/"
+  },
+  "created": "2026-09-26T14:52:14Z",
+  "updated": "2026-09-26T15:01:07Z",
+  "version": 1,
+  "content_md": "![[5x6ke8s13y4d0myd54jh8aagtd]]\n\nIntuitively, when I picture a grid turned into graph representation, clearly, external (corners and sides) and internal positions reflect on the valence of the nodes. \n\nNow, in the case of a maze, certain positions are blocked off thus the adjacency is meaningless from a mobility perspective. \n\nThe mobility graph now is more interesting. Namely, a non-trial grid graph with holes in it.\n\nI might be tempted to use this representation as a way to visualize various stats of stigmergy or other protocol phenomena.\n\n(Possibly relevant to, [Umwelt](https://thoughtfolio.xyz/Protocol+Theory/Stigmergy+Workshop/Ontology+of+a+Semantic+Engine+for+World+Simulations+and+Protocol+Studies))\n",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"5x6ke8s13y4d0myd54jh8aagtd\" data-blyg-version=\"1\">\n<p>I just remember something I wanted to pin for a later exploration.</p>\n<p>Explore the connection between &quot;Mazes&quot; and their graph representations built out of adjacency relations.</p>\n<p>The work we have done on <a href=\"https://github.com/Protocol-Institute/stigsim\">stigsim</a> lead me to understand how much can be done on top of discrete topologies, like grids when you instantiate something like a maze on top of it.</p>\n\n</blockquote>\n<p>Intuitively, when I picture a grid turned into graph representation, clearly, external (corners and sides) and internal positions reflect on the valence of the nodes.</p>\n<p>Now, in the case of a maze, certain positions are blocked off thus the adjacency is meaningless from a mobility perspective.</p>\n<p>The mobility graph now is more interesting. Namely, a non-trial grid graph with holes in it.</p>\n<p>I might be tempted to use this representation as a way to visualize various stats of stigmergy or other protocol phenomena.</p>\n<p>(Possibly relevant to, <a href=\"https://thoughtfolio.xyz/Protocol+Theory/Stigmergy+Workshop/Ontology+of+a+Semantic+Engine+for+World+Simulations+and+Protocol+Studies\">Umwelt</a>)</p>\n",
+  "content_hash": "sha256:dff64824898a2d784cb7bf3cd82dee1270688662ecda5bc1c67a4fddeb10b3f3",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "5x6ke8s13y4d0myd54jh8aagtd",
+      "version": 1
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-26T15:01:07Z",
+      "note": null
+    }
+  ]
+}

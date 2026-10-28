@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "0f8n7ycpj0fnsq5mzfp288m0cn",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/0f8n7ycpj0fnsq5mzfp288m0cn/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-18T20:55:24Z",
+  "updated": "2026-10-18T20:56:30Z",
+  "version": 1,
+  "content_md": "![[173sgy4t13arkpp8pbqv76yrt0]]\n\nWhat I usually do is maintain a localy copy of the studio code and ask Burrow agent to make sure all the features match, then add upgrades on top. That way I don't need to rebuild things from scratch. \n\nMaybe that approach will be helpful to you also?",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"173sgy4t13arkpp8pbqv76yrt0\" data-blyg-version=\"1\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<p class=\"blynger-stub-label\"><strong>Stubbing:</strong> <a href=\"https://venkateshrao.com/blyg/f/4dkqht955z9aq1ekr7bekex980/\">Strong Norm: Please hook up an AI for changelog generation at least, and start using the ignyr directive.</a></p><blockquote class=\"blyg-transclusion\" data-blyg-id=\"4dkqht955z9aq1ekr7bekex980\" data-blyg-origin=\"https://venkateshrao.com/blyg/\" data-blyg-version=\"2\"><h1>Strong Norm: Please hook up an AI for changelog generation at least, and start using the ignyr directive.</h1>\n<p>At the very least, use a Jev-class super cheap classifier to post category-based changelogs like “minor”, “major”, “typo” etc. Without this signal, rollups and feeds in other people’s readers will present your feed in a noisy, low-quality way. I’ve made a pace-layered feed the default in Studio, and currently it moves old items up by 1 for every change. Once we have richer changelog data, the swimming upstream can be smarter.</p>\n<p>I’m going to make “ignyr” tagging automated and on by default in Studio.</p>\n<p>I’m also going to work on a scheme for AI assisted auto-pinning too, which will take changelog data as input in deciding whether to pin a new version (or prompt you to). Pinning is going to be a particularly strong signal once we close that loop properly, since an important class of high-signal feed heuristics will be “pinned only.”</p>\n</blockquote><p>So the intent of Blygger is starting to sink in for me here. I had to run this by ChatGPT to make sure I understood it correctly, and ChatGPT confirmed that it understood it as I did: Robots will help behind-the-scense in publishing to help us humans make sense of the stuff coming out in the blyggerverse. </p><p>I think it's natural for us to see robot-aided-writing as something that deals with the content, but now I'm starting to see it. The robots will help organize what we read and how we manage the flow. I guess this has been obvious all along, looking back, but it can take a while for you to see a thing when it's new.</p><p>OK, this is going to be a new challenge for my nascent vibecoding skills, but let's go. ChatGPT is recommending I install a tiny version of Qwen on my Mac to start writing metadata to go out with my posts. Not a development I foresaw as I undertook Blynger, but LFG.</p>\n</blockquote>\n<p>What I usually do is maintain a localy copy of the studio code and ask Burrow agent to make sure all the features match, then add upgrades on top. That way I don't need to rebuild things from scratch.</p>\n<p>Maybe that approach will be helpful to you also?</p>\n",
+  "content_hash": "sha256:0b3a06304fe49a1fc02e93e1a588111f8d0d5bd0116bfa9826e83b1af31f065f",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "173sgy4t13arkpp8pbqv76yrt0",
+      "version": 1,
+      "origin": "https://bradydale.com/blyg/",
+      "cited": {
+        "source": "Brady Dale's blyg",
+        "author": "Brady Dale",
+        "excerpt": "Stubbing: Strong Norm: Please hook up an AI for changelog generation at least, a…",
+        "url": "https://bradydale.com/blyg/t/173sgy4t13arkpp8pbqv76yrt0/",
+        "retrieved": "2026-10-18T20:56:30Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://bradydale.com/blyg/",
+    "id": "173sgy4t13arkpp8pbqv76yrt0",
+    "version": 1,
+    "cited": {
+      "source": "Brady Dale's blyg",
+      "author": "Brady Dale",
+      "excerpt": "Stubbing: Strong Norm: Please hook up an AI for changelog generation at least, a…",
+      "url": "https://bradydale.com/blyg/t/173sgy4t13arkpp8pbqv76yrt0/",
+      "retrieved": "2026-10-18T20:56:30Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-18T20:56:30Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "5gwapt8wctqkkcanw7twsvg268",
+  "kind": "fragment",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "f/5gwapt8wctqkkcanw7twsvg268/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-10-03T04:55:25Z",
+  "updated": "2026-10-03T04:55:26Z",
+  "version": 1,
+  "content_md": "The word _ontological_ is so over. The pope is [on it](https://x.com/pontifex/status/2105983638147891490) now.\n> In this era of artificial intelligence, it is becoming urgent to distinguish human art from what machines produce. There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others. Algorithms lack the spark of humanity. For this reason, the Church wishes to renew an alliance with artists and cultural institutions to safeguard our humanity.",
+  "content_html": "<p>The word <em>ontological</em> is so over. The pope is <a href=\"https://x.com/pontifex/status/2105983638147891490\">on it</a> now.</p>\n<blockquote>\n<p>In this era of artificial intelligence, it is becoming urgent to distinguish human art from what machines produce. There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others. Algorithms lack the spark of humanity. For this reason, the Church wishes to renew an alliance with artists and cultural institutions to safeguard our humanity.</p>\n</blockquote>\n",
+  "content_hash": "sha256:c35f8bbe6cb56878803a152a127d993b609ecfd705d1f6bcff4aa054ad51a7dd",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-03T04:55:26Z",
+      "note": null
+    }
+  ]
+}

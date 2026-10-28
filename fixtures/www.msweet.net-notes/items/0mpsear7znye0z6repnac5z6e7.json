@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "0mpsear7znye0z6repnac5z6e7",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "775-cobalt-lynxes",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-20T20:24:11Z",
+  "updated": "2026-10-20T20:24:11Z",
+  "version": 1,
+  "content_md": "The ideal protocol makes coordination cost linear in total and flat per participant; a good-enough one drops both down one scaling class. But protocols carry fixed costs and hidden constants, so they only pay off past a certain size. And that size is shrinking fast because, \\*waves hands and gestures, AI.\n\n> In this episode, I use \\*Civilization IV\\* to look at that problem through Ronald Coase, Oliver Williamson, and Kenneth Arrow. We’ll look at make-or-buy decisions, the administrative cost of bringing more work inside the organization, and what happens when there is simply too much information for one leader to keep track of.\n\n[Organizational Friction Explained Through Civ 4 - YouTube ↗](https://youtu.be/WMwpsLZ_BGg)",
+  "content_html": "<p>The ideal protocol makes coordination cost linear in total and flat per participant; a good-enough one drops both down one scaling class. But protocols carry fixed costs and hidden constants, so they only pay off past a certain size. And that size is shrinking fast because, *waves hands and gestures, AI.</p>\n<blockquote><p>In this episode, I use *Civilization IV* to look at that problem through Ronald Coase, Oliver Williamson, and Kenneth Arrow. We’ll look at make-or-buy decisions, the administrative cost of bringing more work inside the organization, and what happens when there is simply too much information for one leader to keep track of.</p></blockquote>\n<p class=\"source\"><a href=\"https://youtu.be/WMwpsLZ_BGg\">Organizational Friction Explained Through Civ 4 - YouTube ↗</a></p>",
+  "content_hash": "sha256:819afa8b0dc8ae3d16a1ee6a50595ac0028989caff0f68db1b47367ea8b561ee",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-20T20:24:11Z",
+      "note": null
+    }
+  ]
+}

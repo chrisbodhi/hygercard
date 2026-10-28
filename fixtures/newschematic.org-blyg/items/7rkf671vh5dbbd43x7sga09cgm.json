@@ -1,0 +1,21 @@
+{
+  "blyg": "0.3",
+  "changelog": [
+    {
+      "at": "2026-09-28T01:36:50Z",
+      "note": null,
+      "version": 1
+    }
+  ],
+  "content_hash": "sha256:18375e1a424f8654f2fe82da1dc70f805d162fe0a590873d0baa807736e0b7eb",
+  "content_html": "<p>It&rsquo;s not quite a vanilla Emacs config, more like vanillin &ndash; similar in color, smell, and taste to the natural version, but it&rsquo;s made from an industrial byproduct of the wood pulping process.</p>\n",
+  "content_md": "It's not quite a vanilla Emacs config, more like vanillin -- similar in color, smell, and taste to the natural version, but it's made from an industrial byproduct of the wood pulping process.\n",
+  "created": "2026-09-28T01:36:50Z",
+  "id": "7rkf671vh5dbbd43x7sga09cgm",
+  "kind": "fragment",
+  "media": [],
+  "origin": "https://newschematic.org/blyg/",
+  "page": "f/7rkf671vh5dbbd43x7sga09cgm/",
+  "updated": "2026-09-28T01:36:50Z",
+  "version": 1
+}

@@ -1,0 +1,43 @@
+{
+  "blyg": "0.4",
+  "id": "4nk23gf1a831x9nqz6d4hwyf5b",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/4nk23gf1a831x9nqz6d4hwyf5b/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-26T03:45:32Z",
+  "updated": "2026-10-26T03:55:08Z",
+  "version": 2,
+  "content_md": "# Places are made of slightly dead Spaces\n\nReplying to: [[3q36phkpev9w72hff84srnw98d]]\n\nIn Yi Fu Tuan's conceptions, to make a Place, something of Place must die. A clearing acquires a name, paths, boundaries, and memories. A thousand possible ways through it collapse into a few familiar ones. Space, in Yi-Fu Tuan's sense, surrenders some freedom to become place.\n\nBut place makes new freedoms possible. A lab fixes the area of science you can reach, yet allows scientists to explore ideas that were previously unreachable.\n\nAnd no scientist starts blank. They carry their previous labs and trainings, their places, into new spaces through their protocols, instruments, jargon, and even superstitions.\n\nPerhaps space and place are not then opposites but phases of a continuous metamorphosis. We sacrifice possibility to create a foothold, then use that foothold to discover possibilities that could not previously exist.\n\n\n",
+  "content_html": "<h1>Places are made of slightly dead Spaces</h1>\n<p>Replying to: <a href=\"https://venkateshrao.com/blyg/t/3q36phkpev9w72hff84srnw98d/\">What is not dying in the Gramsci Gap?</a></p>\n<p>In Yi Fu Tuan's conceptions, to make a Place, something of Place must die. A clearing acquires a name, paths, boundaries, and memories. A thousand possible ways through it collapse into a few familiar ones. Space, in Yi-Fu Tuan's sense, surrenders some freedom to become place.</p>\n<p>But place makes new freedoms possible. A lab fixes the area of science you can reach, yet allows scientists to explore ideas that were previously unreachable.</p>\n<p>And no scientist starts blank. They carry their previous labs and trainings, their places, into new spaces through their protocols, instruments, jargon, and even superstitions.</p>\n<p>Perhaps space and place are not then opposites but phases of a continuous metamorphosis. We sacrifice possibility to create a foothold, then use that foothold to discover possibilities that could not previously exist.</p>\n",
+  "content_hash": "sha256:f10c5eff2c6d5b9537bf21dda1b93d42abebfadcefa20c1a0cd51daa12af23c0",
+  "media": [],
+  "transclusions": [],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "3q36phkpev9w72hff84srnw98d",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "What is not dying in the Gramsci Gap? I like the William Faulkner quote, “the pa…",
+      "url": "https://venkateshrao.com/blyg/t/3q36phkpev9w72hff84srnw98d/",
+      "retrieved": "2026-10-26T03:55:08Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T03:51:31Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-26T03:55:08Z",
+      "note": null
+    }
+  ]
+}

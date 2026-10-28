@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "45d8a8yzhvnacb2k6e2ky0y512",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/45d8a8yzhvnacb2k6e2ky0y512/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-10-11T21:57:46Z",
+  "updated": "2026-10-11T22:12:17Z",
+  "version": 2,
+  "content_md": "![[4bx8vv7yyemfbbxakk665pcsrz]]\n\nTypesafe is already at $100m ARR is what was leaked. Investors and customers are probably comfortable betting the inventors of a new category will continue to out innovate fast followers.",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"4bx8vv7yyemfbbxakk665pcsrz\" data-blyg-version=\"4\" data-blyg-origin=\"https://caseyjr.org/blyg/\">\n<p>Things that make you go 🤔</p>\n<p>9 October // a16z <a href=\"https://a16z.com/announcement/investing-in-typesafe-ai/\">leads</a> $870 million Series A for TypeSafe AI (Jev) at a $7.5bn valuation</p>\n<p>Also 9 October // Microsoft <a href=\"https://commandline.microsoft.com/microsoft-decision-1-model-foundry/\">introduces Decision-1</a> with higher accuracy and lower latency than Jev</p>\n\n</blockquote>\n<p>Typesafe is already at $100m ARR is what was leaked. Investors and customers are probably comfortable betting the inventors of a new category will continue to out innovate fast followers.</p>\n",
+  "content_hash": "sha256:1b98b56fbe2439f6d434c5dc8806c0698280728d96c529530dd0fa7b7466a8b1",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "4bx8vv7yyemfbbxakk665pcsrz",
+      "version": 4,
+      "origin": "https://caseyjr.org/blyg/",
+      "cited": {
+        "source": "Mike Casey's blyg",
+        "author": "Mike Casey",
+        "excerpt": "Things that make you go 🤔 9 October // a16z leads $870 million Series A for Typ…",
+        "url": "https://caseyjr.org/blyg/f/4bx8vv7yyemfbbxakk665pcsrz/",
+        "retrieved": "2026-10-11T22:12:17Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://caseyjr.org/blyg/",
+    "id": "4bx8vv7yyemfbbxakk665pcsrz",
+    "version": 4,
+    "cited": {
+      "source": "Mike Casey's blyg",
+      "author": "Mike Casey",
+      "excerpt": "Things that make you go 🤔 9 October // a16z leads $870 million Series A for Typ…",
+      "url": "https://caseyjr.org/blyg/f/4bx8vv7yyemfbbxakk665pcsrz/",
+      "retrieved": "2026-10-11T22:12:17Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-11T21:59:13Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-11T22:12:17Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "blyg": "0.3",
+  "id": "37d4erk1enfx8rg3cv01054q7g",
+  "kind": "fragment",
+  "origin": "https://rafael.fyi/blyg/",
+  "page": "f/37d4erk1enfx8rg3cv01054q7g/",
+  "created": "2026-10-05T05:27:53Z",
+  "updated": "2026-10-05T05:27:53Z",
+  "version": 1,
+  "content_md": "# Why a blyg\n\nA blog post is a snapshot. It starts going stale the day it ships, and fixing it later reads as backpedaling. A blyg runs the other way: posts stay alive. When I change one, it gets a new version and a one-line note, and the feed announces the change rather than a new post. It's the [Blygger protocol](https://blygger.org/), which means plain files on my own domain and an RSS feed, with no platform in the middle. Blyg is Swedish for shy, which is about right. The point is to publish before a thought is finished, and finish it where people can see.\n",
+  "content_html": "<h1>Why a blyg</h1>\n<div class=\"blyg-tk-gen\"><p>A blog post is a snapshot. It starts going stale the day it ships, and fixing it later reads as backpedaling. A blyg runs the other way: posts stay alive. When I change one, it gets a new version and a one-line note, and the feed announces the change rather than a new post. It's the <a href=\"https://blygger.org/\">Blygger protocol</a>, which means plain files on my own domain and an RSS feed, with no platform in the middle. Blyg is Swedish for shy, which is about right. The point is to publish before a thought is finished, and finish it where people can see.</p></div>",
+  "content_hash": "sha256:6a97eca1edc925ef734611d47e0932a6b271456fbad7071450e08b2fbaac0fb1",
+  "media": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5",
+      "at": "2026-10-05T05:27:53Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-05T05:27:53Z",
+      "note": "First post"
+    }
+  ]
+}

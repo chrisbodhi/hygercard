@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "0fs6radjwax2jq5zawzkk3h9vs",
+  "kind": "fragment",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "f/0fs6radjwax2jq5zawzkk3h9vs/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-23T04:22:10Z",
+  "updated": "2026-10-23T04:24:27Z",
+  "version": 1,
+  "content_md": "From the harpers index:\n\n> Estimated combined cost of the three most expensive Democratic Senate primary races this year : $180,000,000\nNovember 2026 • Source: VoteLog (Oklahoma City)\n\n> Average percentage by which the winner was outspent by the runner-up : 215\nNovember 2026 • Source: VoteLog (Oklahoma City)\n\n> Average margin of victory, in percentage points, for those winners : 9.3\n\nThankfully I am getting outspent in my local water board campaign to a nontrivial degree! \n\nFunnily enough I met a fairly active community member earlier tonight and they had this to say about my opponents mailer: where did they get the money? What's their agenda? Can't trust them. (Paraphrasing)",
+  "content_html": "<p>From the harpers index:</p>\n<blockquote>\n<p>Estimated combined cost of the three most expensive Democratic Senate primary races this year : $180,000,000\nNovember 2026 • Source: VoteLog (Oklahoma City)</p>\n</blockquote>\n<blockquote>\n<p>Average percentage by which the winner was outspent by the runner-up : 215\nNovember 2026 • Source: VoteLog (Oklahoma City)</p>\n</blockquote>\n<blockquote>\n<p>Average margin of victory, in percentage points, for those winners : 9.3</p>\n</blockquote>\n<p>Thankfully I am getting outspent in my local water board campaign to a nontrivial degree!</p>\n<p>Funnily enough I met a fairly active community member earlier tonight and they had this to say about my opponents mailer: where did they get the money? What's their agenda? Can't trust them. (Paraphrasing)</p>\n",
+  "content_hash": "sha256:4262a86e46ad523783b19ad1f4d3f2e94453e1c7c3b52b71e4f89b31aa8ce004",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T04:24:27Z",
+      "note": null
+    }
+  ]
+}

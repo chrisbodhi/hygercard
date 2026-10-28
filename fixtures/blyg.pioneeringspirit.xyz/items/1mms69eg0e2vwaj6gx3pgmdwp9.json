@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "1mms69eg0e2vwaj6gx3pgmdwp9",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/1mms69eg0e2vwaj6gx3pgmdwp9/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-26T05:07:15Z",
+  "updated": "2026-10-26T05:33:52Z",
+  "version": 1,
+  "content_md": "![[4nk23gf1a831x9nqz6d4hwyf5b]]\n> A clearing acquires a name, paths, boundaries, and memories. \n\nCantor dust is dense in itself yet nowhere dense in the line that holds it. A small town is such a speck: crowded with lives inside, collapse into a unit measure. \n\nMy valley holds Korean War veterans, families that fled South Korea's dictatorship for South America and then the states, refugees from fallen communism, engineers rocketing excellence into America's doomsday machine. Each life is a script with endless paths, and they pass one another, sometimes silently.\n\nI walk my dogs when a high school classmate auditing Caltech graduate math walks by to the bus stop. I meet a mars geologist working on the Rover and mention the yak robotics garage. Places provide possibilities, footholds of futures dazzling in their infinity. \n\nMy daughter says she wants to go to the stars but wants me to come with her. Shes still not yet four. Im grateful beyond words to see the world with new eyes. \n",
+  "content_html": "<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"4nk23gf1a831x9nqz6d4hwyf5b\" data-blyg-version=\"2\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<p>A clearing acquires a name, paths, boundaries, and memories.</p>\n</blockquote>\n<p>Cantor dust is dense in itself yet nowhere dense in the line that holds it. A small town is such a speck: crowded with lives inside, collapse into a unit measure.</p>\n<p>My valley holds Korean War veterans, families that fled South Korea's dictatorship for South America and then the states, refugees from fallen communism, engineers rocketing excellence into America's doomsday machine. Each life is a script with endless paths, and they pass one another, sometimes silently.</p>\n<p>I walk my dogs when a high school classmate auditing Caltech graduate math walks by to the bus stop. I meet a mars geologist working on the Rover and mention the yak robotics garage. Places provide possibilities, footholds of futures dazzling in their infinity.</p>\n<p>My daughter says she wants to go to the stars but wants me to come with her. Shes still not yet four. Im grateful beyond words to see the world with new eyes.</p>\n",
+  "content_hash": "sha256:5338b1ed03de5290297e603ea82d0586c0ef4f2a73993b43ebe37d124a989d19",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "4nk23gf1a831x9nqz6d4hwyf5b",
+      "version": 2,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "selector": {
+        "exact": "A clearing acquires a name, paths, boundaries, and memories.",
+        "prefix": "e, something of Place must die. ",
+        "suffix": " A thousand possible ways throug"
+      },
+      "cited": {
+        "source": "And Yet Here We Are 🚀",
+        "author": "Aneesh Sathe",
+        "excerpt": "Places are made of slightly dead Spaces Replying to: What is not dying in the Gr…",
+        "url": "https://blyg.aneeshsathe.com/t/4nk23gf1a831x9nqz6d4hwyf5b/",
+        "retrieved": "2026-10-26T05:33:52Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "4nk23gf1a831x9nqz6d4hwyf5b",
+    "version": 2,
+    "cited": {
+      "source": "And Yet Here We Are 🚀",
+      "author": "Aneesh Sathe",
+      "excerpt": "Places are made of slightly dead Spaces Replying to: What is not dying in the Gr…",
+      "url": "https://blyg.aneeshsathe.com/t/4nk23gf1a831x9nqz6d4hwyf5b/",
+      "retrieved": "2026-10-26T05:33:52Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T05:33:52Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "blyg": "0.4",
+  "id": "6ftb9x77qw3egm7wrbn5vnfzfr",
+  "kind": "thread",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/6ftb9x77qw3egm7wrbn5vnfzfr/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-10-04T02:46:35Z",
+  "updated": "2026-10-04T02:46:35Z",
+  "version": 1,
+  "content_md": "Conformance exercise for gate G11 (decision #57, blygger-studio 0.20.0): a pinned thread carrying a remote quote, to be forked on the other node, where the quote must arrive flattened rather than as a directive.\n\n![[54pwr12zqvvaj37zqx0f8vdbhk]]\n\nThe quote above is from venkateshrao.com.",
+  "content_html": "<p>Conformance exercise for gate G11 (decision #57, blygger-studio 0.20.0): a pinned thread carrying a remote quote, to be forked on the other node, where the quote must arrive flattened rather than as a directive.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"54pwr12zqvvaj37zqx0f8vdbhk\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>People who want a more stable, fast version may want to use aneesh’s client. The reference studio client will have more feature completeness but will also move fast and break things.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"522ad1jcre2jd3x281wy251qg3\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<p>New version of blygger-desktop is up</p>\n<p>The auto-updater should download it. if not, check for updates in the main Blygger menu or in Help&gt;About</p>\n<p>If you haven't updated since 0.3, you will need to redownload. See instructions: <a href=\"https://github.com/aneeshsathe/blygger-desktop\">https://github.com/aneeshsathe/blygger-desktop</a></p>\n\n</blockquote>\n\n</blockquote>\n<p>The quote above is from <a href=\"http://venkateshrao.com\">venkateshrao.com</a>.</p>\n",
+  "content_hash": "sha256:d4529123ae559c5d92977105f128f70a8b6d03fc2e61683bc31428283f9a04c8",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "54pwr12zqvvaj37zqx0f8vdbhk",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "People who want a more stable, fast version may want to use aneesh’s client. The…",
+        "url": "https://venkateshrao.com/blyg/t/54pwr12zqvvaj37zqx0f8vdbhk/",
+        "retrieved": "2026-10-04T02:46:35Z"
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-04T02:46:35Z",
+      "note": null,
+      "pinned": true
+    }
+  ]
+}

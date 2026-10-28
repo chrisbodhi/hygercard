@@ -1,0 +1,21 @@
+{
+  "blyg": "0.3",
+  "changelog": [
+    {
+      "at": "2026-10-10T13:34:44Z",
+      "note": null,
+      "version": 1
+    }
+  ],
+  "content_hash": "sha256:fcb72d31ebadd3ac3f52730f17fd3c758ed7059c861cf8b061bd6eba8e8df4a9",
+  "content_html": "<p>Dangerously close to getting these projects into a shareable &ndash; and breakable &ndash; state. Is it naptime yet??</p>\n",
+  "content_md": "Dangerously close to getting these projects into a shareable -- and breakable -- state. Is it naptime yet??\n",
+  "created": "2026-10-10T13:34:44Z",
+  "id": "61ftrv0tzk34pzd613dzyhnnd7",
+  "kind": "fragment",
+  "media": [],
+  "origin": "https://newschematic.org/blyg/",
+  "page": "f/61ftrv0tzk34pzd613dzyhnnd7/",
+  "updated": "2026-10-10T13:34:44Z",
+  "version": 1
+}

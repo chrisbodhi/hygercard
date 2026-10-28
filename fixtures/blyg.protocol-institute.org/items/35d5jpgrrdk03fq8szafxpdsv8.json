@@ -1,0 +1,44 @@
+{
+  "blyg": "0.4",
+  "id": "35d5jpgrrdk03fq8szafxpdsv8",
+  "kind": "thread",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/35d5jpgrrdk03fq8szafxpdsv8/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-25T15:30:10Z",
+  "updated": "2026-09-25T15:30:41Z",
+  "version": 1,
+  "content_md": "Aneesh has joined the blygging revolution\n\n![[534ypbq54rt882nqmss2nfnzg8]]\n\n",
+  "content_html": "<p>Aneesh has joined the blygging revolution</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"534ypbq54rt882nqmss2nfnzg8\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<p>And my first stub-back!</p>\n<p>Back-stubbing would be a fun thing to come into parlance 😄</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"1zrpk185yr9wt7cbnwq4c9mg9j\" data-blyg-version=\"2\" data-blyg-origin=\"https://jd-blyg.exe.xyz/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"0c6gjtnyg4qmrs5nvha0gar2vb\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<p>Hello blyg world!!</p>\n\n</blockquote>\n<p><em>tap tap tap</em> is this thing on? you're my first stub, Aneesh 🥇\n<span class=\"blyg-tk-gen\">![[7k2wq9fbz3mxdnp5rt8hyj4cve]]\n_context, since &quot;stub&quot; is doing a lot of work here: this is what the screen looked like before — that little ghosted row at the bottom is the affordance, sitting there empty, waiting for someone to be the first_</span></p>\n\n</blockquote>\n\n</blockquote>\n",
+  "content_hash": "sha256:03acf37c5a63f4c4d9c6247c7b7d4888ad28d7b907ade68811eaf9c06640649d",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "534ypbq54rt882nqmss2nfnzg8",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/"
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "534ypbq54rt882nqmss2nfnzg8",
+    "version": 1,
+    "cited": {
+      "source": "Aneesh's Blyg",
+      "author": "Aneesh Sathe",
+      "excerpt": "And my first stub-back! Back-stubbing would be a fun thing to come into parlance…",
+      "url": "https://blyg.aneeshsathe.com/t/534ypbq54rt882nqmss2nfnzg8/",
+      "retrieved": "2026-09-25T15:30:41Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-25T15:30:41Z",
+      "note": null
+    }
+  ]
+}

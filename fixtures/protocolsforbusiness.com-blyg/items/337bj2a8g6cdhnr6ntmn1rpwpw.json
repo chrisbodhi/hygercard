@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "337bj2a8g6cdhnr6ntmn1rpwpw",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/337bj2a8g6cdhnr6ntmn1rpwpw/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# SIGPfB Async Discussion: In-Stream vs. In-Structure Tension Management\n\n*Session of 28 July 2025.* Participants: timber1997, _vgr, rafa_0x, plague_year.\n\nThe SIGPfB group held an async discussion on a preprint paper about managing tensions in business protocols. Due to quorum issues, participants engaged asynchronously with two guiding prompts about why certain tensions are managed in-stream versus in-structure, and risks of managing tensions in the wrong medium.\n\n**Key points**\n\n- In-structure protocols evolve in step-changes but have continuous effects, while in-stream protocols evolve incrementally and are enacted discretely based on individual interactions.\n- In-stream tension management (coaching, apprenticeships) is often invisible in documentation but critically valuable for network deepening, whereas in-structure expertise proves valuable for cross-network transitions.\n- Crypto's rigid permission model for structural changes forces greater reliance on tactical in-stream maneuvering, making informal management practices unusually important.\n- Attempting to implement in-stream technologies (like LLM chatbots) as rigid structures is a category failure that likely dooms adoption; they work better as discretionary tools.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2025-07-28-sigpfb-async-discussion-in-stream-vs-in-structure-tensi) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-07-28-sigpfb-async-discussion-in-stream-vs-in-structure-tensi/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>SIGPfB Async Discussion: In-Stream vs. In-Structure Tension Management</h1>\n<p><em>Session of 28 July 2025.</em> Participants: timber1997, _vgr, rafa_0x, plague_year.</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB group held an async discussion on a preprint paper about managing tensions in business protocols. Due to quorum issues, participants engaged asynchronously with two guiding prompts about why certain tensions are managed in-stream versus in-structure, and risks of managing tensions in the wrong medium.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>In-structure protocols evolve in step-changes but have continuous effects, while in-stream protocols evolve incrementally and are enacted discretely based on individual interactions.</li>\n<li>In-stream tension management (coaching, apprenticeships) is often invisible in documentation but critically valuable for network deepening, whereas in-structure expertise proves valuable for cross-network transitions.</li>\n<li>Crypto's rigid permission model for structural changes forces greater reliance on tactical in-stream maneuvering, making informal management practices unusually important.</li>\n<li>Attempting to implement in-stream technologies (like LLM chatbots) as rigid structures is a category failure that likely dooms adoption; they work better as discretionary tools.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2025-07-28-sigpfb-async-discussion-in-stream-vs-in-structure-tensi\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-07-28-sigpfb-async-discussion-in-stream-vs-in-structure-tensi/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:2a0b4018b8f0ecd26ade4416f8c7348d75b1089991c23d0036962912d88f3367",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

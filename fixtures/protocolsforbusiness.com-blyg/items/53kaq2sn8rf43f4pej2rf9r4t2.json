@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "53kaq2sn8rf43f4pej2rf9r4t2",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/53kaq2sn8rf43f4pej2rf9r4t2/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# SIGPfB Dec 29th Meeting: Protocol Thinking as Design Framework\n\n*Session of 29 December 2025.* Participants: rafa_0x, timber1997.\n\nThe SIGPfB group met to refine their framing of protocols in business contexts. A core tension emerged: how to shift readers from abstract protocol theory to embodied recognition of protocols everywhere. The group settled on speed/time as a powerful oblique lens—when one business wheel accelerates (e.g., Slack adoption), it can create dead time and coordination strain elsewhere, revealing implicit protocols that were previously invisible. They identified Boom Supersonic's calendar-versus-communication misalignment as the anchor case, with Y2K and version control as supporting examples. A critical insight was audience clarity: the stated target is senior executives, but the actual primary reader is likely the analyst or staff layer adjacent to leadership. The group concluded that effective writing must alternate between 2–3 sentences of conceptual work and a return to vivid, grounded examples to maintain reader engagement and legibility.\n\n**Key points**\n\n- Protocol thinking is primarily about learning to see existing coordination structures; disruptive events (COVID, Y2K) make implicit constraints legible and turn them into explicit design objects.\n- Speed and temporal regime changes create protocol strain; the goal is to arm senior managers with a diagnostic lens to recognize where existing protocols fail under new scale/speed conditions.\n- Writing strategy must alternate between conceptual explanation and vivid concrete examples; the primary audience is mid-level analysts/staff who read carefully and then retell to executives, not executives reading directly.\n- Protocols function as safety and variance-management mechanisms; design trades are central—you gain new protection in one dimension at the cost of constraints in another.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2025-12-29-sigpfb-dec-29th-meeting-protocol-thinking-as-design-fra) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-12-29-sigpfb-dec-29th-meeting-protocol-thinking-as-design-fra/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>SIGPfB Dec 29th Meeting: Protocol Thinking as Design Framework</h1>\n<p><em>Session of 29 December 2025.</em> Participants: rafa_0x, timber1997.</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB group met to refine their framing of protocols in business contexts. A core tension emerged: how to shift readers from abstract protocol theory to embodied recognition of protocols everywhere. The group settled on speed/time as a powerful oblique lens—when one business wheel accelerates (e.g., Slack adoption), it can create dead time and coordination strain elsewhere, revealing implicit protocols that were previously invisible. They identified Boom Supersonic's calendar-versus-communication misalignment as the anchor case, with Y2K and version control as supporting examples. A critical insight was audience clarity: the stated target is senior executives, but the actual primary reader is likely the analyst or staff layer adjacent to leadership. The group concluded that effective writing must alternate between 2–3 sentences of conceptual work and a return to vivid, grounded examples to maintain reader engagement and legibility.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>Protocol thinking is primarily about learning to see existing coordination structures; disruptive events (COVID, Y2K) make implicit constraints legible and turn them into explicit design objects.</li>\n<li>Speed and temporal regime changes create protocol strain; the goal is to arm senior managers with a diagnostic lens to recognize where existing protocols fail under new scale/speed conditions.</li>\n<li>Writing strategy must alternate between conceptual explanation and vivid concrete examples; the primary audience is mid-level analysts/staff who read carefully and then retell to executives, not executives reading directly.</li>\n<li>Protocols function as safety and variance-management mechanisms; design trades are central—you gain new protection in one dimension at the cost of constraints in another.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2025-12-29-sigpfb-dec-29th-meeting-protocol-thinking-as-design-fra\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-12-29-sigpfb-dec-29th-meeting-protocol-thinking-as-design-fra/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:b7ca1dc33d20bab3d4aba7672be67bcb0f924a6137d16ebf931c903f47f5593b",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

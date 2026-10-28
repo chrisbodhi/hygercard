@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "0zw291tcqx40as82p0fyaqgjeh",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "980-lilac-deer",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-26T17:16:27Z",
+  "updated": "2026-10-26T17:16:27Z",
+  "version": 1,
+  "content_md": "Hmmmm.\n\n> Matt Clifford and Ian Hogarth believe Europe is roughly a decade behind the United States in building the technology companies that will define the next era. But they also believe that the gap can be closed, and that the UK and Europe could even leapfrog America, if political leaders and the public make fundamentally different choices.\n\n[Rule Britannia? How the UK Wins the AI Era | Matt Clifford  Ian Hogarth - YouTube ↗](https://youtu.be/cD3UtHVr99o)",
+  "content_html": "<p>Hmmmm.</p>\n<blockquote><p>Matt Clifford and Ian Hogarth believe Europe is roughly a decade behind the United States in building the technology companies that will define the next era. But they also believe that the gap can be closed, and that the UK and Europe could even leapfrog America, if political leaders and the public make fundamentally different choices.</p></blockquote>\n<p class=\"source\"><a href=\"https://youtu.be/cD3UtHVr99o\">Rule Britannia? How the UK Wins the AI Era | Matt Clifford  Ian Hogarth - YouTube ↗</a></p>",
+  "content_hash": "sha256:110d86953426746c48e1e081727b3d0893805ea131d75f9d85665978a9629cca",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T17:16:27Z",
+      "note": null
+    }
+  ]
+}

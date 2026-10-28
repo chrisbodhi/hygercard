@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "03ggbcgp6neb3gmy2wd34bxtjb",
+  "kind": "fragment",
+  "origin": "https://blyg.seanstevenson.org/",
+  "page": "f/03ggbcgp6neb3gmy2wd34bxtjb/",
+  "author": {
+    "name": "Sean Stevenson",
+    "url": "https://seanstevenson.org"
+  },
+  "created": "2026-10-09T18:53:44Z",
+  "updated": "2026-10-09T19:01:38Z",
+  "version": 1,
+  "content_md": "Will AI be able to say anything that is true or factual in English or another commonly spoken language that is not understandable? That is are there novel spaces in the Library of Babel in English that are not yet explored? Or does this definitely require a novel language? ",
+  "content_html": "<p>Will AI be able to say anything that is true or factual in English or another commonly spoken language that is not understandable? That is are there novel spaces in the Library of Babel in English that are not yet explored? Or does this definitely require a novel language?</p>\n",
+  "content_hash": "sha256:b026e3c6bf16987ecba44f3a8d19ebba98cabd0ef26ff38f0294f81b61286770",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-09T19:01:38Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "3pnp3qdqvtap7q6t7vgyts65pe",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/3pnp3qdqvtap7q6t7vgyts65pe/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-18T17:27:21Z",
+  "updated": "2026-10-18T17:32:12Z",
+  "version": 1,
+  "content_md": "It’s rare that I feel RAM envy, but this was one of them. It wasn’t even because I need it, my feeling was more — “they don’t need _that_ much RAM! If they do, it means I need much more.” \n\nMind you I’ve never actually had any RAM issues since I switched to Macs…\n\nThe mind is silly. But I appreciate the reasoning behind using pages over textpad. \n\nWhat I really missed on a Mac was Notepad++, now there are lots of options of course and I can easily make one for myself. \n\n![[1ye4x3avtm5a91v2h2shrw3btf]]\n\n",
+  "content_html": "<p>It’s rare that I feel RAM envy, but this was one of them. It wasn’t even because I need it, my feeling was more — “they don’t need <em>that</em> much RAM! If they do, it means I need much more.”</p>\n<p>Mind you I’ve never actually had any RAM issues since I switched to Macs…</p>\n<p>The mind is silly. But I appreciate the reasoning behind using pages over textpad.</p>\n<p>What I really missed on a Mac was Notepad++, now there are lots of options of course and I can easily make one for myself.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"1ye4x3avtm5a91v2h2shrw3btf\" data-blyg-version=\"2\" data-blyg-origin=\"https://jd-blyg.exe.xyz/\">\n<p>styles discourse<br>\n<a href=\"https://leancrew.com/all-this/2026/10/textedit-vs-pages/\">https://leancrew.com/all-this/2026/10/textedit-vs-pages/</a></p>\n\n</blockquote>\n",
+  "content_hash": "sha256:d22e9c2d875f6a812583c589fbc9a8aa55d967fa06bbac651e290901403b8659",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "1ye4x3avtm5a91v2h2shrw3btf",
+      "version": 2,
+      "origin": "https://jd-blyg.exe.xyz/",
+      "cited": {
+        "source": "[jdbb] studio blyg",
+        "author": "jenna dixon",
+        "excerpt": "styles discourse https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+        "url": "https://jd-blyg.exe.xyz/f/1ye4x3avtm5a91v2h2shrw3btf/",
+        "retrieved": "2026-10-18T17:32:12Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://jd-blyg.exe.xyz/",
+    "id": "1ye4x3avtm5a91v2h2shrw3btf",
+    "version": 2,
+    "cited": {
+      "source": "[jdbb] studio blyg",
+      "author": "jenna dixon",
+      "excerpt": "styles discourse https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+      "url": "https://jd-blyg.exe.xyz/f/1ye4x3avtm5a91v2h2shrw3btf/",
+      "retrieved": "2026-10-18T17:32:12Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-18T17:32:12Z",
+      "note": null
+    }
+  ]
+}

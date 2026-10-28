@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "563b3c8btmednvf17p9yj30a7b",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/why-did-he-leave-aug2024/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2024-08-03T12:00:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "### tl;dr\n\n- the tech is early\n\n- community remains tiny and closed\n\n- growth opportunities appear unappealing over the medium term\n\n- the business space is constrained to leftovers\n\n<a href=\"https://zora.co/collect/zora:0x6b2a5667d870b059920526243ae1c7ca3908a1d8/1\" alt=\"Farcaster Is Open For Everyone Open Edition NFT\" target=\"_blank\" rel=\"noreferrer\">\nFarcaster Is Open For Everyone Open Edition NFT\n<img \n    src=\"https://media.decentralized-content.com/-/rs:fit:1920:1920/aHR0cHM6Ly9tYWdpYy5kZWNlbnRyYWxpemVkLWNvbnRlbnQuY29tL2lwZnMvYmFmeWJlaWhtcHJkZmppNW1lZXZmdWpkeTZzeXVubXh4enF5YjJiZzU3a3dzMnN6NndrNXh3Z290b2E\"\n    alt=\"Farcaster Is Open For Everyone\"\n    height=\"150\"\n    width=\"150\"\n/>\n</a>\n\n### Background\n\nPOV August 2024, Farcasteroors (the people who use Farcaster Protocol, mainly via Warpcast) really do be comparing:\n\n**Jason Goldberg**, founder of Airstack, to **Vitalik Buterin**, founder of Ethereum, noted Thiel Fellowship alum, subject of documentaries [[link](https://warpcast.com/geoffgolberg/0x6feaa446)]. Deliverooors of bags via an insider-favoring pre-mine.\n\n**Dan Romero**, co-founder of Farcaster, to **Elon Musk**, owner of Twitter, inventor of the Tesla Cybertruck, Rocket Man [[link](https://warpcast.com/farcasteradmin.eth/0x75a0f6ec)]. Crypto means we don't need a king. But he is one of us; seems quite reasonable; and delivers things we couldn't get elsewhere.\n\n### 1. State of the tech\n\n<details>\n<summary>Read more...</summary>\n\n_TBH no one really cares._ As long as the network basically appears to work, most of the time, the vibe enforcers respond to any outage with reminders of \"boolish!\"\n\nThe tech is truly not good. Maybe it's good enough for now, and will get better, but today",
+  "content_html": "<h3 class=\"heading\">tl;dr<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<ul>\n<li>\n<p>the tech is early</p>\n</li>\n<li>\n<p>community remains tiny and closed</p>\n</li>\n<li>\n<p>growth opportunities appear unappealing over the medium term</p>\n</li>\n<li>\n<p>the business space is constrained to leftovers</p>\n</li>\n</ul>\n<h3 class=\"heading\">Background<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<p>POV August 2024, Farcasteroors (the people who use Farcaster Protocol, mainly via Warpcast) really do be comparing:</p>\n<p><strong>Jason Goldberg</strong>, founder of Airstack, to <strong>Vitalik Buterin</strong>, founder of Ethereum, noted Thiel Fellowship alum, subject of documentaries [<a href=\"https://warpcast.com/geoffgolberg/0x6feaa446\" rel=\"noopener noreferrer\" target=\"_blank\">link</a><i class=\"iconfont icon-external-link\"></i>]. Deliverooors of bags via an insider-favoring pre-mine.</p>\n<p><strong>Dan Romero</strong>, co-founder of Farcaster, to <strong>Elon Musk</strong>, owner of Twitter, inventor of the Tesla Cybertruck, Rocket Man [<a href=\"https://warpcast.com/farcasteradmin.eth/0x75a0f6ec\" rel=\"noopener noreferrer\" target=\"_blank\">link</a><i class=\"iconfont icon-external-link\"></i>]. Crypto means we don't need a king. But he is one of us; seems quite reasonable; and delivers things we couldn't get elsewhere.</p>\n<h3 class=\"heading\">1. State of the tech<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h3>\n<p><em>TBH no one really cares.</em> As long as the network basically appears to work, most of the time, the vibe enforcers respond to any outage with reminders of \"boolish!\"</p>\n<p>The tech is truly not good. Maybe it's good enough for now, and will get better, but today</p>",
+  "content_hash": "sha256:80554324ee4d1bf94e4f94614e26f10cc5c9f2400223804358da031968526dec",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2024-08-03T12:00:00Z",
+      "note": "Why did he leave?"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

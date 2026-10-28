@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "56bjw9by1y18kztw96z9njq5ny",
+  "kind": "fragment",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/56bjw9by1y18kztw96z9njq5ny/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-08T20:02:02Z",
+  "updated": "2026-10-08T20:02:28Z",
+  "version": 1,
+  "content_md": "The fact that Siri does not have active window context on MacBooks makes no sense. Apple has like one unique advantage over setting up context unlike anyone. Like why would it search the internet for \"Apple notes\" when I ask about a note I am writing 🤦‍♂️",
+  "content_html": "<p>The fact that Siri does not have active window context on MacBooks makes no sense. Apple has like one unique advantage over setting up context unlike anyone. Like why would it search the internet for &quot;Apple notes&quot; when I ask about a note I am writing 🤦‍♂️</p>\n",
+  "content_hash": "sha256:643ea8aa2746bb17193c9334d93cddd3061178dd5e410cf62969f48159b71d6c",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-08T20:02:28Z",
+      "note": null
+    }
+  ]
+}

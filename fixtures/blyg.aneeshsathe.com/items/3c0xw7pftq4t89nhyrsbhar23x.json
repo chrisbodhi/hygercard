@@ -1,0 +1,38 @@
+{
+  "blyg": "0.4",
+  "id": "3c0xw7pftq4t89nhyrsbhar23x",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/3c0xw7pftq4t89nhyrsbhar23x/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-19T21:17:31Z",
+  "updated": "2026-10-19T21:18:59Z",
+  "version": 1,
+  "content_md": "[[1n3w184p3y2r3p9seps20281g5]]\n\nA strong suspicion i have is that the RSS/feed style blyg reading might be the wrong UI. I think it needs something more _geographic_ but I can't even think of what to ask the AI to build. Maps and terrains, and pixel art like interactions all feel wrong. \n\n",
+  "content_html": "<p><a href=\"https://venkateshrao.com/blyg/t/1n3w184p3y2r3p9seps20281g5/\">The thicket is a maze-like oriented space, not a graph</a></p>\n<p>A strong suspicion i have is that the RSS/feed style blyg reading might be the wrong UI. I think it needs something more <em>geographic</em> but I can't even think of what to ask the AI to build. Maps and terrains, and pixel art like interactions all feel wrong.</p>\n",
+  "content_hash": "sha256:de612e800c113277b006fbaad39f1898163d6ffd6a104961ee19fc4c174aaf21",
+  "media": [],
+  "transclusions": [],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "1n3w184p3y2r3p9seps20281g5",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "The thicket is a maze-like oriented space, not a graph What kind of search and p…",
+      "url": "https://venkateshrao.com/blyg/t/1n3w184p3y2r3p9seps20281g5/",
+      "retrieved": "2026-10-19T21:18:59Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T21:18:59Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "4xxj47477e597sbassvaw11snf",
+  "kind": "fragment",
+  "origin": "https://blyg.florianlohse.com/",
+  "page": "f/4xxj47477e597sbassvaw11snf/",
+  "author": {
+    "name": "Florian Lohse",
+    "url": "https://florianlohse.com/"
+  },
+  "created": "2026-10-25T19:27:58Z",
+  "updated": "2026-10-25T19:27:59Z",
+  "version": 1,
+  "content_md": "Another thing I recently built is an Obsidian plugin to resurface my past writing on paragraph level. It features three modes:\n\n1) Pin Paragraphs: add a pin to a paragraph you want to find easily later\n\n2) Loop Paragraphs: cyclical retrieval of starred paragraphs with adjustable cycle length - I use this for “this is interesting, but I dont yet know why” kind of thing\n\n3) Review Paragraphs: resurface past writing from defined sources (Daily Notes and Readwise-synced Reading Notes for me), add Theme Links, copy into existing Drafts, or Pin / Star if needed\n\nI will clean-up and share this one as well, probably before Christmas. If anyone is interested in giving this a try, this should certainly speed up things.",
+  "content_html": "<p>Another thing I recently built is an Obsidian plugin to resurface my past writing on paragraph level. It features three modes:</p>\n<ol>\n<li>\n<p>Pin Paragraphs: add a pin to a paragraph you want to find easily later</p>\n</li>\n<li>\n<p>Loop Paragraphs: cyclical retrieval of starred paragraphs with adjustable cycle length - I use this for “this is interesting, but I dont yet know why” kind of thing</p>\n</li>\n<li>\n<p>Review Paragraphs: resurface past writing from defined sources (Daily Notes and Readwise-synced Reading Notes for me), add Theme Links, copy into existing Drafts, or Pin / Star if needed</p>\n</li>\n</ol>\n<p>I will clean-up and share this one as well, probably before Christmas. If anyone is interested in giving this a try, this should certainly speed up things.</p>\n",
+  "content_hash": "sha256:f40335e83a266a7f67d07cbeba557967100c37fce69d8dcc8ec9759f3cd9df9c",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T19:27:59Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "blyg": "0.4",
+  "id": "64sbrkvdk5b6pkhb0h0d4m3y2v",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/64sbrkvdk5b6pkhb0h0d4m3y2v/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-18T19:40:59Z",
+  "updated": "2026-10-18T19:41:37Z",
+  "version": 1,
+  "content_md": "# The Terraformers by Annalee Newitz\n\n![[77njes4x276wcjtbsr20rz7qs3]]\n\n![[15xgpd5nrjdjmpn7tc7dnp1702]]",
+  "content_html": "<h1>The Terraformers by Annalee Newitz</h1>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"77njes4x276wcjtbsr20rz7qs3\" data-blyg-version=\"1\">\n<p>“Don’t build a person if you don’t intend to be their ally.\n— Environmental Rescue Team Handbook”</p>\n\n</blockquote>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"15xgpd5nrjdjmpn7tc7dnp1702\" data-blyg-version=\"1\">\n<p>Started reading The Terraformers by Annalee Newitz</p>\n\n</blockquote>",
+  "content_hash": "sha256:d5421646c010664456414599c3b58b86d4e566bc29b1eed7cef036b53ceefe90",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "77njes4x276wcjtbsr20rz7qs3",
+      "version": 1
+    },
+    {
+      "id": "15xgpd5nrjdjmpn7tc7dnp1702",
+      "version": 1
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-18T19:41:37Z",
+      "note": null
+    }
+  ]
+}

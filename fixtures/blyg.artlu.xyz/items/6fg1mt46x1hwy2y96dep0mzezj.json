@@ -1,0 +1,38 @@
+{
+  "blyg": "0.4",
+  "id": "6fg1mt46x1hwy2y96dep0mzezj",
+  "kind": "thread",
+  "origin": "https://blyg.artlu.xyz/",
+  "page": "t/6fg1mt46x1hwy2y96dep0mzezj/",
+  "author": {
+    "name": "ultrA",
+    "url": "https://blyg.artlu.xyz/"
+  },
+  "created": "2026-10-19T16:40:53Z",
+  "updated": "2026-10-19T16:42:59Z",
+  "version": 1,
+  "content_md": "I made this years ago, and it's been running without a hitch. Useful? https://github.com/artlu99/unfurl",
+  "content_html": "<p>I made this years ago, and it's been running without a hitch. Useful? <a href=\"https://github.com/artlu99/unfurl\">https://github.com/artlu99/unfurl</a></p>\n",
+  "content_hash": "sha256:bdf6b07ebf8f7346be014f972df7b155efdce3b50d0d9547ed46277c9e17c747",
+  "media": [],
+  "transclusions": [],
+  "stub_of": {
+    "origin": "https://jd-blyg.exe.xyz/",
+    "id": "4tb8m46bexk7ya5pnyk99qpt7x",
+    "version": 6,
+    "cited": {
+      "source": "[jdbb] studio blyg",
+      "author": "jenna dixon",
+      "excerpt": "wen blygger unfurl https://x.com/m_ashcroft/status/2106741054762561561",
+      "url": "https://jd-blyg.exe.xyz/f/4tb8m46bexk7ya5pnyk99qpt7x/",
+      "retrieved": "2026-10-19T16:42:59Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T16:42:59Z",
+      "note": "v1"
+    }
+  ]
+}

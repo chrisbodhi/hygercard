@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "6v17zfx5m55af8tar2cv13mf99",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/6v17zfx5m55af8tar2cv13mf99/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-26T23:55:57Z",
+  "updated": "2026-10-26T23:57:52Z",
+  "version": 1,
+  "content_md": "![[0gt4h24yrxn2kzgafq8662eqvk]]\n\nDefinitely agree with. That’s my point in fact. Complex systems bootstrap their own goals. They just aren’t arbitrary. They come from the specific environment. Which is why “paperclip maximizing” is a tell that the argument has not thought through the goals side.\n\n",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"0gt4h24yrxn2kzgafq8662eqvk\" data-blyg-version=\"1\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<p class=\"blynger-stub-label\"><strong>Stubbing:</strong> <a href=\"https://venkateshrao.com/blyg/t/267h2365beb165qncnrsscr7cg/\">On Desire</a></p><blockquote class=\"blynger-citation\">The point is, good of bad, sublime or horrifying, all desire comes from things you know or have, by some sort of scrutable process The closest we get to \"desire from nowhere\" is pushing past a frontier of unknown. Like wanting to see the far side of the moon, which you know by symmetry must exist. —VGR</blockquote><p>Michael Levin has a lot to say about goals, and they are all over the place. <a href=\"https://podcasts.apple.com/us/podcast/michael-levin-bioelectricity-aging-and-the/id1624691690?i=1000790969529\">In this podcast</a> he talks about goals at all kinds of levels of the organizational stack. </p><p>He doesn't talk about it much in here, but he's pretty sure we're going to see goals arising out of complex intelligent things we build in pretty surprising ways. </p><p>Not saying it necessarily ontradicts, but might be something worth throwing into the stew here and letting it boil for a while. </p>\n</blockquote>\n<p>Definitely agree with. That’s my point in fact. Complex systems bootstrap their own goals. They just aren’t arbitrary. They come from the specific environment. Which is why “paperclip maximizing” is a tell that the argument has not thought through the goals side.</p>\n",
+  "content_hash": "sha256:7a8f396cbbc34dc8d575a2a25613ed8d80d3f8c71bddc4d415307321ef4ac293",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "0gt4h24yrxn2kzgafq8662eqvk",
+      "version": 1,
+      "origin": "https://bradydale.com/blyg/",
+      "cited": {
+        "source": "Brady Dale's blyg",
+        "author": "Brady Dale",
+        "excerpt": "Stubbing: On Desire The point is, good of bad, sublime or horrifying, all desire…",
+        "url": "https://bradydale.com/blyg/t/0gt4h24yrxn2kzgafq8662eqvk/",
+        "retrieved": "2026-10-26T23:57:52Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://bradydale.com/blyg/",
+    "id": "0gt4h24yrxn2kzgafq8662eqvk",
+    "version": 1,
+    "cited": {
+      "source": "Brady Dale's blyg",
+      "author": "Brady Dale",
+      "excerpt": "Stubbing: On Desire The point is, good of bad, sublime or horrifying, all desire…",
+      "url": "https://bradydale.com/blyg/t/0gt4h24yrxn2kzgafq8662eqvk/",
+      "retrieved": "2026-10-26T23:57:52Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T23:57:52Z",
+      "note": null
+    }
+  ]
+}

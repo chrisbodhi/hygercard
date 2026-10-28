@@ -1,0 +1,36 @@
+{
+  "blyg": "0.4",
+  "id": "5jhc3xn06s6bd6w7mw25nyv7w5",
+  "kind": "thread",
+  "origin": "https://blyg.blygger.org/",
+  "page": "t/5jhc3xn06s6bd6w7mw25nyv7w5/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://blyg.blygger.org/"
+  },
+  "created": "2026-10-18T01:16:20Z",
+  "updated": "2026-10-18T01:16:20Z",
+  "version": 1,
+  "content_md": "\n# Blygger Studio 0.46.3\n\n*Released 2026-10-17, the reference client. [v0.46.3 on GitHub](https://github.com/blygger/blygger-studio/releases/tag/v0.46.3).*\n\n**Migrations: none.** No config change. **The code is 0.46.2's**, released under\na new number because 0.46.2's tag could not be: the conformance-suite images\nthat 0.46.2's new `oauth-interop` CI job pins by digest were deleted from\nGitLab's registry when GitLab rebuilt the `release-v5.3.2` tag, so that\ncommit's Check could not pass. Both images are re-pinned to the tag's current\ndigests. If you upgraded to 0.46.2 from its tag, nothing changes but the\nversion string.\n\n## 0.46.2 — 2026-10-17 (tagged, never released)\n\n**Migrations: none.** No config change.\n\n- **OAuth clients that leave out `resource` now get a working token** (Kyle\n  Mathews, #66; reported as #54). A client that omits the RFC 8707 resource\n  indicator, as generic OAuth clients and manually configured MCP proxies do,\n  could complete the owner's consent and then fail at the token endpoint with\n  `invalid_grant`. The authorization request now defaults to the node's MCP\n  resource before login, consent and code issuance, and the consent page shows\n  that MCP address. An explicit resource is validated as before, and the\n  default grant cannot reach the REST API: REST clients still ask for the API\n  resource by name. No new routes, no host-root paths. `docs/oauth-interop.md`\n  and `docs/issue-54-cloudflare-mcp.md` have the findings and the Cloudflare\n  portal setup.\n- **Hover text on the editor toolbar** (#48). The `[[`, `![[` and `TK`\n  buttons had labels for screen readers only; each now says what it does when\n  pointed at, and *attach image* does too.\n- **CI:** a new `oauth-interop` job runs MCP Inspector 2.10.1 and selected\n  OpenID Foundation conformance modules against disposable Workers, with the\n  package version and container digests pinned (#66).\n\n\n\n*This announcement is drafted from the release's section of [`CHANGELOG.md`](https://github.com/blygger/blygger-studio/blob/main/CHANGELOG.md), which is where it is maintained. To comment, respond to this item from your own blyg.*\n",
+  "content_html": "<div class=\"blyg-tk-gen\"><h1>Blygger Studio 0.46.3</h1>\n<p><em>Released 2026-10-17, the reference client. <a href=\"https://github.com/blygger/blygger-studio/releases/tag/v0.46.3\">v0.46.3 on GitHub</a>.</em></p>\n<p><strong>Migrations: none.</strong> No config change. <strong>The code is 0.46.2's</strong>, released under\na new number because 0.46.2's tag could not be: the conformance-suite images\nthat 0.46.2's new <code>oauth-interop</code> CI job pins by digest were deleted from\nGitLab's registry when GitLab rebuilt the <code>release-v5.3.2</code> tag, so that\ncommit's Check could not pass. Both images are re-pinned to the tag's current\ndigests. If you upgraded to 0.46.2 from its tag, nothing changes but the\nversion string.</p>\n<h2>0.46.2 — 2026-10-17 (tagged, never released)</h2>\n<p><strong>Migrations: none.</strong> No config change.</p>\n<ul>\n<li><strong>OAuth clients that leave out <code>resource</code> now get a working token</strong> (Kyle\nMathews, #66; reported as #54). A client that omits the RFC 8707 resource\nindicator, as generic OAuth clients and manually configured MCP proxies do,\ncould complete the owner's consent and then fail at the token endpoint with\n<code>invalid_grant</code>. The authorization request now defaults to the node's MCP\nresource before login, consent and code issuance, and the consent page shows\nthat MCP address. An explicit resource is validated as before, and the\ndefault grant cannot reach the REST API: REST clients still ask for the API\nresource by name. No new routes, no host-root paths. <code>docs/oauth-interop.md</code>\nand <code>docs/issue-54-cloudflare-mcp.md</code> have the findings and the Cloudflare\nportal setup.</li>\n<li><strong>Hover text on the editor toolbar</strong> (#48). The <code>[[</code>, <code>![[</code> and <code>TK</code>\nbuttons had labels for screen readers only; each now says what it does when\npointed at, and <em>attach image</em> does too.</li>\n<li><strong>CI:</strong> a new <code>oauth-interop</code> job runs MCP Inspector 2.10.1 and selected\nOpenID Foundation conformance modules against disposable Workers, with the\npackage version and container digests pinned (#66).</li>\n</ul>\n</div>\n<div class=\"blyg-tk-gen\"><p><em>This announcement is drafted from the release's section of <a href=\"https://github.com/blygger/blygger-studio/blob/main/CHANGELOG.md\"><code>CHANGELOG.md</code></a>, which is where it is maintained. To comment, respond to this item from your own blyg.</em></p>\n</div>\n",
+  "content_hash": "sha256:cfffd0706642ffd3178436c67bf9a7b60e37de6f88367dc5c00cefa88f45c551",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5"
+    },
+    {
+      "sources": [],
+      "model": "claude-opus-5-5"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-18T01:16:20Z",
+      "note": "Studio 0.46.3 released."
+    }
+  ]
+}

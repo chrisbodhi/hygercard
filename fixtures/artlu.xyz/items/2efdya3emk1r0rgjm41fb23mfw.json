@@ -1,0 +1,35 @@
+{
+  "blyg": "0.3",
+  "id": "2efdya3emk1r0rgjm41fb23mfw",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/niche-social-networks/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-10-05T18:46:00Z",
+  "updated": "2026-10-03T01:36:10Z",
+  "version": 3,
+  "content_md": "---\n\n<table><thead>\n<th></th>\n<th>Network A</th><th>Network B</th>\n<thead><tbody>\n<tr><td><strong>open to public</strong></td><td>Nov 2022</td><td>Oct 2023</td></tr>\n<tr><td><strong>registered users</strong></td><td>227k users</td><td>1.2m accounts</td></tr>\n<tr><td><strong>MAU</strong></td><td>17k</td><td>125k</td></tr>\n<tr><td><strong>\"true fans\"</strong></td><td>3k Plus subs</td><td>5k Pro subs</td></tr>\n<tr><td><strong>monthly cost</strong></td><td>$42k</td><td>$50k+ for 3 Snapchain nodes</td></tr>\n<tr><td><strong>monthly revenues</strong></td><td>$16k</td><td>~$43k</td></tr>\n<tr><td><strong>ads</strong></td><td>no ads</td><td>no \"ads\", but it's mostly ads</td></tr>\n<tr><td><strong>gambling</strong></td><td>no crypto</td><td>crypto is hidden, but it's mostly about gambling</td></tr>\n</tbody></table>\n\n---\n\n**Network A** is Cohost.org, a Twitter alternative social media site that launched in Nov 2022, and shut down on 1 Oct 2024.\n\n**Network B** is Farcaster, a VC-backed web3 protocol that [announced permissionless signups](https://x.com/dwr/status/1712143822992584830) on 11 Oct 2023, and [announced a soft pivot](https://youtu.be/uyQkB5eh8tg?t=1800) on 3 Oct 2025.\n\n*sources*: [Wikipedia](https://en.wikipedia.org/wiki/Cohost) + [Dune](https://dune.com/pixelhack/farcaster) + \"*I made it up*\"\n\n---\n\nThree[*sic*] benefits of integrating crypto in a new project:\n- provides deep pockets a reason to invest\n- incentivizes people to poke around and try stuff, particularly if it's a real project and not a clear scam-in-the-making\n- onchain smart contracts (*e.g.*, user accounts) provide transparency, arms-length decentralization, portability, composability. All can outlive the project itself\n- self-identifies with tribal associations. Cohost and Farcaster had about 3k true believers around the same time, yet everybody on Crypto Twitter knows the Farcaster brand, while Cohost remained fringe and niche\n\n---\n\n\n\n",
+  "content_html": "<hr>\n<hr>\n<p><strong>Network A</strong> is Cohost.org, a Twitter alternative social media site that launched in Nov 2022, and shut down on 1 Oct 2024.</p>\n<p><strong>Network B</strong> is Farcaster, a VC-backed web3 protocol that <a href=\"https://x.com/dwr/status/1712143822992584830\" rel=\"noopener noreferrer\" target=\"_blank\">announced permissionless signups</a><i class=\"iconfont icon-external-link\"></i> on 11 Oct 2023, and <a href=\"https://youtu.be/uyQkB5eh8tg?t=1800\" rel=\"noopener noreferrer\" target=\"_blank\">announced a soft pivot</a><i class=\"iconfont icon-external-link\"></i> on 3 Oct 2025.</p>\n<p><em>sources</em>: <a href=\"https://en.wikipedia.org/wiki/Cohost\" rel=\"noopener noreferrer\" target=\"_blank\">Wikipedia</a><i class=\"iconfont icon-external-link\"></i> + <a href=\"https://dune.com/pixelhack/farcaster\" rel=\"noopener noreferrer\" target=\"_blank\">Dune</a><i class=\"iconfont icon-external-link\"></i> + \"<em>I made it up</em>\"</p>\n<hr>\n<p>Three[<em>sic</em>] benefits of integrating crypto in a new project:</p>\n<ul>\n<li>provides deep pockets a reason to invest</li>\n<li>incentivizes people to poke around and try stuff, particularly if it's a real project and not a clear scam-in-the-making</li>\n<li>onchain smart contracts (<em>e.g.</em>, user accounts) provide transparency, arms-length decentralization, portability, composability. All can outlive the project itself</li>\n<li>self-identifies with tribal associations. Cohost and Farcaster had about 3k true believers around the same time, yet everybody on Crypto Twitter knows the Farcaster brand, while Cohost remained fringe and niche</li>\n</ul>\n<hr>",
+  "content_hash": "sha256:964e4970e55ee5c622e0f37a40fa5d9565ec2012b11bb34b62e793f5ab078e21",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-10-05T18:46:00Z",
+      "note": "What Happens After Two Years"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:18Z",
+      "note": "update"
+    },
+    {
+      "version": 3,
+      "at": "2026-10-03T01:36:10Z",
+      "note": "update"
+    }
+  ]
+}

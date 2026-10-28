@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "7mffk19ykqyqc54qs4vnnkw938",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/7mffk19ykqyqc54qs4vnnkw938/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# SIGPfB August 27-29: LLM Failure Modes and Business Strategy\n\n*Session of 27 August 2025.* Participants: sachbenny, rafa_0x, timber1997.\n\nThe SIGPfB group conducted a working session exploring failure modes of large language models in business applications. The discussion identified specific failure patterns such as 'clank-o-mation' (context window loss), 'bug overload' (recursive error stacking), and 'humanwashing' (flawed automation). Notably, the group recognized these LLM failures as isomorphic to traditional team failures—when organizations lose track of execution goals or compound errors through misdiagnosis.\n\n**Key points**\n\n- LLM failures mirror traditional team failures: getting lost in execution and becoming buried under compounding half-hazard solutions (the 'Frankenstein' problem).\n- Machine-readability emerged as a dual-edge strategic capability: becoming illegible to machines offers protection, while hyper-legibility enables dominance in LLM integration ecosystems.\n- The evidence suggests younger workers' skill overlap with LLM capabilities makes them more vulnerable to replacement, creating a strategic imperative around how workers position themselves.\n- Two distinct business models have viability: remaining an offline niche with proprietary secrets, or optimizing for maximum machine-legibility to capture digital demand at scale.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2025-08-27-sigpfb-august-27-29-llm-failure-modes-and-business-stra) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-08-27-sigpfb-august-27-29-llm-failure-modes-and-business-stra/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>SIGPfB August 27-29: LLM Failure Modes and Business Strategy</h1>\n<p><em>Session of 27 August 2025.</em> Participants: sachbenny, rafa_0x, timber1997.</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB group conducted a working session exploring failure modes of large language models in business applications. The discussion identified specific failure patterns such as 'clank-o-mation' (context window loss), 'bug overload' (recursive error stacking), and 'humanwashing' (flawed automation). Notably, the group recognized these LLM failures as isomorphic to traditional team failures—when organizations lose track of execution goals or compound errors through misdiagnosis.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>LLM failures mirror traditional team failures: getting lost in execution and becoming buried under compounding half-hazard solutions (the 'Frankenstein' problem).</li>\n<li>Machine-readability emerged as a dual-edge strategic capability: becoming illegible to machines offers protection, while hyper-legibility enables dominance in LLM integration ecosystems.</li>\n<li>The evidence suggests younger workers' skill overlap with LLM capabilities makes them more vulnerable to replacement, creating a strategic imperative around how workers position themselves.</li>\n<li>Two distinct business models have viability: remaining an offline niche with proprietary secrets, or optimizing for maximum machine-legibility to capture digital demand at scale.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2025-08-27-sigpfb-august-27-29-llm-failure-modes-and-business-stra\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-08-27-sigpfb-august-27-29-llm-failure-modes-and-business-stra/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:a0d47b68fe873799d10c2d83f0546530d3c6b97fee757d206dc28990434ec8b0",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

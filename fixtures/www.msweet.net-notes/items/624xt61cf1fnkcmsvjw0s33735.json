@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "624xt61cf1fnkcmsvjw0s33735",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "818-olive-ravens",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-21T18:47:49Z",
+  "updated": "2026-10-21T18:47:49Z",
+  "version": 1,
+  "content_md": "What a time to be alive. Did someone say “exocapitalism”?\n\n> AI ... is not like that. AI absolutely incinerates capital. There’s huge capex for chips, data centres, and power generation; high COGS because of inference compute; fast-depreciating R&D in the form of training runs; generally lower gross margins; expensive data and talent; and no apparent upper limit to any of these, because of the bitter lesson.\n\n[The Efficient Venture Markets Hypothesis ↗](https://pivotal.substack.com/p/the-efficient-venture-markets-hypothesis?r=233ko)",
+  "content_html": "<p>What a time to be alive. Did someone say “exocapitalism”?</p>\n<blockquote><p>AI ... is not like that. AI absolutely incinerates capital. There’s huge capex for chips, data centres, and power generation; high COGS because of inference compute; fast-depreciating R&amp;D in the form of training runs; generally lower gross margins; expensive data and talent; and no apparent upper limit to any of these, because of the bitter lesson.</p></blockquote>\n<p class=\"source\"><a href=\"https://pivotal.substack.com/p/the-efficient-venture-markets-hypothesis?r=233ko\">The Efficient Venture Markets Hypothesis ↗</a></p>",
+  "content_hash": "sha256:c91591961c6f5a53ab9d82dba0b530e71ed340cb23e1988ea65d90098c0cd780",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T18:47:49Z",
+      "note": null
+    }
+  ]
+}

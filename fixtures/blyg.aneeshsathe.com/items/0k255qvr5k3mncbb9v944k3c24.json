@@ -1,0 +1,31 @@
+{
+  "blyg": "0.4",
+  "id": "0k255qvr5k3mncbb9v944k3c24",
+  "kind": "fragment",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "f/0k255qvr5k3mncbb9v944k3c24/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-19T22:11:17Z",
+  "updated": "2026-10-19T22:12:47Z",
+  "version": 1,
+  "content_md": "Mood-boarding for Blygger inspired by Yi Fu Tuan\n\n![](/media/0xv5rxkg.png)",
+  "content_html": "<p>Mood-boarding for Blygger inspired by Yi Fu Tuan</p>\n<p><img src=\"https://blyg.aneeshsathe.com/media/0xv5rxkg.png\" alt=\"\"></p>\n",
+  "content_hash": "sha256:ed6c3b62c6c84814cbcce6b54cea417b0a9bdd1d8c6a144e3c916b13d8008998",
+  "media": [
+    {
+      "url": "media/0xv5rxkg.png",
+      "mime": "image/png",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T22:12:47Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "blyg": "0.4",
+  "id": "6p7pfh7s1c9yhjb0hcdm5m6tv6",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/6p7pfh7s1c9yhjb0hcdm5m6tv6/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-10-06T16:22:41Z",
+  "updated": "2026-10-06T18:32:05Z",
+  "version": 2,
+  "content_md": "![[7ymahdtnz8btg47m452x3td894]]\n\nThey suck unless you really need them — generally you really need them if the thing you're mocking is too expensive or slow to run or impossible to run e.g. a 3rd party API that doesn't have a test environment or a payment provider that would charge real money every run, anything that sends real emails or SMS to actual people, hardware you don't have on your dev machine (a printer, a GPU cluster, some IoT device), a huge ML model that takes minutes just to load, or nondeterministic stuff like the current time or randomness that you need to pin down to get a repeatable test.",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"7ymahdtnz8btg47m452x3td894\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"2qj9qq98tq6ahvvcpr1nagyee5\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>green tests prove the code agrees with its mocks</p>\n</blockquote>\n<p>As a non-software dev software person, i have never understood the purpose of mocks.</p>\n\n</blockquote>\n<p>They suck unless you really need them — generally you really need them if the thing you're mocking is too expensive or slow to run or impossible to run e.g. a 3rd party API that doesn't have a test environment or <span class=\"blyg-tk-gen\">a payment provider that would charge real money every run, anything that sends real emails or SMS to actual people, hardware you don't have on your dev machine (a printer, a GPU cluster, some IoT device), a huge ML model that takes minutes just to load, or nondeterministic stuff like the current time or randomness that you need to pin down to get a repeatable test.</span></p>\n",
+  "content_hash": "sha256:cc70fa0c3d12d639e603b7ab87a832b632e03a9b95ef8b5071e9ca613d033590",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "7ymahdtnz8btg47m452x3td894",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "cited": {
+        "source": "Aneesh's Blyg",
+        "author": "Aneesh Sathe",
+        "excerpt": "green tests prove the code agrees with its mocks As a non-software dev software…",
+        "url": "https://blyg.aneeshsathe.com/t/7ymahdtnz8btg47m452x3td894/",
+        "retrieved": "2026-10-06T18:32:05Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "7ymahdtnz8btg47m452x3td894",
+    "version": 1,
+    "cited": {
+      "source": "Aneesh's Blyg",
+      "author": "Aneesh Sathe",
+      "excerpt": "green tests prove the code agrees with its mocks As a non-software dev software…",
+      "url": "https://blyg.aneeshsathe.com/t/7ymahdtnz8btg47m452x3td894/",
+      "retrieved": "2026-10-06T18:32:05Z"
+    }
+  },
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5",
+      "at": "2026-10-06T18:31:51Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-06T16:24:22Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-06T18:32:05Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "blyg": "0.4",
+  "id": "2bnzjr1rp42bjj6vr9bnpvv2j5",
+  "kind": "thread",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "t/2bnzjr1rp42bjj6vr9bnpvv2j5/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-11T13:09:23Z",
+  "updated": "2026-10-11T13:20:52Z",
+  "version": 4,
+  "content_md": "I think I’ve finally understood my tension with the app switcher on macOS. When I open an application like Mail that usually has just one window, and I close it after, the application still hangs in its priority space of the context, headless. Sometimes there’s another window when I am writing an email, and that’s when the priority space becomes useful to switch back to from, let’s say, if I had moved on to browsing the internet on Safari. But most of the time it’s actually wasted priority space, and Microsoft Windows has a different design point of view on this. I’m used to theirs growing up. ;) \n\nIt took me this long to realize for the exact same reason I never really grew into their design. Apple’s design philosophy is that the app is the thing I am using, and windows are a view into it. A running app with no windows is a normal state, not a leak. It would probably be fine if Apple is consistent on this at least within their own suite, but they are not. System Settings, Calculator, Disk Utility, Font Book, Photo Booth close on closing the window. Actually, anyone who is keenly using Apple software would understand they have quite a relationship creating many asymmetric interaction experiences that momentarily piss off people.\n\nWe want some apps like Mail to work in the background periodically fetching mail. But we also want reassurance that some apps are not working in the background like voice recording and camera, when it was not our explicit guidance from time to time. Mail fetching could happen as a daemon in the background just like Google Chrome, Docker, Adobe (who sometimes apply dark patterns to) run polling for updates if you watch over the Activity Monitor. \n\nI think if Apple wants to stay on this course. They should at least uniformly (for real this one time) let humans create new windows of app’s startup view (i.e bring these zombie apps back into light) using CMD+O. Hoping for the best :) ",
+  "content_html": "<p>I think I’ve finally understood my tension with the app switcher on macOS. When I open an application like Mail that usually has just one window, and I close it after, the application still hangs in its priority space of the context, headless. Sometimes there’s another window when I am writing an email, and that’s when the priority space becomes useful to switch back to from, let’s say, if I had moved on to browsing the internet on Safari. But most of the time it’s actually wasted priority space, and Microsoft Windows has a different design point of view on this. I’m used to theirs growing up. ;)</p>\n<p>It took me this long to realize for the exact same reason I never really grew into their design. Apple’s design philosophy is that the app is the thing I am using, and windows are a view into it. A running app with no windows is a normal state, not a leak. It would probably be fine if Apple is consistent on this at least within their own suite, but they are not. System Settings, Calculator, Disk Utility, Font Book, Photo Booth close on closing the window. Actually, anyone who is keenly using Apple software would understand they have quite a relationship creating many asymmetric interaction experiences that momentarily piss off people.</p>\n<p>We want some apps like Mail to work in the background periodically fetching mail. But we also want reassurance that some apps are not working in the background like voice recording and camera, when it was not our explicit guidance from time to time. Mail fetching could happen as a daemon in the background just like Google Chrome, Docker, Adobe (who sometimes apply dark patterns to) run polling for updates if you watch over the Activity Monitor.</p>\n<p>I think if Apple wants to stay on this course. They should at least uniformly (for real this one time) let humans create new windows of app’s startup view (i.e bring these zombie apps back into light) using CMD+O. Hoping for the best :)</p>\n",
+  "content_hash": "sha256:ab54f1995c35a65b5bace56403d5ac7abf2a2a18891bf4adbe179cd117829e47",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-11T13:13:01Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-11T13:15:01Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-10-11T13:17:41Z",
+      "note": null
+    },
+    {
+      "version": 4,
+      "at": "2026-10-11T13:20:52Z",
+      "note": null
+    }
+  ]
+}

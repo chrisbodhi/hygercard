@@ -1,0 +1,21 @@
+{
+  "blyg": "0.3",
+  "changelog": [
+    {
+      "at": "2026-09-27T15:39:05Z",
+      "note": null,
+      "version": 1
+    }
+  ],
+  "content_hash": "sha256:48ed2a55ca074d6e8421836118f32f285e48899e1e694fbec059bf1632391337",
+  "content_html": "<p>Filed through the API, no label.</p>\n",
+  "content_md": "Filed through the API, no label.\n",
+  "created": "2026-09-27T15:39:05Z",
+  "id": "717gfbk4r8sez7hqs1hc0jtd5j",
+  "kind": "fragment",
+  "media": [],
+  "origin": "https://newschematic.org/blyg/",
+  "page": "f/717gfbk4r8sez7hqs1hc0jtd5j/",
+  "updated": "2026-09-27T15:39:05Z",
+  "version": 1
+}

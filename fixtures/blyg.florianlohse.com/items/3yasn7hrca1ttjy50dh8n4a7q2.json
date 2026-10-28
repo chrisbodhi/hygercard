@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "3yasn7hrca1ttjy50dh8n4a7q2",
+  "kind": "fragment",
+  "origin": "https://blyg.florianlohse.com/",
+  "page": "f/3yasn7hrca1ttjy50dh8n4a7q2/",
+  "author": {
+    "name": "Florian Lohse",
+    "url": "https://florianlohse.com/"
+  },
+  "created": "2026-10-25T18:51:05Z",
+  "updated": "2026-10-25T18:51:06Z",
+  "version": 1,
+  "content_md": "Slowly emerging from yet another rabbit hole of tool building. Productive Procrastination never felt so enticing, yet it also yields more results than ever. I think the term “Productive Procrastination” might not age that well in the near future. Getting lost on satisfying side tracks may have been a recipe for failure on the main quest. But what if the environment changed, from linear RPG towards procedural sandbox builder?",
+  "content_html": "<p>Slowly emerging from yet another rabbit hole of tool building. Productive Procrastination never felt so enticing, yet it also yields more results than ever. I think the term “Productive Procrastination” might not age that well in the near future. Getting lost on satisfying side tracks may have been a recipe for failure on the main quest. But what if the environment changed, from linear RPG towards procedural sandbox builder?</p>\n",
+  "content_hash": "sha256:a47221f7b23ccc53a12ba7a33428db7718f1879eacb03b50901ee2da210c138a",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T18:51:06Z",
+      "note": null
+    }
+  ]
+}

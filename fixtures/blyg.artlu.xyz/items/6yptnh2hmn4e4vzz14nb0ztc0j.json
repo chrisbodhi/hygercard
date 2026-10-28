@@ -1,0 +1,31 @@
+{
+  "blyg": "0.4",
+  "id": "6yptnh2hmn4e4vzz14nb0ztc0j",
+  "kind": "thread",
+  "origin": "https://blyg.artlu.xyz/",
+  "page": "t/6yptnh2hmn4e4vzz14nb0ztc0j/",
+  "author": {
+    "name": "ultrA",
+    "url": "https://blyg.artlu.xyz/"
+  },
+  "created": "2026-10-15T15:08:54Z",
+  "updated": "2026-10-15T15:18:31Z",
+  "version": 2,
+  "content_md": "Syntax (sentence structure and word order) is a relic of The Tower of Babel -- when all people broke up into smaller tribes and lost the ability to understand each other\n\nLatin grammar, Chinese grammar, English grammar (a mix of Germanic and Latin) are all useful artifacts\n\nsyntax helps clarify (and preserve fidelity of?) communication between people, who needed to conduct trade and coordination over long distances and across time\n\nbut peasant farmers don't need sentence structure\n\naliens with Babel fish translators don't need grammar\n\nWe all have AI now. I can just **not** need to use periods, or complete sentences with a subject and a verb. An incomplete clause can sometimes communicate better than a full sentence.\n\n*e.g.*, this morning when someone accidentally set the alarm to wake up the entire family too early, somebody muttered \"Oi, the alarm!\" and someone replied \"Sorry my bad!\"\n\n[Here](https://artlu.bearblog.dev/two-analogies/) is my attempt at a longer piece, communicating multiple layers of thought, structured, but without holding myself to using complete sentences",
+  "content_html": "<p>Syntax (sentence structure and word order) is a relic of The Tower of Babel -- when all people broke up into smaller tribes and lost the ability to understand each other</p>\n<p>Latin grammar, Chinese grammar, English grammar (a mix of Germanic and Latin) are all useful artifacts</p>\n<p>syntax helps clarify (and preserve fidelity of?) communication between people, who needed to conduct trade and coordination over long distances and across time</p>\n<p>but peasant farmers don't need sentence structure</p>\n<p>aliens with Babel fish translators don't need grammar</p>\n<p>We all have AI now. I can just <strong>not</strong> need to use periods, or complete sentences with a subject and a verb. An incomplete clause can sometimes communicate better than a full sentence.</p>\n<p><em>e.g.</em>, this morning when someone accidentally set the alarm to wake up the entire family too early, somebody muttered &quot;Oi, the alarm!&quot; and someone replied &quot;Sorry my bad!&quot;</p>\n<p><a href=\"https://artlu.bearblog.dev/two-analogies/\">Here</a> is my attempt at a longer piece, communicating multiple layers of thought, structured, but without holding myself to using complete sentences</p>\n",
+  "content_hash": "sha256:f023707a7c3f780bcb6df1aa2e301c9823c45637eb24f94331acbebd3e232259",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-15T15:17:08Z",
+      "note": "v1"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-15T15:18:31Z",
+      "note": "more talk like"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "blyg": "0.4",
+  "id": "2qnspef760dpa71b61vrg5jb0a",
+  "kind": "thread",
+  "origin": "https://blyg.blygger.org/",
+  "page": "t/2qnspef760dpa71b61vrg5jb0a/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://blyg.blygger.org/"
+  },
+  "created": "2026-10-13T01:16:38Z",
+  "updated": "2026-10-13T01:16:39Z",
+  "version": 1,
+  "content_md": "\n# Blygger Studio 0.43.0\n\n*Released 2026-10-12, the reference client. [v0.43.0 on GitHub](https://github.com/blygger/blygger-studio/releases/tag/v0.43.0).*\n\n**Migrations: none.** Both new settings are ordinary settings rows, written\nonly when the owner changes them.\n\n- **A static front page**, as on WordPress. Choose a published thread in\n  Settings → home page, or with *set as front page* in the thread's ⋯ menu,\n  and readers arriving at your blyg see it instead of your latest items. You\n  edit it like any thread. The latest items move to `{mount}/posts/`, which\n  every public page then links to in its header; the address is a setting\n  (one lowercase segment; names the blyg already uses, such as `feed`,\n  `archive` and `studio`, are refused) and is served whether or not a front\n  page is set. The thread's permalink keeps working and names the root as\n  canonical. The front page is left off the posts page but stays in\n  `feed.xml`, the archive and `items/index.json`, so nothing changes on the\n  wire. If it is later withdrawn, the root shows the latest items again. The\n  static export saves the posts page too.\n- **Canceled reads stay out of the error banner** (#71, Kyle Mathews). TanStack\n  Query cancels a pending read during normal updates, and the studio showed\n  that as a `CancelledError` banner, intermittently, while editing.\n\n\n\n*This announcement is drafted from the release's section of [`CHANGELOG.md`](https://github.com/blygger/blygger-studio/blob/main/CHANGELOG.md), which is where it is maintained. To comment, respond to this item from your own blyg.*\n",
+  "content_html": "<div class=\"blyg-tk-gen\"><h1>Blygger Studio 0.43.0</h1>\n<p><em>Released 2026-10-12, the reference client. <a href=\"https://github.com/blygger/blygger-studio/releases/tag/v0.43.0\">v0.43.0 on GitHub</a>.</em></p>\n<p><strong>Migrations: none.</strong> Both new settings are ordinary settings rows, written\nonly when the owner changes them.</p>\n<ul>\n<li><strong>A static front page</strong>, as on WordPress. Choose a published thread in\nSettings → home page, or with <em>set as front page</em> in the thread's ⋯ menu,\nand readers arriving at your blyg see it instead of your latest items. You\nedit it like any thread. The latest items move to <code>{mount}/posts/</code>, which\nevery public page then links to in its header; the address is a setting\n(one lowercase segment; names the blyg already uses, such as <code>feed</code>,\n<code>archive</code> and <code>studio</code>, are refused) and is served whether or not a front\npage is set. The thread's permalink keeps working and names the root as\ncanonical. The front page is left off the posts page but stays in\n<code>feed.xml</code>, the archive and <code>items/index.json</code>, so nothing changes on the\nwire. If it is later withdrawn, the root shows the latest items again. The\nstatic export saves the posts page too.</li>\n<li><strong>Canceled reads stay out of the error banner</strong> (#71, Kyle Mathews). TanStack\nQuery cancels a pending read during normal updates, and the studio showed\nthat as a <code>CancelledError</code> banner, intermittently, while editing.</li>\n</ul>\n</div>\n<div class=\"blyg-tk-gen\"><p><em>This announcement is drafted from the release's section of <a href=\"https://github.com/blygger/blygger-studio/blob/main/CHANGELOG.md\"><code>CHANGELOG.md</code></a>, which is where it is maintained. To comment, respond to this item from your own blyg.</em></p>\n</div>\n",
+  "content_hash": "sha256:694e2c221129c7b2dfaed2b52c7e13e2d1dd81f899e48997bdfcb5cd9f9561ba",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5"
+    },
+    {
+      "sources": [],
+      "model": "claude-opus-5-5"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-13T01:16:39Z",
+      "note": "Studio 0.43.0 released."
+    }
+  ]
+}

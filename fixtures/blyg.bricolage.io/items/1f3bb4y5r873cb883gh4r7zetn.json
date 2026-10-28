@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "1f3bb4y5r873cb883gh4r7zetn",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/1f3bb4y5r873cb883gh4r7zetn/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-09-29T17:03:35Z",
+  "updated": "2026-09-29T17:07:58Z",
+  "version": 1,
+  "content_md": "Yeah there's multiple layers here all named \"Blyg\" — the underlying protocol up the Venkat's envisioned new style of blogging/tweeting — if you're using Blyg the protocol but basically just \"blogging\" still then you're a blogger and part of the blogosphere (to the degree that still exists). But if Blyging becomes a genuine new medium then it deserves its own name. Potentially though Blyg the protocol could birth other mediums just like RSS helped enable Podcasting.\n\n![[66rn9zh8xny3x3kmndh7dbya3m]]\n\n",
+  "content_html": "<p>Yeah there's multiple layers here all named &quot;Blyg&quot; — the underlying protocol up the Venkat's envisioned new style of blogging/tweeting — if you're using Blyg the protocol but basically just &quot;blogging&quot; still then you're a blogger and part of the blogosphere (to the degree that still exists). But if Blyging becomes a genuine new medium then it deserves its own name. Potentially though Blyg the protocol could birth other mediums just like RSS helped enable Podcasting.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"66rn9zh8xny3x3kmndh7dbya3m\" data-blyg-version=\"2\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<h1>What’s the best name for the community of blyg users?</h1><blockquote class=\"blynger-citation\" data-source-id=\"1hxbrqnr9bx9x90261qgap5x6g\" data-source-origin=\"https://blyg.bricolage.io/\" data-source-version=\"1\"><p class=\"blynger-quote-author\"><a href=\"https://blyg.bricolage.io/t/1hxbrqnr9bx9x90261qgap5x6g/\">by Kyle Mathews</a> · quoted from v1</p><p>What should we call the network of blygs? Call for stub commentary towards a rough consensus, not a voting exercise.</p></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"6ph9kwb15kn0a0r0g0r9z0y6gy\" data-blyg-version=\"1\"><p>Probably a minority take, but I think the best term for people who use <a href=\"http://blygger.org/\">Blygger</a> is just: bloggers.</p><p>Blygger is a useful update to blogging. It extends blogging, but it’s not separate.</p><p><b>Update:</b> Looks like I was quoting a quote. <a href=\"https://venkateshrao.com/blyg/f/6nyjhp6a7g8eck373aedreyk1m/\">Original question here</a>. Anyway, we’re still in the blogosphere, if you ask me. </p></blockquote><p>—Brady Dale<br/>September 29, 2026</p>\n</blockquote>\n",
+  "content_hash": "sha256:3d56524a9bcd02347cd67969f27332ed5da524fb0aff5e4a678b2e08f93c31ef",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "66rn9zh8xny3x3kmndh7dbya3m",
+      "version": 2,
+      "origin": "https://bradydale.com/blyg/",
+      "cited": {
+        "source": "Brady Dale's blyg",
+        "author": "Brady Dale",
+        "excerpt": "What’s the best name for the community of blyg users? by Kyle Mathews · quoted f…",
+        "url": "https://bradydale.com/blyg/t/66rn9zh8xny3x3kmndh7dbya3m/",
+        "retrieved": "2026-09-29T17:07:58Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://bradydale.com/blyg/",
+    "id": "66rn9zh8xny3x3kmndh7dbya3m",
+    "version": 2,
+    "cited": {
+      "source": "Brady Dale's blyg",
+      "author": "Brady Dale",
+      "excerpt": "What’s the best name for the community of blyg users? by Kyle Mathews · quoted f…",
+      "url": "https://bradydale.com/blyg/t/66rn9zh8xny3x3kmndh7dbya3m/",
+      "retrieved": "2026-09-29T17:07:58Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-29T17:07:58Z",
+      "note": null
+    }
+  ]
+}

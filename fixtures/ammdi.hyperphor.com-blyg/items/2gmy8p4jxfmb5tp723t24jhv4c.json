@@ -1,0 +1,26 @@
+{
+  "updated": "2026-10-21T05:06:05Z",
+  "content_md": "Wicked Problems. No shit. ![image.png](../assets/image_1792454212375_0.png){:height 332, :width 663}",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T01:52:56Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-21T05:06:05Z",
+      "note": null
+    }
+  ],
+  "created": "2026-10-21T01:52:56Z",
+  "page": "f/2gmy8p4jxfmb5tp723t24jhv4c/",
+  "content_hash": "sha256:0b42b52a1b5f5aaf8a0418d3f3c5eb7f13a18e5b2a9dc8ae743b572d0ba7f82a",
+  "id": "2gmy8p4jxfmb5tp723t24jhv4c",
+  "kind": "fragment",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div><span>Wicked Problems. No shit. <a class=\"imga\" href=\"https://ammdi.hyperphor.com/assets/image_1792454212375_0.png\" target=\"_image\"><img alt=\"image.png\" src=\"https://ammdi.hyperphor.com/assets/image_1792454212375_0.png\" /></a></span></div>",
+  "version": 2,
+  "media": [],
+  "blyg": "0.3"
+}

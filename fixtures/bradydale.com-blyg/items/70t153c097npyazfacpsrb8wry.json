@@ -1,0 +1,39 @@
+{
+  "blyg": "0.3",
+  "id": "70t153c097npyazfacpsrb8wry",
+  "kind": "thread",
+  "origin": "https://bradydale.com/blyg/",
+  "page": "t/70t153c097npyazfacpsrb8wry/",
+  "author": {
+    "name": "Brady Dale",
+    "url": "https://bradydale.com/"
+  },
+  "created": "2026-10-25T22:50:00Z",
+  "updated": "2026-10-28T15:27:55Z",
+  "version": 2,
+  "content_md": "# Wire up, lock in\n\n### *[BrainFi Gets in Your Head](https://bradydale.com/series-brainfi-gets-in-your-head.html)*\n\nWhen I first started talking to ChatGPT about this idea of [BrainFi](https://bradydale.com/88.html), it told me Spider Robinson's early 80s book *Mindkiller* was a canonical, obvious edition. I can see it.\n\nIt takes a while to get there, but the big idea of the book is that there's this technology that allows people to experience pure, uninterruped pleasure: wireheading. Three different companies sell rigs. The protagonist of the book encounters someone wireheading and it sets part of the plot in motion.\n\n![](https://bradydale.com/blyg/media/bfa79c4ff44c866b9d7c3f29769609674830ea2ffe293074e86cda9c11e77e77.jpg)\n\nIt becomes a mechanism to commit suicide, in fact. You plug in, set it to max pleasure and lay there until your body dies. Because from a qualia standpoint, you won't want to do anything else.\n\nPowerful concept.\n\nSo I'm torn between writing about the book itself and the larger ideas. On the one hand, there's some real formal inventiveness in the book — seeds he plants that don't quite make sense as you go until the big reveal at the end. Some nice surprises come together.\n\nThere's also a lot that just doesn't make sense, however. Particularly the final confrontation. The final confrontation is frankly more than a bit stupid on every single level.\n\nThere's a modern tendency in storytelling that every single part of a narrative needs to come together at the end. This book does that in a way that is honestly more than a little bit forced. It's like: C'mon, bro.\n\nThe worst part about that though is that the vision of this book is actually much bigger than it seems. It's not just wireheading. It's much more about the potential power of accessing brains.\n\nLike in *[The Stars My Destination](https://bradydale.com/59.html)*, *Mindkiller* sees brains as maybe the most powerful platform we have access to for experiencing the universe. It just doesn't stick the landing like Bester did. Apparently *Mindkiller* is the first in a trilogy of books. I'm not sure if I'll be checking out the rest. Maybe one day.\n\n—Brady Dale  \nOctober 25, 2026",
+  "content_html": "<h1>Wire up, lock in</h1><h3 class=\"blynger-series-title\"><i><a href=\"https://bradydale.com/series-brainfi-gets-in-your-head.html\">BrainFi Gets in Your Head</a></i></h3><p>When I first started talking to ChatGPT about this idea of <a href=\"https://bradydale.com/88.html\">BrainFi</a>, it told me Spider Robinson's early 80s book <i>Mindkiller</i> was a canonical, obvious edition. I can see it. </p><p>It takes a while to get there, but the big idea of the book is that there's this technology that allows people to experience pure, uninterruped pleasure: wireheading. Three different companies sell rigs. The protagonist of the book encounters someone wireheading and it sets part of the plot in motion. </p><p class=\"blynger-image blynger-image-standard\"><img alt=\"\" src=\"https://bradydale.com/blyg/media/bfa79c4ff44c866b9d7c3f29769609674830ea2ffe293074e86cda9c11e77e77.jpg\"/></p><p>It becomes a mechanism to commit suicide, in fact. You plug in, set it to max pleasure and lay there until your body dies. Because from a qualia standpoint, you won't want to do anything else.</p><p>Powerful concept.</p><p>So I'm torn between writing about the book itself and the larger ideas. On the one hand, there's some real formal inventiveness in the book — seeds he plants that don't quite make sense as you go until the big reveal at the end. Some nice surprises come together.</p><p>There's also a lot that just doesn't make sense, however. Particularly the final confrontation. The final confrontation is frankly more than a bit stupid on every single level. </p><p>There's a modern tendency in storytelling that every single part of a narrative needs to come together at the end. This book does that in a way that is honestly more than a little bit forced. It's like: C'mon, bro. </p><p>The worst part about that though is that the vision of this book is actually much bigger than it seems. It's not just wireheading. It's much more about the potential power of accessing brains.</p><p>Like in <i><a href=\"https://bradydale.com/59.html\">The Stars My Destination</a></i>, <i>Mindkiller</i> sees brains as maybe the most powerful platform we have access to for experiencing the universe. It just doesn't stick the landing like Bester did. Apparently <i>Mindkiller</i> is the first in a trilogy of books. I'm not sure if I'll be checking out the rest. Maybe one day. </p><p>—Brady Dale<br/>October 25, 2026</p>",
+  "content_hash": "sha256:c1e0deffbfbc9cff5edc77ca8377070dc457c242f20d685d6654fe258021c77c",
+  "media": [
+    {
+      "url": "https://bradydale.com/blyg/media/bfa79c4ff44c866b9d7c3f29769609674830ea2ffe293074e86cda9c11e77e77.jpg",
+      "mime": "image/jpeg",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T22:50:00Z",
+      "note": "Imported from 108.html",
+      "pinned": true
+    },
+    {
+      "version": 2,
+      "at": "2026-10-28T15:27:55Z",
+      "note": "Updated in Blynger",
+      "pinned": true
+    }
+  ],
+  "transclusions": []
+}

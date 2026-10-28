@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "18p40572xfs2768dh2e1z0e7k1",
+  "kind": "thread",
+  "origin": "https://blyg.artlu.xyz/",
+  "page": "t/18p40572xfs2768dh2e1z0e7k1/",
+  "author": {
+    "name": "ultrA",
+    "url": "https://blyg.artlu.xyz/"
+  },
+  "created": "2026-10-14T00:14:05Z",
+  "updated": "2026-10-14T00:25:51Z",
+  "version": 1,
+  "content_md": "![[5qn1vfg7jy5ynj1fbmyzqsfjyb]]\n\nVery interesting read.\n\nThe guest author defines a Factory as:\n- Shared — multiple people on the team can use them.\n\n- Specific — they are optimized to handle certain types of recurring tasks, unlike a general-purpose agent.\n\n- Scrutinized — some people on the team can see the work flowing through the factory to observe and fix failures.\n\nI think I already have factories at home, in close to the ideal form factor for legibility at this stage of agentic evolution.\n\nEach of my specialized [Spacebot](https://spacebot.sh) agents is defined by a section in a toml file (inference provider waterfall), a handful of `SOUL.md` style Markdown files, its own collection of Claude skills, and participation in any number of Discord, Slack, SMS and email channels.\n\nFor example, I have a `slides-maker` agent, with specialized skills to make presentations and deploy them as a simple static site. Anyone in the team in Discord/Slack can ping the agent. It has its own API keys and token budget, in addition to its unique skills and personality. And team members can observe/control the agent, at various levels of permissioning.\n\nThere's another one for `deep-research` which has its own API keys and budget to use services, as well as compartmentalized bulkhead memory so researched topics don't leak to the `slides-maker` agent unless they message each other.\n\nIn the context of personal agents vs factories, these specialized, partially isolated agents appear to be mini factories.\n\nIt seems that one can turn a personal agent platform into factories by scaling them horizontally and giving them enhanced capabilities vertically.",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"5qn1vfg7jy5ynj1fbmyzqsfjyb\" data-blyg-version=\"2\" data-blyg-origin=\"https://blyg.jdbb.net/\">\n<p>gonna be thinking about this<br>\n<a href=\"https://www.gettheleverage.com/p/against-the-personal-agents-theory\">https://www.gettheleverage.com/p/against-the-personal-agents-theory</a></p>\n\n</blockquote>\n<p>Very interesting read.</p>\n<p>The guest author defines a Factory as:</p>\n<ul>\n<li>\n<p>Shared — multiple people on the team can use them.</p>\n</li>\n<li>\n<p>Specific — they are optimized to handle certain types of recurring tasks, unlike a general-purpose agent.</p>\n</li>\n<li>\n<p>Scrutinized — some people on the team can see the work flowing through the factory to observe and fix failures.</p>\n</li>\n</ul>\n<p>I think I already have factories at home, in close to the ideal form factor for legibility at this stage of agentic evolution.</p>\n<p>Each of my specialized <a href=\"https://spacebot.sh\">Spacebot</a> agents is defined by a section in a toml file (inference provider waterfall), a handful of <code>SOUL.md</code> style Markdown files, its own collection of Claude skills, and participation in any number of Discord, Slack, SMS and email channels.</p>\n<p>For example, I have a <code>slides-maker</code> agent, with specialized skills to make presentations and deploy them as a simple static site. Anyone in the team in Discord/Slack can ping the agent. It has its own API keys and token budget, in addition to its unique skills and personality. And team members can observe/control the agent, at various levels of permissioning.</p>\n<p>There's another one for <code>deep-research</code> which has its own API keys and budget to use services, as well as compartmentalized bulkhead memory so researched topics don't leak to the <code>slides-maker</code> agent unless they message each other.</p>\n<p>In the context of personal agents vs factories, these specialized, partially isolated agents appear to be mini factories.</p>\n<p>It seems that one can turn a personal agent platform into factories by scaling them horizontally and giving them enhanced capabilities vertically.</p>\n",
+  "content_hash": "sha256:3a689708467603f9667c265f62c0b519d06c95b9c5c98ad4ec1f4b7e8f44f806",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "5qn1vfg7jy5ynj1fbmyzqsfjyb",
+      "version": 2,
+      "origin": "https://blyg.jdbb.net/",
+      "cited": {
+        "source": "[jdbb] studio blyg",
+        "author": "jenna dixon",
+        "excerpt": "gonna be thinking about this https://www.gettheleverage.com/p/against-the-person…",
+        "url": "https://blyg.jdbb.net/f/5qn1vfg7jy5ynj1fbmyzqsfjyb/",
+        "retrieved": "2026-10-14T00:25:51Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.jdbb.net/",
+    "id": "5qn1vfg7jy5ynj1fbmyzqsfjyb",
+    "version": 2,
+    "cited": {
+      "source": "[jdbb] studio blyg",
+      "author": "jenna dixon",
+      "excerpt": "gonna be thinking about this https://www.gettheleverage.com/p/against-the-person…",
+      "url": "https://blyg.jdbb.net/f/5qn1vfg7jy5ynj1fbmyzqsfjyb/",
+      "retrieved": "2026-10-14T00:25:51Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-14T00:25:51Z",
+      "note": null
+    }
+  ]
+}

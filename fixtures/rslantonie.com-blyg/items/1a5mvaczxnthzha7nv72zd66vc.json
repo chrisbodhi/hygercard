@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "1a5mvaczxnthzha7nv72zd66vc",
+  "kind": "fragment",
+  "origin": "https://rslantonie.com/blyg/",
+  "page": "f/1a5mvaczxnthzha7nv72zd66vc/",
+  "author": {
+    "name": "Russell Antonie Pasetes",
+    "url": "https://rslantonie.com/"
+  },
+  "created": "2026-10-09T01:32:05Z",
+  "updated": "2026-10-09T05:10:49Z",
+  "version": 2,
+  "content_md": "to cut class\nfind ways to\nbe as dumb\nas you like",
+  "content_html": "<p>to cut class<br>find ways to<br>be as dumb<br>as you like</p>\n",
+  "content_hash": "sha256:5889013e6f14442f5201ee078322ba06ee3d3999f0c3b0d9e66bd5c3f6757787",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-09T01:32:05Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-09T05:10:49Z",
+      "note": null
+    }
+  ]
+}

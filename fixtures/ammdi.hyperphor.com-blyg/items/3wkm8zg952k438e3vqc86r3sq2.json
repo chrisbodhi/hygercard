@@ -1,0 +1,21 @@
+{
+  "updated": "2026-10-26T06:27:16Z",
+  "content_md": "> One of the points I’ve wanted to develop in my AI philosophy is a proper account of goals. Ironically, despite their strongly consequentialist stance, the rationalist crowd has no meaningful account of them and don’t seem to realize they need one for a complete theory. That’s why they find themselves resorting to thought experiments like paperclip maximizers.",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T06:27:16Z",
+      "note": null
+    }
+  ],
+  "created": "2026-10-26T06:27:16Z",
+  "page": "f/3wkm8zg952k438e3vqc86r3sq2/",
+  "content_hash": "sha256:de79fe2b8025c634918bb4f80879b1fbc6e39670fd5d98f79264c1d2480eb6cf",
+  "id": "3wkm8zg952k438e3vqc86r3sq2",
+  "kind": "fragment",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div><blockquote>One of the points I’ve wanted to develop in my AI philosophy is a proper account of goals. Ironically, despite their strongly consequentialist stance, the rationalist crowd has no meaningful account of them and don’t seem to realize they need one for a complete theory. That’s why they find themselves resorting to thought experiments like paperclip maximizers.</blockquote></div>",
+  "version": 1,
+  "media": [],
+  "blyg": "0.3"
+}

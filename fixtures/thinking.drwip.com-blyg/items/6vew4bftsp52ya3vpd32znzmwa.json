@@ -1,0 +1,24 @@
+{
+  "blyg": "0.3",
+  "id": "6vew4bftsp52ya3vpd32znzmwa",
+  "kind": "fragment",
+  "origin": "https://thinking.drwip.com/blyg/",
+  "page": "f/6vew4bftsp52ya3vpd32znzmwa/",
+  "author": {
+    "name": "Will Abramson"
+  },
+  "created": "2026-06-13T00:00:00Z",
+  "updated": "2026-06-13T00:00:00Z",
+  "version": 1,
+  "content_md": "# Learning to Jam with the Instruments of Ideas\n\nReflecting on [LLMs Pre-Commodify Ideas](https://summerlightning.substack.com/p/llms-pre-commodify-ideas) by Sachin\n\n> As multiple people work on the same latent space of problems, we pull forward the same sticky ideas along the same gradients in the latent space, ending with roughly the same ideas.\n\nNice synthesis!\n\nIt made me think of LLM's as an instrument and the music we make with them as another analogy with similar meanings.\n\nWe are all playing the same instrument (more or less), we bring our context to tuning the ideas it produces, but the instrument only has so many notes. Not surprising we play similar tunes.\n\nI like this because music demonstrates the rich generative potential of combinatorial composition, especially when in harmony with collaborators.\n\nIt also tells us it would be great if we could design some alternative instruments, attuned to and trained on different frequencies and bodies of knowledge.",
+  "content_html": "<h1 id=\"learning-to-jam-with-the-instruments-of-ideas\">Learning to Jam with the Instruments of Ideas</h1>\n<p>Reflecting on <a href=\"https://summerlightning.substack.com/p/llms-pre-commodify-ideas\">LLMs Pre-Commodify Ideas</a> by Sachin</p>\n<blockquote>\n<p>As multiple people work on the same latent space of problems, we pull forward the same sticky ideas along the same gradients in the latent space, ending with roughly the same ideas.</p>\n</blockquote>\n<p>Nice synthesis!</p>\n<p>It made me think of LLM’s as an instrument and the music we make with them as another analogy with similar meanings.</p>\n<p>We are all playing the same instrument (more or less), we bring our context to tuning the ideas it produces, but the instrument only has so many notes. Not surprising we play similar tunes.</p>\n<p>I like this because music demonstrates the rich generative potential of combinatorial composition, especially when in harmony with collaborators.</p>\n<p>It also tells us it would be great if we could design some alternative instruments, attuned to and trained on different frequencies and bodies of knowledge.</p>",
+  "media": [],
+  "content_hash": "sha256:a6a931a29bbeae31a909e43cf79af839eaf80de565f71bd09c6f6ab1a340fb55",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-06-13T00:00:00Z",
+      "note": null
+    }
+  ]
+}

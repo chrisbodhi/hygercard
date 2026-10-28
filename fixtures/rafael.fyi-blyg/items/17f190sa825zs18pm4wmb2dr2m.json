@@ -1,0 +1,39 @@
+{
+  "blyg": "0.3",
+  "id": "17f190sa825zs18pm4wmb2dr2m",
+  "kind": "thread",
+  "origin": "https://rafael.fyi/blyg/",
+  "page": "t/17f190sa825zs18pm4wmb2dr2m/",
+  "created": "2026-10-05T05:27:53Z",
+  "updated": "2026-10-06T09:08:22Z",
+  "version": 3,
+  "content_md": "# A quote machine with one rule\n\nThe Reading section on the home page shows one passage at a time from the papers, essays and posts behind my work. The circular arrow beside the heading brings up another. There are 436 in the pile right now.\n\nThe pile runs on one rule: verbatim or nothing. A script pulls a passage from each source, usually the abstract or the opening paragraph, and cuts it at a whole sentence. It may fix whitespace, rejoin a word split across a line break, and drop markdown emphasis. That's all. If a passage doesn't come out as clean prose, it's thrown away, not repaired.\n\nThe reason is simple. A paraphrase is a claim about a text, and a quote is the text. The moment a machine starts tidying other people's sentences, the pile stops being their words and becomes my summary of them, with their names still attached. I use the same rule on the webring: a quote from someone in the ring has to appear, word for word, at its source. Anything else goes in a note, where it's visibly my voice.\n\nThe passages come from four places: the finds I collect day to day, Bret Victor's [reference library](https://worrydream.com/refs/), the [Summer of Protocols](https://summerofprotocols.com/research) research, and NPC Memo along with the publications it recommends (free posts only). Every passage links back to where it came from.\n\nTwo ways in, besides reading. If something belongs in the pile, the **+** beside the heading opens a form that comes straight to me. And the whole pile is published as data, at [rafael.fyi/readings.json](https://rafael.fyi/readings.json), for anyone (or anything) that would rather read it that way.\n",
+  "content_html": "<h1>A quote machine with one rule</h1>\n<div class=\"blyg-tk-gen\"><p>The Reading section on the home page shows one passage at a time from the papers, essays and posts behind my work. The circular arrow beside the heading brings up another. There are 436 in the pile right now.</p>\n<p>The pile runs on one rule: verbatim or nothing. A script pulls a passage from each source, usually the abstract or the opening paragraph, and cuts it at a whole sentence. It may fix whitespace, rejoin a word split across a line break, and drop markdown emphasis. That's all. If a passage doesn't come out as clean prose, it's thrown away, not repaired.</p>\n<p>The reason is simple. A paraphrase is a claim about a text, and a quote is the text. The moment a machine starts tidying other people's sentences, the pile stops being their words and becomes my summary of them, with their names still attached. I use the same rule on the webring: a quote from someone in the ring has to appear, word for word, at its source. Anything else goes in a note, where it's visibly my voice.</p>\n<p>The passages come from four places: the finds I collect day to day, Bret Victor's <a href=\"https://worrydream.com/refs/\">reference library</a>, the <a href=\"https://summerofprotocols.com/research\">Summer of Protocols</a> research, and NPC Memo along with the publications it recommends (free posts only). Every passage links back to where it came from.</p>\n<p>Two ways in, besides reading. If something belongs in the pile, the <strong>+</strong> beside the heading opens a form that comes straight to me. And the whole pile is published as data, at <a href=\"https://rafael.fyi/readings.json\">rafael.fyi/readings.json</a>, for anyone (or anything) that would rather read it that way.</p></div>",
+  "content_hash": "sha256:58fb43c97c9324784658e29ab39576427f82b8cb8eba1f5129ad727d07f00883",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5",
+      "at": "2026-10-06T09:08:22Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-05T05:27:53Z",
+      "note": "First post"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-05T08:03:00Z",
+      "note": "482 passages after dropping seven broken extractions; the controls are icons now"
+    },
+    {
+      "version": 3,
+      "at": "2026-10-06T09:08:22Z",
+      "note": "436 passages after a second pass: OCR faults, flattened footnotes, fused captions and announcements are out"
+    }
+  ]
+}

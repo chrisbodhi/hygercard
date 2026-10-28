@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "1zf9tvpqpve1fsamrbrxh436bm",
+  "kind": "fragment",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "f/1zf9tvpqpve1fsamrbrxh436bm/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-26T16:53:27Z",
+  "updated": "2026-10-26T16:53:28Z",
+  "version": 1,
+  "content_md": "Ant! \n\nAnthropic's S-1 just dropped. Starting a stub to share tidbits and discuss with the Thicket: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "content_html": "<p>Ant!</p>\n<p>Anthropic's S-1 just dropped. Starting a stub to share tidbits and discuss with the Thicket: <a href=\"https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\">https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm</a></p>\n",
+  "content_hash": "sha256:fa879301c1feb9c1ccb706e13cfbab1523b120ffee793db16fbd12dc8c0765d0",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T16:53:28Z",
+      "note": null
+    }
+  ]
+}

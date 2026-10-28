@@ -1,0 +1,18 @@
+{
+  "blyg": "0.4",
+  "level": 2,
+  "generator": "blygger-studio/0.48.2",
+  "generator_url": "https://github.com/blygger/blygger-studio",
+  "site": "https://blyg.florianlohse.com/",
+  "title": "Florian Lohse - blyg",
+  "author": {
+    "name": "Florian Lohse",
+    "bio": "I’m Florian Lohse, an engineer and designer.\nI build tools for filmmakers. Located in Munich, Germany.",
+    "avatar": "media/qvhvzn46.jpg",
+    "links": []
+  },
+  "feed": "feed.xml",
+  "items": "items/index.json",
+  "updated": "2026-10-27T06:09:33Z",
+  "webmention": "webmention"
+}

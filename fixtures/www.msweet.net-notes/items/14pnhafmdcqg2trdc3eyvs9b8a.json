@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "14pnhafmdcqg2trdc3eyvs9b8a",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "671-maroon-egrets",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-23T19:51:10Z",
+  "updated": "2026-10-23T19:51:10Z",
+  "version": 1,
+  "content_md": "Not surprising that coordination failure came up as the most common theme across ~200 essays on metascience. What is surprising is the supposed specificity of proposed solutions to those failures.\n\n> The most common frustration, cutting across nearly every category, was coordination failure. Not a shortage of ideas or data or even funding, but the absence of any mechanism for doing collectively what no individual lab or team can do alone. Valuable scientific assets like datasets, methods, null results, years of accumulated know-how lack shared infrastructure for sharing, maintaining, and learning from them. This category, which accounted for more than half the submissions, includes issues around community tools, data access, infrastructure. The essays in this bucket also tended to be unusually specific about what was missing and why, which was helpful for brainstorming fundable solutions.\n\n[What Scientists Said: Results from Asteras First Essay Competition ↗](https://asterainstitute.substack.com/p/what-scientists-said-results-from?r=233ko)",
+  "content_html": "<p>Not surprising that coordination failure came up as the most common theme across ~200 essays on metascience. What is surprising is the supposed specificity of proposed solutions to those failures.</p>\n<blockquote><p>The most common frustration, cutting across nearly every category, was coordination failure. Not a shortage of ideas or data or even funding, but the absence of any mechanism for doing collectively what no individual lab or team can do alone. Valuable scientific assets like datasets, methods, null results, years of accumulated know-how lack shared infrastructure for sharing, maintaining, and learning from them. This category, which accounted for more than half the submissions, includes issues around community tools, data access, infrastructure. The essays in this bucket also tended to be unusually specific about what was missing and why, which was helpful for brainstorming fundable solutions.</p></blockquote>\n<p class=\"source\"><a href=\"https://asterainstitute.substack.com/p/what-scientists-said-results-from?r=233ko\">What Scientists Said: Results from Asteras First Essay Competition ↗</a></p>",
+  "content_hash": "sha256:4ff9e03c9a5fa86f87acfa2b07482a68a575dbb6c1e40fb8e000da2e9e95aff7",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T19:51:10Z",
+      "note": null
+    }
+  ]
+}

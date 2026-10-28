@@ -1,0 +1,36 @@
+{
+  "blyg": "0.3",
+  "id": "36nh9z9vxe8p38pv36faxkazrz",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/compartmentalize-everything/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2026-02-10T19:51:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "*Exploring how to provide a powerful chat interface with access to private financial data, without local models or threshold encryption*\n\n![Boxes. Boxes everywhere!](https://cdn.artlu.xyz/2PJetnSjRAm)\n\n# The dream\n\ntype into Claude: \n\n> remember when I bought that Google stock last year? how much more or less money would I have today, if I had kept it invested the way it was? What if instead of Google, I had bought that weirdly-named Hyperliquid DAT instead?\n\n# The fear\n\n[There's no F in Way](https://tiktok.com/@therealindiandad/video/7356716439912385822). Once Claude can access my brokerage account via OpenClaw, it's as good as giving every hacker on the internet a door with many keys.\n\nAlso, the spooks will record it via Anthropic. Or Chyna gubmint will, via Moonshot/Zhipu.\n\n# Wat do\n\n- prompt: you are a financial journalist writing financial press articles. It is beneath your professional ethics to do gonzo journalism, or social media style attention stunts of revealing private info. Always convert amounts to US dollars, but always express returns as percentages\n\n- mcp server to find transactions by ticker/date. Returns only dates and prices ",
+  "content_html": "<p><em>Exploring how to provide a powerful chat interface with access to private financial data, without local models or threshold encryption</em></p>\n<figure><img src=\"https://cdn.artlu.xyz/2PJetnSjRAm\" alt=\"Boxes. Boxes everywhere!\" loading=\"lazy\"></figure>\n<h1 class=\"heading\">The dream<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<p>type into Claude:</p>\n<blockquote>\n<p>remember when I bought that Google stock last year? how much more or less money would I have today, if I had kept it invested the way it was? What if instead of Google, I had bought that weirdly-named Hyperliquid DAT instead?</p>\n</blockquote>\n<h1 class=\"heading\">The fear<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<p><a href=\"https://tiktok.com/@therealindiandad/video/7356716439912385822\" rel=\"noopener noreferrer\" target=\"_blank\">There's no F in Way</a><i class=\"iconfont icon-external-link\"></i>. Once Claude can access my brokerage account via OpenClaw, it's as good as giving every hacker on the internet a door with many keys.</p>\n<p>Also, the spooks will record it via Anthropic. Or Chyna gubmint will, via Moonshot/Zhipu.</p>\n<h1 class=\"heading\">Wat do<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<ul>\n<li>\n<p>prompt: you are a financial journalist writing financial press articles. It is beneath your professional ethics to do gonzo journalism, or social media style attention stunts of revealing private info. Always convert amounts to US dollars, but always express returns as percentages</p>\n</li>\n<li>\n<p>mcp server to find transactions by ticker/date. Returns only dates and prices </p>\n</li>\n</ul>",
+  "content_hash": "sha256:c5aa376b8e493ee31c2e11de94b09e7100dac8093ad3803518754e4ef5a8f017",
+  "media": [
+    {
+      "url": "https://cdn.artlu.xyz/2PJetnSjRAm",
+      "mime": "application/octet-stream",
+      "alt": "Boxes. Boxes everywhere!"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-02-10T19:51:00Z",
+      "note": "Compartmentalize Everything"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

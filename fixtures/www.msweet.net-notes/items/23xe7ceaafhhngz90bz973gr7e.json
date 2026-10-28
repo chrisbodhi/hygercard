@@ -1,0 +1,38 @@
+{
+  "blyg": "0.3",
+  "id": "23xe7ceaafhhngz90bz973gr7e",
+  "kind": "thread",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "875-crimson-seals",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-25T16:36:04Z",
+  "updated": "2026-10-25T16:36:04Z",
+  "version": 1,
+  "content_md": "I suspect that the price of such guarantees might go to zero way faster than anyone expects, given the direction the cross-pollination between computer science and formal verification is going in.\n\n> The vendor still matters, but its value shifts from building screens to guaranteeing things. Is the data complete and correct? Does it arrive on time? Will the schema hold still long enough to build on? Is there one interface everyone trusts as official? Those are harder problems than drawing pages, and they are easier to price, because reliability can be measured.\n\n[Primitives over pixels · Rafael Fernández ↗](https://rafael.fyi/blyg/t/4hqgvzmb3nyahj0cjfga098d4p)",
+  "content_html": "<p>I suspect that the price of such guarantees might go to zero way faster than anyone expects, given the direction the cross-pollination between computer science and formal verification is going in.</p>\n<blockquote><p>The vendor still matters, but its value shifts from building screens to guaranteeing things. Is the data complete and correct? Does it arrive on time? Will the schema hold still long enough to build on? Is there one interface everyone trusts as official? Those are harder problems than drawing pages, and they are easier to price, because reliability can be measured.</p></blockquote>\n<p class=\"source\"><a href=\"https://rafael.fyi/blyg/t/4hqgvzmb3nyahj0cjfga098d4p\">Primitives over pixels · Rafael Fernández ↗</a></p>",
+  "content_hash": "sha256:993ede8a3e7595e17f36fa4773e2a4a217044e2edacf1a31278787db730ed53f",
+  "media": [],
+  "transclusions": [],
+  "stub_of": {
+    "origin": "https://rafael.fyi/blyg/",
+    "id": "4hqgvzmb3nyahj0cjfga098d4p",
+    "version": 1,
+    "cited": {
+      "source": "Rafael Fernández",
+      "author": "Rafael Fernández",
+      "excerpt": "Primitives over pixels When anyone can build an interface in an afternoon, what is a software vendor actually selling? For most of the history of enterprise software, buying meant buying a roadmap.…",
+      "url": "https://rafael.fyi/blyg/t/4hqgvzmb3nyahj0cjfga098d4p/",
+      "retrieved": "2026-10-25T16:36:18Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T16:36:04Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "4dgkw6cvr1nv9sqv72s46tm8xc",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/4dgkw6cvr1nv9sqv72s46tm8xc/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# SIGPfB Orienteering: Protocols, AI Agents, and Business Optimization\n\n*Session of 16 February 2026.* Participants: rafa_0x, timber1997.\n\nThe SIGPfB group held an optional orienteering meeting to identify key themes for the protocols-for-business initiative. Rafa outlined six priority topics including the distinction between installation/deployment, reproducibility, annealing processes, AI assistance models, user-generated software, and runtime procurement. The group discussed a science fiction analogy about machine language programmers discovering spaceship optimizations that higher-level AI abstractions had missed over centuries of optimization, suggesting that excessive abstraction can obscure valuable opportunities. The meeting touched on practical concerns including reproducibility and the appropriate role of LLMs in business contexts, with Rafa beginning to explore where LLMs actually provide business value.\n\n**Key points**\n\n- There is a conceptual distinction between AI assistance (abstraction layers) and true agents that warrants exploration for business protocol design.\n- Low-level optimization opportunities may be missed when systems rely entirely on AI abstractions; domain-specific knowledge can uncover novel solutions that broad AI optimization misses.\n- Milestone Saves documentation has been established as a reference point for tracking progress in this working group.\n- The group is exploring where LLMs provide genuine business value versus where they add unnecessary abstraction layers.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2026-02-16-sigpfb-orienteering-protocols-ai-agents-and-business-op) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2026-02-16-sigpfb-orienteering-protocols-ai-agents-and-business-op/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>SIGPfB Orienteering: Protocols, AI Agents, and Business Optimization</h1>\n<p><em>Session of 16 February 2026.</em> Participants: rafa_0x, timber1997.</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB group held an optional orienteering meeting to identify key themes for the protocols-for-business initiative. Rafa outlined six priority topics including the distinction between installation/deployment, reproducibility, annealing processes, AI assistance models, user-generated software, and runtime procurement. The group discussed a science fiction analogy about machine language programmers discovering spaceship optimizations that higher-level AI abstractions had missed over centuries of optimization, suggesting that excessive abstraction can obscure valuable opportunities. The meeting touched on practical concerns including reproducibility and the appropriate role of LLMs in business contexts, with Rafa beginning to explore where LLMs actually provide business value.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>There is a conceptual distinction between AI assistance (abstraction layers) and true agents that warrants exploration for business protocol design.</li>\n<li>Low-level optimization opportunities may be missed when systems rely entirely on AI abstractions; domain-specific knowledge can uncover novel solutions that broad AI optimization misses.</li>\n<li>Milestone Saves documentation has been established as a reference point for tracking progress in this working group.</li>\n<li>The group is exploring where LLMs provide genuine business value versus where they add unnecessary abstraction layers.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2026-02-16-sigpfb-orienteering-protocols-ai-agents-and-business-op\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2026-02-16-sigpfb-orienteering-protocols-ai-agents-and-business-op/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:a365e58aca4218f0f633d842334bb64cb6b6a8376ff89cde072bdc3f9f8d879c",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

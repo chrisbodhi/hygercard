@@ -1,0 +1,27 @@
+{
+  "blyg": "0.3",
+  "changelog": [
+    {
+      "at": "2026-10-11T21:26:59Z",
+      "note": null,
+      "version": 1
+    }
+  ],
+  "content_hash": "sha256:21d9da85c5472497710cf7ec74d6b7d304ac9ec42e9b441007981f5da1f65960",
+  "content_html": "<p>Testing if those transclusion tests are good tests.</p>\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"0j9ky9btwh7awq88c2q53mz7b6\" data-blyg-version=\"1\"><p>With a few tweaks of some exiting systems, GitHub can easily turn into a write-only Blygger client.</p>\n</blockquote>\n",
+  "content_md": "Testing if those transclusion tests are good tests.\n\n![[0j9ky9btwh7awq88c2q53mz7b6]]\n",
+  "created": "2026-10-11T21:26:59Z",
+  "id": "0jqhexcn50q82s24wkagyv4z72",
+  "kind": "thread",
+  "media": [],
+  "origin": "https://newschematic.org/blyg/",
+  "page": "t/0jqhexcn50q82s24wkagyv4z72/",
+  "transclusions": [
+    {
+      "id": "0j9ky9btwh7awq88c2q53mz7b6",
+      "version": 1
+    }
+  ],
+  "updated": "2026-10-11T21:26:59Z",
+  "version": 1
+}

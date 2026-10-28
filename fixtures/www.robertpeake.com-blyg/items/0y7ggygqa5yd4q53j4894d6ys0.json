@@ -1,0 +1,32 @@
+{
+  "blyg": "0.4",
+  "id": "0y7ggygqa5yd4q53j4894d6ys0",
+  "kind": "thread",
+  "origin": "https://www.robertpeake.com/blyg/",
+  "page": "https://www.robertpeake.com/archives/96522-alas.html",
+  "author": {
+    "name": "Robert Peake",
+    "url": "https://www.robertpeake.com/"
+  },
+  "created": "2019-08-11T13:34:00Z",
+  "updated": "2019-08-11T13:34:05Z",
+  "version": 1,
+  "content_md": "# Alas! \\[Poem\\]\n\n![](https://www.robertpeake.com/files/2019/08/alas.jpg)\n\n<https://www.youtube.com/embed/Cs3voOIkDUs?rel=0>\n\n[\\*|YOUTUBE:\\[$vid=Cs3voOIkDUs\\]|\\*\\\nClick to watch](https://www.youtube.com/watch?v=Cs3voOIkDUs)\n\nAlas!\n\n“Poor Yorick” my ass. I got off easy.\\\nHeredity is kindest when it’s short.\\\nLet the forest weep, the poisoned king\\\ndream of pythons and immovable heaven.\n\nWe who carry princes on our backs\\\nstoke another’s brawny passion,\\\ninfected, jaw-to-toe, with fatigue\\\nand a double-helping of soreness.\n\nThe thicket’s the ticket to catch\\\nthe breeches of the riding dauphin,\\\nscratch off a flea for quick relief\\\nand a momentary cigarette break.\n\nEven my skull has become your souvenir.\\\nRemember me fondly, parasite.\n",
+  "content_html": "<h1>Alas! [Poem]</h1>\n<figure><img src=\"https://www.robertpeake.com/files/2019/08/alas.jpg\" alt=\"\" width=\"3024\" height=\"3024\"></figure>\n<figure><p><a href=\"https://www.youtube.com/embed/Cs3voOIkDUs?rel=0\">https://www.youtube.com/embed/Cs3voOIkDUs?rel=0</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=Cs3voOIkDUs\">*|YOUTUBE:[$vid=Cs3voOIkDUs]|*<br>Click to watch</a></p></figure>\n<p>Alas!</p>\n<p>“Poor Yorick” my ass. I got off easy.<br>\nHeredity is kindest when it’s short.<br>\nLet the forest weep, the poisoned king<br>\ndream of pythons and immovable heaven.</p>\n<p>We who carry princes on our backs<br>\nstoke another’s brawny passion,<br>\ninfected, jaw-to-toe, with fatigue<br>\nand a double-helping of soreness.</p>\n<p>The thicket’s the ticket to catch<br>\nthe breeches of the riding dauphin,<br>\nscratch off a flea for quick relief<br>\nand a momentary cigarette break.</p>\n<p>Even my skull has become your souvenir.<br>\nRemember me fondly, parasite.</p>",
+  "content_hash": "sha256:012e20be8bc28eaee4851071a0b8387aa57ade955dff3cb5c79f95d712a2d66d",
+  "media": [
+    {
+      "url": "https://www.robertpeake.com/files/2019/08/alas.jpg",
+      "mime": "image/jpeg",
+      "alt": ""
+    }
+  ],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2019-08-11T13:34:05Z",
+      "note": "imported from WordPress"
+    }
+  ]
+}

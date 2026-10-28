@@ -1,0 +1,36 @@
+{
+  "blyg": "0.3",
+  "id": "5exwa7wertv84ff80xn0sjaa9q",
+  "kind": "fragment",
+  "origin": "https://lightsong.ink/blyg/",
+  "page": "f/5exwa7wertv84ff80xn0sjaa9q/",
+  "title": "Darwinism and Divergence",
+  "author": {
+    "name": "Lightsong",
+    "url": "https://lightsong.ink/blyg/"
+  },
+  "created": "2026-09-27T19:23:22Z",
+  "updated": "2026-09-27T20:26:24Z",
+  "version": 3,
+  "content_md": "Darwinism is an idea consistent with, and contributing to, the Divergent World Machine. It is also a framework through which to view the proliferating canonicities that define the Divergent Machine.",
+  "content_html": "<p>Darwinism is an idea consistent with, and contributing to, the Divergent World Machine. It is also a framework through which to view the proliferating canonicities that define the Divergent Machine.</p>\n",
+  "content_hash": "sha256:9e2fcf3579dca0c64f0dda9b0162d0e3d6d2d86a9e2a0dd776a4a15164047128",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T19:23:22Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-09-27T20:14:17Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-09-27T20:26:24Z",
+      "note": null
+    }
+  ]
+}

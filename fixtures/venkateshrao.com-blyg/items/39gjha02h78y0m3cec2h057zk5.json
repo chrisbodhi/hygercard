@@ -1,0 +1,53 @@
+{
+  "blyg": "0.4",
+  "id": "39gjha02h78y0m3cec2h057zk5",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/39gjha02h78y0m3cec2h057zk5/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-22T13:28:45Z",
+  "updated": "2026-10-22T13:45:52Z",
+  "version": 1,
+  "content_md": "![[4hqgvzmb3nyahj0cjfga098d4p]]\n>A thousand personal interfaces can show a thousand slightly different numbers. Someone has to own correctness when a vibe-coded tracker misreads a vote. Copies of official sites make convenient phishing templates. The answer is probably a small trusted core with strong guarantees and a large, cheap edge around it.\n>\n>The old relationship ran on dependency. The new one runs on clean contracts between layers: the vendor keeps the core solid, and buyers build at the edges.\n\nYes, I think contracts are the product now.\nIt's useful to rethink the configuration in terms of where to locate the center. We used to locate centers at loci of agency, but it's revealing to locate them at centers of full automation. Identify the loop that's fully automatic that previously used to be human-in-the-loop. Ask: Where did the human behavior go? \n\nIt can go to 3 places -- an abstraction above, a flexible compositional language at an abstraction level below, or managing secondary interfaces on the \"sides\" at the same abstraction level. Each is a type of contract. The counterparty of the contract is whoever provides the automation, which will generally be headless.\n\nConsider the TK mechanism in blygger. The LLM provides the magic textgen. Human behavior goes to designing the surrounding text, which are at peer level of abstraction. The contract is that the generated text will fit the context neatly. \n\nWhether it's an AI model, a rules engine, or a canonical data API. Automated behaviors also tend to be a bit like wormholes across ownership boundaries where time goes from synchronous to asynchronous. An old pre-AI example is AJAX. The rich interface depended on an asynchronous contract between the client side javascript and the server mediated by XML.",
+  "content_html": "<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"4hqgvzmb3nyahj0cjfga098d4p\" data-blyg-version=\"1\" data-blyg-origin=\"https://rafael.fyi/blyg/\">\n<p>A thousand personal interfaces can show a thousand slightly different numbers. Someone has to own correctness when a vibe-coded tracker misreads a vote. Copies of official sites make convenient phishing templates. The answer is probably a small trusted core with strong guarantees and a large, cheap edge around it.</p>\n<p>The old relationship ran on dependency. The new one runs on clean contracts between layers: the vendor keeps the core solid, and buyers build at the edges.</p>\n</blockquote>\n<p>Yes, I think contracts are the product now.\nIt's useful to rethink the configuration in terms of where to locate the center. We used to locate centers at loci of agency, but it's revealing to locate them at centers of full automation. Identify the loop that's fully automatic that previously used to be human-in-the-loop. Ask: Where did the human behavior go?</p>\n<p>It can go to 3 places -- an abstraction above, a flexible compositional language at an abstraction level below, or managing secondary interfaces on the &quot;sides&quot; at the same abstraction level. Each is a type of contract. The counterparty of the contract is whoever provides the automation, which will generally be headless.</p>\n<p>Consider the TK mechanism in blygger. The LLM provides the magic textgen. Human behavior goes to designing the surrounding text, which are at peer level of abstraction. The contract is that the generated text will fit the context neatly.</p>\n<p>Whether it's an AI model, a rules engine, or a canonical data API. Automated behaviors also tend to be a bit like wormholes across ownership boundaries where time goes from synchronous to asynchronous. An old pre-AI example is AJAX. The rich interface depended on an asynchronous contract between the client side javascript and the server mediated by XML.</p>\n",
+  "content_hash": "sha256:38a7caab5fafc26a6567a7dfde279f12501f6e4fc0bc7a3320fb4b56e0734427",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "4hqgvzmb3nyahj0cjfga098d4p",
+      "version": 1,
+      "origin": "https://rafael.fyi/blyg/",
+      "selector": {
+        "exact": "A thousand personal interfaces can show a thousand slightly different numbers. Someone has to own correctness when a vibe-coded tracker misreads a vote. Copies of official sites make convenient phishing templates. The answer is probably a small trusted core with strong guarantees and a large, cheap edge around it.\nThe old relationship ran on dependency. The new one runs on clean contracts between layers: the vendor keeps the core solid, and buyers build at the edges.",
+        "prefix": "endor's moat.\nThe open problems\n"
+      },
+      "cited": {
+        "source": "Rafael Fernández",
+        "excerpt": "Primitives over pixels When anyone can build an interface in an afternoon, what…",
+        "url": "https://rafael.fyi/blyg/t/4hqgvzmb3nyahj0cjfga098d4p/",
+        "retrieved": "2026-10-22T13:45:52Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://rafael.fyi/blyg/",
+    "id": "4hqgvzmb3nyahj0cjfga098d4p",
+    "version": 1,
+    "cited": {
+      "source": "Rafael Fernández",
+      "excerpt": "Primitives over pixels When anyone can build an interface in an afternoon, what…",
+      "url": "https://rafael.fyi/blyg/t/4hqgvzmb3nyahj0cjfga098d4p/",
+      "retrieved": "2026-10-22T13:45:52Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-22T13:45:52Z",
+      "note": null
+    }
+  ]
+}

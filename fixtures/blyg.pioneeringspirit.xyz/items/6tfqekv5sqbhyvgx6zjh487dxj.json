@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "6tfqekv5sqbhyvgx6zjh487dxj",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/6tfqekv5sqbhyvgx6zjh487dxj/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-26T04:29:58Z",
+  "updated": "2026-10-26T22:53:17Z",
+  "version": 2,
+  "content_md": "![[0ej0jwg80r35pb58x644r1t3g2]]\n\nTest stub of a stub\n\nDoes that lead to a ping back on the first fragment? ",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"0ej0jwg80r35pb58x644r1t3g2\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"34883n5h51qtjy3zc05eh67rm8\" data-blyg-version=\"1\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<p>Would someone mind stubbing this — or anything — or transcluding or whatever? In theory I have webmentions going. Just as a notification in Blynger. But I want to see if it works.</p>\n</blockquote>\n<p>Test webmention stub</p>\n\n</blockquote>\n<p>Test stub of a stub</p>\n<p>Does that lead to a ping back on the first fragment?</p>\n",
+  "content_hash": "sha256:04f3f115dd45c3e27010d063dd630ec2065555234c4a7765e8caf4e9f248c1f3",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "0ej0jwg80r35pb58x644r1t3g2",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "cited": {
+        "source": "And Yet Here We Are 🚀",
+        "author": "Aneesh Sathe",
+        "excerpt": "Would someone mind stubbing this — or anything — or transcluding or whatever? In…",
+        "url": "https://blyg.aneeshsathe.com/t/0ej0jwg80r35pb58x644r1t3g2/",
+        "retrieved": "2026-10-26T22:53:17Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "0ej0jwg80r35pb58x644r1t3g2",
+    "version": 1,
+    "cited": {
+      "source": "And Yet Here We Are 🚀",
+      "author": "Aneesh Sathe",
+      "excerpt": "Would someone mind stubbing this — or anything — or transcluding or whatever? In…",
+      "url": "https://blyg.aneeshsathe.com/t/0ej0jwg80r35pb58x644r1t3g2/",
+      "retrieved": "2026-10-26T22:53:17Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T04:30:40Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-26T22:53:17Z",
+      "note": null
+    }
+  ]
+}

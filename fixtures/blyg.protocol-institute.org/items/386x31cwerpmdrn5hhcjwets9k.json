@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "386x31cwerpmdrn5hhcjwets9k",
+  "kind": "fragment",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "f/386x31cwerpmdrn5hhcjwets9k/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-10-04T02:02:44Z",
+  "updated": "2026-10-04T02:02:44Z",
+  "version": 1,
+  "content_md": "Test of forking of threads with transclusions\nFragment 1, claim 1",
+  "content_html": "<p>Test of forking of threads with transclusions\nFragment 1, claim 1</p>\n",
+  "content_hash": "sha256:6bef608383acfb90f7d2b1b9375ace2e927bf0355b649460f6eca8f5e86acae7",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-04T02:02:44Z",
+      "note": null
+    }
+  ]
+}

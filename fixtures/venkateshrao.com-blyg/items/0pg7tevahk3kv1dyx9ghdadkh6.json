@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "0pg7tevahk3kv1dyx9ghdadkh6",
+  "kind": "fragment",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "f/0pg7tevahk3kv1dyx9ghdadkh6/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-27T21:20:24Z",
+  "updated": "2026-10-27T21:20:31Z",
+  "version": 1,
+  "content_md": "We don’t use subcontracting between individuals and microbusinesses nearly enough due to transaction costs. ",
+  "content_html": "<p>We don’t use subcontracting between individuals and microbusinesses nearly enough due to transaction costs.</p>\n",
+  "content_hash": "sha256:d55c79ae66d148a3f75532103378903736f6a72522b7d9019b0e53cd0f6fd49d",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-27T21:20:31Z",
+      "note": null
+    }
+  ]
+}

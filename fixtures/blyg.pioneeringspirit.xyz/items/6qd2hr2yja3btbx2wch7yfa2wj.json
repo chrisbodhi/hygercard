@@ -1,0 +1,33 @@
+{
+  "blyg": "0.4",
+  "id": "6qd2hr2yja3btbx2wch7yfa2wj",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/6qd2hr2yja3btbx2wch7yfa2wj/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-21T16:05:45Z",
+  "updated": "2026-10-22T03:55:48Z",
+  "version": 1,
+  "content_md": "Does doing yoga in the morning really count as productivity? That’s a typical remark. “Oh you did yoga before work? How productive!” Though nothing was actually done in the sense of making something. It seems a very modern oddity where so much of everything in life gets subsumed within notions of work, productivity, and similar concepts. Looking to the future, I enjoyed the following conversation on Asterisk magazine this morning.\n\n*** \n\n[A recent conversation between Ken Liu and Ada Palmer on constructive science fiction takes up the question of what futures are worth imagining, and how stories can help us build toward them instead of only warning us away. What stayed with me is the thread that, if technology lifts more of the burden of necessary labor, work could shift from something we endure for productivity's sake toward vocation: pursuits we choose because we care about them, whether or not they register as \"output.\" It's a hopeful counterpoint to the yoga-as-productivity problem, and worth reading in full: https://asteriskmag.substack.com/p/ken-liu-and-ada-palmer-on-constructive?r=1fnfr&utm_medium=ios]",
+  "content_html": "<p>Does doing yoga in the morning really count as productivity? That’s a typical remark. “Oh you did yoga before work? How productive!” Though nothing was actually done in the sense of making something. It seems a very modern oddity where so much of everything in life gets subsumed within notions of work, productivity, and similar concepts. Looking to the future, I enjoyed the following conversation on Asterisk magazine this morning.</p>\n<hr>\n<p>[<span class=\"blyg-tk-gen\">A recent conversation between Ken Liu and Ada Palmer on constructive science fiction takes up the question of what futures are worth imagining, and how stories can help us build toward them instead of only warning us away. What stayed with me is the thread that, if technology lifts more of the burden of necessary labor, work could shift from something we endure for productivity's sake toward vocation: pursuits we choose because we care about them, whether or not they register as &quot;output.&quot; It's a hopeful counterpoint to the yoga-as-productivity problem, and worth reading in full: <a href=\"https://asteriskmag.substack.com/p/ken-liu-and-ada-palmer-on-constructive?r=1fnfr&amp;utm_medium=ios\">https://asteriskmag.substack.com/p/ken-liu-and-ada-palmer-on-constructive?r=1fnfr&amp;utm_medium=ios</span></a>]</p>\n",
+  "content_hash": "sha256:fff8a3bfcfe0eb90168e296f6bcf350a3e606729a07c648a9736e488abc53805",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-sonnet-5-5",
+      "at": "2026-10-21T16:52:48Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-22T03:55:48Z",
+      "note": null
+    }
+  ]
+}

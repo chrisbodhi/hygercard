@@ -1,0 +1,31 @@
+{
+  "blyg": "0.4",
+  "id": "7tpjk77zjynax5p2t2bt0fpq4r",
+  "kind": "fragment",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "f/7tpjk77zjynax5p2t2bt0fpq4r/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-18T18:43:23Z",
+  "updated": "2026-10-18T18:49:52Z",
+  "version": 1,
+  "content_md": "Olla experiments v2 \n\nI tried an olla with tomatoes earlier this season. The results were very mixed. Dirt offered a compounding variable. For my other tomatoes I did potting soil. The olla pot was filled with compost which I later amended with some tomato nutrient mix. \n\nNow I’m trying the olla with my new blackberry and raspberry patch. I’m excited to see how it goes! My personal interest in olla’s is twofold: 1) a buddy has an olla company so sent me a demo product and 2) I am interested in lowering my gardening maintenance, particularly in the berry patch which is on the other side of the yard from the hose bib. \n\n![](/media/qkreazvh.jpg)",
+  "content_html": "<p>Olla experiments v2</p>\n<p>I tried an olla with tomatoes earlier this season. The results were very mixed. Dirt offered a compounding variable. For my other tomatoes I did potting soil. The olla pot was filled with compost which I later amended with some tomato nutrient mix.</p>\n<p>Now I’m trying the olla with my new blackberry and raspberry patch. I’m excited to see how it goes! My personal interest in olla’s is twofold: 1) a buddy has an olla company so sent me a demo product and 2) I am interested in lowering my gardening maintenance, particularly in the berry patch which is on the other side of the yard from the hose bib.</p>\n<p><img src=\"https://blyg.pioneeringspirit.xyz/media/qkreazvh.jpg\" alt=\"\"></p>\n",
+  "content_hash": "sha256:aa35ce6d63398183450b809fd259c44f56bd95ebc6a9f31682d2238ccda4fc96",
+  "media": [
+    {
+      "url": "media/qkreazvh.jpg",
+      "mime": "image/jpeg",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-18T18:49:52Z",
+      "note": null
+    }
+  ]
+}

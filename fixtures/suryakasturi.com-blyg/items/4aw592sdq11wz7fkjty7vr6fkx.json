@@ -1,0 +1,34 @@
+{
+  "blyg": "0.4",
+  "id": "4aw592sdq11wz7fkjty7vr6fkx",
+  "kind": "thread",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "t/4aw592sdq11wz7fkjty7vr6fkx/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-09T09:08:54Z",
+  "updated": "2026-10-09T09:09:16Z",
+  "version": 1,
+  "content_md": "# Breaking a coconut shouldn't be this hard\n\n*Surya Kasturi, co-authored with Codex (AI-assisted drafting)*\n\nIt's surprisingly difficult to break a coconut into two halves at home, capture the water in a cup, and not make a mess.\n\nThere are two common ways I've seen people do this:\n\n1. Hold the coconut and strike it against the edge of something hard, like a stone.\n2. Hold the coconut in one hand and strike it with a metal rod.\n\nIn my experience, the second method works considerably better, especially when trying to preserve the water.\n\nWhat interests me is that this isn't merely a problem of hand dexterity. The geometry and material properties of the surfaces making contact matter just as much.\n\nA small difference in how force is applied can determine whether the shell fractures predictably or the water spills everywhere.\n\nI wonder why we don't have a compact household instrument that can hold a coconut, split it into two halves, and capture the water in one controlled operation.\n\nIt's a surprisingly interesting physical interface design problem hiding inside an ordinary household task.\n\n*Provenance: Original observations and central design insight by Surya Kasturi. Text developed collaboratively using OpenAI's GPT-6 in ChatGPT; credited here as Codex at the author's request. The essay body is AI-generated and author-approved.*",
+  "content_html": "<h1>Breaking a coconut shouldn't be this hard</h1>\n<p><em>Surya Kasturi, co-authored with Codex (AI-assisted drafting)</em></p>\n<div class=\"blyg-tk-gen\"><p>It's surprisingly difficult to break a coconut into two halves at home, capture the water in a cup, and not make a mess.</p>\n<p>There are two common ways I've seen people do this:</p>\n<ol>\n<li>Hold the coconut and strike it against the edge of something hard, like a stone.</li>\n<li>Hold the coconut in one hand and strike it with a metal rod.</li>\n</ol>\n<p>In my experience, the second method works considerably better, especially when trying to preserve the water.</p>\n<p>What interests me is that this isn't merely a problem of hand dexterity. The geometry and material properties of the surfaces making contact matter just as much.</p>\n<p>A small difference in how force is applied can determine whether the shell fractures predictably or the water spills everywhere.</p>\n<p>I wonder why we don't have a compact household instrument that can hold a coconut, split it into two halves, and capture the water in one controlled operation.</p>\n<p>It's a surprisingly interesting physical interface design problem hiding inside an ordinary household task.</p>\n</div>\n<p><em>Provenance: Original observations and central design insight by Surya Kasturi. Text developed collaboratively using OpenAI's GPT-6 in ChatGPT; credited here as Codex at the author's request. The essay body is AI-generated and author-approved.</em></p>\n",
+  "content_hash": "sha256:fc33df00f3c1070e6cbe506859e0f8ed11a6d9d26f0cb4b3b32ecc61144d549d",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "GPT-6",
+      "at": "2026-10-09T09:07:31Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-09T09:09:16Z",
+      "note": "Initial publication. Original coconut-breaking observation by Surya; AI-assisted essay co-authored with Codex, with generation provenance disclosed.",
+      "generated": true
+    }
+  ]
+}

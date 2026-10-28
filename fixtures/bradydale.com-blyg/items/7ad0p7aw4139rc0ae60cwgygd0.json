@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "7ad0p7aw4139rc0ae60cwgygd0",
+  "kind": "fragment",
+  "origin": "https://bradydale.com/blyg/",
+  "page": "f/7ad0p7aw4139rc0ae60cwgygd0/",
+  "author": {
+    "name": "Brady Dale",
+    "url": "https://bradydale.com/"
+  },
+  "created": "2026-10-26T15:01:28Z",
+  "updated": "2026-10-26T15:12:36Z",
+  "version": 2,
+  "content_md": "## Blygger mining\n\nJust throwing this out there as an idea for the firming up of the Blygger network. What if Blygger introduced **a sort of optional mining**?\n\nHere's my initial idea: mining would involve creating records of pinned posts, maybe just the link to them and the hash of them — not the actual content.\n\nWhen a mining blyg makes a post, it would also catch up on the larger blockchain, look at the most recent timestamp, and then add a new block with any new pins that its reader has downloaded that had come later than the most recent block.\n\nSo it's not like a mining blyg is scanning the whole network. It's just adding a block if it has anything new locally, through its subscriptions.\n\nThere would be no fixed sequence of blocks. It's just based on the pace at which blygs are updating. This would create a backup record of pins, lightly enforcing immutability somewhat. It might also make for an interesting data source that could be interesting in some way.\n\n**Maybe what Blygger miners*earn***are \"coins\" that could be spent promoting content on some kind of Blygger frontpage. That makes it a decentralized editorial system. Maybe there's a sort of Reddit of the thicket, and miners get upvotes or downvotes that they can allocate by burning coins.\n\n## A distributed crawler\n\nMaybe it doesn't need to be a blockchain (such that there's consnensus) and maybe there doesn't need to be a coin, but it seems cool to me to think of a distributed crawler, that would allow Blygger's version of Etherscan to log known blygs and track their activity level.\n\nSome kind of frontpage of Blygger also seems fun though, and the idea of creating some kind of friction around upvotes and downvotes is also appealing. The \"coins\" don't need to be tradeable. Just useable.\n\nIn fact, maybe, per the thicket, they aren't even called coins, but \"berries.\"",
+  "content_html": "<h2>Blygger mining</h2><p>Just throwing this out there as an idea for the firming up of the Blygger network. What if Blygger introduced <b>a sort of optional mining</b>?</p><p>Here's my initial idea: mining would involve creating records of pinned posts, maybe just the link to them and the hash of them — not the actual content. </p><p>When a mining blyg makes a post, it would also catch up on the larger blockchain, look at the most recent timestamp, and then add a new block with any new pins that its reader has downloaded that had come later than the most recent block. </p><p>So it's not like a mining blyg is scanning the whole network. It's just adding a block if it has anything new locally, through its subscriptions. </p><p>There would be no fixed sequence of blocks. It's just based on the pace at which blygs are updating. This would create a backup record of pins, lightly enforcing immutability somewhat. It might also make for an interesting data source that could be interesting in some way. </p><p><b>Maybe what Blygger miners<i> earn</i> </b>are \"coins\" that could be spent promoting content on some kind of Blygger frontpage. That makes it a decentralized editorial system. Maybe there's a sort of Reddit of the thicket, and miners get upvotes or downvotes that they can allocate by burning coins.</p><h2>A distributed crawler</h2><p>Maybe it doesn't need to be a blockchain (such that there's consnensus) and maybe there doesn't need to be a coin, but it seems cool to me to think of a distributed crawler, that would allow Blygger's version of Etherscan to log known blygs and track their activity level.</p><p>Some kind of frontpage of Blygger also seems fun though, and the idea of creating some kind of friction around upvotes and downvotes is also appealing. The \"coins\" don't need to be tradeable. Just useable.</p><p>In fact, maybe, per the thicket, they aren't even called coins, but \"berries.\"</p>",
+  "content_hash": "sha256:e4f7d2a7135fb9752eaed23a7d82674a94bbb9e5fa94a07c9bff0baa8d987e01",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T15:01:28Z",
+      "note": "Fragment from openers.html"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-26T15:12:36Z",
+      "note": "Updated fragment"
+    }
+  ]
+}

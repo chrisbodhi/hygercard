@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "5zfymn6nqr7n7dg3vv77ngbr15",
+  "kind": "fragment",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/5zfymn6nqr7n7dg3vv77ngbr15/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-18T23:34:10Z",
+  "updated": "2026-10-21T16:22:51Z",
+  "version": 1,
+  "content_md": "I’ve consistently found reading AI-written/significantly assisted text tiring. Reading human-written text is much more pleasant. ",
+  "content_html": "<p>I’ve consistently found reading AI-written/significantly assisted text tiring. Reading human-written text is much more pleasant.</p>\n",
+  "content_hash": "sha256:3ae30a8c392e3abb967aa66a830be00b63069a3bb49b8854d7fe6fd33ed92b2a",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T16:22:51Z",
+      "note": null
+    }
+  ]
+}

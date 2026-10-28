@@ -1,0 +1,26 @@
+{
+  "blyg": "0.4",
+  "id": "1zhdt99hveqxwg3rs6x749wct0",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/1zhdt99hveqxwg3rs6x749wct0/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-24T03:39:46Z",
+  "updated": "2026-10-24T03:41:44Z",
+  "version": 1,
+  "content_md": "Why do some architects write like this? \n\n> explores how metabolic and socio-technical systems territorialize the built environment and the implications of this for design\n\nClaudes response reminds me how much hidden translation exists even within languages.\n\n***\nArchitects write this way mostly because the field has borrowed its vocabulary from critical theory, geography, and science and technology studies, and that vocabulary signals membership in a particular intellectual community. Words like \"territorialize\" come from Deleuze and Guattari, \"metabolic\" from urban political ecology, and \"socio-technical\" from STS. Using them tells readers that the author's work sits within those conversations, which matters in academic hiring, tenure, and grant review.\n\nThe style also solves a real problem for the discipline. Architecture sits between art, engineering, and the humanities, and it has long had to justify itself as a form of knowledge rather than only a service profession. Dense, abstract language lets architects claim theoretical seriousness and distinguishes their research from the practical work of building.\n\nThere is a practical reason as well, which is that a bio like this one compresses a research agenda into a single sentence. \"Metabolic and socio-technical systems territorialize the built environment\" packs in a claim that infrastructure such as energy, water, and logistics networks shapes space and control as much as buildings do. A plainer version, such as \"she studies how infrastructure networks shape cities and what that means for design,\" is easier to read but loses the theoretical lineage the author wants to signal.\n\nThe costs are real, though. This register is hard for clients, policymakers, and the public to parse, and it can obscure whether a claim is actually specific or merely sounds weighty. Given your own work bridging technical systems and public institutions, you have probably felt the tension between writing for peers who share a lexicon and writing for the people who must act on the ideas.",
+  "content_html": "<p>Why do some architects write like this?</p>\n<blockquote>\n<p>explores how metabolic and socio-technical systems territorialize the built environment and the implications of this for design</p>\n</blockquote>\n<p>Claudes response reminds me how much hidden translation exists even within languages.</p>\n<hr>\n<p>Architects write this way mostly because the field has borrowed its vocabulary from critical theory, geography, and science and technology studies, and that vocabulary signals membership in a particular intellectual community. Words like &quot;territorialize&quot; come from Deleuze and Guattari, &quot;metabolic&quot; from urban political ecology, and &quot;socio-technical&quot; from STS. Using them tells readers that the author's work sits within those conversations, which matters in academic hiring, tenure, and grant review.</p>\n<p>The style also solves a real problem for the discipline. Architecture sits between art, engineering, and the humanities, and it has long had to justify itself as a form of knowledge rather than only a service profession. Dense, abstract language lets architects claim theoretical seriousness and distinguishes their research from the practical work of building.</p>\n<p>There is a practical reason as well, which is that a bio like this one compresses a research agenda into a single sentence. &quot;Metabolic and socio-technical systems territorialize the built environment&quot; packs in a claim that infrastructure such as energy, water, and logistics networks shapes space and control as much as buildings do. A plainer version, such as &quot;she studies how infrastructure networks shape cities and what that means for design,&quot; is easier to read but loses the theoretical lineage the author wants to signal.</p>\n<p>The costs are real, though. This register is hard for clients, policymakers, and the public to parse, and it can obscure whether a claim is actually specific or merely sounds weighty. Given your own work bridging technical systems and public institutions, you have probably felt the tension between writing for peers who share a lexicon and writing for the people who must act on the ideas.</p>\n",
+  "content_hash": "sha256:093b998afa7a91dedb0c87a073efd938b2d6f8a4d38694472c5fffb0bf07d75c",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-24T03:41:44Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "6nqg4awt2sv92dtcfna5418gg1",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/6nqg4awt2sv92dtcfna5418gg1/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-20T13:49:51Z",
+  "updated": "2026-10-20T14:04:09Z",
+  "version": 1,
+  "content_md": "![[0q6j2sje19v3x680fnh1b7x5e1]]\n> Definitely feels like the wrong UI. I find myself struggling to find past posts I've written or stuff from others. I feel a bit like a drunk waltzing through a charming carnival, not sure what is a two bit puppet show and what's a palace of knowledge.\n\nI think I just need one feature to be fine: you can click on a transclude and go to that item in the same view and only open a new tab if it’s not a blyg link. If you preserve a history of clicks and also have a ◀️⏮️⏪⏩⏭️ type buttons you’ll stay oriented. This is exactly the kind of navigation I worked on in trailmeme 18 years ago. This is the worm’s eye view. You can construct a birds eye view but it’s less useful than you might think. Here you’d get a wishbone type structure from the main linear feed. If we can build flywheels around more pinning behavior that’s a useful third dimension.\n\nBut also… the disorientation is sorta the point? You don’t want to overly legalize the naturally illegible. You want to surrender to the disorientation. Sense-making is a creative act. Collect things in hoppers and then write new posts out of hoppers. I don’t want to overcorrect. The optimal amount of drunken waltzing and lostness is not zero.\n\n",
+  "content_html": "<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"0q6j2sje19v3x680fnh1b7x5e1\" data-blyg-version=\"1\" data-blyg-origin=\"https://pioneering-spirit-blyg.patrickatwater.workers.dev/\">\n<p>Definitely feels like the wrong UI. I find myself struggling to find past posts I&#39;ve written or stuff from others. I feel a bit like a drunk waltzing through a charming carnival, not sure what is a two bit puppet show and what&#39;s a palace of knowledge.</p>\n</blockquote>\n<p>I think I just need one feature to be fine: you can click on a transclude and go to that item in the same view and only open a new tab if it’s not a blyg link. If you preserve a history of clicks and also have a ◀️⏮️⏪⏩⏭️ type buttons you’ll stay oriented. This is exactly the kind of navigation I worked on in trailmeme 18 years ago. This is the worm’s eye view. You can construct a birds eye view but it’s less useful than you might think. Here you’d get a wishbone type structure from the main linear feed. If we can build flywheels around more pinning behavior that’s a useful third dimension.</p>\n<p>But also… the disorientation is sorta the point? You don’t want to overly legalize the naturally illegible. You want to surrender to the disorientation. Sense-making is a creative act. Collect things in hoppers and then write new posts out of hoppers. I don’t want to overcorrect. The optimal amount of drunken waltzing and lostness is not zero.</p>\n",
+  "content_hash": "sha256:717f9aa12d341c1c92f58f89ade8135ad47c47b9d8f600e26e60d1d43eac6eec",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "0q6j2sje19v3x680fnh1b7x5e1",
+      "version": 1,
+      "origin": "https://pioneering-spirit-blyg.patrickatwater.workers.dev/",
+      "selector": {
+        "exact": "Definitely feels like the wrong UI. I find myself struggling to find past posts I've written or stuff from others. I feel a bit like a drunk waltzing through a charming carnival, not sure what is a two bit puppet show and what's a palace of knowledge.",
+        "prefix": "ke interactions all feel wrong.\n",
+        "suffix": " At this scale it's just a few p"
+      },
+      "cited": {
+        "source": "Pioneering Spirit (Blyg)",
+        "author": "PAtwater",
+        "excerpt": "The thicket is a maze-like oriented space, not a graph A strong suspicion i have…",
+        "url": "https://pioneering-spirit-blyg.patrickatwater.workers.dev/t/0q6j2sje19v3x680fnh1b7x5e1/",
+        "retrieved": "2026-10-20T14:04:09Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://pioneering-spirit-blyg.patrickatwater.workers.dev/",
+    "id": "0q6j2sje19v3x680fnh1b7x5e1",
+    "version": 1,
+    "cited": {
+      "source": "Pioneering Spirit (Blyg)",
+      "author": "PAtwater",
+      "excerpt": "The thicket is a maze-like oriented space, not a graph A strong suspicion i have…",
+      "url": "https://pioneering-spirit-blyg.patrickatwater.workers.dev/t/0q6j2sje19v3x680fnh1b7x5e1/",
+      "retrieved": "2026-10-20T14:04:09Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-20T14:04:09Z",
+      "note": null
+    }
+  ]
+}

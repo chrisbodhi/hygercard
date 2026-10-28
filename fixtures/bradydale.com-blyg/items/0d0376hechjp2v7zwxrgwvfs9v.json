@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "0d0376hechjp2v7zwxrgwvfs9v",
+  "kind": "fragment",
+  "origin": "https://bradydale.com/blyg/",
+  "page": "f/0d0376hechjp2v7zwxrgwvfs9v/",
+  "author": {
+    "name": "Brady Dale",
+    "url": "https://bradydale.com/"
+  },
+  "created": "2026-10-27T19:38:08Z",
+  "updated": "2026-10-27T19:38:08Z",
+  "version": 1,
+  "content_md": "[Retvrn](https://blygger.com/) (to blogging).",
+  "content_html": "<p><a href=\"https://blygger.com/\">Retvrn</a> (to blogging).</p>",
+  "content_hash": "sha256:1fb8b5863097388500476d7d27e99e7f520c4bb3ae0240ad3958dfc6775e3f27",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-27T19:38:08Z",
+      "note": "Fragment from openers.html"
+    }
+  ]
+}

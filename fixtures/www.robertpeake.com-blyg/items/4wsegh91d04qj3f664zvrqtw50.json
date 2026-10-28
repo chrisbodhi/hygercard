@@ -1,0 +1,32 @@
+{
+  "blyg": "0.4",
+  "id": "4wsegh91d04qj3f664zvrqtw50",
+  "kind": "thread",
+  "origin": "https://www.robertpeake.com/blyg/",
+  "page": "https://www.robertpeake.com/archives/8676-on-reading-dostoevsky-in-the-john-lewis-cafe-welwyn-garden-city.html",
+  "author": {
+    "name": "Robert Peake",
+    "url": "https://www.robertpeake.com/"
+  },
+  "created": "2018-08-03T19:10:58Z",
+  "updated": "2018-08-03T19:10:58Z",
+  "version": 1,
+  "content_md": "# On \"Reading Dostoevsky in the John Lewis Café, Welwyn Garden City\"\n\n![](https://www.robertpeake.com/files/2018/08/jl.jpg)\n\nMaking an example of oneself isn’t always easy. Making an example of one’s poetry even less so.\n\nNevertheless, [I took a stab at explaining](http://ninearchespress.blogspot.com/2018/08/in-conversation-robert-peake.html?view=classic) some of the process behind writing the poem “Reading Dostoevsky in the John Lewis Café, Welwyn Garden City” in a new post on the Nine Arches Press blog. The poem appears toward the end of my new collection, [Cyclone](https://www.robertpeake.com/cyclone).\n\nYou can [read the poem, and notes](http://ninearchespress.blogspot.com/2018/08/in-conversation-robert-peake.html?view=classic)–on sincerity, irony, and class–as part of their “in conversation series”.\n",
+  "content_html": "<h1>On \"Reading Dostoevsky in the John Lewis Café, Welwyn Garden City\"</h1>\n<figure><img src=\"https://www.robertpeake.com/files/2018/08/jl.jpg\" alt=\"\" width=\"1177\" height=\"1168\"></figure>\n<p>Making an example of oneself isn’t always easy. Making an example of one’s poetry even less so.</p>\n<p>Nevertheless, <a href=\"http://ninearchespress.blogspot.com/2018/08/in-conversation-robert-peake.html?view=classic\">I took a stab at explaining</a> some of the process behind writing the poem “Reading Dostoevsky in the John Lewis Café, Welwyn Garden City” in a new post on the Nine Arches Press blog. The poem appears toward the end of my new collection, <a href=\"https://www.robertpeake.com/cyclone\">Cyclone</a>.</p>\n<p>You can <a href=\"http://ninearchespress.blogspot.com/2018/08/in-conversation-robert-peake.html?view=classic\">read the poem, and notes</a>–on sincerity, irony, and class–as part of their “in conversation series”.</p>",
+  "content_hash": "sha256:11f335866391862a11309231bbd7e8ac81c61b5f08fac94f0ba956a7a5786529",
+  "media": [
+    {
+      "url": "https://www.robertpeake.com/files/2018/08/jl.jpg",
+      "mime": "image/jpeg",
+      "alt": ""
+    }
+  ],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2018-08-03T19:10:58Z",
+      "note": "imported from WordPress"
+    }
+  ]
+}

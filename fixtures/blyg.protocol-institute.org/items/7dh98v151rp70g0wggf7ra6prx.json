@@ -1,0 +1,26 @@
+{
+  "blyg": "0.4",
+  "id": "7dh98v151rp70g0wggf7ra6prx",
+  "kind": "thread",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/7dh98v151rp70g0wggf7ra6prx/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-10-17T22:26:12Z",
+  "updated": "2026-10-17T22:50:39Z",
+  "version": 1,
+  "content_md": "# Fiscal Sponsorship Resources\n\n- [Institutes ad Infinitum](https://www.scibetter.com/institutes) by David Lang\n- [Hack club fiscal sponsorship stack](https://hackclub.com/fiscal-sponsorship)",
+  "content_html": "<h1>Fiscal Sponsorship Resources</h1>\n<ul>\n<li><a href=\"https://www.scibetter.com/institutes\">Institutes ad Infinitum</a> by David Lang</li>\n<li><a href=\"https://hackclub.com/fiscal-sponsorship\">Hack club fiscal sponsorship stack</a></li>\n</ul>\n",
+  "content_hash": "sha256:b0f89fe8a1baaf929d4de8552ee64ddd76290f624e968488f6ff2db556b01ac3",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-17T22:50:39Z",
+      "note": null
+    }
+  ]
+}

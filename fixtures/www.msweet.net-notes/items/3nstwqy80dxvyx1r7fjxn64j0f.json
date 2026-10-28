@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "3nstwqy80dxvyx1r7fjxn64j0f",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "846-plum-egrets",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-25T16:13:38Z",
+  "updated": "2026-10-25T16:13:38Z",
+  "version": 1,
+  "content_md": "Seems important.\n\n> Combined, we make oil and gas out of sunlight and air. We are breaking the geological and geographical monopolies on oil production.\n\n[Terraform 2026 Update - Terraform Industries Blog ↗](https://terraformindustries.wordpress.com/2026/10/21/terraform-2026-update)",
+  "content_html": "<p>Seems important.</p>\n<blockquote><p>Combined, we make oil and gas out of sunlight and air. We are breaking the geological and geographical monopolies on oil production.</p></blockquote>\n<p class=\"source\"><a href=\"https://terraformindustries.wordpress.com/2026/10/21/terraform-2026-update\">Terraform 2026 Update - Terraform Industries Blog ↗</a></p>",
+  "content_hash": "sha256:9ddebafd984b35a1c288ccd1d11e529652136d8635aef025243b5d57e6a9d234",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T16:13:38Z",
+      "note": null
+    }
+  ]
+}

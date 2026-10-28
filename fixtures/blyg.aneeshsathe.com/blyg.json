@@ -1,0 +1,27 @@
+{
+  "blyg": "0.4",
+  "level": 2,
+  "generator": "blygger-studio/0.48.2",
+  "generator_url": "https://github.com/blygger/blygger-studio",
+  "site": "https://blyg.aneeshsathe.com/",
+  "title": "And Yet Here We Are 🚀",
+  "author": {
+    "name": "Aneesh Sathe",
+    "bio": "You Cannot Found A Thicket, And Yet Here We Are",
+    "links": [
+      {
+        "label": "aneeshsathe.com",
+        "url": "https://aneeshsathe.com/"
+      },
+      {
+        "label": "Mastodon",
+        "url": "https://mastodon.social/@neeshter"
+      }
+    ]
+  },
+  "feed": "feed.xml",
+  "items": "items/index.json",
+  "updated": "2026-10-26T06:23:46Z",
+  "blogroll": "blogroll.opml",
+  "webmention": "webmention"
+}

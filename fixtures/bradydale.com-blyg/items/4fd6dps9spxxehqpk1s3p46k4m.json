@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "4fd6dps9spxxehqpk1s3p46k4m",
+  "kind": "fragment",
+  "origin": "https://bradydale.com/blyg/",
+  "page": "f/4fd6dps9spxxehqpk1s3p46k4m/",
+  "author": {
+    "name": "Brady Dale",
+    "url": "https://bradydale.com/"
+  },
+  "created": "2026-10-25T15:41:11Z",
+  "updated": "2026-10-25T15:41:11Z",
+  "version": 1,
+  "content_md": "Provocative post in The Free Press by Max Raskin arguing that [people think they can spot AI writing](https://www.thefp.com/p/the-last-essay-ai-writing-tech-books-future). In fact, they cannot.\n\nI just wish people spent more time reading, AI or otherwise, frankly. Reading itself is drifting away, away, away.",
+  "content_html": "<p>Provocative post in The Free Press by Max Raskin arguing that <a href=\"https://www.thefp.com/p/the-last-essay-ai-writing-tech-books-future\">people think they can spot AI writing</a>. In fact, they cannot.</p><p>I just wish people spent more time reading, AI or otherwise, frankly. Reading itself is drifting away, away, away.</p>",
+  "content_hash": "sha256:f9022e3b301e12557352a0ed2477528ade295d23153301c91085e4ce256b7e4b",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T15:41:11Z",
+      "note": "Fragment from openers.html"
+    }
+  ]
+}

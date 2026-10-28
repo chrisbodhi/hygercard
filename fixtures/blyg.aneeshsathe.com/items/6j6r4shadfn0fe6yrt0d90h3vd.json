@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "6j6r4shadfn0fe6yrt0d90h3vd",
+  "kind": "thread",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "t/6j6r4shadfn0fe6yrt0d90h3vd/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-19T21:13:26Z",
+  "updated": "2026-10-19T21:15:11Z",
+  "version": 1,
+  "content_md": "This had not dawned on me until now, I had simply not noticed:\n\nWith AI use for building my reading suffered but my gaming (which i like also) went to zero. Any time and energy I may have spent on gaming was now spent with AI, and I think the mental payoffs are the same with, ahem, \"real work\" being done. \n\n![[6mtq16hvnwaqfj28ywgk94qygz]]\n\n",
+  "content_html": "<p>This had not dawned on me until now, I had simply not noticed:</p>\n<p>With AI use for building my reading suffered but my gaming (which i like also) went to zero. Any time and energy I may have spent on gaming was now spent with AI, and I think the mental payoffs are the same with, ahem, &quot;real work&quot; being done.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"6mtq16hvnwaqfj28ywgk94qygz\" data-blyg-version=\"3\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<h1>Involutionary Productivity</h1>\n<p>Involutionary productivity is being highly productive while mostly being a reclusive shut-in in your pajamas on a couch with an iPad. The basic presumption among older GenX and Boomer pearl-clutching analysts as well as some anxious younger people, that involution (hikkikomori, laying flat, quiet quitting…) is necessarily synonymous with low productivity or economic dropping-out is false.</p>\n<p>Increasingly real work looks like involution, and traditional, familiar supposed correlates of productivity like going to an office dressed professionally, attending meetings, and looking dynamic are performative and ceremonial. Having agents trade PRs, issues, and comments on GitHub can be 10x more productive than sprint meetings. Shitposty blygging at each other can move design along faster than formal design sessions.</p>\n<p>Involution does have other costs, such as cultural capital erosion, but in the AI age economic productivity need not be one of them.</p>\n<p>When you recognize that sufficiently advanced work is indistinguishable from play (and we’re already there), someone presenting like otaku may be a feature, not a bug. In <a href=\"https://contraptions.venkateshrao.com/p/the-curiously-playable-universe\">the curiously playable universe</a>, work looks like gaming, motivation looks like fandom, and expertise looks like cultural nerdery.</p>\n\n</blockquote>\n",
+  "content_hash": "sha256:5264f897d04d2b61c631c1d1f25cda881290784341339d84a4fa7a1d08a7a5de",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "6mtq16hvnwaqfj28ywgk94qygz",
+      "version": 3,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "Involutionary Productivity Involutionary productivity is being highly productive…",
+        "url": "https://venkateshrao.com/blyg/t/6mtq16hvnwaqfj28ywgk94qygz/",
+        "retrieved": "2026-10-19T21:15:11Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "6mtq16hvnwaqfj28ywgk94qygz",
+    "version": 3,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Involutionary Productivity Involutionary productivity is being highly productive…",
+      "url": "https://venkateshrao.com/blyg/t/6mtq16hvnwaqfj28ywgk94qygz/",
+      "retrieved": "2026-10-19T21:15:11Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T21:15:11Z",
+      "note": null
+    }
+  ]
+}

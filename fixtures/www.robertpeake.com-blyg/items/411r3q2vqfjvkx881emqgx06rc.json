@@ -1,0 +1,37 @@
+{
+  "blyg": "0.4",
+  "id": "411r3q2vqfjvkx881emqgx06rc",
+  "kind": "thread",
+  "origin": "https://www.robertpeake.com/blyg/",
+  "page": "https://www.robertpeake.com/archives/8430-man-kindest-face-film-poem.html",
+  "author": {
+    "name": "Robert Peake",
+    "url": "https://www.robertpeake.com/"
+  },
+  "created": "2018-05-27T08:05:19Z",
+  "updated": "2020-06-21T08:39:38Z",
+  "version": 1,
+  "content_md": "# The Man with the Kindest Face (Film-Poem Online)\n\n![](https://www.robertpeake.com/files/2018/05/tmwtkf-thumb-square-1.jpg)\n\n<https://player.vimeo.com/video/271929492>\n\n[![](https://www.robertpeake.com/files/2018/05/tmwtkf-thumb.jpg)Click to watch](https://vimeo.com/271929492)\n\n### The Man with the Kindest Face\n\nThe rear-view glimpse is fleeting\\\nas he lets you into the lane.\n\nHe might not have a face at all\\\nor change it like a set of masks—\n\nbehind a newspaper in the waiting room,\\\nsliding over to make room on the bus.\n\nYou resolve next time to look at him,\\\nrisk letting him look back at you.\n\nYou taste the salt in your throat,\\\nand you hear him ask, What’s wrong?\n\nYou smile at him and say, Nothing.\\\nAnd you mean it. Nothing at all.\n\n### The man with the kindest face has change for a twenty\n\nHe doesn’t look rich. Yet his pockets overflow with coins. “How much do you need?” he asks, and you tell him. You want to tell him more—-that you need to believe, understand, be heard. He extends his closed hand like a magician. You expect nothing. You expect a dove to fly out from his sleeve. You open your hand, beneath his, and wait.\n\n### Process Notes\n\nThe poem is a splice of the first poem that opens my new collection [Cyclone](https://www.robertpeake.com/cyclone) and one of the many poems featuring the same figure that recurs throughout the collection. The film is footage from the Prelinger Archives, which I projected cylindrically into a 3D rendering environment (Blender), rotating the camera to give a continuous scroll effect. I then sliced and flipped this, giving the Rorschach-test-like effect of imagery spilling out from the midline. We then projected this footage onto the face of our friend and actor Barney Wells with a sheet behind him and filmed it. Valerie once again composed and performed the music, and from there it all came together quite quickly in the editing process.\n",
+  "content_html": "<h1>The Man with the Kindest Face (Film-Poem Online)</h1>\n<figure><img src=\"https://www.robertpeake.com/files/2018/05/tmwtkf-thumb-square-1.jpg\" alt=\"\" width=\"1080\" height=\"1080\"></figure>\n<p><a href=\"https://player.vimeo.com/video/271929492\">https://player.vimeo.com/video/271929492</a></p>\n<p><a href=\"https://vimeo.com/271929492\"><img src=\"https://www.robertpeake.com/files/2018/05/tmwtkf-thumb.jpg\" alt=\"\">\nClick to watch</a></p>\n<h3>The Man with the Kindest Face</h3>\n<p>The rear-view glimpse is fleeting<br>\nas he lets you into the lane.</p>\n<p>He might not have a face at all<br>\nor change it like a set of masks—</p>\n<p>behind a newspaper in the waiting room,<br>\nsliding over to make room on the bus.</p>\n<p>You resolve next time to look at him,<br>\nrisk letting him look back at you.</p>\n<p>You taste the salt in your throat,<br>\nand you hear him ask, What’s wrong?</p>\n<p>You smile at him and say, Nothing.<br>\nAnd you mean it. Nothing at all.</p>\n<h3>The man with the kindest face has change for a twenty</h3>\n<p>He doesn’t look rich. Yet his pockets overflow with coins. “How much do you need?” he asks, and you tell him. You want to tell him more—-that you need to believe, understand, be heard. He extends his closed hand like a magician. You expect nothing. You expect a dove to fly out from his sleeve. You open your hand, beneath his, and wait.</p>\n<h3>Process Notes</h3>\n<p>The poem is a splice of the first poem that opens my new collection <a href=\"https://www.robertpeake.com/cyclone\">Cyclone</a> and one of the many poems featuring the same figure that recurs throughout the collection. The film is footage from the Prelinger Archives, which I projected cylindrically into a 3D rendering environment (Blender), rotating the camera to give a continuous scroll effect. I then sliced and flipped this, giving the Rorschach-test-like effect of imagery spilling out from the midline. We then projected this footage onto the face of our friend and actor Barney Wells with a sheet behind him and filmed it. Valerie once again composed and performed the music, and from there it all came together quite quickly in the editing process.</p>",
+  "content_hash": "sha256:af55cff8f88efd73e900d9f219ea81e1852771e14e3b615f03829f1e2109926f",
+  "media": [
+    {
+      "url": "https://www.robertpeake.com/files/2018/05/tmwtkf-thumb-square-1.jpg",
+      "mime": "image/jpeg",
+      "alt": ""
+    },
+    {
+      "url": "https://www.robertpeake.com/files/2018/05/tmwtkf-thumb.jpg",
+      "mime": "image/jpeg",
+      "alt": ""
+    }
+  ],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2020-06-21T08:39:38Z",
+      "note": "imported from WordPress"
+    }
+  ]
+}

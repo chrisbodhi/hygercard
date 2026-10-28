@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "2ncrnab9fd5t7g4wnn2ttq5sa6",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/nfa-two-times-pattern/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2026-05-11T17:36:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "OK I'm not sure if this is true, but it feels like it's true.\n\nSometimes the market gives you a *back-up-the-truck low-risk high-return opportunity*, and you should probably **try going even riskier**.\n\nTwo examples:\n\n# Example 1\n\nIn 2022, Series I Savings Bonds (\"I Bonds\") offered a 9.6% yield, backed by the full faith and credit of the US government. I backed up the truck and maxed out with every tax number my family had access to.\n\nInstead, if I had invested in broad US equities, I could have made much more money, at more risk and subject to different tax treatment.\n\n# Example 2\n\nSTRC high yield junior preferred stock offers stable yield of ~11.5% on ~4% realized volatility (lower volatility than government bonds!). The money to pay for this yield is transparent, visible, audited etc. And there's no price hype valuation risk because this preferred stock price has not appreciated.\n\nInstead, if you had invested in MSTR common equity",
+  "content_html": "<p>OK I'm not sure if this is true, but it feels like it's true.</p>\n<p>Sometimes the market gives you a <em>back-up-the-truck low-risk high-return opportunity</em>, and you should probably <strong>try going even riskier</strong>.</p>\n<p>Two examples:</p>\n<h1 class=\"heading\">Example 1<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<p>In 2022, Series I Savings Bonds (\"I Bonds\") offered a 9.6% yield, backed by the full faith and credit of the US government. I backed up the truck and maxed out with every tax number my family had access to.</p>\n<p>Instead, if I had invested in broad US equities, I could have made much more money, at more risk and subject to different tax treatment.</p>\n<h1 class=\"heading\">Example 2<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<p>STRC high yield junior preferred stock offers stable yield of ~11.5% on ~4% realized volatility (lower volatility than government bonds!). The money to pay for this yield is transparent, visible, audited etc. And there's no price hype valuation risk because this preferred stock price has not appreciated.</p>\n<p>Instead, if you had invested in MSTR common equity</p>",
+  "content_hash": "sha256:17f2da4683a7608dfe93ba0bfea6ba9b2388e5689948e5c5f0f60796426a7ef4",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-05-11T17:36:00Z",
+      "note": "NFA Two Times Pattern"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

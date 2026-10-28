@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "35fsz82vrqkd0hnq4fcfewfd8d",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/aita/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-10-07T13:53:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "My kid whines when piano practice gets too hard. \"It's boring.\"\n\nI snap back, \"We don't say that. Bring back your focus, and keep practicing.\"\n\nHe starts pouting, clock-watching, sandbagging.\n\nI furrow my brow and sigh. Sometimes I make a joke to lighten the mood (oh my my, mixed messaging!).\n\nLoose sheets of music fall to the ground, due to a sudden breeze called \"his arm\". He bangs the keys.\n\nI walk over and grab his small hand in my big hand, forcing him to replace the fallen paper and sit properly. I say loudly and forcefully into his face, \"No! you are not allowed to hit the piano\" while physically towering over him.\n\n---\n\nI can joke around with every Asian American",
+  "content_html": "<p>My kid whines when piano practice gets too hard. \"It's boring.\"</p>\n<p>I snap back, \"We don't say that. Bring back your focus, and keep practicing.\"</p>\n<p>He starts pouting, clock-watching, sandbagging.</p>\n<p>I furrow my brow and sigh. Sometimes I make a joke to lighten the mood (oh my my, mixed messaging!).</p>\n<p>Loose sheets of music fall to the ground, due to a sudden breeze called \"his arm\". He bangs the keys.</p>\n<p>I walk over and grab his small hand in my big hand, forcing him to replace the fallen paper and sit properly. I say loudly and forcefully into his face, \"No! you are not allowed to hit the piano\" while physically towering over him.</p>\n<hr>\n<p>I can joke around with every Asian American</p>",
+  "content_hash": "sha256:525f121858c5b840753e8fc0e0f32dd3bfe11ad9100ef1d341ba221390a91896",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-10-07T13:53:00Z",
+      "note": "AITA"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "1mn57sr8gcqmmw64hvp7bt80de",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "925-sage-wrens",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-25T16:05:47Z",
+  "updated": "2026-10-25T16:05:47Z",
+  "version": 1,
+  "content_md": "Hmmmm.\n\n> This is the problem that SF Compute solves, by building a physically settled forwards market for compute. We make it possible for lenders to use the GPU hour as collateral, on a liquid book, rather than the GPU cluster, which is non-fungible and requires a servicer that might blow up right at the moment they need it the most. If a lender gets a GPU hour as collateral, the credit risk of the customer matters less; if the two person AI lab in a San Francisco Victorian fails to make their payments, the lender has a real path to selling the collateral. That makes startups possible at all, a path that seems increasingly difficult in AI.\n\n[The end of startups | Evan Conrad ↗](https://evanjconrad.com/posts/end-of-startups)",
+  "content_html": "<p>Hmmmm.</p>\n<blockquote><p>This is the problem that SF Compute solves, by building a physically settled forwards market for compute. We make it possible for lenders to use the GPU hour as collateral, on a liquid book, rather than the GPU cluster, which is non-fungible and requires a servicer that might blow up right at the moment they need it the most. If a lender gets a GPU hour as collateral, the credit risk of the customer matters less; if the two person AI lab in a San Francisco Victorian fails to make their payments, the lender has a real path to selling the collateral. That makes startups possible at all, a path that seems increasingly difficult in AI.</p></blockquote>\n<p class=\"source\"><a href=\"https://evanjconrad.com/posts/end-of-startups\">The end of startups | Evan Conrad ↗</a></p>",
+  "content_hash": "sha256:4b3f55f15917e39103f525215eb7153cafc2892224b7c489d3704c2ec18a25e1",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T16:05:47Z",
+      "note": null
+    }
+  ]
+}

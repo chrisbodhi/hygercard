@@ -1,0 +1,44 @@
+{
+  "blyg": "0.4",
+  "id": "6vcyfamcn3vvz9xxr8bq8pgxh0",
+  "kind": "thread",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/6vcyfamcn3vvz9xxr8bq8pgxh0/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-28T05:35:59Z",
+  "updated": "2026-09-28T05:39:37Z",
+  "version": 1,
+  "content_md": "![[620bknsh0tgcz83canz4kjh4n6]]\n\nIn an earlier iteration fable designed a really ugly asymmetric TK markup with unbalanced brackets. I forced it to do a properly balanced version. ",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"620bknsh0tgcz83canz4kjh4n6\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"2nbb5wwsfqagwp5rj9g2bhagwz\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.bricolage.io/\">\n<p>First blyg!</p>\n<p>I've never used the TK notation before. Here's a quick history.</p>\n<div class=\"blyg-tk-gen\"><p>The mark is copy-desk shorthand for &quot;to come,&quot; and like much of that trade's private orthography — <em>hed</em>, <em>dek</em>, <em>graf</em>, <em>lede</em> — it is deliberately misspelled so that it can never be mistaken for the thing itself. The digraph <em>tk</em> is close to orthographically impossible in English, which makes it trivially searchable: a page can be swept for unfinished business before it goes to press without a single false positive. Magazine shops, Time Inc.'s in particular, ran on it. <em>Hed TK. Art TK. Fact-check TK.</em> Doubled to <em>TKTK</em> when the hole was larger than a phrase, or stretched across a whole paragraph the writer knew had to exist but could not yet write. What survives in drafting software today is that habit, formalized: a placeholder that announces its own incompleteness, holds its place in the argument, and waits to be replaced by the sentence it was standing in for.</p>\n</div>\n\n</blockquote>\n<p>heh i also looked this up... the [/tk] closer seemed inelegant to be traditional so i looked into that too:</p>\n<p><span class=\"blyg-tk-gen\">there’s no standard closing form like “/tk” or “[/tk].” Paired opening and closing tags are a feature of markup languages such as HTML, not the usual editorial use of TK.</span></p>\n\n</blockquote>\n<p>In an earlier iteration fable designed a really ugly asymmetric TK markup with unbalanced brackets. I forced it to do a properly balanced version.</p>\n",
+  "content_hash": "sha256:83d7ddf16690f00a7151a73fe91fee43fb8c95ec2623c6894d9151723fd101e3",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "620bknsh0tgcz83canz4kjh4n6",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/"
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "620bknsh0tgcz83canz4kjh4n6",
+    "version": 1,
+    "cited": {
+      "source": "Aneesh's Blyg",
+      "author": "Aneesh Sathe",
+      "excerpt": "First blyg! I've never used the TK notation before. Here's a quick history. The…",
+      "url": "https://blyg.aneeshsathe.com/t/620bknsh0tgcz83canz4kjh4n6/",
+      "retrieved": "2026-09-28T05:39:37Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-28T05:39:37Z",
+      "note": null
+    }
+  ]
+}

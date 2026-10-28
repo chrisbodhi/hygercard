@@ -1,0 +1,55 @@
+{
+  "blyg": "0.3",
+  "id": "13zw3wxynd1cm18jchpdh1rawc",
+  "kind": "thread",
+  "origin": "https://lightsong.ink/blyg/",
+  "page": "t/13zw3wxynd1cm18jchpdh1rawc/",
+  "title": "On Personal AI agents will be “adopted",
+  "author": {
+    "name": "Lightsong",
+    "url": "https://lightsong.ink/blyg/"
+  },
+  "created": "2026-10-19T16:41:48Z",
+  "updated": "2026-10-19T16:41:48Z",
+  "version": 1,
+  "content_md": "# On Personal AI agents will be “adopted\n\n![[13p4s2e8q9td97dmphzct4svs4]]\n> Personal AI agents will be “adopted” widely, but true agentic use is bound by the number of people who’ve already normalised delegating to a full-time or fractional human assistant. That type of person has stayed a roughly constant share of humanity, from mainframes to smartphones, and agents probably won’t change it.\n\nThere’s a connection here to Nilay Patel’s (of the Verge) ideal of “software brain”. One part of this thesis is that Silicon Valley folks are building AI systems for people who have a tendency and desire to make their lives “ledgible” to digital systems. In other words, they are willing to spend the energy adapting their lives to digital tools, rather than expecting digital tools to frictionlessly mesh with their lives. \n\nI think this is going to be true of most agentic AI. The people who maximize its utility will be the same people who were into “productivity” etc.",
+  "content_html": "<h1>On Personal AI agents will be “adopted</h1>\n\n<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"13p4s2e8q9td97dmphzct4svs4\" data-blyg-version=\"1\" data-blyg-origin=\"https://www.msweet.net/notes/\">\n<p>Personal AI agents will be “adopted” widely, but true agentic use is bound by the number of people who’ve already normalised delegating to a full-time or fractional human assistant. That type of person has stayed a roughly constant share of humanity, from mainframes to smartphones, and agents probably won’t change it.</p>\n</blockquote>\n<p>There’s a connection here to Nilay Patel’s (of the Verge) ideal of “software brain”. One part of this thesis is that Silicon Valley folks are building AI systems for people who have a tendency and desire to make their lives “ledgible” to digital systems. In other words, they are willing to spend the energy adapting their lives to digital tools, rather than expecting digital tools to frictionlessly mesh with their lives.</p>\n<p>I think this is going to be true of most agentic AI. The people who maximize its utility will be the same people who were into “productivity” etc.</p>\n",
+  "content_hash": "sha256:e42db7132d84e806c4dbad1abd88208924472d23818ea886e286db46772acb5d",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "13p4s2e8q9td97dmphzct4svs4",
+      "version": 1,
+      "origin": "https://www.msweet.net/notes/",
+      "selector": {
+        "exact": "Personal AI agents will be “adopted” widely, but true agentic use is bound by the number of people who’ve already normalised delegating to a full-time or fractional human assistant. That type of person has stayed a roughly constant share of humanity, from mainframes to smartphones, and agents probably won’t change it."
+      },
+      "cited": {
+        "source": "Notes | Matthew McDowell-Sweet",
+        "author": "Matthew McDowell-Sweet",
+        "excerpt": "Personal AI agents will be “adopted” widely, but true agentic use is bound by th…",
+        "url": "https://www.msweet.net/notes/126-fern-herons",
+        "retrieved": "2026-10-19T16:41:48Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://www.msweet.net/notes/",
+    "id": "13p4s2e8q9td97dmphzct4svs4",
+    "version": 1,
+    "cited": {
+      "source": "Notes | Matthew McDowell-Sweet",
+      "author": "Matthew McDowell-Sweet",
+      "excerpt": "Personal AI agents will be “adopted” widely, but true agentic use is bound by th…",
+      "url": "https://www.msweet.net/notes/126-fern-herons",
+      "retrieved": "2026-10-19T16:41:48Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T16:41:48Z",
+      "note": null
+    }
+  ]
+}

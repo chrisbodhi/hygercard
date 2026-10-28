@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "7458mtg2s1d28ktnvqsf24v5hb",
+  "kind": "fragment",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "f/7458mtg2s1d28ktnvqsf24v5hb/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-25T18:19:38Z",
+  "updated": "2026-10-25T18:19:42Z",
+  "version": 1,
+  "content_md": "Oh the thicket has been so active! Not a good weekend to be sick 🤧 ",
+  "content_html": "<p>Oh the thicket has been so active! Not a good weekend to be sick 🤧</p>\n",
+  "content_hash": "sha256:160e9681bb2350c7add7a377b1e11ea55030925b2bcc00a78a173e7545980ecf",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T18:19:42Z",
+      "note": null
+    }
+  ]
+}

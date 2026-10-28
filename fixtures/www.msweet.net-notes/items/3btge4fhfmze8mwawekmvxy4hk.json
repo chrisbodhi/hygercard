@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "3btge4fhfmze8mwawekmvxy4hk",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "546-plum-bats",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-21T17:49:26Z",
+  "updated": "2026-10-21T17:49:26Z",
+  "version": 1,
+  "content_md": "A lot of useful stuff in the link, but especially the lesser filtration concept.\n\n> Gautam Mukunda, who taught at Harvard Business School, has a theory for what a filter like this produces. Leader filtration theory says every big organization has a process that evaluates the people who might lead it. A leader who comes up through that process is filtered: well known, thoroughly vetted and much like every other person the process would have picked. A leader who comes in through a side door is unfiltered: an outsider, a vice president who got the top job when the president died, someone nobody had the chance to screen. His claim is that filtered leaders land in the middle and unfiltered ones, in his words, “are likely to do either much better or much worse than a filtered person would”.\n\n[Bar Raiser Interviews: Companies Are Full of It ↗](https://tej.as/blog/companies-are-full-of-it)",
+  "content_html": "<p>A lot of useful stuff in the link, but especially the lesser filtration concept.</p>\n<blockquote><p>Gautam Mukunda, who taught at Harvard Business School, has a theory for what a filter like this produces. Leader filtration theory says every big organization has a process that evaluates the people who might lead it. A leader who comes up through that process is filtered: well known, thoroughly vetted and much like every other person the process would have picked. A leader who comes in through a side door is unfiltered: an outsider, a vice president who got the top job when the president died, someone nobody had the chance to screen. His claim is that filtered leaders land in the middle and unfiltered ones, in his words, “are likely to do either much better or much worse than a filtered person would”.</p></blockquote>\n<p class=\"source\"><a href=\"https://tej.as/blog/companies-are-full-of-it\">Bar Raiser Interviews: Companies Are Full of It ↗</a></p>",
+  "content_hash": "sha256:992929f65d9c040ed263b538ff814cd3a05e230fb8ee36ee80eecc873bf34d78",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T17:49:26Z",
+      "note": null
+    }
+  ]
+}

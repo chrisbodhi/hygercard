@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "0p146z93edy269qzpjzsjjr3dy",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/0p146z93edy269qzpjzsjjr3dy/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-19T05:06:27Z",
+  "updated": "2026-10-19T05:10:12Z",
+  "version": 1,
+  "content_md": "![[7062ncfady41sjqa7qnaxtng11]]\n\nFew other candidates to throw out for the list:\n\n- Game rules\n- Pheromone trails\n- Signage\n- Hmmm \n",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"7062ncfady41sjqa7qnaxtng11\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"1rary2ks8bg21w7v4ak1twv5qj\" data-blyg-version=\"2\" data-blyg-origin=\"https://www.msweet.net/notes/\">\n<p>We have <a href=\"https://en.wikipedia.org/wiki/Metaphors_We_Live_By\">canonical metaphors</a> for <a href=\"https://en.wikipedia.org/wiki/Images_of_Organization\">organisations</a>:</p>\n<ul>\n<li>Machines</li>\n<li>Organisms</li>\n<li>Brains</li>\n<li>Cultures</li>\n<li>Political systems</li>\n<li>Psychic prisons</li>\n<li>Flux and transformation</li>\n<li>Instruments of domination</li>\n</ul>\n<p>Whilst reading Helen Czerski’s <a href=\"https://www.msweet.net/notes/[https://en.wikipedia.org/wiki/Metaphors_We_Live_By](https://www.penguin.co.uk/books/441190/blue-machine-by-czerski-helen/9781804991961)\"><em>Blue Machine</em></a>, it struck me that we need a similar canonical metaphor list for <a href=\"https://protocol-institute.org/\">protocols</a>.</p>\n<p>Some candidates:</p>\n<ul>\n<li>Oceans</li>\n<li>Musculoskeletal systems</li>\n<li>Civil sociotechnical infrastructure</li>\n<li>Mesoscale biological signalling</li>\n</ul>\n</blockquote>\n<p>I’ve used oceans a lot for media. Particularly the attribute of salinity. Saltwater vs freshwater media.</p>\n\n</blockquote>\n<p>Few other candidates to throw out for the list:</p>\n<ul>\n<li>Game rules</li>\n<li>Pheromone trails</li>\n<li>Signage</li>\n<li>Hmmm</li>\n</ul>\n",
+  "content_hash": "sha256:12766414dc0e0410051b44856caaf8804a74c5aa3a0a9f9506970ea2c3e4d7c8",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "7062ncfady41sjqa7qnaxtng11",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "We have canonical metaphors for organisations: Machines Organisms Brains Culture…",
+        "url": "https://venkateshrao.com/blyg/t/7062ncfady41sjqa7qnaxtng11/",
+        "retrieved": "2026-10-19T05:10:12Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "7062ncfady41sjqa7qnaxtng11",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "We have canonical metaphors for organisations: Machines Organisms Brains Culture…",
+      "url": "https://venkateshrao.com/blyg/t/7062ncfady41sjqa7qnaxtng11/",
+      "retrieved": "2026-10-19T05:10:12Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T05:10:12Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "3er52hgswqkjx6qvm9r81969q1",
+  "kind": "fragment",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "f/3er52hgswqkjx6qvm9r81969q1/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-10-21T19:39:33Z",
+  "updated": "2026-10-21T19:39:35Z",
+  "version": 1,
+  "content_md": "The interesting question isn't whether we can build organizations that run without people. It's whether we can build organizations that become increasingly capable of doing things nobody previously knew how to do.",
+  "content_html": "<p>The interesting question isn't whether we can build organizations that run without people. It's whether we can build organizations that become increasingly capable of doing things nobody previously knew how to do.</p>\n",
+  "content_hash": "sha256:93b5d31d0dbb931ce3ae42864c8eb8c62f3c9595537a5482ac09ae0e9e805175",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T19:39:35Z",
+      "note": null
+    }
+  ]
+}

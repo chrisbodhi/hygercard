@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "2f9fwjamnv3r2nw60h69eyh7yx",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/2f9fwjamnv3r2nw60h69eyh7yx/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-27T02:54:31Z",
+  "updated": "2026-10-27T02:54:52Z",
+  "version": 1,
+  "content_md": "Blyg about the meta of the experiment and what you learn!\n![[5hq1xx4gch0fmfdaqq6pezp5nd]]\n\n",
+  "content_html": "<p>Blyg about the meta of the experiment and what you learn!</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"5hq1xx4gch0fmfdaqq6pezp5nd\" data-blyg-version=\"1\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<p class=\"blynger-stub-label\"><strong>Stubbing:</strong> <a href=\"https://bradydale.com/blyg/f/785dzf8a3ssrc1hh960y6m7h2c/\">Question for the Thicket: I'm thinking about vibecoding up a new app. For a very long time I have wa</a></p><blockquote class=\"blynger-citation\">I'm thinking about vibecoding up a new app. For a very long time I have wanted to write branching fiction online, in the spirit of the old \"Choose Your Own Adventure\" style books. I've always known this was do'able but I needed technical help. Now I have that, in agents.</blockquote><p>I've decided I'm not doing this on Blygger. I'm going to have a little update blog on the site that will be a blyg, but the story system itself needs to be able to loop, and that doesn't seem to work for stubbing. I don't quite see it.</p><p>I've got a demo of it going locally, but I'm going to work a little more on the starter story I've put in. It's good at learning how the thing works. Helps me and ChatGPT sort out kinks. So I'm going to keep going with that.</p>\n</blockquote>\n",
+  "content_hash": "sha256:1c4e94c136e9b722f979b13ae189bc274bd4de39d5d4a78cec12f92d17518332",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "5hq1xx4gch0fmfdaqq6pezp5nd",
+      "version": 1,
+      "origin": "https://bradydale.com/blyg/",
+      "cited": {
+        "source": "Brady Dale's blyg",
+        "author": "Brady Dale",
+        "excerpt": "Stubbing: Question for the Thicket: I'm thinking about vibecoding up a new app.…",
+        "url": "https://bradydale.com/blyg/t/5hq1xx4gch0fmfdaqq6pezp5nd/",
+        "retrieved": "2026-10-27T02:54:52Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://bradydale.com/blyg/",
+    "id": "5hq1xx4gch0fmfdaqq6pezp5nd",
+    "version": 1,
+    "cited": {
+      "source": "Brady Dale's blyg",
+      "author": "Brady Dale",
+      "excerpt": "Stubbing: Question for the Thicket: I'm thinking about vibecoding up a new app.…",
+      "url": "https://bradydale.com/blyg/t/5hq1xx4gch0fmfdaqq6pezp5nd/",
+      "retrieved": "2026-10-27T02:54:52Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-27T02:54:52Z",
+      "note": null
+    }
+  ]
+}

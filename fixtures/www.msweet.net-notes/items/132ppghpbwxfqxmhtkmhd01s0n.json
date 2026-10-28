@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "132ppghpbwxfqxmhtkmhd01s0n",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "133-bronze-frogs",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-23T06:53:47Z",
+  "updated": "2026-10-23T06:53:47Z",
+  "version": 1,
+  "content_md": "I open up the tens of tabs I have open in the browser on my phone at any one time to try and find a specific one that comes to mind. I mistakenly tap an *X* whilst scrolling and I see the brief motion that signals a tab has just been deleted. I mourn for a moment, wondering what that tab could have become and meant to my existence, had I not just purged it.",
+  "content_html": "<p>I open up the tens of tabs I have open in the browser on my phone at any one time to try and find a specific one that comes to mind. I mistakenly tap an <em>X</em> whilst scrolling and I see the brief motion that signals a tab has just been deleted. I mourn for a moment, wondering what that tab could have become and meant to my existence, had I not just purged it.</p>",
+  "content_hash": "sha256:f72ea0d9254f291047283139106ceabe5f7f0aca99c829088e5b7b6d059035de",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T06:53:47Z",
+      "note": null
+    }
+  ]
+}

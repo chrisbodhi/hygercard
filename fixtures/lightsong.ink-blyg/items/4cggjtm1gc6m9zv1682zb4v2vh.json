@@ -1,0 +1,57 @@
+{
+  "blyg": "0.3",
+  "id": "4cggjtm1gc6m9zv1682zb4v2vh",
+  "kind": "thread",
+  "origin": "https://lightsong.ink/blyg/",
+  "page": "t/4cggjtm1gc6m9zv1682zb4v2vh/",
+  "title": "On Blygger has got me thinking about",
+  "author": {
+    "name": "Lightsong",
+    "url": "https://lightsong.ink/blyg/"
+  },
+  "created": "2026-10-19T16:49:21Z",
+  "updated": "2026-10-19T16:49:21Z",
+  "version": 1,
+  "content_md": "# On Blygger has got me thinking about\n\n![[4q3pg2rfng8xphwmj7p9hk871e]]\n> And then of course the Blygfather has done something similar too on Ribbonfarm, with VGR_ZIRP.\n\nI will now be referring to Venkat exclusively as “the Blygfather”",
+  "content_html": "<h1>On Blygger has got me thinking about</h1>\n\n<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"4q3pg2rfng8xphwmj7p9hk871e\" data-blyg-version=\"1\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<p>And then of course the Blygfather has done something similar too on Ribbonfarm, with VGR_ZIRP.</p>\n</blockquote>\n<p>I will now be referring to Venkat exclusively as “the Blygfather”</p>\n",
+  "content_hash": "sha256:75da118180417d911bf58b013b938fd356f604d8cd075cdacf5adada69f44b90",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "4q3pg2rfng8xphwmj7p9hk871e",
+      "version": 1,
+      "origin": "https://bradydale.com/blyg/",
+      "selector": {
+        "exact": "And then of course the Blygfather has done something similar too on Ribbonfarm, with VGR_ZIRP.",
+        "prefix": "s with one of his recent books.\n",
+        "suffix": "\nSo this would be trying to appl"
+      },
+      "cited": {
+        "source": "Brady Dale's blyg",
+        "author": "Brady Dale",
+        "excerpt": "Blygger has got me thinking about AI and writing, I kind of want to try making a…",
+        "url": "https://bradydale.com/blyg/f/4q3pg2rfng8xphwmj7p9hk871e/",
+        "retrieved": "2026-10-19T16:49:21Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://bradydale.com/blyg/",
+    "id": "4q3pg2rfng8xphwmj7p9hk871e",
+    "version": 1,
+    "cited": {
+      "source": "Brady Dale's blyg",
+      "author": "Brady Dale",
+      "excerpt": "Blygger has got me thinking about AI and writing, I kind of want to try making a…",
+      "url": "https://bradydale.com/blyg/f/4q3pg2rfng8xphwmj7p9hk871e/",
+      "retrieved": "2026-10-19T16:49:21Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T16:49:21Z",
+      "note": null
+    }
+  ]
+}

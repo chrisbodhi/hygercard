@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "3f9ff6rj26wyfcfjxaespqd76e",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/this-ones-gonna-sit-in-my-stomach-for-a-while/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-11-01T20:28:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "I vaguely remember reading about [this](https://johnhempton.substack.com/p/bucket-shops-crypto-and-flash-crashes) 20 years ago. But from my recollection, this was not exactly what was described in *Reminisces*.\n\nFor sure, a lot of the competition nowadays, for whales' volumes on CEX's and DEX's, is based on an adversarial as well as competitive interaction. Platforms compete to offer hidden benefits to those who can see them first, without blowing themselves up.\n\nBut what Hempton identifies (correctly, I believe), is the answer to the question: who benefits the most from a sudden mass liquidation event? Answer: the bucket shops who had been betting against their customers' winnings in a long bull market.\n\nWhen the mass liquidations happened a few weeks ago, I felt surprised and deeply impressed at how an actor could target Binance's weakness so directly. But of course, any competitor bucket shop would already be feeling deep pain from the long bull market, and be able to intuit the meaning of Binance's technical oracle change announcement.\n\nSo, who needed the mass liqui",
+  "content_html": "<p>I vaguely remember reading about <a href=\"https://johnhempton.substack.com/p/bucket-shops-crypto-and-flash-crashes\" rel=\"noopener noreferrer\" target=\"_blank\">this</a><i class=\"iconfont icon-external-link\"></i> 20 years ago. But from my recollection, this was not exactly what was described in <em>Reminisces</em>.</p>\n<p>For sure, a lot of the competition nowadays, for whales' volumes on CEX's and DEX's, is based on an adversarial as well as competitive interaction. Platforms compete to offer hidden benefits to those who can see them first, without blowing themselves up.</p>\n<p>But what Hempton identifies (correctly, I believe), is the answer to the question: who benefits the most from a sudden mass liquidation event? Answer: the bucket shops who had been betting against their customers' winnings in a long bull market.</p>\n<p>When the mass liquidations happened a few weeks ago, I felt surprised and deeply impressed at how an actor could target Binance's weakness so directly. But of course, any competitor bucket shop would already be feeling deep pain from the long bull market, and be able to intuit the meaning of Binance's technical oracle change announcement.</p>\n<p>So, who needed the mass liqui</p>",
+  "content_hash": "sha256:47babb7a4e6c524540803a842bb9579b464c4c549af9c51285c9dc7f0bda750f",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-11-01T20:28:00Z",
+      "note": "This One's Gonna Sit In My Stomach For A While"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

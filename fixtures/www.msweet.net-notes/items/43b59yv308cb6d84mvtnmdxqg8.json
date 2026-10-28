@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "43b59yv308cb6d84mvtnmdxqg8",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "680-slate-frogs",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-23T06:19:05Z",
+  "updated": "2026-10-23T06:19:05Z",
+  "version": 1,
+  "content_md": "Beyond the frontiers of our knowledge: there be monsters.\n\n> The challenging question for me now is: what are these creatures today? In today's globalized world of big science with high information throughput, how do I animate the ghosts born at the frontiers of knowledge? They probably shouldn't be visualized with a solidly rendered body, but exist as the unseeable monstrous in a cosmic horror film — traces and signs irresolvable by complex, expensive instruments, the anomalous in the deluge of data and models.\n\n[Ghosts of Progress: Wendi Yan on Mistranslation, Lost Knowledge and the Afterlives of Science - Alexander Burenkov ↗](https://umbigo.space/en/post-digital/fantasmas_do_progresso_wendi_yan_sobre_erros_de_traducao_conhecimento_perdido_e_a_vida_pos-morte_da_ciencia-utieyp-6acca262dceec5b5f8291c35)",
+  "content_html": "<p>Beyond the frontiers of our knowledge: there be monsters.</p>\n<blockquote><p>The challenging question for me now is: what are these creatures today? In today's globalized world of big science with high information throughput, how do I animate the ghosts born at the frontiers of knowledge? They probably shouldn't be visualized with a solidly rendered body, but exist as the unseeable monstrous in a cosmic horror film — traces and signs irresolvable by complex, expensive instruments, the anomalous in the deluge of data and models.</p></blockquote>\n<p class=\"source\"><a href=\"https://umbigo.space/en/post-digital/fantasmas_do_progresso_wendi_yan_sobre_erros_de_traducao_conhecimento_perdido_e_a_vida_pos-morte_da_ciencia-utieyp-6acca262dceec5b5f8291c35\">Ghosts of Progress: Wendi Yan on Mistranslation, Lost Knowledge and the Afterlives of Science - Alexander Burenkov ↗</a></p>",
+  "content_hash": "sha256:656807f2470dfd556d029d42581e487294e8e670bad5da671ee1ffa6baf8ff50",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T06:19:05Z",
+      "note": null
+    }
+  ]
+}

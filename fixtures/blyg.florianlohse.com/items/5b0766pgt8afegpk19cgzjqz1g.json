@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "5b0766pgt8afegpk19cgzjqz1g",
+  "kind": "fragment",
+  "origin": "https://blyg.florianlohse.com/",
+  "page": "f/5b0766pgt8afegpk19cgzjqz1g/",
+  "author": {
+    "name": "Florian Lohse",
+    "url": "https://florianlohse.com/"
+  },
+  "created": "2026-10-25T15:07:47Z",
+  "updated": "2026-10-25T15:07:49Z",
+  "version": 1,
+  "content_md": "I have some inklings for resisting Micro Time, yet undeveloped: **Re-Wiring** (changing the protocols), **Conversion** (translate between machine speed and human speed) and **Attunement** (syncing yourself to machine rhythms where it does not matter to create independence where it does matter).",
+  "content_html": "<p>I have some inklings for resisting Micro Time, yet undeveloped: <strong>Re-Wiring</strong> (changing the protocols), <strong>Conversion</strong> (translate between machine speed and human speed) and <strong>Attunement</strong> (syncing yourself to machine rhythms where it does not matter to create independence where it does matter).</p>\n",
+  "content_hash": "sha256:500c4533e1c4fb347840d5de48b2087a3ef40cd54f92a03e0c5d3d72ce3b60ce",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T15:07:49Z",
+      "note": "Reposted from florianlohse.com/blyg/ — first published 2026-10-01"
+    }
+  ]
+}

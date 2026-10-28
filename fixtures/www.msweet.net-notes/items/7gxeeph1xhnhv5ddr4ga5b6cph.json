@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "7gxeeph1xhnhv5ddr4ga5b6cph",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "135-cobalt-moths",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-23T18:22:40Z",
+  "updated": "2026-10-23T18:22:40Z",
+  "version": 1,
+  "content_md": "Judy Brady’s 1971 [I Want a Wife](https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf) is the *real* spec for personal agents, and the *real* market is the household COO and default parent, whoever that may be. The job-to-be-done isn’t [Zwang’s luxury tea purchasing and personal MMA video analysis](https://youtu.be/XfdIhd1g6EI), and the market isn’t high-functioning individuals looking to 100x their agency. The bar to clear is status. Agents take off if or when having one signals what having a wife used to: *someone else runs my life.*",
+  "content_html": "<p>Judy Brady’s 1971 <a href=\"https://www.sevanoland.com/uploads/1/1/8/0/118081022/_brady_i_want_a_wife.pdf\">I Want a Wife</a> is the <em>real</em> spec for personal agents, and the <em>real</em> market is the household COO and default parent, whoever that may be. The job-to-be-done isn’t <a href=\"https://youtu.be/XfdIhd1g6EI\">Zwang’s luxury tea purchasing and personal MMA video analysis</a>, and the market isn’t high-functioning individuals looking to 100x their agency. The bar to clear is status. Agents take off if or when having one signals what having a wife used to: <em>someone else runs my life.</em></p>",
+  "content_hash": "sha256:5cc7de5317969d224602f8100e396ef7f673731a4825aaa2bb30bbb5da8eb40b",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T18:22:40Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "41gx822z47702wjvdjwbeg8tzp",
+  "kind": "fragment",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "f/41gx822z47702wjvdjwbeg8tzp/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-25T18:33:35Z",
+  "updated": "2026-09-25T18:33:35Z",
+  "version": 1,
+  "content_md": "From Andre in the Zoom chat. \n\n\"It feels like a common theme in the talks is having the outside match the inside - digital identity, visibility of AI failures, organizational design… \n\nPerhaps a rebranding to the Banana Institute should be considered?\"",
+  "content_html": "<p>From Andre in the Zoom chat.</p>\n<p>&quot;It feels like a common theme in the talks is having the outside match the inside - digital identity, visibility of AI failures, organizational design…</p>\n<p>Perhaps a rebranding to the Banana Institute should be considered?&quot;</p>\n",
+  "content_hash": "sha256:39657a9fc4f4b37d7c8ece735ea1c13003035f09511fcb2c9976b8ce35cc6ab0",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-25T18:33:35Z",
+      "note": null
+    }
+  ]
+}

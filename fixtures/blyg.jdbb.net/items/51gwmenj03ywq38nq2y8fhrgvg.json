@@ -1,0 +1,31 @@
+{
+  "blyg": "0.4",
+  "id": "51gwmenj03ywq38nq2y8fhrgvg",
+  "kind": "fragment",
+  "origin": " https://blyg.jdbb.net/",
+  "page": "f/51gwmenj03ywq38nq2y8fhrgvg/",
+  "author": {
+    "name": "jenna dixon",
+    "url": " https://blyg.jdbb.net/"
+  },
+  "created": "2026-10-04T19:33:47Z",
+  "updated": "2026-10-04T19:38:52Z",
+  "version": 1,
+  "content_md": "Order a copy of Ingrid's new edition of _Networks of New York_\n> Self-publishing always sounds like a great idea until you have hundreds of pre-orders to pack up and mail and find yourself constantly running out of packing tape and spare cycles  \n[Networks of New York](https://networksofny2026.bigcartel.com/product/networks-of-new-york-2026-edition)  \nShared in [Perfect Sentences, 197](https://buttondown.com/perfectsentences/archive/perfect-sentences-197/)\n![](/media/th471dgm.png)",
+  "content_html": "<p>Order a copy of Ingrid's new edition of <em>Networks of New York</em></p>\n<blockquote>\n<p>Self-publishing always sounds like a great idea until you have hundreds of pre-orders to pack up and mail and find yourself constantly running out of packing tape and spare cycles<br>\n<a href=\"https://networksofny2026.bigcartel.com/product/networks-of-new-york-2026-edition\">Networks of New York</a><br>\nShared in <a href=\"https://buttondown.com/perfectsentences/archive/perfect-sentences-197/\">Perfect Sentences, 197</a>\n<img src=\"https://jd-blyg.exe.xyz/media/th471dgm.png\" alt=\"\"></p>\n</blockquote>\n",
+  "content_hash": "sha256:f3ff50d5f1d2787378acc3593d8226b80b0a2495ecb73648d458f687320b5def",
+  "media": [
+    {
+      "url": "media/th471dgm.png",
+      "mime": "image/png",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-04T19:38:52Z",
+      "note": null
+    }
+  ]
+}

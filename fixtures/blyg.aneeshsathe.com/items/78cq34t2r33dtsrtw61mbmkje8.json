@@ -1,0 +1,33 @@
+{
+  "blyg": "0.4",
+  "id": "78cq34t2r33dtsrtw61mbmkje8",
+  "kind": "fragment",
+  "origin": "https://blyg.aneeshsathe.com/",
+  "page": "f/78cq34t2r33dtsrtw61mbmkje8/",
+  "author": {
+    "name": "Aneesh Sathe",
+    "url": "https://blyg.aneeshsathe.com/"
+  },
+  "created": "2026-10-17T06:55:10Z",
+  "updated": "2026-10-17T07:02:11Z",
+  "version": 1,
+  "content_md": "The power of the weaved fragment is not just in its ability to contribute to multiple ideas. Watching others use fragments expands the umwelt of the whole system. This is what made quote tweets so interesting. You take one idea and play with it and watch others play with it, expanding what could be gleaned and built with small idea. \n\nVersions, pinning, quotes etc. provides more dimensions to a fragment and opens up new ways of play. \n\nIntegrating AI expands what can be understood by who thereby increasing our ability of both cognition with and computation of the idea. \n\nA fragment that was opaque to me can become something I can play with. I can ask it questions, translate it into a context I understand, or see what happens when it is weaved with another fragment. And when these interactions are visible to others, they become new ways into the idea. The system grows not just by accumulating fragments but by expanding what we can do with each one.",
+  "content_html": "<p>The power of the weaved fragment is not just in its ability to contribute to multiple ideas. Watching others use fragments expands the umwelt of the whole system. This is what made quote tweets so interesting. You take one idea and play with it and watch others play with it, expanding what could be gleaned and built with small idea.</p>\n<p>Versions, pinning, quotes etc. provides more dimensions to a fragment and opens up new ways of play.</p>\n<p>Integrating AI expands what can be understood by who thereby increasing our ability of both cognition with and computation of the idea.</p>\n<div class=\"blyg-tk-gen\"><p>A fragment that was opaque to me can become something I can play with. I can ask it questions, translate it into a context I understand, or see what happens when it is weaved with another fragment. And when these interactions are visible to others, they become new ways into the idea. The system grows not just by accumulating fragments but by expanding what we can do with each one.</p>\n</div>\n",
+  "content_hash": "sha256:43c5b0297b60111a829d838ad1d1691de84c24e260fc9fa05fc52b92dd6f1000",
+  "media": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "codex",
+      "at": "2026-10-17T07:01:21Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-17T07:02:11Z",
+      "note": null,
+      "pinned": true
+    }
+  ]
+}

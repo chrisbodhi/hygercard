@@ -1,0 +1,33 @@
+{
+  "blyg": "0.4",
+  "id": "3k5tnt0w94r0tp84wwnvrs4ghg",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/3k5tnt0w94r0tp84wwnvrs4ghg/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-26T19:01:53Z",
+  "updated": "2026-10-26T19:14:23Z",
+  "version": 1,
+  "content_md": "# Flying blind in a shifting (but not necessarily worsening) threat environment\n\nWhen vibe-coding became production-grade practical, the utility of GitHub commit streaks went to zero almost overnight. It is no longer a meaningful signal of human productivity, but that doesn’t mean humans aren’t being productive. In fact we’re being way more productive, even setting aside the AI leverage. I’m spending several orders of magnitude more attention thinking about code than I did before AI.\n\nNow I’m wondering if something similar is happening to vulnerability surveillance and responses. This post offers some good orientation.\n\n[Joshua Saxe's post on the 'vulnpocalypse'](https://joshuasaxe181906.substack.com/p/if-the-vulnpocalypse-is-the-apocalypse) takes up the worry that AI systems, now able to find serious software flaws far faster than human researchers, will bury defenders under a flood of critical vulnerabilities. Rather than accepting the doomsday framing, it asks what the \"apocalypse\" would actually consist of: how many flaws are being found, how quickly they get fixed, and who gets the benefit of the tooling first. It's a useful attempt to separate the raw volume of discoveries from the real change in risk, and to name the assumptions the alarming scenario depends on.\n\nWhen every week brings one or more Y2K-grade vulnerability, normal surveillance infrastructure like the CVE reporting system degenerate to uselessness. But this doesn’t mean we’re necessarily getting swamped or overwhelmed. There is no indicator that tracks the fact that AI-powered defensive reactions have also been one equally capable, possibly more so. This may not fix hardware level unpatchable vulnerabilities but for everything else, it’s not actually clear that the the threat environment has gotten worse. All we know is that our surveillance and response tracking systems are flying blind. For all we know things are getting overall more secure faster than vulnerabilities are getting discovered.\n\nWe should be building new instrumentation to figure it out.",
+  "content_html": "<h1>Flying blind in a shifting (but not necessarily worsening) threat environment</h1>\n<p>When vibe-coding became production-grade practical, the utility of GitHub commit streaks went to zero almost overnight. It is no longer a meaningful signal of human productivity, but that doesn’t mean humans aren’t being productive. In fact we’re being way more productive, even setting aside the AI leverage. I’m spending several orders of magnitude more attention thinking about code than I did before AI.</p>\n<p>Now I’m wondering if something similar is happening to vulnerability surveillance and responses. This post offers some good orientation.</p>\n<div class=\"blyg-tk-gen\"><p><a href=\"https://joshuasaxe181906.substack.com/p/if-the-vulnpocalypse-is-the-apocalypse\">Joshua Saxe's post on the 'vulnpocalypse'</a> takes up the worry that AI systems, now able to find serious software flaws far faster than human researchers, will bury defenders under a flood of critical vulnerabilities. Rather than accepting the doomsday framing, it asks what the &quot;apocalypse&quot; would actually consist of: how many flaws are being found, how quickly they get fixed, and who gets the benefit of the tooling first. It's a useful attempt to separate the raw volume of discoveries from the real change in risk, and to name the assumptions the alarming scenario depends on.</p>\n</div>\n<p>When every week brings one or more Y2K-grade vulnerability, normal surveillance infrastructure like the CVE reporting system degenerate to uselessness. But this doesn’t mean we’re necessarily getting swamped or overwhelmed. There is no indicator that tracks the fact that AI-powered defensive reactions have also been one equally capable, possibly more so. This may not fix hardware level unpatchable vulnerabilities but for everything else, it’s not actually clear that the the threat environment has gotten worse. All we know is that our surveillance and response tracking systems are flying blind. For all we know things are getting overall more secure faster than vulnerabilities are getting discovered.</p>\n<p>We should be building new instrumentation to figure it out.</p>\n",
+  "content_hash": "sha256:edd5f3e6fb7aa7200541234f3002f9b7658a16d82fbdda0cf1a05099a51e0a71",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-sonnet-5-5",
+      "at": "2026-10-26T19:12:39Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T19:14:23Z",
+      "note": null
+    }
+  ]
+}

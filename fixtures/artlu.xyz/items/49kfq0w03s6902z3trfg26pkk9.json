@@ -1,0 +1,36 @@
+{
+  "blyg": "0.3",
+  "id": "49kfq0w03s6902z3trfg26pkk9",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/sobering-reminder/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-12-24T15:26:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "[Pablo Sabbatella and Isaac Patka with Laura Shin](https://unchainedcrypto.com/podcast/how-crypto-users-get-rekt-and-how-you-can-stay-safe/) shared an evergreen conversation, densely packed with practical usefulness and wisdom.\n\nA few years ago, the nicest thing you could do for somebody was gift a hardware wallet for Christmas. It could have been a life changing gift! In 2025, it's pretty clear that would be like gifting a gun without firearms training.\n\nThe *Bankless Frontier* is no longer made up of self-sovereign self-sufficient cipherchads (Lewis + Clark explorer-heroes). It feels more like miserable, unwashed masses of pre-wealthy, *i.e.*, poor, economic refugees fleeing city-slums and unfettered capitalism, like the farmer-settlers of [Seven Samurai](https://www.imdb.com/title/tt0047478/) and [The Magnificent Seven](https://www.imdb.com/title/tt2404435/), providing sustenance for lawless banditos and DPRK hackers.\n\n![Akira Kurosawa on the set of SEVEN SAMURAI film](https://www.highonfilms.com/wp-content/uploads/2015/09/Akira-Kurosawa-on-the-set-of-SEVEN-SAMURAI-film.jpg)\n\nNext: the Institutions Are Coming, basically, US Marshals bringing the Law, to civilize and tame the Wild West.\n\n---\n\n# I've tipped over into believing\n\n1. DeFi is too complex to secure\n2. CeDeFi with insurance and professional layers of management + monitoring is t",
+  "content_html": "<p><a href=\"https://unchainedcrypto.com/podcast/how-crypto-users-get-rekt-and-how-you-can-stay-safe/\" rel=\"noopener noreferrer\" target=\"_blank\">Pablo Sabbatella and Isaac Patka with Laura Shin</a><i class=\"iconfont icon-external-link\"></i> shared an evergreen conversation, densely packed with practical usefulness and wisdom.</p>\n<p>A few years ago, the nicest thing you could do for somebody was gift a hardware wallet for Christmas. It could have been a life changing gift! In 2025, it's pretty clear that would be like gifting a gun without firearms training.</p>\n<p>The <em>Bankless Frontier</em> is no longer made up of self-sovereign self-sufficient cipherchads (Lewis + Clark explorer-heroes). It feels more like miserable, unwashed masses of pre-wealthy, <em>i.e.</em>, poor, economic refugees fleeing city-slums and unfettered capitalism, like the farmer-settlers of <a href=\"https://www.imdb.com/title/tt0047478/\" rel=\"noopener noreferrer\" target=\"_blank\">Seven Samurai</a><i class=\"iconfont icon-external-link\"></i> and <a href=\"https://www.imdb.com/title/tt2404435/\" rel=\"noopener noreferrer\" target=\"_blank\">The Magnificent Seven</a><i class=\"iconfont icon-external-link\"></i>, providing sustenance for lawless banditos and DPRK hackers.</p>\n<figure><img src=\"https://www.highonfilms.com/wp-content/uploads/2015/09/Akira-Kurosawa-on-the-set-of-SEVEN-SAMURAI-film.jpg\" alt=\"Akira Kurosawa on the set of SEVEN SAMURAI film\" loading=\"lazy\"></figure>\n<p>Next: the Institutions Are Coming, basically, US Marshals bringing the Law, to civilize and tame the Wild West.</p>\n<hr>\n<h1 class=\"heading\">I've tipped over into believing<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<ol>\n<li>DeFi is too complex to secure</li>\n<li>CeDeFi with insurance and professional layers of management + monitoring is t</li>\n</ol>",
+  "content_hash": "sha256:b240703cfe337dd66896cccf5a3646012a4124a3b367c45c4bae6203a7ee5323",
+  "media": [
+    {
+      "url": "https://www.highonfilms.com/wp-content/uploads/2015/09/Akira-Kurosawa-on-the-set-of-SEVEN-SAMURAI-film.jpg",
+      "mime": "image/jpeg",
+      "alt": "Akira Kurosawa on the set of SEVEN SAMURAI film"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-12-24T15:26:00Z",
+      "note": "Sobering Reminder"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

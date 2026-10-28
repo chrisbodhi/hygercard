@@ -1,0 +1,32 @@
+{
+  "blyg": "0.4",
+  "id": "178x36pbj33qrfps8xr9tdhqct",
+  "kind": "thread",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "t/178x36pbj33qrfps8xr9tdhqct/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-09T18:21:10Z",
+  "updated": "2026-10-09T18:42:09Z",
+  "version": 1,
+  "content_md": "\n# AI safety needs a demand-side taxonomy\n\nAI safety is organized the way the people building it are organized: alignment, interpretability, evals, governance, red-teaming. That’s a supply-side taxonomy, and it makes sense for researchers. It’s a poor way to explain to everyone else what they should worry about.\n\nCompare cybersecurity. “Cybersecurity” and “privacy” are demand-side categories. They name what a person wants protected. Cryptography, formal verification, and incident response are supply-side: the techniques that deliver it. Nobody has to know the techniques to understand what’s at stake. AI safety lacks that layer.\n\nSo what should a demand-side taxonomy follow? My proposal is to organize around human cognition, specifically where it is mechanistically weak. People run on cheap proxies that worked when every agent they met was human. AI breaks those proxies, and it can do so in a way earlier technologies couldn’t, because it produces human-like cues without the substance behind them.\n\nThat yields three buckets, each a family of broken proxies:\n\n1. Danger cues. We assume threatening things look threatening. Our alarm responds to what is loud, vivid, and animate. A model-assisted pathogen or a quiet failure in critical infrastructure triggers nothing.\n2. Agent trust. We assume that something fluent, agreeable, and competent shares our goals. This covers manipulation, sycophancy, synthetic relationships, delegation to autonomous agents, and misalignment. The question is always whether the thing is capable and whether it is on my side.\n3. The social contract. Institutions assume their members are human, mortal, and bounded in capability. Courts and elections depend on forgery being expensive. Labor markets depend on human limits. Power concentration, displacement, and AI’s moral status all come from assumptions like these breaking.\n\nThe framing makes the defenses different in kind. Bucket 1 needs better alarms and detection, bucket 2 needs ways to calibrate and verify trust, and bucket 3 needs institutions redesigned. A taxonomy is only useful if it points at different responses, and I think this one does.\n",
+  "content_html": "<div class=\"blyg-tk-gen\"><h1>AI safety needs a demand-side taxonomy</h1>\n<p>AI safety is organized the way the people building it are organized: alignment, interpretability, evals, governance, red-teaming. That’s a supply-side taxonomy, and it makes sense for researchers. It’s a poor way to explain to everyone else what they should worry about.</p>\n<p>Compare cybersecurity. “Cybersecurity” and “privacy” are demand-side categories. They name what a person wants protected. Cryptography, formal verification, and incident response are supply-side: the techniques that deliver it. Nobody has to know the techniques to understand what’s at stake. AI safety lacks that layer.</p>\n<p>So what should a demand-side taxonomy follow? My proposal is to organize around human cognition, specifically where it is mechanistically weak. People run on cheap proxies that worked when every agent they met was human. AI breaks those proxies, and it can do so in a way earlier technologies couldn’t, because it produces human-like cues without the substance behind them.</p>\n<p>That yields three buckets, each a family of broken proxies:</p>\n<ol>\n<li>Danger cues. We assume threatening things look threatening. Our alarm responds to what is loud, vivid, and animate. A model-assisted pathogen or a quiet failure in critical infrastructure triggers nothing.</li>\n<li>Agent trust. We assume that something fluent, agreeable, and competent shares our goals. This covers manipulation, sycophancy, synthetic relationships, delegation to autonomous agents, and misalignment. The question is always whether the thing is capable and whether it is on my side.</li>\n<li>The social contract. Institutions assume their members are human, mortal, and bounded in capability. Courts and elections depend on forgery being expensive. Labor markets depend on human limits. Power concentration, displacement, and AI’s moral status all come from assumptions like these breaking.</li>\n</ol>\n<p>The framing makes the defenses different in kind. Bucket 1 needs better alarms and detection, bucket 2 needs ways to calibrate and verify trust, and bucket 3 needs institutions redesigned. A taxonomy is only useful if it points at different responses, and I think this one does.</p>\n</div>\n",
+  "content_hash": "sha256:737375b33212e70bc6716cc2399bb13169f976da8f48c2568fc162f5081b44f8",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-sonnet-5.5"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-09T18:42:09Z",
+      "note": null
+    }
+  ]
+}

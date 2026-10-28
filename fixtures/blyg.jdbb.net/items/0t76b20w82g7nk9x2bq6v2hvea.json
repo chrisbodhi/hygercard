@@ -1,0 +1,36 @@
+{
+  "blyg": "0.4",
+  "id": "0t76b20w82g7nk9x2bq6v2hvea",
+  "kind": "fragment",
+  "origin": " https://blyg.jdbb.net/",
+  "page": "f/0t76b20w82g7nk9x2bq6v2hvea/",
+  "author": {
+    "name": "jenna dixon",
+    "url": " https://blyg.jdbb.net/"
+  },
+  "created": "2026-10-04T20:06:29Z",
+  "updated": "2026-10-04T20:23:37Z",
+  "version": 1,
+  "content_md": "`sunday sitrep`\n- [x] complete: fresh security review\n- [x] add: /privacy + /terms\n- [x] add: [restless.ai style background color easter eggs to theme switcher, 40% lighter](/media/ac7m10cn.png)\n- [x] add: ARC-style cover\n- [ ] review: [minimalist landing page comps](/media/jbzmm3j3.png)\n",
+  "content_html": "<p><code>sunday sitrep</code></p>\n<ul>\n<li>[x] complete: fresh security review</li>\n<li>[x] add: /privacy + /terms</li>\n<li>[x] add: <a href=\"https://jd-blyg.exe.xyz/media/ac7m10cn.png\">restless.ai style background color easter eggs to theme switcher, 40% lighter</a></li>\n<li>[x] add: ARC-style cover</li>\n<li>[ ] review: <a href=\"https://jd-blyg.exe.xyz/media/jbzmm3j3.png\">minimalist landing page comps</a></li>\n</ul>\n",
+  "content_hash": "sha256:1772aedf0653bbde71a1269ed922239e826658ce15ad4d0250a5143ab36dbba6",
+  "media": [
+    {
+      "url": "media/jbzmm3j3.png",
+      "mime": "image/png",
+      "alt": ""
+    },
+    {
+      "url": "media/ac7m10cn.png",
+      "mime": "image/png",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-04T20:23:37Z",
+      "note": null
+    }
+  ]
+}

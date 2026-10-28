@@ -1,0 +1,26 @@
+{
+  "updated": "2026-10-21T05:06:05Z",
+  "content_md": "Exhilarating side:\n\nIt's easy to make stuff, and its ridiculously easy to turn vague ideas into real software.\n\nIt's not really the death of all the old powerful ideas of computation. something like them will have to be reinvented for the new world. I would hazard they are needed more than ever, it's just nobody knows what that means yet.\n\nIn fact maybe this is what the [Protocol](https://ammdi.hyperphor.com/Protocol) movement is really about, now that I come to think of it.\n\nThe thing I actually care most about – building better interfaces between human and machine knowledge – is a problem and task that won't go away. The design space just changed radically, but the basic goal is the same. This is actually great news because UI thinking has been stuck in a rut for like 40 years.\n\nMuch as I might like to rest, it's probably better if I'm forced to learn new tricks. [#old](https://ammdi.hyperphor.com/old)",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-21T01:52:56Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-21T05:06:05Z",
+      "note": null
+    }
+  ],
+  "created": "2026-10-21T01:52:56Z",
+  "page": "f/0c09ns8j5v3ehy4074pyhbtdtb/",
+  "content_hash": "sha256:83da76260d19b66a8edc38485e136787f87c20847de22fe20531531ef3f9ebfd",
+  "id": "0c09ns8j5v3ehy4074pyhbtdtb",
+  "kind": "fragment",
+  "origin": "https://ammdi.hyperphor.com/blyg/",
+  "content_html": "<div><div>Exhilarating side:</div><div>It&apos;s easy to make stuff, and its ridiculously easy to turn vague ideas into real software.</div><div><div>It&apos;s not really the death of all the old powerful ideas of computation. something like them will have to be reinvented for the new world. I would hazard they are needed more than ever, it&apos;s just nobody knows what that means yet.</div><div><span>In fact maybe this is what the <a class=\"pagelink\" href=\"https://ammdi.hyperphor.com/Protocols\">Protocol</a> movement is really about, now that I come to think of it.</span></div></div><div>The thing I actually care most about – building better interfaces between human and machine knowledge – is a problem and task that won&apos;t go away. The design space just changed radically, but the basic goal is the same. This is actually great news because UI thinking has been stuck in a rut for like 40 years.</div><div><span>Much as I might like to rest, it&apos;s probably better if I&apos;m forced to learn new tricks. <span class=\"empty\">old</span></span></div></div>",
+  "version": 2,
+  "media": [],
+  "blyg": "0.3"
+}

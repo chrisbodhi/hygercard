@@ -1,0 +1,44 @@
+{
+  "blyg": "0.4",
+  "id": "3prm87gvhd6q0197kpy6be9t53",
+  "kind": "thread",
+  "origin": "https://blyg.artlu.xyz/",
+  "page": "t/3prm87gvhd6q0197kpy6be9t53/",
+  "author": {
+    "name": "ultrA",
+    "url": "https://blyg.artlu.xyz/"
+  },
+  "created": "2026-10-15T14:31:36Z",
+  "updated": "2026-10-15T14:36:13Z",
+  "version": 1,
+  "content_md": "![[0bnfkpepzw7hejzk8yc1ftwet4]]\n> from there title becomes a bit more obvious for me, or I these days ask AI\n\nSame. I've been giving my AI editor my drafts with working titles, and the intelligence reads the words from a different perspective. \n\nIn addition to sentence structure, grammar, and flow, my AI editor often iterates on tying the title in with the overall structure of the piece.\n\nIts first observation is almost always, \"the full draft doesn't quite deliver on the promise of the title, how about a short bridge to bring the reader along to where you want to take them?\"",
+  "content_html": "<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"0bnfkpepzw7hejzk8yc1ftwet4\" data-blyg-version=\"1\" data-blyg-origin=\"https://suryakasturi.com/blyg/\">\n<p>from there title becomes a bit more obvious for me, or I these days ask AI</p>\n</blockquote>\n<p>Same. I've been giving my AI editor my drafts with working titles, and the intelligence reads the words from a different perspective.</p>\n<p>In addition to sentence structure, grammar, and flow, my AI editor often iterates on tying the title in with the overall structure of the piece.</p>\n<p>Its first observation is almost always, &quot;the full draft doesn't quite deliver on the promise of the title, how about a short bridge to bring the reader along to where you want to take them?&quot;</p>\n",
+  "content_hash": "sha256:cfb1afc08181737b7866874e8639edf6d8ce93db07d117a345b51a8899fc9793",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "0bnfkpepzw7hejzk8yc1ftwet4",
+      "version": 1,
+      "origin": "https://suryakasturi.com/blyg/",
+      "selector": {
+        "exact": "from there title becomes a bit more obvious for me, or I these days ask AI",
+        "prefix": "epts from my first version, and ",
+        "suffix": "."
+      },
+      "cited": {
+        "source": "Surya Kasturi's Blyg",
+        "author": "Surya Kasturi",
+        "excerpt": "One of the things I’m finding, re: message of the medium of blygging, is that mo…",
+        "url": "https://suryakasturi.com/blyg/t/0bnfkpepzw7hejzk8yc1ftwet4/",
+        "retrieved": "2026-10-15T14:36:13Z"
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-15T14:36:13Z",
+      "note": "AI iteration on titles for drafts"
+    }
+  ]
+}

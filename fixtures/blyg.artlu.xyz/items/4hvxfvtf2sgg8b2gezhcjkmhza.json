@@ -1,0 +1,43 @@
+{
+  "blyg": "0.4",
+  "id": "4hvxfvtf2sgg8b2gezhcjkmhza",
+  "kind": "thread",
+  "origin": "https://blyg.artlu.xyz/",
+  "page": "t/4hvxfvtf2sgg8b2gezhcjkmhza/",
+  "author": {
+    "name": "ultrA",
+    "url": "https://blyg.artlu.xyz/"
+  },
+  "created": "2026-10-22T17:05:41Z",
+  "updated": "2026-10-22T17:05:53Z",
+  "version": 1,
+  "content_md": "![[1vnjn058a36aapmyc6byv8h37j]]\n> nice :)\n\nthere's something in the air",
+  "content_html": "<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"1vnjn058a36aapmyc6byv8h37j\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<p>nice :)</p>\n</blockquote>\n<p>there's something in the air</p>\n",
+  "content_hash": "sha256:9999533e62dd6d0db3d018b79a99689cc06bdadc20bf63ba9861e27c1b02e99c",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "1vnjn058a36aapmyc6byv8h37j",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "selector": {
+        "exact": "nice :)",
+        "prefix": "b.\n—Brady Dale\nOctober 20, 2026\n"
+      },
+      "cited": {
+        "source": "And Yet Here We Are 🚀",
+        "author": "Aneesh Sathe",
+        "excerpt": "GittinToIt: Version control for writers My newest vibecoded app has a terrible n…",
+        "url": "https://blyg.aneeshsathe.com/t/1vnjn058a36aapmyc6byv8h37j/",
+        "retrieved": "2026-10-22T17:05:53Z"
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-22T17:05:53Z",
+      "note": "v1"
+    }
+  ]
+}

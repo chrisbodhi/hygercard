@@ -1,0 +1,44 @@
+{
+  "blyg": "0.4",
+  "id": "1hxbrqnr9bx9x90261qgap5x6g",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/1hxbrqnr9bx9x90261qgap5x6g/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-09-29T14:35:39Z",
+  "updated": "2026-09-29T14:41:43Z",
+  "version": 1,
+  "content_md": "Blyggerstan, Blyggerville, Blyggerton, Blygernia, Blygernania 😜\n\nBlygosphere wins for continuity. \n\n![[6nyjhp6a7g8eck373aedreyk1m]]\n\n",
+  "content_html": "<p>Blyggerstan, Blyggerville, Blyggerton, Blygernia, Blygernania 😜</p>\n<p>Blygosphere wins for continuity.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"6nyjhp6a7g8eck373aedreyk1m\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>What should we call the network of blygs? Call for stub commentary towards a rough consensus, not a voting exercise. Two main options I think are:</p>\n<ol>\n<li><strong>Blyggersphere</strong></li>\n<li><strong>Blygosphere</strong></li>\n</ol>\n<p>I like the first one, but suspect the second one will have a strong memetic advantage.</p>\n\n</blockquote>\n",
+  "content_hash": "sha256:66578e648de0c76bbdbb0a8aab0a1b56df7d7894b214e285525cf505b1547a63",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "6nyjhp6a7g8eck373aedreyk1m",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/"
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "6nyjhp6a7g8eck373aedreyk1m",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "What should we call the network of blygs? Call for stub commentary towards a rou…",
+      "url": "https://venkateshrao.com/blyg/f/6nyjhp6a7g8eck373aedreyk1m/",
+      "retrieved": "2026-09-29T14:41:43Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-29T14:41:43Z",
+      "note": null
+    }
+  ]
+}

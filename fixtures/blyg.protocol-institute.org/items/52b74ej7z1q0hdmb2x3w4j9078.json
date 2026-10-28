@@ -1,0 +1,31 @@
+{
+  "blyg": "0.4",
+  "id": "52b74ej7z1q0hdmb2x3w4j9078",
+  "kind": "fragment",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "f/52b74ej7z1q0hdmb2x3w4j9078/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-25T18:41:13Z",
+  "updated": "2026-09-25T18:41:53Z",
+  "version": 1,
+  "content_md": "# Memory is not enough?\n\nFrom Kaliya Group Brains talk\n",
+  "content_html": "<h1>Memory is not enough?</h1>\n<p>From Kaliya Group Brains talk</p>\n",
+  "content_hash": "sha256:b0e0eedd606248c9422e52abb66f896c3e4fc290031c9cfe856264b5a3a0db10",
+  "media": [
+    {
+      "url": "media/y81kdqbr.png",
+      "mime": "image/png",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-25T18:41:53Z",
+      "note": null
+    }
+  ]
+}

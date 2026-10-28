@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "5wrgcekv18bqrhjernymhja94a",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/5wrgcekv18bqrhjernymhja94a/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# SIGPfB: Protocols for Business Discussion - AI Adoption and Protocol Design\n\n*Session of 20 October 2025.* Participants: rafa_0x, sachbenny, oneiromancer2665, timber1997, thewanderingeditor, ccarella, _vgr, drevius..\n\nThe SIGPfB group discussed the intersection of protocol design and AI adoption in business contexts. The meeting opened with a proposal to publish a case study on protocolized practices for HBR-style articles, with objectives including an AI Adoption Workshop rerun and exploration of organizational design for SIGs. The core discussion centered on how protocols function as constraint systems that create stability through impossibilities and rigidity, drawing parallels to how protocols should address AI adoption risks.\n\n**Key points**\n\n- Protocols function by converting smooth behavior spaces into striated ones through constraints and impossibilities, which should be viewed as features rather than bugs for stability and predictability.\n- Sincere disclosure of LLM use is a foundational norm that companies should adopt, though current incentive structures (engagement metrics) may discourage transparency in practice.\n- Society tends to over-correct after acute AI failures while neglecting chronic risks; the chronic vs. acute framework should guide response strategies to avoid unnecessary rigid controls.\n- Management is uniquely vulnerable to accepting low-quality LLM outputs because there is less organizational pressure to escalate poor upward communication compared to downward communication.\n- Workplace norms, coaching, and triangulation practices are more immediately effective than policy-based approaches for responsible AI adoption, though policies may need to backstop these cultural measures.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2025-10-20-protocols-for-business-discussion-ai-adoption-and-proto) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-10-20-protocols-for-business-discussion-ai-adoption-and-proto/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>SIGPfB: Protocols for Business Discussion - AI Adoption and Protocol Design</h1>\n<p><em>Session of 20 October 2025.</em> Participants: rafa_0x, sachbenny, oneiromancer2665, timber1997, thewanderingeditor, ccarella, _vgr, drevius..</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB group discussed the intersection of protocol design and AI adoption in business contexts. The meeting opened with a proposal to publish a case study on protocolized practices for HBR-style articles, with objectives including an AI Adoption Workshop rerun and exploration of organizational design for SIGs. The core discussion centered on how protocols function as constraint systems that create stability through impossibilities and rigidity, drawing parallels to how protocols should address AI adoption risks.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>Protocols function by converting smooth behavior spaces into striated ones through constraints and impossibilities, which should be viewed as features rather than bugs for stability and predictability.</li>\n<li>Sincere disclosure of LLM use is a foundational norm that companies should adopt, though current incentive structures (engagement metrics) may discourage transparency in practice.</li>\n<li>Society tends to over-correct after acute AI failures while neglecting chronic risks; the chronic vs. acute framework should guide response strategies to avoid unnecessary rigid controls.</li>\n<li>Management is uniquely vulnerable to accepting low-quality LLM outputs because there is less organizational pressure to escalate poor upward communication compared to downward communication.</li>\n<li>Workplace norms, coaching, and triangulation practices are more immediately effective than policy-based approaches for responsible AI adoption, though policies may need to backstop these cultural measures.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2025-10-20-protocols-for-business-discussion-ai-adoption-and-proto\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-10-20-protocols-for-business-discussion-ai-adoption-and-proto/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:04bf7e6fe186d5bdf8b7387661226043270e125a1e2fcf51fd597c84ebf5c2bd",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

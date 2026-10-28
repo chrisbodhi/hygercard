@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "58239y4nz1gpry32gkdv1kjypd",
+  "kind": "fragment",
+  "origin": "https://rslantonie.com/blyg/",
+  "page": "f/58239y4nz1gpry32gkdv1kjypd/",
+  "author": {
+    "name": "Russell Antonie Pasetes",
+    "url": "https://rslantonie.com/"
+  },
+  "created": "2026-10-08T23:04:55Z",
+  "updated": "2026-10-08T23:04:55Z",
+  "version": 1,
+  "content_md": "# Devlog\n\nTelegram as an interface feels surprisingly robust. Expanded into a full-screen view after shifting a couple lines down and looks similar to writing with Obsidian on mobile. Might try out modding the toolbar and see if I can sidestep the premium formatting features.\n\nOccurred to me as I woke up that I can create arbitrary pub/sub channels, which would be cool and experiment with custom blyg groupings. Separate pub channels may require multiple bots.\n\nMight also leverage admin edits to catch up on new fragment versions, but idt edits bump down as new messages, may have to add a window for fast edits or have the blyxt bot reply to old versions when new edits get published.",
+  "content_html": "<h1>Devlog</h1>\n<p>Telegram as an interface feels surprisingly robust. Expanded into a full-screen view after shifting a couple lines down and looks similar to writing with Obsidian on mobile. Might try out modding the toolbar and see if I can sidestep the premium formatting features.</p>\n<p>Occurred to me as I woke up that I can create arbitrary pub/sub channels, which would be cool and experiment with custom blyg groupings. Separate pub channels may require multiple bots.</p>\n<p>Might also leverage admin edits to catch up on new fragment versions, but idt edits bump down as new messages, may have to add a window for fast edits or have the blyxt bot reply to old versions when new edits get published.</p>\n",
+  "content_hash": "sha256:40d4a686b03ed411dbfd09293f9ea869adc68dbb0c2aa8cc01ba92673ba382fb",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-08T23:04:55Z",
+      "note": null
+    }
+  ]
+}

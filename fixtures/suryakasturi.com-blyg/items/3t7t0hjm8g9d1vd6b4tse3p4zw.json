@@ -1,0 +1,30 @@
+{
+  "blyg": "0.4",
+  "id": "3t7t0hjm8g9d1vd6b4tse3p4zw",
+  "kind": "fragment",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/3t7t0hjm8g9d1vd6b4tse3p4zw/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-09T20:45:39Z",
+  "updated": "2026-10-09T20:59:59Z",
+  "version": 2,
+  "content_md": "# Attempting to articulate what’s the momentary difference between writing and talking \n\nWhen writing, thoughts bouncing one end to another in the mind form a queue, and they escape one character out into the physical word. I begin to notice spelling mistakes, style that sometimes isn't out yet, a sense of thought congestion, briefly an absence of everything, sometimes words that needed to be sent back into the mind.\n\nWhen talking, the key difference is they escape one word at a time, there is a much better structure to sentences and thoughts, and I do not have a noticeable recall memory of the past, and the future that's about to occur. \n",
+  "content_html": "<h1>Attempting to articulate what’s the momentary difference between writing and talking</h1>\n<p>When writing, thoughts bouncing one end to another in the mind form a queue, and they escape one character out into the physical word. I begin to notice spelling mistakes, style that sometimes isn't out yet, a sense of thought congestion, briefly an absence of everything, sometimes words that needed to be sent back into the mind.</p>\n<p>When talking, the key difference is they escape one word at a time, there is a much better structure to sentences and thoughts, and I do not have a noticeable recall memory of the past, and the future that's about to occur.</p>\n",
+  "content_hash": "sha256:0a35df51ddd2215560d6e2091970f2b4661b4934d77534eaf7cabf5ed21cc620",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-09T20:52:25Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-09T20:59:59Z",
+      "note": null
+    }
+  ]
+}

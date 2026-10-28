@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "6hjkrqtnp7qywf7gpzqwfpxm6d",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/6hjkrqtnp7qywf7gpzqwfpxm6d/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# Protocols for Business: LLM Governance and Organizational Decision-Making\n\n*Session of 1 December 2025.* Participants: rafa_0x, timber1997, ggnore999, sachbenny, drevius..\n\nThe SIGPfB group discussed emerging protocols for managing LLM usage in organizations, building on the conceptual framework of multisig governance. The conversation centered on how multisigs function as decision-tempo stabilizers that counteract rapid iteration cycles, preventing catastrophic variance in critical decisions. Participants explored which organizational activities should mandate LLM involvement—particularly legal review, knowledge acquisition, and communications—versus which activities should prohibit LLM use, such as deploying systems the organization doesn't fully understand.\n\n**Key points**\n\n- Multisig systems function as 'counterpoint protocols' that deliberately slow decision tempo to prevent catastrophic variance in critical smart contract decisions, contrasting with Lean's MVP acceleration model.\n- Organizations should mandate LLM usage for legal review, learning unfamiliar topics, and communications guidance—while prohibiting deployment of systems the organization doesn't understand.\n- The critical distinction is that all non-confidential content should go through LLM processing, but not all processed content should reach publication or production, requiring governance layers between review and deployment.\n- LLM-in-the-loop signing processes where prompts and reviews are mandatory (though not binding) can force beneficial tempo downshifts while maintaining organizational flexibility.\n- Clear policies are needed to prevent confidential personnel or company information from being uploaded to personal LLMs, while keeping non-confidential information LLM-accessible.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2025-12-01-protocols-for-business-llm-governance-and-organizationa) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-12-01-protocols-for-business-llm-governance-and-organizationa/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>Protocols for Business: LLM Governance and Organizational Decision-Making</h1>\n<p><em>Session of 1 December 2025.</em> Participants: rafa_0x, timber1997, ggnore999, sachbenny, drevius..</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB group discussed emerging protocols for managing LLM usage in organizations, building on the conceptual framework of multisig governance. The conversation centered on how multisigs function as decision-tempo stabilizers that counteract rapid iteration cycles, preventing catastrophic variance in critical decisions. Participants explored which organizational activities should mandate LLM involvement—particularly legal review, knowledge acquisition, and communications—versus which activities should prohibit LLM use, such as deploying systems the organization doesn't fully understand.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>Multisig systems function as 'counterpoint protocols' that deliberately slow decision tempo to prevent catastrophic variance in critical smart contract decisions, contrasting with Lean's MVP acceleration model.</li>\n<li>Organizations should mandate LLM usage for legal review, learning unfamiliar topics, and communications guidance—while prohibiting deployment of systems the organization doesn't understand.</li>\n<li>The critical distinction is that all non-confidential content should go through LLM processing, but not all processed content should reach publication or production, requiring governance layers between review and deployment.</li>\n<li>LLM-in-the-loop signing processes where prompts and reviews are mandatory (though not binding) can force beneficial tempo downshifts while maintaining organizational flexibility.</li>\n<li>Clear policies are needed to prevent confidential personnel or company information from being uploaded to personal LLMs, while keeping non-confidential information LLM-accessible.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2025-12-01-protocols-for-business-llm-governance-and-organizationa\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2025-12-01-protocols-for-business-llm-governance-and-organizationa/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:3b5a25608a360cf6934a6b6dc97fac43267fbc9e615e10354b8a1d0a4c8a3a1b",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

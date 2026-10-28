@@ -1,0 +1,32 @@
+{
+  "blyg": "0.4",
+  "id": "1ht4eg11c3xwfe6c4m5cz0srmw",
+  "kind": "thread",
+  "origin": "https://www.robertpeake.com/blyg/",
+  "page": "https://www.robertpeake.com/archives/96510-nothing-personal.html",
+  "author": {
+    "name": "Robert Peake",
+    "url": "https://www.robertpeake.com/"
+  },
+  "created": "2019-07-14T19:28:46Z",
+  "updated": "2019-07-14T19:39:54Z",
+  "version": 1,
+  "content_md": "# Nothing Personal \\[Poem\\]\n\n![](https://www.robertpeake.com/files/2019/07/nothing-personal-small.jpg)\n\n[https://www.youtube.com/embed/Q2\\_8y4Sbz-Q](https://www.youtube.com/embed/Q2_8y4Sbz-Q)\n\n[\\*|YOUTUBE:\\[$vid=Q2\\_8y4Sbz-Q\\]|\\*\\\nClick to watch](https://www.youtube.com/watch?v=Q2_8y4Sbz-Q&feature=youtu.be)\n\nNothing Personal\n\nThere is no more left to write about\\\nsince I fell away from the world\\\nI don’t mean existentially–\\\nlike a balloon, the globe escaped\\\nand drifted into the star-pricked dark\\\nor perhaps it was I, filled with\\\nthe good air of hopefulness,\\\ntied tightly by a mother’s hand.\\\nAmong the satellites, I was alone\\\ncosying up to space debris, cartons\\\nof fast-food left by astronauts,\\\nthe Earth glowing gently beside me,\\\nwrapped like an invalid in cotton wool.\\\nI was told it would be dangerous\\\nbut the air had already been used up\\\nin the ongoing political debate\\\nand the chill I found refreshing\\\nafter the seas turned to bath water.\\\nI wouldn’t say the vacuum abhorred me,\\\nthough I felt its persistent tug.\\\nSomething is to be said for drifting\\\nafter a lifetime spent believing in gravity.\\\nSometimes I miss the small-scale things\\\nhere with the Milky Way behind me,\\\nbut even if I wanted to now,\\\nI could not pull it all back.\n",
+  "content_html": "<h1>Nothing Personal [Poem]</h1>\n<figure><img src=\"https://www.robertpeake.com/files/2019/07/nothing-personal-small.jpg\" alt=\"\" width=\"1024\" height=\"1024\"></figure>\n<figure><p><a href=\"https://www.youtube.com/embed/Q2_8y4Sbz-Q\">https://www.youtube.com/embed/Q2_8y4Sbz-Q</a></p>\n<p><a href=\"https://www.youtube.com/watch?v=Q2_8y4Sbz-Q&amp;feature=youtu.be\">*|YOUTUBE:[$vid=Q2_8y4Sbz-Q]|*<br>Click to watch</a></p></figure>\n<p>Nothing Personal</p>\n<p>There is no more left to write about<br>\nsince I fell away from the world<br>\nI don’t mean existentially–<br>\nlike a balloon, the globe escaped<br>\nand drifted into the star-pricked dark<br>\nor perhaps it was I, filled with<br>\nthe good air of hopefulness,<br>\ntied tightly by a mother’s hand.<br>\nAmong the satellites, I was alone<br>\ncosying up to space debris, cartons<br>\nof fast-food left by astronauts,<br>\nthe Earth glowing gently beside me,<br>\nwrapped like an invalid in cotton wool.<br>\nI was told it would be dangerous<br>\nbut the air had already been used up<br>\nin the ongoing political debate<br>\nand the chill I found refreshing<br>\nafter the seas turned to bath water.<br>\nI wouldn’t say the vacuum abhorred me,<br>\nthough I felt its persistent tug.<br>\nSomething is to be said for drifting<br>\nafter a lifetime spent believing in gravity.<br>\nSometimes I miss the small-scale things<br>\nhere with the Milky Way behind me,<br>\nbut even if I wanted to now,<br>\nI could not pull it all back.</p>",
+  "content_hash": "sha256:708eaa0f77a61df7c22a9047ea7e60687fcef1bd53312af396618f8f2e10b751",
+  "media": [
+    {
+      "url": "https://www.robertpeake.com/files/2019/07/nothing-personal-small.jpg",
+      "mime": "image/jpeg",
+      "alt": ""
+    }
+  ],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2019-07-14T19:39:54Z",
+      "note": "imported from WordPress"
+    }
+  ]
+}

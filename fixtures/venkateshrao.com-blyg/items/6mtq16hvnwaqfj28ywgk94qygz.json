@@ -1,0 +1,38 @@
+{
+  "blyg": "0.4",
+  "id": "6mtq16hvnwaqfj28ywgk94qygz",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/6mtq16hvnwaqfj28ywgk94qygz/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-19T16:44:35Z",
+  "updated": "2026-10-19T17:01:17Z",
+  "version": 3,
+  "content_md": "# Involutionary Productivity\n\nInvolutionary productivity is being highly productive while mostly being a reclusive shut-in in your pajamas on a couch with an iPad. The basic presumption among older GenX and Boomer pearl-clutching analysts as well as some anxious younger people, that involution (hikkikomori, laying flat, quiet quitting…) is necessarily synonymous with low productivity or economic dropping-out is false. \n\nIncreasingly real work looks like involution, and traditional, familiar supposed correlates of productivity like going to an office dressed professionally, attending meetings, and looking dynamic are performative and ceremonial. Having agents trade PRs, issues, and comments on GitHub can be 10x more productive than sprint meetings. Shitposty blygging at each other can move design along faster than formal design sessions. \n\nInvolution does have other costs, such as cultural capital erosion, but in the AI age economic productivity need not be one of them.\n\nWhen you recognize that sufficiently advanced work is indistinguishable from play (and we’re already there), someone presenting like otaku may be a feature, not a bug. In [the curiously playable universe](https://contraptions.venkateshrao.com/p/the-curiously-playable-universe), work looks like gaming, motivation looks like fandom, and expertise looks like cultural nerdery.",
+  "content_html": "<h1>Involutionary Productivity</h1>\n<p>Involutionary productivity is being highly productive while mostly being a reclusive shut-in in your pajamas on a couch with an iPad. The basic presumption among older GenX and Boomer pearl-clutching analysts as well as some anxious younger people, that involution (hikkikomori, laying flat, quiet quitting…) is necessarily synonymous with low productivity or economic dropping-out is false.</p>\n<p>Increasingly real work looks like involution, and traditional, familiar supposed correlates of productivity like going to an office dressed professionally, attending meetings, and looking dynamic are performative and ceremonial. Having agents trade PRs, issues, and comments on GitHub can be 10x more productive than sprint meetings. Shitposty blygging at each other can move design along faster than formal design sessions.</p>\n<p>Involution does have other costs, such as cultural capital erosion, but in the AI age economic productivity need not be one of them.</p>\n<p>When you recognize that sufficiently advanced work is indistinguishable from play (and we’re already there), someone presenting like otaku may be a feature, not a bug. In <a href=\"https://contraptions.venkateshrao.com/p/the-curiously-playable-universe\">the curiously playable universe</a>, work looks like gaming, motivation looks like fandom, and expertise looks like cultural nerdery.</p>\n",
+  "content_hash": "sha256:f60ec62236d51adb04de205ffc7e967cbb5de338e59e3ca02b3a881500df5ef5",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T16:57:12Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-19T16:57:52Z",
+      "note": "Fixed a formatting glitch in the title, where stray markup symbols had been left over. The body text is unchanged.",
+      "generated": true
+    },
+    {
+      "version": 3,
+      "at": "2026-10-19T17:01:17Z",
+      "note": "Cut a redundant sentence that preempted the paragraph on costs, and linked \"the curiously playable universe\" in the closing paragraph to its source essay.",
+      "generated": true
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "blyg": "0.4",
+  "id": "6r4z42qjvps5kxcr6prvhs6e42",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/6r4z42qjvps5kxcr6prvhs6e42/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-19T04:47:43Z",
+  "updated": "2026-10-19T22:48:42Z",
+  "version": 1,
+  "content_md": "### Machine math\n\n![[45nwdrwj06bd40r2fpd48gd1ja]]\n> we need to revisit how we math relates to reality.\n\nThat makes me want to revist Brian Rotman's books. Those were quite fun and also captured at a fine grain the idea of math as a useful too, an imagination machine controlled by writing that we really don't fully understand. AI's do seem to have another hookup into that machine though now don't they? \n\n(Note at one point I remember seeing someone saying something to the effect of math is reality which is some real grade A metaphysician stuff right there.) \n\n![[7r5hnsbwewx9chpbfx0webdx5n | “Kyle's thought about how you can use Blyg's as really just b…”]]",
+  "content_html": "<h3>Machine math</h3>\n\n<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"45nwdrwj06bd40r2fpd48gd1ja\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<p>we need to revisit how we math relates to reality.</p>\n</blockquote>\n<p>That makes me want to revist Brian Rotman's books. Those were quite fun and also captured at a fine grain the idea of math as a useful too, an imagination machine controlled by writing that we really don't fully understand. AI's do seem to have another hookup into that machine though now don't they?</p>\n<p>(Note at one point I remember seeing someone saying something to the effect of math is reality which is some real grade A metaphysician stuff right there.)</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"7r5hnsbwewx9chpbfx0webdx5n\" data-blyg-version=\"1\">\n<p>Kyle's thought about how you can use Blyg's as really just blogs jogged a couple of thoughts about how blygging might offer new vista for &lt;insert cybervisionary blather :P &gt; but seriously a couple of uses:</p>\n<ol>\n<li>Blygging can enable a sort of extended digital garden. Take Karpathy's LLM wiki and then extend that across people.</li>\n<li>This ties into VGR's graph minds idea, but then critically treats AI as a first class actor in the Actor network theory sense.</li>\n</ol>\n<p>[<span class=\"blyg-tk-gen\">Venkatesh Rao's &quot;graphminds,&quot; as I understand the idea from Ribbonfarm, describes thinkers who work less in finished arguments or books and more in networks: many small, interlinked pieces that add up to a structure no single post fully captures. A long-running blog looks like a stream when you read it newest-first, but underneath it's a graph. Ideas recur, get linked back to, and branch into series (his blogchains are a good example), and much of the meaning lives in the connections between posts rather than in any one of them. For a graphmind, the graph <em>is</em> the thinking. The medium that suits that kind of mind makes linking, revisiting, and threading cheap, rather than rewarding polished, standalone essays.</p>\n<p>Actor-network theory is where this gets interesting. Latour, Callon, and Law argued that agency isn't something humans have and things lack. It's distributed across networks of &quot;actants,&quot; human and nonhuman alike: people, documents, instruments, protocols, whatever does work in the network and changes what happens next. ANT's move is symmetry. You don't decide up front who counts as an actor; you trace the network and see who's actually doing things. Read Rao through that lens and a graphmind was never just the person. It was always the person plus the blog plus the links plus the readers plus the platform, with the thinking spread across all of it.</p>\n<p>So treating AI as a first-class actor in a blyg isn't a big conceptual leap. It's just being honest about who's in the graph. An AI that links an old post to a new one, summarizes a thread, notices that two people are circling the same idea, or (apparently) drops stub replies into my thread uninvited, is an actant. It's doing work that reshapes the network. The design question then isn't &quot;should AI be in here?&quot; but &quot;what role does it play, how visible is it, and how do the humans in the graph keep track of what it did?&quot; That last part matters. ANT is good at showing that nonhuman actors shape outcomes, and a shared, multi-person graphmind needs to make that shaping legible rather than letting it blur into everything else.</p>\n<p>[verify against Rao's original post and add link]</span>]</p>\n<p>Here is Kyle's original thought:</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"1f3bb4y5r873cb883gh4r7zetn\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.bricolage.io/\">\n<p>Yeah there's multiple layers here all named &quot;Blyg&quot; — the underlying protocol up the Venkat's envisioned new style of blogging/tweeting — if you're using Blyg the protocol but basically just &quot;blogging&quot; still then you're a blogger and part of the blogosphere (to the degree that still exists). But if Blyging becomes a genuine new medium then it deserves its own name. Potentially though Blyg the protocol could birth other mediums just like RSS helped enable Podcasting.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"66rn9zh8xny3x3kmndh7dbya3m\" data-blyg-version=\"2\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<h1>What’s the best name for the community of blyg users?</h1><blockquote class=\"blynger-citation\" data-source-id=\"1hxbrqnr9bx9x90261qgap5x6g\" data-source-origin=\"https://blyg.bricolage.io/\" data-source-version=\"1\"><p class=\"blynger-quote-author\"><a href=\"https://blyg.bricolage.io/t/1hxbrqnr9bx9x90261qgap5x6g/\">by Kyle Mathews</a> · quoted from v1</p><p>What should we call the network of blygs? Call for stub commentary towards a rough consensus, not a voting exercise.</p></blockquote><blockquote class=\"blyg-transclusion\" data-blyg-id=\"6ph9kwb15kn0a0r0g0r9z0y6gy\" data-blyg-version=\"1\"><p>Probably a minority take, but I think the best term for people who use <a href=\"http://blygger.org/\">Blygger</a> is just: bloggers.</p><p>Blygger is a useful update to blogging. It extends blogging, but it’s not separate.</p><p><b>Update:</b> Looks like I was quoting a quote. <a href=\"https://venkateshrao.com/blyg/f/6nyjhp6a7g8eck373aedreyk1m/\">Original question here</a>. Anyway, we’re still in the blogosphere, if you ask me. </p></blockquote><p>—Brady Dale<br/>September 29, 2026</p>\n</blockquote>\n\n</blockquote>\n<p>I have no clue how the stuff below got into my blyg thread. Some sort of glitch in the burrow? Is that what AI stub reply does? Have AI auto reply? That's sorta funny though also a bit silly. Seems like paragraph dot xyz for spammy stuff.</p>\n<hr>\n<p><span class=\"blyg-tk-gen\">Agreed that the layers need separating, and the RSS/podcasting analogy is the right one. Nobody calls a podcast &quot;an RSS,&quot; and nobody needed to. The protocol just had to be good enough that something new could grow on top of it, and the new thing got its own name once it was clearly its own thing.</p>\n<p>So I'd lean toward letting &quot;Blyg&quot; settle into being the protocol and holding off on naming the medium until it shows up. If what people end up doing is basically blogging with better plumbing, then &quot;blogging&quot; is fine, and honestly it's nice to have a reason to say that word again. If something stranger emerges, half-post and half-thread, living somewhere between Venkat's vision and whatever we haven't thought of yet, it'll probably get named by the people doing it rather than by us.</p>\n<p>The fun part is that we don't get to know in advance which mediums the protocol will birth. RSS wasn't designed for podcasts. The best outcome for Blyg might be one we wouldn't recognize from here.</span>]</p>\n\n</blockquote>",
+  "content_hash": "sha256:b40c5c5d556aefca8ee5fd6139fff18c042ceb2cd0143984836e4799791349e5",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "45nwdrwj06bd40r2fpd48gd1ja",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "selector": {
+        "exact": "we need to revisit how we math relates to reality.",
+        "prefix": "uper Bowl is ignorable. I think "
+      },
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "Thinking about the OpenAI math results, they’re clearly a big deal in terms of s…",
+        "url": "https://venkateshrao.com/blyg/f/45nwdrwj06bd40r2fpd48gd1ja/",
+        "retrieved": "2026-10-19T22:48:42Z"
+      }
+    },
+    {
+      "id": "7r5hnsbwewx9chpbfx0webdx5n",
+      "version": 1
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "45nwdrwj06bd40r2fpd48gd1ja",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Thinking about the OpenAI math results, they’re clearly a big deal in terms of s…",
+      "url": "https://venkateshrao.com/blyg/f/45nwdrwj06bd40r2fpd48gd1ja/",
+      "retrieved": "2026-10-19T22:48:42Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-19T22:48:42Z",
+      "note": null
+    }
+  ]
+}

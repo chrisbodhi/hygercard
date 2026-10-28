@@ -1,0 +1,43 @@
+{
+  "blyg": "0.4",
+  "id": "5yzkkqc9397mr5seaw5wswddz4",
+  "kind": "thread",
+  "origin": "https://blyg.artlu.xyz/",
+  "page": "t/5yzkkqc9397mr5seaw5wswddz4/",
+  "author": {
+    "name": "ultrA",
+    "url": "https://blyg.artlu.xyz/"
+  },
+  "created": "2026-10-14T20:15:18Z",
+  "updated": "2026-10-14T20:16:01Z",
+  "version": 1,
+  "content_md": "![[26v6rrp1shpfx356xvfg5r42r0]]\n> Blygger in the sheets blogger in the streets.\n\nSay it louder for the people in the back!",
+  "content_html": "<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"26v6rrp1shpfx356xvfg5r42r0\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<p>Blygger in the sheets blogger in the streets.</p>\n</blockquote>\n<p>Say it louder for the people in the back!</p>\n",
+  "content_hash": "sha256:b3e134efc6cd2bdb7ea116b453fff8acbcf6d55f102a1681750d58200de74486",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "26v6rrp1shpfx356xvfg5r42r0",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "selector": {
+        "exact": "Blygger in the sheets blogger in the streets.",
+        "prefix": "hink the right shape for me is:\n"
+      },
+      "cited": {
+        "source": "And Yet Here We Are 🚀",
+        "author": "Aneesh Sathe",
+        "excerpt": "Even with threads etc blygs don't satisfy the basic urge to write something long…",
+        "url": "https://blyg.aneeshsathe.com/f/26v6rrp1shpfx356xvfg5r42r0/",
+        "retrieved": "2026-10-14T20:16:01Z"
+      }
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-14T20:16:01Z",
+      "note": "v1"
+    }
+  ]
+}

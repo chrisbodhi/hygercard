@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "6kgzcx0vykhsgf1z11r17dsybv",
+  "kind": "fragment",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "f/6kgzcx0vykhsgf1z11r17dsybv/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-24T23:09:01Z",
+  "updated": "2026-09-24T23:09:01Z",
+  "version": 1,
+  "content_md": "Really enjoying the 2nd day of the symposium.",
+  "content_html": "<p>Really enjoying the 2nd day of the symposium.</p>\n",
+  "content_hash": "sha256:1da63a8eccb880beff0246347c05126790044099ffd59cc3b093c1f1709b83b2",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-24T23:09:01Z",
+      "note": null
+    }
+  ]
+}

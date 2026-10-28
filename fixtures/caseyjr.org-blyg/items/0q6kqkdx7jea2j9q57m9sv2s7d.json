@@ -1,0 +1,30 @@
+{
+  "blyg": "0.4",
+  "id": "0q6kqkdx7jea2j9q57m9sv2s7d",
+  "kind": "withdrawn",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "f/0q6kqkdx7jea2j9q57m9sv2s7d/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-14T00:10:48Z",
+  "updated": "2026-10-14T00:12:18Z",
+  "version": 2,
+  "content_md": "",
+  "content_html": "",
+  "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-14T00:11:52Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-14T00:12:18Z",
+      "note": null
+    }
+  ]
+}

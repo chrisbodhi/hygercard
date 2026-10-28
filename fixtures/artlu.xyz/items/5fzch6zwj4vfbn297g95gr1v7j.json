@@ -1,0 +1,35 @@
+{
+  "blyg": "0.3",
+  "id": "5fzch6zwj4vfbn297g95gr1v7j",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/less-loser/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2026-02-06T23:33:00Z",
+  "updated": "2026-10-03T01:36:11Z",
+  "version": 3,
+  "content_md": "I published [this](https://artlu.xyz/posts/the-new-one-page-investment-memo/) on 12/18/2025, a day after I sold 70% of Strategy stock to buy Strategy fixed income securities.\n\nEven with today's massive one-day +26% bounce, $MSTR is -18% since mid December on ~90% realized vol.\n\n$STRC is actually up, including cash flow, on 20% realized vol. \n\n$STRD is -7% on 40% vol.\n\nIf bitcoin gets hit over the weekend, I think that will present a buying opportunity for $MSTR (sell fixed income, buy equity) as the risk-reward appears to have flipped.\n\nBut also, I think people are sleeping on crypto-native *securities* paying 10%+ sustainable yield.\n\n---\n\n",
+  "content_html": "<p>I published <a href=\"https://artlu.xyz/posts/the-new-one-page-investment-memo/\" rel=\"noopener noreferrer\" target=\"_blank\">this</a><i class=\"iconfont icon-external-link\"></i> on 12/18/2025, a day after I sold 70% of Strategy stock to buy Strategy fixed income securities.</p>\n<p>Even with today's massive one-day +26% bounce, $MSTR is -18% since mid December on ~90% realized vol.</p>\n<p>$STRC is actually up, including cash flow, on 20% realized vol.</p>\n<p>$STRD is -7% on 40% vol.</p>\n<p>If bitcoin gets hit over the weekend, I think that will present a buying opportunity for $MSTR (sell fixed income, buy equity) as the risk-reward appears to have flipped.</p>\n<p>But also, I think people are sleeping on crypto-native <em>securities</em> paying 10%+ sustainable yield.</p>\n<hr>",
+  "content_hash": "sha256:b10fe93ce4c489ac629282db8f89cde88807dbec5a729f3e6d1e0b8221a06927",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-02-06T23:33:00Z",
+      "note": "Less Loser"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    },
+    {
+      "version": 3,
+      "at": "2026-10-03T01:36:11Z",
+      "note": "update"
+    }
+  ]
+}

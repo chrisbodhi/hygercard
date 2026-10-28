@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "34txkxwneerbg18rf7ry75mc4v",
+  "kind": "thread",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/34txkxwneerbg18rf7ry75mc4v/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-10-08T13:52:02Z",
+  "updated": "2026-10-08T14:07:21Z",
+  "version": 1,
+  "content_md": "![[0aqfrhttnzpm15nt3r3qq19ffa]]\n> Below is a sample job description for this emerging role, the Business Protocol Lead. It combines parts of operations management, DevOps, innovation management and forward-deployed engineering, pointed inward at one function at a time. Some highlights:\n\nThis feels like it needs strategic sharpening, splitting into multiple roles, or both. The main missing piece I think is the psychological aspect. The core protocol professional should be like Susan Calvin, the “robopsychologist” in Asimov’s 3 laws who is an expert on the 3 laws and positronic brains. She’s not an engineer but understands the consequences of the robot engineer’s choices better than they themselves do. \n\n[Angela Walch’s SoP paper](https://protocolized.io/resources/the-fundamentals-of-protocol-systems) on the protocol system experience might be a good starting point, plus our [strange rules](https://protocolized.summerofprotocols.com/p/strange-new-rules)  theory. The protocol professional is fundamentally someone with great instincts and intuitions for how complex systems behave, misbehave, and can be healed based on a deep understanding of them as living systems. It is a type of “protocol whispering” talent.\n\nAnd the rules are not necessarily the written down one of the formal organization. In fact those are often theatrical, as the famous [Meyer and Rowan paper](https://www.jstor.org/stable/2778293) argues. For example “Google-fu” and “SEO” were examples of protocol whispering roles of the last era.\n\nThis also fits with our emerging idea of new nature. The laws of new nature might matter more than those of human legalistic design. Less “code is law” and more “code is new nature.”",
+  "content_html": "<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"0aqfrhttnzpm15nt3r3qq19ffa\" data-blyg-version=\"2\" data-blyg-origin=\"https://protocolsforbusiness.com/blyg/\">\n<p>Below is a sample job description for this emerging role, the Business Protocol Lead. It combines parts of operations management, DevOps, innovation management and forward-deployed engineering, pointed inward at one function at a time. Some highlights:</p>\n</blockquote>\n<p>This feels like it needs strategic sharpening, splitting into multiple roles, or both. The main missing piece I think is the psychological aspect. The core protocol professional should be like Susan Calvin, the “robopsychologist” in Asimov’s 3 laws who is an expert on the 3 laws and positronic brains. She’s not an engineer but understands the consequences of the robot engineer’s choices better than they themselves do.</p>\n<p><a href=\"https://protocolized.io/resources/the-fundamentals-of-protocol-systems\">Angela Walch’s SoP paper</a> on the protocol system experience might be a good starting point, plus our <a href=\"https://protocolized.summerofprotocols.com/p/strange-new-rules\">strange rules</a>  theory. The protocol professional is fundamentally someone with great instincts and intuitions for how complex systems behave, misbehave, and can be healed based on a deep understanding of them as living systems. It is a type of “protocol whispering” talent.</p>\n<p>And the rules are not necessarily the written down one of the formal organization. In fact those are often theatrical, as the famous <a href=\"https://www.jstor.org/stable/2778293\">Meyer and Rowan paper</a> argues. For example “Google-fu” and “SEO” were examples of protocol whispering roles of the last era.</p>\n<p>This also fits with our emerging idea of new nature. The laws of new nature might matter more than those of human legalistic design. Less “code is law” and more “code is new nature.”</p>\n",
+  "content_hash": "sha256:1e6afe65c786234c4797225ef75f8d35510cf9b925daebf5be8e556d1b6c1ff6",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "0aqfrhttnzpm15nt3r3qq19ffa",
+      "version": 2,
+      "origin": "https://protocolsforbusiness.com/blyg/",
+      "selector": {
+        "exact": "Below is a sample job description for this emerging role, the Business Protocol Lead. It combines parts of operations management, DevOps, innovation management and forward-deployed engineering, pointed inward at one function at a time. Some highlights:",
+        "prefix": "lly curious and protocol-savvy.\n",
+        "suffix": "\nIt's a field role. The main job"
+      },
+      "cited": {
+        "source": "Protocols for Business",
+        "author": "Protocols for Business",
+        "excerpt": "A job description for a Business Protocol Lead Companies putting AI agents to wo…",
+        "url": "https://protocolsforbusiness.com/blyg/t/0aqfrhttnzpm15nt3r3qq19ffa/",
+        "retrieved": "2026-10-08T14:07:21Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://protocolsforbusiness.com/blyg/",
+    "id": "0aqfrhttnzpm15nt3r3qq19ffa",
+    "version": 2,
+    "cited": {
+      "source": "Protocols for Business",
+      "author": "Protocols for Business",
+      "excerpt": "A job description for a Business Protocol Lead Companies putting AI agents to wo…",
+      "url": "https://protocolsforbusiness.com/blyg/t/0aqfrhttnzpm15nt3r3qq19ffa/",
+      "retrieved": "2026-10-08T14:07:21Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-08T14:07:21Z",
+      "note": null
+    }
+  ]
+}

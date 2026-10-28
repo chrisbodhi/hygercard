@@ -1,0 +1,56 @@
+{
+  "blyg": "0.4",
+  "id": "43ny7ynf4bmsnsg64573h51nye",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/43ny7ynf4bmsnsg64573h51nye/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-25T23:26:29Z",
+  "updated": "2026-10-25T23:41:04Z",
+  "version": 1,
+  "content_md": "![[785dzf8a3ssrc1hh960y6m7h2c]]\n> I can't decide if this is exactly the kind of experiment that the Thicket needs or if it would honestly kind of being an annoying entry into the thicket verse? What do folks think?\n\nPersonally, I think it’s exactly the sort of experiment the thicket needs *and* would be kinda annoying 🤣. At least until you get it right.\n\nThat is, it would make the feed messy in ways that would force us to find interesting solutions. \n\nA branching story is nonlinear in one way. But writing bits and pieces of it in anything but the strictest breadth-first or depth-first order would superimpose a second kind of nonlinearity that would be really challenging to follow. But might also get really interesting. Like an A* sequencing. \n\nYou’re trying to serialize a tree. Or if you want to get even more perverse, a DAG. \n\nI’d suggest actually trying a very short experimental story first, to get a feel for it. Maybe a story just 4-5 deep and a branching factor of 2. And consider stories that diverge first and then converge. Like a fairy tale that always ends in happily ever after but can get there 5-6 different ways.\n\nNetflix did some really fun experiments. Bandersnatch was good. Kaleidoscope was really good.\n\nYour basic problem is not technology but the fact that such stories can feel repetitive and dull after you’ve done one path. So trick is to write parts that reveal new layers of meaning for different paths through them. For eg in Part 3, hero eats a cookie and coffee. In part 4, it turns out the cookie is poisoned. In part 4, it turns out he throws the coffee at the villain to escape. Different scene elements get activated. This can feel redundant though.",
+  "content_html": "<blockquote class=\"blyg-transclusion blyg-partial\" data-blyg-id=\"785dzf8a3ssrc1hh960y6m7h2c\" data-blyg-version=\"1\" data-blyg-origin=\"https://bradydale.com/blyg/\">\n<p>I can&#39;t decide if this is exactly the kind of experiment that the Thicket needs or if it would honestly kind of being an annoying entry into the thicket verse? What do folks think?</p>\n</blockquote>\n<p>Personally, I think it’s exactly the sort of experiment the thicket needs <em>and</em> would be kinda annoying 🤣. At least until you get it right.</p>\n<p>That is, it would make the feed messy in ways that would force us to find interesting solutions.</p>\n<p>A branching story is nonlinear in one way. But writing bits and pieces of it in anything but the strictest breadth-first or depth-first order would superimpose a second kind of nonlinearity that would be really challenging to follow. But might also get really interesting. Like an A* sequencing.</p>\n<p>You’re trying to serialize a tree. Or if you want to get even more perverse, a DAG.</p>\n<p>I’d suggest actually trying a very short experimental story first, to get a feel for it. Maybe a story just 4-5 deep and a branching factor of 2. And consider stories that diverge first and then converge. Like a fairy tale that always ends in happily ever after but can get there 5-6 different ways.</p>\n<p>Netflix did some really fun experiments. Bandersnatch was good. Kaleidoscope was really good.</p>\n<p>Your basic problem is not technology but the fact that such stories can feel repetitive and dull after you’ve done one path. So trick is to write parts that reveal new layers of meaning for different paths through them. For eg in Part 3, hero eats a cookie and coffee. In part 4, it turns out the cookie is poisoned. In part 4, it turns out he throws the coffee at the villain to escape. Different scene elements get activated. This can feel redundant though.</p>\n",
+  "content_hash": "sha256:ce1aa8c69f50cba4a9028f915fef5b45de8efc71e1ef9e4e64416948cc21c5b4",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "785dzf8a3ssrc1hh960y6m7h2c",
+      "version": 1,
+      "origin": "https://bradydale.com/blyg/",
+      "selector": {
+        "exact": "I can't decide if this is exactly the kind of experiment that the Thicket needs or if it would honestly kind of being an annoying entry into the thicket verse? What do folks think?",
+        "prefix": "l order wouldn't really matter.\n",
+        "suffix": "\nAlso, addendum… One thing I'm n"
+      },
+      "cited": {
+        "source": "Brady Dale's blyg",
+        "author": "Brady Dale",
+        "excerpt": "Question for the Thicket: I'm thinking about vibecoding up a new app. For a very…",
+        "url": "https://bradydale.com/blyg/f/785dzf8a3ssrc1hh960y6m7h2c/",
+        "retrieved": "2026-10-25T23:41:04Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://bradydale.com/blyg/",
+    "id": "785dzf8a3ssrc1hh960y6m7h2c",
+    "version": 1,
+    "cited": {
+      "source": "Brady Dale's blyg",
+      "author": "Brady Dale",
+      "excerpt": "Question for the Thicket: I'm thinking about vibecoding up a new app. For a very…",
+      "url": "https://bradydale.com/blyg/f/785dzf8a3ssrc1hh960y6m7h2c/",
+      "retrieved": "2026-10-25T23:41:04Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T23:41:04Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "blyg": "0.3",
+  "id": "6ce1weq7vetchvb4zq8yypn16s",
+  "kind": "fragment",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "f/6ce1weq7vetchvb4zq8yypn16s/",
+  "author": {
+    "name": "Protocols for Business"
+  },
+  "created": "2026-09-29T08:09:01Z",
+  "updated": "2026-10-04T14:48:24Z",
+  "version": 3,
+  "content_md": "**Where we are, end of September 2026.**\n\nWe spent the last few weeks giving the group's practice a name we can test. We call it Business Protocol Management. A business finds the few protocols everything relies on, builds them into its systems as a hard core, and leaves people and agents free to work inside them. The [About page](https://protocolsforbusiness.com/about/) now says so.\n\nThe reading plan changed to match. [Sessions](https://protocolsforbusiness.com/sessions/) now shows six themes in the order we'll explore them: what agents are in practice, how nature coordinates, what systems emit, how to see hardness in real incidents, how to design the hard core, and how industries keep it alive. Most readings are primary sources from aviation, nuclear power, spaceflight and software operations, with business process re-engineering as the contrast. We still start with the Hugging Face incident on 2 November.\n\nWe also built a [reading map](https://protocolsforbusiness.com/sessions/map/) of 400 readings placed by what they say, with the year's readings marked. It grows with the group. Ask your AI assistant what the map is missing from your own experience, and it can add each reading to GitHub for us to review.\n\nThe [Research page](https://protocolsforbusiness.com/research/) ties our 2027 focus on AI-native data operations to the practice and lists five open questions we'd like help with. By the end of next year we hope the practice will be much more mature, shaped by what we read and build together.\n",
+  "content_html": "<p><strong>Where we are, end of September 2026.</strong></p>\n<div class=\"blyg-tk-gen\"><p>We spent the last few weeks giving the group's practice a name we can test. We call it Business Protocol Management. A business finds the few protocols everything relies on, builds them into its systems as a hard core, and leaves people and agents free to work inside them. The <a href=\"https://protocolsforbusiness.com/about/\">About page</a> now says so.</p>\n<p>The reading plan changed to match. <a href=\"https://protocolsforbusiness.com/sessions/\">Sessions</a> now shows six themes in the order we'll explore them: what agents are in practice, how nature coordinates, what systems emit, how to see hardness in real incidents, how to design the hard core, and how industries keep it alive. Most readings are primary sources from aviation, nuclear power, spaceflight and software operations, with business process re-engineering as the contrast. We still start with the Hugging Face incident on 2 November.</p>\n<p>We also built a <a href=\"https://protocolsforbusiness.com/sessions/map/\">reading map</a> of 400 readings placed by what they say, with the year's readings marked. It grows with the group. Ask your AI assistant what the map is missing from your own experience, and it can add each reading to GitHub for us to review.</p>\n<p>The <a href=\"https://protocolsforbusiness.com/research/\">Research page</a> ties our 2027 focus on AI-native data operations to the practice and lists five open questions we'd like help with. By the end of next year we hope the practice will be much more mature, shaped by what we read and build together.</p></div>",
+  "content_hash": "sha256:e3e9531962e81809ffbc1f02068de1f868bd9f99c0b1b6726ee792979115ebe9",
+  "media": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5",
+      "at": "2026-10-04T14:48:24Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-29T08:09:01Z",
+      "note": "Blyg: progress note on the reading plan, the map and Business Protocol Management"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-04T10:06:18Z",
+      "note": "Rename: research group, not SIG, across pages, titles, structured data, calendar, llms.txt, forms, Worker messages, share-card copy and the "
+    },
+    {
+      "version": 3,
+      "at": "2026-10-04T14:48:24Z",
+      "note": "Move to protocolsforbusiness.com: config, Cloudflare site Worker (site/), deploy to Cloudflare plus redirects at the old here.now address, W"
+    }
+  ]
+}

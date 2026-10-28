@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "34w75d9xxwdsy6jbqxeqdywder",
+  "kind": "fragment",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/34w75d9xxwdsy6jbqxeqdywder/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-14T19:51:45Z",
+  "updated": "2026-10-14T19:55:40Z",
+  "version": 1,
+  "content_md": "Puzzles me how often my ideas come from when I am writing a response to a question somewhere on the internet, or while discussing with a friend over the phone, but it's much harder when I starting a blank text editor or paper.",
+  "content_html": "<p>Puzzles me how often my ideas come from when I am writing a response to a question somewhere on the internet, or while discussing with a friend over the phone, but it's much harder when I starting a blank text editor or paper.</p>\n",
+  "content_hash": "sha256:445710270431a996c080cdc904d26df51307b81053dd6df43700ff364012585a",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-14T19:55:40Z",
+      "note": null
+    }
+  ]
+}

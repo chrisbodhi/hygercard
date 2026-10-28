@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "76qgqzbwt4h8fre6v2jn37qcxf",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/76qgqzbwt4h8fre6v2jn37qcxf/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-10-06T21:46:51Z",
+  "updated": "2026-10-06T21:47:35Z",
+  "version": 1,
+  "content_md": "![[1a3x6ywbj8784kz3fe3smv29hj]]\n\nMy favorite part of living in the bay area — the whole year was jacket weather (in the morning/evening at least)!\n\n",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"1a3x6ywbj8784kz3fe3smv29hj\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.aneeshsathe.com/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"3y9gpqknrafb6qg52ff5sed881\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.sachinbenny.xyz/\">\n<p>Terrible advice cause I would just buy nice jackets and go for walks, and may be write a few things here and there (this is roughly what I'm doing now)</p>\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"00tx0g9y6w9sm994yp9ercj4fa\" data-blyg-version=\"1\" data-blyg-origin=\"https://www.msweet.net/notes/\">\n<p>The best longevity protocol is to live like someone who isn’t worried about money.</p>\n</blockquote>\n</blockquote>\n<p>The one thing about San Diego is the dearth of jacket wearing opportunities. I really like a good jacket… something something twiggy arms</p>\n\n</blockquote>\n<p>My favorite part of living in the bay area — the whole year was jacket weather (in the morning/evening at least)!</p>\n",
+  "content_hash": "sha256:d397bb788308e3a13d71e61b7f930e35dacc9080f48ab90a8bb5c8f7eca92598",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "1a3x6ywbj8784kz3fe3smv29hj",
+      "version": 1,
+      "origin": "https://blyg.aneeshsathe.com/",
+      "cited": {
+        "source": "Aneesh's Blyg",
+        "author": "Aneesh Sathe",
+        "excerpt": "Terrible advice cause I would just buy nice jackets and go for walks, and may be…",
+        "url": "https://blyg.aneeshsathe.com/t/1a3x6ywbj8784kz3fe3smv29hj/",
+        "retrieved": "2026-10-06T21:47:35Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.aneeshsathe.com/",
+    "id": "1a3x6ywbj8784kz3fe3smv29hj",
+    "version": 1,
+    "cited": {
+      "source": "Aneesh's Blyg",
+      "author": "Aneesh Sathe",
+      "excerpt": "Terrible advice cause I would just buy nice jackets and go for walks, and may be…",
+      "url": "https://blyg.aneeshsathe.com/t/1a3x6ywbj8784kz3fe3smv29hj/",
+      "retrieved": "2026-10-06T21:47:35Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-06T21:47:35Z",
+      "note": null
+    }
+  ]
+}

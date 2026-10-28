@@ -1,0 +1,36 @@
+{
+  "blyg": "0.4",
+  "id": "4whx180tem4n1abgvdqh8wd4q1",
+  "kind": "thread",
+  "origin": "https://www.robertpeake.com/blyg/",
+  "page": "https://www.robertpeake.com/archives/22-published-in-the-fairfield-review.html",
+  "author": {
+    "name": "Robert Peake",
+    "url": "https://www.robertpeake.com/"
+  },
+  "created": "2003-03-03T09:00:00Z",
+  "updated": "2026-10-07T13:19:11Z",
+  "version": 3,
+  "content_md": "# Published in the Fairfield Review\n\n“Crest Theater, Age 15”\n\n[Published in *The Fairfield Review*, Winter 2003](http://www.fairfieldreview.org/fairfield/fairrevw.nsf/55e327c0a839c527852563c100773759/7d91c5ec55f356e585256cc200824cb6?OpenDocument)\n",
+  "content_html": "<h1>Published in the Fairfield Review</h1>\n<p>“Crest Theater, Age 15”</p>\n<p><a href=\"http://www.fairfieldreview.org/fairfield/fairrevw.nsf/55e327c0a839c527852563c100773759/7d91c5ec55f356e585256cc200824cb6?OpenDocument\">Published in <em>The Fairfield Review</em>, Winter 2003</a></p>",
+  "content_hash": "sha256:f2e1a8f20fd8ff7992893f82cda3254cb76772952595111a8ab93dc94559da0e",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2003-03-03T09:00:00Z",
+      "note": "imported from WordPress"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-07T13:11:47Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-10-07T13:19:11Z",
+      "note": null
+    }
+  ]
+}

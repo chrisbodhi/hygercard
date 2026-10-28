@@ -1,0 +1,31 @@
+{
+  "blyg": "0.4",
+  "id": "7xry3wkx2dwzenarmjffa5whyh",
+  "kind": "fragment",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "f/7xry3wkx2dwzenarmjffa5whyh/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-25T16:52:59Z",
+  "updated": "2026-10-25T16:53:19Z",
+  "version": 1,
+  "content_md": "Trying to fingerprint dominant affect on the political compass, in a positive valence form people in each quadrant will likely agree with.\n\nIf you don’t have serious issues with all 4, you probably aren’t prepared for what AI is about to do to humans. These are human affective postures. We need corresponding transhuman ones. A political compass for Gramsci monsters.\n![](/blyg/media/6cemd4f6.png)",
+  "content_html": "<p>Trying to fingerprint dominant affect on the political compass, in a positive valence form people in each quadrant will likely agree with.</p>\n<p>If you don’t have serious issues with all 4, you probably aren’t prepared for what AI is about to do to humans. These are human affective postures. We need corresponding transhuman ones. A political compass for Gramsci monsters.\n<img src=\"https://venkateshrao.com/blyg/media/6cemd4f6.png\" alt=\"\"></p>\n",
+  "content_hash": "sha256:cdcc66483338d4941ffcccf6c4e3a218943d11acd23d2d8d6c7dc61c07418c4c",
+  "media": [
+    {
+      "url": "media/6cemd4f6.png",
+      "mime": "image/png",
+      "alt": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T16:53:19Z",
+      "note": null
+    }
+  ]
+}

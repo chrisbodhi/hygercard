@@ -1,0 +1,30 @@
+{
+  "blyg": "0.3",
+  "id": "56qyx8q4efk3k7d1vgd2jrm5rs",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/it-is-now-possible-to-have-free-and-open-source-chives/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-12-01T18:38:00Z",
+  "updated": "2026-10-03T01:34:19Z",
+  "version": 2,
+  "content_md": "When I first joined Farcaster, a permissionless and sufficiently decentralized social network, I saw the need for a **Farchiver** service which downloads and preserves your social history.\n\n## I continue to operate [Farchiver](https://farchiver.xyz), the easiest way to save your Farcaster activity (a paid service)\n\n[Farchiver](https://farchiver.xyz) will never be de-platformed, because I built it on open infrastructure and dependencies at every level. However, the cost of dealing with spam is rising faster than the economies of scale that can be achieved with more customers.\n\nI firmly believe that people want to own their social history. It is now FREE to get a Nano Farchive.\n\n# Announcing Nano Farchiver\n\n[Nano Farchiver](https://github.com/artlu99/nano-farchiver) is an MIT licensed FOSS project to generate a Farchive on your own machine.\n\n- **What do you get**? a folder of Markdown files on your computer, that links user profiles, casts and replies to each other.\n\n- **How hard is it to run**? clone a `git` repo; run some `bun` scripts\n\n```sh\n> bun doit\n```\n\n- **How long does it take**? on my smol account, the entire thing runs in less ",
+  "content_html": "<p>When I first joined Farcaster, a permissionless and sufficiently decentralized social network, I saw the need for a <strong>Farchiver</strong> service which downloads and preserves your social history.</p>\n<h2 class=\"heading\">I continue to operate <a href=\"https://farchiver.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">Farchiver</a><i class=\"iconfont icon-external-link\"></i>, the easiest way to save your Farcaster activity (a paid service)<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h2>\n<p><a href=\"https://farchiver.xyz\" rel=\"noopener noreferrer\" target=\"_blank\">Farchiver</a><i class=\"iconfont icon-external-link\"></i> will never be de-platformed, because I built it on open infrastructure and dependencies at every level. However, the cost of dealing with spam is rising faster than the economies of scale that can be achieved with more customers.</p>\n<p>I firmly believe that people want to own their social history. It is now FREE to get a Nano Farchive.</p>\n<h1 class=\"heading\">Announcing Nano Farchiver<a href=\"#undefined\" class=\"heading-anchor\" aria-label=\"Heading Anchor\"><i class=\"iconfont icon-link\"></i></a></h1>\n<p><a href=\"https://github.com/artlu99/nano-farchiver\" rel=\"noopener noreferrer\" target=\"_blank\">Nano Farchiver</a><i class=\"iconfont icon-external-link\"></i> is an MIT licensed FOSS project to generate a Farchive on your own machine.</p>\n<ul>\n<li>\n<p><strong>What do you get</strong>? a folder of Markdown files on your computer, that links user profiles, casts and replies to each other.</p>\n</li>\n<li>\n<p><strong>How hard is it to run</strong>? clone a <code>git</code> repo; run some <code>bun</code> scripts</p>\n</li>\n</ul>\n<div class=\"code-block\"><span class=\"lang-tag\">sh</span><pre class=\"shiki shiki-themes github-light github-dark\" style=\"--shiki-light:#24292e;--shiki-dark:#e1e4e8;--shiki-light-bg:#fff;--shiki-dark-bg:#24292e\" tabindex=\"0\"><code><span class=\"line\"><span style=\"--shiki-light:#D73A49;--shiki-dark:#F97583\">></span><span style=\"--shiki-light:#24292E;--shiki-dark:#E1E4E8\"> bun doit</span></span></code></pre></div>\n<ul>\n<li>\n<p><strong>How long does it take</strong>? on my smol account, the entire thing runs in less </p>\n</li>\n</ul>",
+  "content_hash": "sha256:8b70f371426637945d94d4765b2e895cd11215e27893e49d2781f618af2b4920",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-12-01T18:38:00Z",
+      "note": "It is Now Possible to Have Free and Open Source 'Chives"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:19Z",
+      "note": "update"
+    }
+  ]
+}

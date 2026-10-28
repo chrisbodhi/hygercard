@@ -1,0 +1,32 @@
+{
+  "blyg": "0.3",
+  "id": "7w846xayfbjm5xbsek2m99a4rr",
+  "kind": "thread",
+  "origin": "https://protocolsforbusiness.com/blyg/",
+  "page": "t/7w846xayfbjm5xbsek2m99a4rr/",
+  "author": {
+    "name": "Protocols for Business SIG"
+  },
+  "created": "2026-09-27T04:52:49Z",
+  "updated": "2026-09-27T04:52:49Z",
+  "version": 1,
+  "content_md": "# Study Group: Protocols for Business - Business Models and System Design\n\n*Session of 6 April 2026.* Participants: rafa_0x, timber1997, sachbenny.\n\nThe SIGPfB study group examined protocols for business with focus on system design philosophy and business economics. The discussion centered on a FERNANDEZ Flow brochure and connections to autonomous worlds literature. Participants debated the transition from flexible to hardened systems, noting that jumping directly to hardened design upfront is problematic. A key insight emerged around business launch economics: as compute costs decrease and can be spent in smaller increments, the barrier to starting ventures may drop below the cost of traditional business planning. The group drew parallels to the \"Bitter Lesson\" in AI and discussed how right-sizing (similar to how Uber's bikes and scooters expanded the mobility market beyond taxi replacement) could enable new business categories rather than just replacing existing ones.\n\n**Key points**\n\n- There is a significant but difficult transition path from current 'soft' code-space to properly hardened systems, requiring careful design rather than rushing upfront hardening.\n- Launching businesses may become cheaper than writing business plans as compute becomes the primary capital expenditure, spent in smaller, faster increments.\n- Market expansion occurs not just through cost reduction but through right-sizing offerings to enable new categories of service (e.g., Uber bikes/scooters expanding total rides beyond traditional taxis).\n- Jay's work advocates for video-game-like environments where agents can be deployed, connecting to broader concepts in autonomous worlds.\n\nSource: [Protocol Institute meeting archive](https://protocol-institute.org/sigs/sigpfb/2026-04-06-study-group-protocols-for-business-business-models-and) · [PI website commit f48390c](https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2026-04-06-study-group-protocols-for-business-business-models-and/index.html). Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.\n",
+  "content_html": "<h1>Study Group: Protocols for Business - Business Models and System Design</h1>\n<p><em>Session of 6 April 2026.</em> Participants: rafa_0x, timber1997, sachbenny.</p>\n<div class=\"blyg-tk-gen\"><p>The SIGPfB study group examined protocols for business with focus on system design philosophy and business economics. The discussion centered on a FERNANDEZ Flow brochure and connections to autonomous worlds literature. Participants debated the transition from flexible to hardened systems, noting that jumping directly to hardened design upfront is problematic. A key insight emerged around business launch economics: as compute costs decrease and can be spent in smaller increments, the barrier to starting ventures may drop below the cost of traditional business planning. The group drew parallels to the \"Bitter Lesson\" in AI and discussed how right-sizing (similar to how Uber's bikes and scooters expanded the mobility market beyond taxi replacement) could enable new business categories rather than just replacing existing ones.</p>\n<p><strong>Key points</strong></p>\n<ul>\n<li>There is a significant but difficult transition path from current 'soft' code-space to properly hardened systems, requiring careful design rather than rushing upfront hardening.</li>\n<li>Launching businesses may become cheaper than writing business plans as compute becomes the primary capital expenditure, spent in smaller, faster increments.</li>\n<li>Market expansion occurs not just through cost reduction but through right-sizing offerings to enable new categories of service (e.g., Uber bikes/scooters expanding total rides beyond traditional taxis).</li>\n<li>Jay's work advocates for video-game-like environments where agents can be deployed, connecting to broader concepts in autonomous worlds.</li>\n</ul></div>\n<p>Source: <a href=\"https://protocol-institute.org/sigs/sigpfb/2026-04-06-study-group-protocols-for-business-business-models-and\">Protocol Institute meeting archive</a> · <a href=\"https://github.com/Protocol-Institute/website/blob/f48390cd7948bcdd0514ecd2cd8ef88d0a477843/sigs/sigpfb/2026-04-06-study-group-protocols-for-business-business-models-and/index.html\">PI website commit f48390c</a>. Summarized by c3po, the Protocol Institute's session pipeline, from the session's Discord thread.</p>",
+  "content_hash": "sha256:49e3999986440bdbb9f218334f4abd37fce74ffdee10f94fbecd18870755b3d5",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "c3po (Protocol Institute session pipeline)",
+      "at": "2026-09-27T04:52:49Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-27T04:52:49Z",
+      "note": "blyg: import all 39 archived SIG sessions from the Protocol Institute archive"
+    }
+  ]
+}

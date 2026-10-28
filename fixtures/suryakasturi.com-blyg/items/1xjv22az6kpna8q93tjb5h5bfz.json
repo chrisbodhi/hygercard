@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "1xjv22az6kpna8q93tjb5h5bfz",
+  "kind": "fragment",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/1xjv22az6kpna8q93tjb5h5bfz/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-24T19:36:03Z",
+  "updated": "2026-10-24T19:47:49Z",
+  "version": 1,
+  "content_md": "Prediction: There's a reasonable chance email protocol will fade away by end of my generation. There is too much of baggage to carry forward that's just not worth it in terms of security. Signal/Matrix like protocol with an email frontend will take over the reign. \n\nFew things have to happen before:\n\na) On-device encryption and decryption have to be way more snappier. We could technically get their using purpose built ASIC/even FPGA but I don't get it why Signal feels slower. \n\nb) Search needs to be possible on device much better than it exists now, plus some kind of security guarantees such as it's only works when there's right key. Versions of this are already in the works in AI x cryptography groups.\n\nc) Signal works like POP but we need some kind of IMAP like approach to be able to connect from anywhere, and there's some kind of handshaking, delegation of keys. I have mixed opinions on its simplicity. ",
+  "content_html": "<p>Prediction: There's a reasonable chance email protocol will fade away by end of my generation. There is too much of baggage to carry forward that's just not worth it in terms of security. Signal/Matrix like protocol with an email frontend will take over the reign.</p>\n<p>Few things have to happen before:</p>\n<p>a) On-device encryption and decryption have to be way more snappier. We could technically get their using purpose built ASIC/even FPGA but I don't get it why Signal feels slower.</p>\n<p>b) Search needs to be possible on device much better than it exists now, plus some kind of security guarantees such as it's only works when there's right key. Versions of this are already in the works in AI x cryptography groups.</p>\n<p>c) Signal works like POP but we need some kind of IMAP like approach to be able to connect from anywhere, and there's some kind of handshaking, delegation of keys. I have mixed opinions on its simplicity.</p>\n",
+  "content_hash": "sha256:53b59538603c310ad4501dd9baf33ff1ae1ae8aa1735d813cb550fe81f748843",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-24T19:47:49Z",
+      "note": null
+    }
+  ]
+}

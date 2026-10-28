@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "4tb8m46bexk7ya5pnyk99qpt7x",
+  "kind": "fragment",
+  "origin": " https://blyg.jdbb.net/",
+  "page": "f/4tb8m46bexk7ya5pnyk99qpt7x/",
+  "author": {
+    "name": "jenna dixon",
+    "url": " https://blyg.jdbb.net/"
+  },
+  "created": "2026-10-04T13:44:39Z",
+  "updated": "2026-10-04T14:08:50Z",
+  "version": 6,
+  "content_md": "wen blygger `unfurl`  \nhttps://x.com/m_ashcroft/status/2106741054762561561",
+  "content_html": "<p>wen blygger <code>unfurl</code><br>\n<a href=\"https://x.com/m_ashcroft/status/2106741054762561561\">https://x.com/m_ashcroft/status/2106741054762561561</a></p>\n",
+  "content_hash": "sha256:bd5aecc7850e09e17ba5f26eff12a35a0f7c319a37fa2451eb2d9f65a9271def",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-04T13:44:39Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-04T13:45:00Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-10-04T13:45:14Z",
+      "note": null
+    },
+    {
+      "version": 4,
+      "at": "2026-10-04T13:45:24Z",
+      "note": null
+    },
+    {
+      "version": 5,
+      "at": "2026-10-04T13:45:41Z",
+      "note": null
+    },
+    {
+      "version": 6,
+      "at": "2026-10-04T14:08:50Z",
+      "note": "Swapped the raw HTML line break before the link for a standard Markdown trailing-space break. The text and the linked post are unchanged, and the line break should now render cleanly in feed readers.",
+      "generated": true
+    }
+  ]
+}

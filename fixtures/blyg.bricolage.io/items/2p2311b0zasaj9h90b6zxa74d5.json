@@ -1,0 +1,43 @@
+{
+  "blyg": "0.4",
+  "id": "2p2311b0zasaj9h90b6zxa74d5",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/2p2311b0zasaj9h90b6zxa74d5/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-09-30T22:16:54Z",
+  "updated": "2026-10-05T04:17:16Z",
+  "version": 2,
+  "content_md": "Ok here's a few:\n\n1. Any sufficiently advanced work is indistinguishable from play\n2. Any sufficiently advanced domain is indistinguishable from any other\n3. Any sufficiently advanced haircut is indistinguishable from general neglect\n\n---\n\n# Snowclone Fork Challenge\n\n> Maybe VGR, as the instigator and ringleader of the nascent Blygger movement, should start throwing out some challenges? That can all help us get to know each other’s vibe?\n\nHere’s a simple challenge that I think might be a fun way to get a feel for pins and forks. Write a pithy aphorism with a challenge to people to make a snowclone of it, and pin at least 1 version. Then people can fork the pin, edit suitably, and pin their own version, allowing more forks and pins. \n\nWorked example:\n1. Any sufficiently advanced technology is indistinguishable from magic (Clarke)\n1. Any sufficiently advanced technology is indistinguishable from **nature** (Karl Schroeder)\n1. Any sufficiently advanced technology is indistinguishable from **play** (Seb Paquet)\n",
+  "content_html": "<p>Ok here's a few:</p>\n<ol>\n<li>Any sufficiently advanced work is indistinguishable from play</li>\n<li>Any sufficiently advanced domain is indistinguishable from any other</li>\n<li>Any sufficiently advanced haircut is indistinguishable from general neglect</li>\n</ol>\n<hr>\n<h1>Snowclone Fork Challenge</h1>\n<blockquote>\n<p>Maybe VGR, as the instigator and ringleader of the nascent Blygger movement, should start throwing out some challenges? That can all help us get to know each other’s vibe?</p>\n</blockquote>\n<p>Here’s a simple challenge that I think might be a fun way to get a feel for pins and forks. Write a pithy aphorism with a challenge to people to make a snowclone of it, and pin at least 1 version. Then people can fork the pin, edit suitably, and pin their own version, allowing more forks and pins.</p>\n<p>Worked example:</p>\n<ol>\n<li>Any sufficiently advanced technology is indistinguishable from magic (Clarke)</li>\n<li>Any sufficiently advanced technology is indistinguishable from <strong>nature</strong> (Karl Schroeder)</li>\n<li>Any sufficiently advanced technology is indistinguishable from <strong>play</strong> (Seb Paquet)</li>\n</ol>\n",
+  "content_hash": "sha256:a853dc0fa6c22f590bc7692c0e4b9591d49c5d475bd329a237bd5b6ee46ddf6d",
+  "media": [],
+  "transclusions": [],
+  "forked_from": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "5x9qfbfx9ews2qbtpggj8rbf31",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Snowclone Fork Challenge Maybe VGR, as the instigator and ringleader of the nasc…",
+      "url": "https://venkateshrao.com/blyg/items/5x9qfbfx9ews2qbtpggj8rbf31/v1.json",
+      "retrieved": "2026-09-30T22:16:54Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-30T22:20:48Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-05T04:17:16Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "blyg": "0.3",
+  "id": "3vwcke71bnnfqk2crse22fbp6q",
+  "kind": "fragment",
+  "origin": "https://artlu.xyz/",
+  "page": "posts/differentiation-emerging/",
+  "author": {
+    "name": "artlu99",
+    "url": "https://artlu.xyz/"
+  },
+  "created": "2025-12-03T19:19:00Z",
+  "updated": "2026-10-03T01:36:10Z",
+  "version": 3,
+  "content_md": "![bell curve meme](https://cdn.artlu.xyz/2NT44PJmeaO)\n\nI haven't pulled myself to the right (yet)\n\n---\n\nObservation: LLMs produce more lines of code than a master programmer. They flatten the cognitive load of difficult patterns, whereas the best programmers use simple patterns to achieve 10x outcomes.\n\nHowever, LLMs already produce much better and more capable code than just about any individual human. Especially if you consider human focus, limits on human bandwidth, and the grit required to whittle and whittle until the bare essence emerges.\n\nCode is going to become even more like fast fashion. You can get a very decent pair of shoes made for $20 of cost and $120 after distribution markup. And it's not as good as a $450 pair of hand-made shoes with all the best techniques and materials. But the cheaper shoes are massively welfare-enhancing for the world.\n\n---\n\nA different early prediction: LLMs will do more to enshrine certain technologies than the free market of competition was able to determine winners and losers\n\n---\n\n",
+  "content_html": "<figure><img src=\"https://cdn.artlu.xyz/2NT44PJmeaO\" alt=\"bell curve meme\" loading=\"lazy\"></figure>\n<p>I haven't pulled myself to the right (yet)</p>\n<hr>\n<p>Observation: LLMs produce more lines of code than a master programmer. They flatten the cognitive load of difficult patterns, whereas the best programmers use simple patterns to achieve 10x outcomes.</p>\n<p>However, LLMs already produce much better and more capable code than just about any individual human. Especially if you consider human focus, limits on human bandwidth, and the grit required to whittle and whittle until the bare essence emerges.</p>\n<p>Code is going to become even more like fast fashion. You can get a very decent pair of shoes made for $20 of cost and $120 after distribution markup. And it's not as good as a $450 pair of hand-made shoes with all the best techniques and materials. But the cheaper shoes are massively welfare-enhancing for the world.</p>\n<hr>\n<p>A different early prediction: LLMs will do more to enshrine certain technologies than the free market of competition was able to determine winners and losers</p>\n<hr>",
+  "content_hash": "sha256:cd2dfcd711def3c3446628c62711272520db2957ae7387885c352a39ba532105",
+  "media": [
+    {
+      "url": "https://cdn.artlu.xyz/2NT44PJmeaO",
+      "mime": "application/octet-stream",
+      "alt": "bell curve meme"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2025-12-03T19:19:00Z",
+      "note": "Differentiation Emerging"
+    },
+    {
+      "version": 2,
+      "at": "2026-10-03T01:34:18Z",
+      "note": "update"
+    },
+    {
+      "version": 3,
+      "at": "2026-10-03T01:36:10Z",
+      "note": "update"
+    }
+  ]
+}

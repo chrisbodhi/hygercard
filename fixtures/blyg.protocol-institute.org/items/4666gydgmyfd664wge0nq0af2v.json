@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "4666gydgmyfd664wge0nq0af2v",
+  "kind": "thread",
+  "origin": "https://blyg.protocol-institute.org/",
+  "page": "t/4666gydgmyfd664wge0nq0af2v/",
+  "author": {
+    "name": "Editor",
+    "url": "https://blyg.protocol-institute.org/"
+  },
+  "created": "2026-09-28T19:41:01Z",
+  "updated": "2026-09-28T19:41:07Z",
+  "version": 1,
+  "content_md": "A second half to the exercise above: this one is a **stub**, so its reference is a citation the protocol will also notify the other side about.\n\n![[205h9zh1rz157pnxqqwkzxacby]]\n\nThe point of the pairing: a stub's `stub_of` and a remote transclusion now both carry `cited`, and the Webmention this publish sends is verified against the bare reference alone — origin and id — with the citation ignored entirely. A label a receiver could be persuaded by would be a label worth forging.",
+  "content_html": "<p>A second half to the exercise above: this one is a <strong>stub</strong>, so its reference is a citation the protocol will also notify the other side about.</p>\n\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"205h9zh1rz157pnxqqwkzxacby\" data-blyg-version=\"1\" data-blyg-origin=\"https://venkateshrao.com/blyg/\">\n<blockquote class=\"blyg-transclusion\" data-blyg-id=\"18wtf8thq38723qsykxj9fz3gf\" data-blyg-version=\"1\" data-blyg-origin=\"https://caseyjr.org/blyg/\">\n<p>Publishing this from my phone: type, tap, live.</p>\n<p>The tool is a one-tap Drafts action that commits to my site's repo, and the deploy does the rest.</p>\n<p>Tweeting on blyg, basically.</p>\n<p>Open source <a href=\"https://github.com/miguelito4/drafts-blyg\">on GitHub</a> for anyone running a blyg.</p>\n</blockquote>\n\n</blockquote>\n<p>The point of the pairing: a stub's <code>stub_of</code> and a remote transclusion now both carry <code>cited</code>, and the Webmention this publish sends is verified against the bare reference alone — origin and id — with the citation ignored entirely. A label a receiver could be persuaded by would be a label worth forging.</p>\n",
+  "content_hash": "sha256:3bd7651673aaadfbcfa6bcf248c7e1d604d377e44aac55c9b6ec011775ee0c70",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "205h9zh1rz157pnxqqwkzxacby",
+      "version": 1,
+      "origin": "https://venkateshrao.com/blyg/",
+      "cited": {
+        "source": "Venkatesh Rao's Blyg",
+        "author": "Venkatesh Rao",
+        "excerpt": "Publishing this from my phone: type, tap, live. The tool is a one-tap Drafts act…",
+        "url": "https://venkateshrao.com/blyg/t/205h9zh1rz157pnxqqwkzxacby/",
+        "retrieved": "2026-09-28T19:41:07Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://venkateshrao.com/blyg/",
+    "id": "205h9zh1rz157pnxqqwkzxacby",
+    "version": 1,
+    "cited": {
+      "source": "Venkatesh Rao's Blyg",
+      "author": "Venkatesh Rao",
+      "excerpt": "Publishing this from my phone: type, tap, live. The tool is a one-tap Drafts act…",
+      "url": "https://venkateshrao.com/blyg/t/205h9zh1rz157pnxqqwkzxacby/",
+      "retrieved": "2026-09-28T19:41:07Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-09-28T19:41:07Z",
+      "note": "0.3 exercise: stub_of cited + cross-node mention"
+    }
+  ]
+}

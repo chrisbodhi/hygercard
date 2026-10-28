@@ -1,0 +1,36 @@
+{
+  "blyg": "0.4",
+  "id": "5x07bdw24w1zm2xq54hfmkyfh2",
+  "kind": "thread",
+  "origin": "https://blyg.blygger.org/",
+  "page": "t/5x07bdw24w1zm2xq54hfmkyfh2/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://blyg.blygger.org/"
+  },
+  "created": "2026-10-09T23:25:52Z",
+  "updated": "2026-10-09T23:25:53Z",
+  "version": 1,
+  "content_md": "\n# Blygger Studio 0.37.0\n\n*Released 2026-10-09, the reference client. [v0.37.0 on GitHub](https://github.com/blygger/blygger-studio/releases/tag/v0.37.0).*\n\n**Migrations: none.**\n\n- **Studio extensions** (Aneesh Sathe, blygger-studio#52). A way to run UI\n  experiments on a real node without them becoming the reference design.\n  An extension is first-party TypeScript in `extensions/<name>/`, compiled in\n  only when the operator lists it in a gitignored `extensions.local.json`, and\n  then enabled per node in Settings → extensions. Releases compile none in, and\n  with none enabled the Studio's markup is unchanged. Extensions get slots on\n  the reading entry (byline, ⋯ sheet rows, a sheet of their own) and a page at\n  `/studio/ext/<name>` linked from More. Server routes are owner reads only, at\n  `GET /api/ext/<name>/…`, behind the owner API's auth, scope and budget\n  middleware, and 404 while disabled. Nothing reaches the wire. Read the\n  security model in `docs/extensions.md` before compiling one in: an\n  extension's UI holds the owner's session. New setting: `extensions` (empty).\n- **Fresh installs deploy again** (ruthvik-947, blygger-studio#46). Since 0.28,\n  `npm run init` wrote a config without `nodejs_compat`, so a new install's\n  first deploy failed with `No such module \"node:crypto\"`. Init now writes it,\n  and CI checks that init's config and `wrangler.jsonc` agree on every runtime\n  setting. An install that hit the error can add\n  `\"compatibility_flags\": [\"nodejs_compat\"]` to its own `wrangler.jsonc`.\n- **Autosave keeps one write in flight** (Kyle Mathews, blygger-studio#47).\n  Typing that outpaces the backend now merges into the latest pending save\n  instead of queueing every snapshot; generate, publish, restore and delete\n  still run in order after the saves before them. TanStack DB paced mutations\n  replace the hand-written promise queues. Upgrades React DB to 0.5.7 and\n  Query DB Collection to 1.4.2.\n- **Shared item and hopper reads** (Kyle Mathews, blygger-studio#55). Opening\n  an editor makes one item request, and hopper collections share identical\n  requests instead of each fetching the same response. A discarded draft no\n  longer shows a false read-error banner.\n\n\n\n*This announcement is drafted from the release's section of [`CHANGELOG.md`](https://github.com/blygger/blygger-studio/blob/main/CHANGELOG.md), which is where it is maintained. To comment, respond to this item from your own blyg.*\n",
+  "content_html": "<div class=\"blyg-tk-gen\"><h1>Blygger Studio 0.37.0</h1>\n<p><em>Released 2026-10-09, the reference client. <a href=\"https://github.com/blygger/blygger-studio/releases/tag/v0.37.0\">v0.37.0 on GitHub</a>.</em></p>\n<p><strong>Migrations: none.</strong></p>\n<ul>\n<li><strong>Studio extensions</strong> (Aneesh Sathe, blygger-studio#52). A way to run UI\nexperiments on a real node without them becoming the reference design.\nAn extension is first-party TypeScript in <code>extensions/&lt;name&gt;/</code>, compiled in\nonly when the operator lists it in a gitignored <code>extensions.local.json</code>, and\nthen enabled per node in Settings → extensions. Releases compile none in, and\nwith none enabled the Studio's markup is unchanged. Extensions get slots on\nthe reading entry (byline, ⋯ sheet rows, a sheet of their own) and a page at\n<code>/studio/ext/&lt;name&gt;</code> linked from More. Server routes are owner reads only, at\n<code>GET /api/ext/&lt;name&gt;/…</code>, behind the owner API's auth, scope and budget\nmiddleware, and 404 while disabled. Nothing reaches the wire. Read the\nsecurity model in <code>docs/extensions.md</code> before compiling one in: an\nextension's UI holds the owner's session. New setting: <code>extensions</code> (empty).</li>\n<li><strong>Fresh installs deploy again</strong> (ruthvik-947, blygger-studio#46). Since 0.28,\n<code>npm run init</code> wrote a config without <code>nodejs_compat</code>, so a new install's\nfirst deploy failed with <code>No such module &quot;node:crypto&quot;</code>. Init now writes it,\nand CI checks that init's config and <code>wrangler.jsonc</code> agree on every runtime\nsetting. An install that hit the error can add\n<code>&quot;compatibility_flags&quot;: [&quot;nodejs_compat&quot;]</code> to its own <code>wrangler.jsonc</code>.</li>\n<li><strong>Autosave keeps one write in flight</strong> (Kyle Mathews, blygger-studio#47).\nTyping that outpaces the backend now merges into the latest pending save\ninstead of queueing every snapshot; generate, publish, restore and delete\nstill run in order after the saves before them. TanStack DB paced mutations\nreplace the hand-written promise queues. Upgrades React DB to 0.5.7 and\nQuery DB Collection to 1.4.2.</li>\n<li><strong>Shared item and hopper reads</strong> (Kyle Mathews, blygger-studio#55). Opening\nan editor makes one item request, and hopper collections share identical\nrequests instead of each fetching the same response. A discarded draft no\nlonger shows a false read-error banner.</li>\n</ul>\n</div>\n<div class=\"blyg-tk-gen\"><p><em>This announcement is drafted from the release's section of <a href=\"https://github.com/blygger/blygger-studio/blob/main/CHANGELOG.md\"><code>CHANGELOG.md</code></a>, which is where it is maintained. To comment, respond to this item from your own blyg.</em></p>\n</div>\n",
+  "content_hash": "sha256:037dba337a0d7458d07a42697ea63fe52cff8190c28497723a4a5c11db03e741",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-opus-5-5"
+    },
+    {
+      "sources": [],
+      "model": "claude-opus-5-5"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-09T23:25:53Z",
+      "note": "Studio 0.37.0 released."
+    }
+  ]
+}

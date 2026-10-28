@@ -1,0 +1,30 @@
+{
+  "blyg": "0.4",
+  "id": "1ye4x3avtm5a91v2h2shrw3btf",
+  "kind": "fragment",
+  "origin": " https://blyg.jdbb.net/",
+  "page": "f/1ye4x3avtm5a91v2h2shrw3btf/",
+  "author": {
+    "name": "jenna dixon",
+    "url": " https://blyg.jdbb.net/"
+  },
+  "created": "2026-10-18T11:32:02Z",
+  "updated": "2026-10-18T11:33:26Z",
+  "version": 2,
+  "content_md": "styles discourse  \n[https://leancrew.com/all-this/2026/10/textedit-vs-pages/](https://leancrew.com/all-this/2026/10/textedit-vs-pages/)",
+  "content_html": "<p>styles discourse<br>\n<a href=\"https://leancrew.com/all-this/2026/10/textedit-vs-pages/\">https://leancrew.com/all-this/2026/10/textedit-vs-pages/</a></p>\n",
+  "content_hash": "sha256:7a7b79f490f2ff498f19ca67ca09670ac76f9e85b14b38e87af7c92144ca907d",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-18T11:32:55Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-18T11:33:26Z",
+      "note": null
+    }
+  ]
+}

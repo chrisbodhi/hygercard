@@ -1,0 +1,21 @@
+{
+  "blyg": "0.3",
+  "changelog": [
+    {
+      "at": "2026-10-12T16:48:35Z",
+      "note": null,
+      "version": 1
+    }
+  ],
+  "content_hash": "sha256:2a30ed6d4e1948b661137984f8cb3910d8b1adb1df2892a10ed180b80346f0ff",
+  "content_html": "<p>I&rsquo;ve become personally affronted at how dumb toasters have remained. Completely left behind by Moore&rsquo;s Law. They don&rsquo;t need wifi capabilities, but they should be responsive enough to the environment that the first batch of toast doesn&rsquo;t get toasted, while the second gets burned.</p>\n",
+  "content_md": "I've become personally affronted at how dumb toasters have remained. Completely left behind by Moore's Law. They don't need wifi capabilities, but they should be responsive enough to the environment that the first batch of toast doesn't get toasted, while the second gets burned.\n",
+  "created": "2026-10-12T16:48:35Z",
+  "id": "1nep97w66bwx9jbmxzpmxns6x9",
+  "kind": "fragment",
+  "media": [],
+  "origin": "https://newschematic.org/blyg/",
+  "page": "f/1nep97w66bwx9jbmxzpmxns6x9/",
+  "updated": "2026-10-12T16:48:35Z",
+  "version": 1
+}

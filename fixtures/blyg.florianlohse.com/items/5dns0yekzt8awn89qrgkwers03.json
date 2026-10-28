@@ -1,0 +1,25 @@
+{
+  "blyg": "0.4",
+  "id": "5dns0yekzt8awn89qrgkwers03",
+  "kind": "fragment",
+  "origin": "https://blyg.florianlohse.com/",
+  "page": "f/5dns0yekzt8awn89qrgkwers03/",
+  "author": {
+    "name": "Florian Lohse",
+    "url": "https://florianlohse.com/"
+  },
+  "created": "2026-10-25T15:08:03Z",
+  "updated": "2026-10-25T15:08:05Z",
+  "version": 1,
+  "content_md": "For [my personal website](https://florianlohse.com/) I put together a fun tool to fine tune the front page animation, based on a video I took last summer from light playing on the surface of the Mediterranean Sea: https://florianlohse.com/water-and-shadows/",
+  "content_html": "<p>For <a href=\"https://florianlohse.com/\">my personal website</a> I put together a fun tool to fine tune the front page animation, based on a video I took last summer from light playing on the surface of the Mediterranean Sea: <a href=\"https://florianlohse.com/water-and-shadows/\">https://florianlohse.com/water-and-shadows/</a></p>\n",
+  "content_hash": "sha256:01c8c819efc7e856b3723c2f70694a0d9278718e43d45af837a6f07e9176929b",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-25T15:08:05Z",
+      "note": "Reposted from florianlohse.com/blyg/ — first published 2026-10-03"
+    }
+  ]
+}

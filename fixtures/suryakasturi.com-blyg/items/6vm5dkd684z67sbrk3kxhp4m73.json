@@ -1,0 +1,35 @@
+{
+  "blyg": "0.4",
+  "id": "6vm5dkd684z67sbrk3kxhp4m73",
+  "kind": "withdrawn",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "f/6vm5dkd684z67sbrk3kxhp4m73/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-16T21:41:44Z",
+  "updated": "2026-10-16T23:34:30Z",
+  "version": 3,
+  "content_md": "",
+  "content_html": "",
+  "content_hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-16T23:27:48Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-16T23:30:26Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-10-16T23:34:30Z",
+      "note": null
+    }
+  ]
+}

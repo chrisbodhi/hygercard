@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "49m6dh1yne1q9mamtpxvwnyc09",
+  "kind": "thread",
+  "origin": "https://blyg.bricolage.io/",
+  "page": "t/49m6dh1yne1q9mamtpxvwnyc09/",
+  "author": {
+    "name": "Kyle Mathews",
+    "url": "https://blyg.bricolage.io/"
+  },
+  "created": "2026-10-13T15:28:36Z",
+  "updated": "2026-10-13T15:29:18Z",
+  "version": 1,
+  "content_md": "![[4mv7xka7pbp2bprxjq9s11wz7x]]\n\nUkraine taking out Russias digital warfare could be in incredibly interesting (and probably beneficial) natural experiment around how modern online culture/politics actually works.",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"4mv7xka7pbp2bprxjq9s11wz7x\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.sachinbenny.xyz/\">\n<p><img alt=\"Screenshot 2026-10-12 at 10.32.47 PM\" src=\"https://blyg.sachinbenny.xyz/media/a35da74c4272-Screenshot-2026-10-12-at-10.32.47-PM.png\" />\nwhat if your whole personality was built in a yandex data center that is not more</p>\n</blockquote>\n<p>Ukraine taking out Russias digital warfare could be in incredibly interesting (and probably beneficial) natural experiment around how modern online culture/politics actually works.</p>\n",
+  "content_hash": "sha256:296d50a1bf95579433e3f21b1555c0f6e18b9383283536e404c7ccabb7a575ef",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "4mv7xka7pbp2bprxjq9s11wz7x",
+      "version": 1,
+      "origin": "https://blyg.sachinbenny.xyz/",
+      "cited": {
+        "source": "Summer Lightning",
+        "author": "Sachin Benny",
+        "excerpt": "what if your whole personality was built in a yandex data center that is not mor…",
+        "url": "https://blyg.sachinbenny.xyz/f/4mv7xka7pbp2bprxjq9s11wz7x/",
+        "retrieved": "2026-10-13T15:29:18Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.sachinbenny.xyz/",
+    "id": "4mv7xka7pbp2bprxjq9s11wz7x",
+    "version": 1,
+    "cited": {
+      "source": "Summer Lightning",
+      "author": "Sachin Benny",
+      "excerpt": "what if your whole personality was built in a yandex data center that is not mor…",
+      "url": "https://blyg.sachinbenny.xyz/f/4mv7xka7pbp2bprxjq9s11wz7x/",
+      "retrieved": "2026-10-13T15:29:18Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-13T15:29:18Z",
+      "note": null
+    }
+  ]
+}

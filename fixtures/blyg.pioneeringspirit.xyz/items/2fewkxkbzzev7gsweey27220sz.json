@@ -1,0 +1,51 @@
+{
+  "blyg": "0.4",
+  "id": "2fewkxkbzzev7gsweey27220sz",
+  "kind": "thread",
+  "origin": "https://blyg.pioneeringspirit.xyz/",
+  "page": "t/2fewkxkbzzev7gsweey27220sz/",
+  "author": {
+    "name": "PAtwater",
+    "url": "https://blyg.pioneeringspirit.xyz"
+  },
+  "created": "2026-10-20T03:46:56Z",
+  "updated": "2026-10-20T03:47:27Z",
+  "version": 1,
+  "content_md": "![[36a910pfg8ztartat6hyvcx5ev]]\n\n Care to elaborate the gist of the tldr good sir? \n",
+  "content_html": "<blockquote class=\"blyg-transclusion\" data-blyg-id=\"36a910pfg8ztartat6hyvcx5ev\" data-blyg-version=\"1\" data-blyg-origin=\"https://blyg.sachinbenny.xyz/\">\n<p>We read something about Islamic law in yak collective a while back and since then I've been thinking that there is probably a best seller in writing about how the US and Iran are similar. Also Gramsci Theme parks \n<a href=\"https://www.bbc.com/news/articles/cmy0r96xygx6o\">https://www.bbc.com/news/articles/cmy0r96xygx6o</a></p>\n<p>https://summerlightning.substack.com/p/gramsci-theme-parks</p>\n</blockquote>\n<p>Care to elaborate the gist of the tldr good sir?</p>\n",
+  "content_hash": "sha256:e952160f09aba83634c62d69c826cfc5b3ec399b90698ec82b9a50da7e643b00",
+  "media": [],
+  "transclusions": [
+    {
+      "id": "36a910pfg8ztartat6hyvcx5ev",
+      "version": 1,
+      "origin": "https://blyg.sachinbenny.xyz/",
+      "cited": {
+        "source": "Summer Lightning",
+        "author": "Sachin Benny",
+        "excerpt": "We read something about Islamic law in yak collective a while back and since the…",
+        "url": "https://blyg.sachinbenny.xyz/f/36a910pfg8ztartat6hyvcx5ev/",
+        "retrieved": "2026-10-20T03:47:27Z"
+      }
+    }
+  ],
+  "stub_of": {
+    "origin": "https://blyg.sachinbenny.xyz/",
+    "id": "36a910pfg8ztartat6hyvcx5ev",
+    "version": 1,
+    "cited": {
+      "source": "Summer Lightning",
+      "author": "Sachin Benny",
+      "excerpt": "We read something about Islamic law in yak collective a while back and since the…",
+      "url": "https://blyg.sachinbenny.xyz/f/36a910pfg8ztartat6hyvcx5ev/",
+      "retrieved": "2026-10-20T03:47:27Z"
+    }
+  },
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-20T03:47:27Z",
+      "note": null
+    }
+  ]
+}

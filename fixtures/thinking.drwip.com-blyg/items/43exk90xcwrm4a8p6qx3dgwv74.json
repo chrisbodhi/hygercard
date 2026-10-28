@@ -1,0 +1,24 @@
+{
+  "blyg": "0.3",
+  "id": "43exk90xcwrm4a8p6qx3dgwv74",
+  "kind": "fragment",
+  "origin": "https://thinking.drwip.com/blyg/",
+  "page": "f/43exk90xcwrm4a8p6qx3dgwv74/",
+  "author": {
+    "name": "Will Abramson"
+  },
+  "created": "2026-06-29T00:00:00Z",
+  "updated": "2026-06-29T00:00:00Z",
+  "version": 1,
+  "content_md": "# The Structures That Let Imperfect Agents Coordinate\n\nReflecting on [IDAI Workshop on Multi-Agent Safety and Security (MASS)](https://decentralized-ai.org/workshop26)\n\nHow do we measure, study and reason about the safety and security of *many* agents interacting, rather than one agent in isolation?\n\nThis workshop from the Institute for Decentralized AI presented the latest academic research into this area. The future is going to be populated with imperfect agents that will need to be able to coordinate with untrusted others. As activity starts to depend on long chains of agentic action, we need to ensure that each edge in the network is secure enough that the probability of failure across the entire chain is within acceptable bounds. This is critical if agentic economies of scale are to emerge.\n\nIt was fascinating to see how ideas from cryptography are being applied to this problem domain to reason about the limits of possibility. This is currently a very nascent field, where the rules and assumptions underpinning the discipline are still being discovered, defined and challenged. The bottleneck holding back the space is figuring out which of those assumptions to challenge and which to base our systems around.\n\nOther topics included:\n\n- How do we resolve the tension between stochastic AI agents and deterministic smart contracts, and get the best of both worlds — the open-ended intelligence of the one, the bounded guarantees of the other?\n- What can we safely compartmentalise, decompose, and delegate down the chain?\n\nInteresting papers I will add to my to read pile:\n\n- [Scalable AI Safety via Doubly Efficient Debate](https://arxiv.org/abs/2311.14125)\n- [Multi-Agent Risks from Advanced AI](https://arxiv.org/abs/2502.14143)",
+  "content_html": "<h1 id=\"the-structures-that-let-imperfect-agents-coordinate\">The Structures That Let Imperfect Agents Coordinate</h1>\n<p>Reflecting on <a href=\"https://decentralized-ai.org/workshop26\">IDAI Workshop on Multi-Agent Safety and Security (MASS)</a></p>\n<p>How do we measure, study and reason about the safety and security of <em>many</em> agents interacting, rather than one agent in isolation?</p>\n<p>This workshop from the Institute for Decentralized AI presented the latest academic research into this area. The future is going to be populated with imperfect agents that will need to be able to coordinate with untrusted others. As activity starts to depend on long chains of agentic action, we need to ensure that each edge in the network is secure enough that the probability of failure across the entire chain is within acceptable bounds. This is critical if agentic economies of scale are to emerge.</p>\n<p>It was fascinating to see how ideas from cryptography are being applied to this problem domain to reason about the limits of possibility. This is currently a very nascent field, where the rules and assumptions underpinning the discipline are still being discovered, defined and challenged. The bottleneck holding back the space is figuring out which of those assumptions to challenge and which to base our systems around.</p>\n<p>Other topics included:</p>\n<ul>\n<li>How do we resolve the tension between stochastic AI agents and deterministic smart contracts, and get the best of both worlds — the open-ended intelligence of the one, the bounded guarantees of the other?</li>\n<li>What can we safely compartmentalise, decompose, and delegate down the chain?</li>\n</ul>\n<p>Interesting papers I will add to my to read pile:</p>\n<ul>\n<li><a href=\"https://arxiv.org/abs/2311.14125\">Scalable AI Safety via Doubly Efficient Debate</a></li>\n<li><a href=\"https://arxiv.org/abs/2502.14143\">Multi-Agent Risks from Advanced AI</a></li>\n</ul>",
+  "media": [],
+  "content_hash": "sha256:7d379956e008794458b0a87f68b12419d2339280551c4fb2682d741b85347e3c",
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-06-29T00:00:00Z",
+      "note": null
+    }
+  ]
+}

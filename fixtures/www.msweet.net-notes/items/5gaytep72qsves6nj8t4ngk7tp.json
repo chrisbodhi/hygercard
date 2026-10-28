@@ -1,0 +1,25 @@
+{
+  "blyg": "0.3",
+  "id": "5gaytep72qsves6nj8t4ngk7tp",
+  "kind": "fragment",
+  "origin": "https://www.msweet.net/notes/",
+  "page": "136-coral-frogs",
+  "author": {
+    "name": "Matthew McDowell-Sweet",
+    "url": "https://www.msweet.net/"
+  },
+  "created": "2026-10-23T20:06:29Z",
+  "updated": "2026-10-23T20:06:29Z",
+  "version": 1,
+  "content_md": "It’s handy to have a default way to signal, to yourself and others, that you think *something* about X but aren’t sure what. “Hmmm” is becoming that for me. This yields a surprising boon to the economics of noticing: it lowers the bar for what gets registered. More things snag, without a matching rise in the energy it takes to capture them.",
+  "content_html": "<p>It’s handy to have a default way to signal, to yourself and others, that you think <em>something</em> about X but aren’t sure what. “Hmmm” is becoming that for me. This yields a surprising boon to the economics of noticing: it lowers the bar for what gets registered. More things snag, without a matching rise in the energy it takes to capture them.</p>",
+  "content_hash": "sha256:eda64d1745651c601be216bcda0133a0700fce911344e31f9e9b2ccf02257acd",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-23T20:06:29Z",
+      "note": null
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "blyg": "0.4",
+  "id": "3q36phkpev9w72hff84srnw98d",
+  "kind": "thread",
+  "origin": "https://venkateshrao.com/blyg/",
+  "page": "t/3q36phkpev9w72hff84srnw98d/",
+  "author": {
+    "name": "Venkatesh Rao",
+    "url": "https://venkateshrao.com/blyg/"
+  },
+  "created": "2026-10-25T23:44:00Z",
+  "updated": "2026-10-26T00:07:53Z",
+  "version": 1,
+  "content_md": "# What is *not* dying in the Gramsci Gap?\n\nI like the William Faulkner quote, “the past is never dead, it’s not even past.” One of the most important implications is that even the most radical ruptures in the human condition must necessarily begin in history, and return to it.\n\nEven the most effective efforts to erase history and create a clean-sheet condition to embark on some utopian project merely turn into historical events themselves with causes and consequences. Information cannot be truly created or destroyed, and history is information. Erasure leaves imprints and echoes. Traumas and unconscious currents. An example that intrigues me is that the Shia-Sunni split in Islam reproduces the pre-Islamic Persian vs Arabic ethnic-racial pre-Islamic divide. It seems coincidental but is it really? Islam historically was a high-erasure religion, in that it gave converts new names and historical identities, but it didn’t quite succeed. Another example is the failure of Pakistan to retain what is now Bangladesh. The problem wasn’t geographic fragmentation. There are countries that navigate that fine (eg the US with Alaska). The problem was that Islam, powerful though it is a history-eraser, was not powerful enough to erase the live Punjabi-Bengali divide that existed long before Islam.\n\nWould-be revolutionaries often realize this liveness of history unconsciously, since they strive to establish the premise of a decaying, dying old order in order to argue the necessity and inevitability of a new order, and the particular claim of *their* new order on the future. When the world is *not* in fact dying, would-be revolutionaries come and go as crackpots. When it *is* dying, it is never *fully* dying. There will always be strands that survive, connecting the future to the past across the rupture, allowing living history to continue troubling the future. Even successful genocides create surviving traumatic memories in perpetrators.\n\nThis is one of the reasons monsters emerge in the Gramsci Gap. The living strands of history that succeed in crossing the chasm look monstrous in transit.\n\nWhat’s more, the surviving and dying strands are inextricably, fractally entangled. One forms a dense subset (meaning that every part of the larger set has members of the subset arbitrarily close by, the way the rationals are threaded through the real numbers) of the other, so to speak. This means you cannot even easily carve away dying parts coarsely, or ensure that a particular discrete chunk you care about survives unchanged. All that survives must pass through a valley of death and be reborn to some extent. \n",
+  "content_html": "<h1>What is <em>not</em> dying in the Gramsci Gap?</h1>\n<p>I like the William Faulkner quote, “the past is never dead, it’s not even past.” One of the most important implications is that even the most radical ruptures in the human condition must necessarily begin in history, and return to it.</p>\n<p>Even the most effective efforts to erase history and create a clean-sheet condition to embark on some utopian project merely turn into historical events themselves with causes and consequences. Information cannot be truly created or destroyed, and history is information. Erasure leaves imprints and echoes. Traumas and unconscious currents. An example that intrigues me is that the Shia-Sunni split in Islam reproduces the pre-Islamic Persian vs Arabic ethnic-racial pre-Islamic divide. It seems coincidental but is it really? Islam historically was a high-erasure religion, in that it gave converts new names and historical identities, but it didn’t quite succeed. Another example is the failure of Pakistan to retain what is now Bangladesh. The problem wasn’t geographic fragmentation. There are countries that navigate that fine (eg the US with Alaska). The problem was that Islam, powerful though it is a history-eraser, was not powerful enough to erase the live Punjabi-Bengali divide that existed long before Islam.</p>\n<p>Would-be revolutionaries often realize this liveness of history unconsciously, since they strive to establish the premise of a decaying, dying old order in order to argue the necessity and inevitability of a new order, and the particular claim of <em>their</em> new order on the future. When the world is <em>not</em> in fact dying, would-be revolutionaries come and go as crackpots. When it <em>is</em> dying, it is never <em>fully</em> dying. There will always be strands that survive, connecting the future to the past across the rupture, allowing living history to continue troubling the future. Even successful genocides create surviving traumatic memories in perpetrators.</p>\n<p>This is one of the reasons monsters emerge in the Gramsci Gap. The living strands of history that succeed in crossing the chasm look monstrous in transit.</p>\n<p>What’s more, the surviving and dying strands are inextricably, fractally entangled. One forms a dense subset <span class=\"blyg-tk-gen\">(meaning that every part of the larger set has members of the subset arbitrarily close by, the way the rationals are threaded through the real numbers)</span> of the other, so to speak. This means you cannot even easily carve away dying parts coarsely, or ensure that a particular discrete chunk you care about survives unchanged. All that survives must pass through a valley of death and be reborn to some extent.</p>\n",
+  "content_hash": "sha256:77aac078f0c6853bd2587549da9f07d54ebaf91df76d741854f4dc80814fdf1a",
+  "media": [],
+  "transclusions": [],
+  "generated": [
+    {
+      "sources": [],
+      "model": "claude-sonnet-5-5",
+      "at": "2026-10-26T00:07:30Z"
+    }
+  ],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-26T00:07:53Z",
+      "note": null
+    }
+  ]
+}

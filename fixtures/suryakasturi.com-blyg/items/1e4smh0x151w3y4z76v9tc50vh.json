@@ -1,0 +1,41 @@
+{
+  "blyg": "0.4",
+  "id": "1e4smh0x151w3y4z76v9tc50vh",
+  "kind": "thread",
+  "origin": "https://suryakasturi.com/blyg/",
+  "page": "t/1e4smh0x151w3y4z76v9tc50vh/",
+  "author": {
+    "name": "Surya Kasturi",
+    "url": "https://suryakasturi.com"
+  },
+  "created": "2026-10-11T13:51:07Z",
+  "updated": "2026-10-11T16:14:29Z",
+  "version": 4,
+  "content_md": "# A writing surface that writes back\n\nA really good heuristic for building a new kind of digital writing surface is Tom Riddle’s diary from Harry Potter, but in a really good way (Tom writes: or bad way). \n\nTo start, we should begin to accept that digital organisms aren't human-like or visible. Think of someone with superior capabilities in memory retention, recall, analysis, and diagnosis right next to you. Someone who’s always attentive. Someone who can write you exactly what you need to read. But the constraints are: you can only write to them, highlight and show them, and they can only write back. Writing becomes something else when the organism can listen and speak.\n\nA necessary step toward this idea is seeing that there are concept spaces in the mind. An application is made up of several concepts, and there is a high cognitive cost in switching between concept spaces depending upon the instruments used to make the switch. Concepts are delineated by attention and memory recall. \n\nWriting a sentence and recalling what you wrote last week about the same topic are two adjacent concepts in mind, and today moving between them means leaving the page, as they digitally materialize as distant concepts.\n\nThe key to unlocking these experiences is in creating ways that allow people to effortlessly toggle between concept spaces. Imagine if we could toggle into asking the surface by continuing to write from wherever the cursor currently exists using a special prefix anchor. \n\nWe already have a preview of this idea.\n\nNotion uses forward slash to switch into the context menu, as opposed to a two-finger tap on the trackpad, and it’s a better affordance, but now people are zoned out of writing into a spatial space that is to be navigated with vertical scrolling. \n\nVim gets close to this in its way to switch to command mode by pressing colon, but everything that follows is a user experience disaster. What Vim and Emacs lack is an entry point that does not require memorizing a grammar regardless of whether the user curated it. \n\nMarkdown is great, and so many people love it because they have effectively condensed switching between concepts of typography. You can switch to a heading within two keystrokes without moving the pointer, rolling eyes, or thinking of the spatial tyranny of the menus. \n\nWeaving into Markdown, a better anchor for a surface with agency is not menus, programmable grammar, or chat on the side. Think of switching into Tom Riddle Diary-like by typing three anchor characters of your choosing, and everything that follows is a brief discussion that will disappear afterwards.\n\nThere is potential for significant cognitive offloading as writing progresses on a surface with agency. The surface organism remembers, notices, writes back. For instance, you can erase a paragraph knowing it will come back when you need it, in the shape you need. Today, saving notes and cleaning up are separate concepts. Here, erasing a paragraph is saving it. Imagine that as you write, the surface writes below, or on the margins, in a lower-contrast ink, related notes from the past, or a potentially better phrase. \n\n",
+  "content_html": "<h1>A writing surface that writes back</h1>\n<p>A really good heuristic for building a new kind of digital writing surface is Tom Riddle’s diary from Harry Potter, but in a really good way (Tom writes: or bad way).</p>\n<p>To start, we should begin to accept that digital organisms aren't human-like or visible. Think of someone with superior capabilities in memory retention, recall, analysis, and diagnosis right next to you. Someone who’s always attentive. Someone who can write you exactly what you need to read. But the constraints are: you can only write to them, highlight and show them, and they can only write back. Writing becomes something else when the organism can listen and speak.</p>\n<p>A necessary step toward this idea is seeing that there are concept spaces in the mind. An application is made up of several concepts, and there is a high cognitive cost in switching between concept spaces depending upon the instruments used to make the switch. Concepts are delineated by attention and memory recall.</p>\n<p>Writing a sentence and recalling what you wrote last week about the same topic are two adjacent concepts in mind, and today moving between them means leaving the page, as they digitally materialize as distant concepts.</p>\n<p>The key to unlocking these experiences is in creating ways that allow people to effortlessly toggle between concept spaces. Imagine if we could toggle into asking the surface by continuing to write from wherever the cursor currently exists using a special prefix anchor.</p>\n<p>We already have a preview of this idea.</p>\n<p>Notion uses forward slash to switch into the context menu, as opposed to a two-finger tap on the trackpad, and it’s a better affordance, but now people are zoned out of writing into a spatial space that is to be navigated with vertical scrolling.</p>\n<p>Vim gets close to this in its way to switch to command mode by pressing colon, but everything that follows is a user experience disaster. What Vim and Emacs lack is an entry point that does not require memorizing a grammar regardless of whether the user curated it.</p>\n<p>Markdown is great, and so many people love it because they have effectively condensed switching between concepts of typography. You can switch to a heading within two keystrokes without moving the pointer, rolling eyes, or thinking of the spatial tyranny of the menus.</p>\n<p>Weaving into Markdown, a better anchor for a surface with agency is not menus, programmable grammar, or chat on the side. Think of switching into Tom Riddle Diary-like by typing three anchor characters of your choosing, and everything that follows is a brief discussion that will disappear afterwards.</p>\n<p>There is potential for significant cognitive offloading as writing progresses on a surface with agency. The surface organism remembers, notices, writes back. For instance, you can erase a paragraph knowing it will come back when you need it, in the shape you need. Today, saving notes and cleaning up are separate concepts. Here, erasing a paragraph is saving it. Imagine that as you write, the surface writes below, or on the margins, in a lower-contrast ink, related notes from the past, or a potentially better phrase.</p>\n",
+  "content_hash": "sha256:7e5abfb23942b509578359273f16f403636586c2a1517afa5331d21dbc0524c2",
+  "media": [],
+  "transclusions": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-11T13:52:58Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-11T13:57:22Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-10-11T16:11:03Z",
+      "note": null
+    },
+    {
+      "version": 4,
+      "at": "2026-10-11T16:14:29Z",
+      "note": null
+    }
+  ]
+}

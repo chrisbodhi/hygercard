@@ -1,0 +1,35 @@
+{
+  "blyg": "0.4",
+  "id": "277g6cg9hsbqb5av2ewhf0rw03",
+  "kind": "fragment",
+  "origin": "https://caseyjr.org/blyg/",
+  "page": "f/277g6cg9hsbqb5av2ewhf0rw03/",
+  "author": {
+    "name": "Mike Casey",
+    "url": "https://caseyjr.org/blyg/"
+  },
+  "created": "2026-10-11T00:52:17Z",
+  "updated": "2026-10-13T14:19:04Z",
+  "version": 3,
+  "content_md": "Pink Quill: the look this blyg wears now, and the first custom theme on Studio 0.40.\n\nStudio now lets an author set their own palette and a reading typeface, in Settings, colors only and no web fonts. A look travels as JSON. To wear this one: Settings → Custom → Import, then paste.\n\n```json\n{\n  \"name\": \"Pink Quill\",\n  \"light\": {\n    \"dark\": false, \"page\": \"#eceef1\", \"paper\": \"#f7f8fa\", \"ink\": \"#1a1f27\", \"inkSoft\": \"#5b5670\",\n    \"rule\": \"#d6d2e0\", \"pencil\": \"#c71585\", \"genBg\": \"#efe9fc\", \"genRule\": \"#9850eb\"\n  },\n  \"dark\": {\n    \"dark\": true, \"page\": \"#12161c\", \"paper\": \"#1a1f27\", \"ink\": \"#e8eaee\", \"inkSoft\": \"#b3adc6\",\n    \"rule\": \"#2f2b3d\", \"pencil\": \"#f06bb8\", \"genBg\": \"#2a2140\", \"genRule\": \"#7b5cf0\"\n  }\n}\n```\n\nThe neutrals are now violet-gray, taken from the flowers; the green belonged to the leaves, which stay in the background.\n\nPair it with Transitional or your preferred fonts (I'm using system sans). Fork it, rename it, make it yours. Thanks to Venkat for merging it.",
+  "content_html": "<p>Pink Quill: the look this blyg wears now, and the first custom theme on Studio 0.40.</p>\n<p>Studio now lets an author set their own palette and a reading typeface, in Settings, colors only and no web fonts. A look travels as JSON. To wear this one: Settings → Custom → Import, then paste.</p>\n<pre><code class=\"language-json\">{\n  &quot;name&quot;: &quot;Pink Quill&quot;,\n  &quot;light&quot;: {\n    &quot;dark&quot;: false, &quot;page&quot;: &quot;#eceef1&quot;, &quot;paper&quot;: &quot;#f7f8fa&quot;, &quot;ink&quot;: &quot;#1a1f27&quot;, &quot;inkSoft&quot;: &quot;#5b5670&quot;,\n    &quot;rule&quot;: &quot;#d6d2e0&quot;, &quot;pencil&quot;: &quot;#c71585&quot;, &quot;genBg&quot;: &quot;#efe9fc&quot;, &quot;genRule&quot;: &quot;#9850eb&quot;\n  },\n  &quot;dark&quot;: {\n    &quot;dark&quot;: true, &quot;page&quot;: &quot;#12161c&quot;, &quot;paper&quot;: &quot;#1a1f27&quot;, &quot;ink&quot;: &quot;#e8eaee&quot;, &quot;inkSoft&quot;: &quot;#b3adc6&quot;,\n    &quot;rule&quot;: &quot;#2f2b3d&quot;, &quot;pencil&quot;: &quot;#f06bb8&quot;, &quot;genBg&quot;: &quot;#2a2140&quot;, &quot;genRule&quot;: &quot;#7b5cf0&quot;\n  }\n}\n</code></pre>\n<p>The neutrals are now violet-gray, taken from the flowers; the green belonged to the leaves, which stay in the background.</p>\n<p>Pair it with Transitional or your preferred fonts (I'm using system sans). Fork it, rename it, make it yours. Thanks to Venkat for merging it.</p>\n",
+  "content_hash": "sha256:63eeed9c40bd2aee029d4f5b8de6c2b032f9beee40cf26fecf20fe7bf0202a81",
+  "media": [],
+  "changelog": [
+    {
+      "version": 1,
+      "at": "2026-10-11T00:56:05Z",
+      "note": null
+    },
+    {
+      "version": 2,
+      "at": "2026-10-11T00:56:30Z",
+      "note": null
+    },
+    {
+      "version": 3,
+      "at": "2026-10-13T14:19:04Z",
+      "note": "Neutrals moved from sage to violet-grey (inkSoft, rule); pink and violet unchanged."
+    }
+  ]
+}
