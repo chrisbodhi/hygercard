@@ -37,6 +37,8 @@ export interface PoliteOptions {
   maxRedirects?: number;
   perHost?: number;
   fetch?: typeof fetch;
+  /** Called with every URL before it is fetched, redirect hops included. Throw to refuse it. */
+  check?: (url: URL) => Promise<void> | void;
 }
 
 export const USER_AGENT = "hygercard/0.1.0 (+read-only snapshot for interaction prototyping)";
@@ -62,6 +64,7 @@ export function politeFetcher(options: PoliteOptions): Fetcher {
     for (let redirects = 0; ; redirects++) {
       const release = await acquire(new URL(url).host);
       try {
+        await options.check?.(new URL(url));
         const response = await doFetch(url, {
           redirect: "manual",
           headers: { "user-agent": userAgent, accept: "application/json, application/xml, text/html;q=0.9, */*;q=0.5" },

@@ -55,18 +55,19 @@ export async function loadFixtureSource(store: Store, source: FixtureSource, rea
 
   const manifest = (await read(`${source.slug}/blyg.json`)) as Manifest;
   store.addSource({ origin: source.origin, level: "blyg", title: manifest.title ?? source.title, manifest });
-  // Oldest first, so a newer version of anything wins by arriving later.
-  for (const id of [...source.itemIds].reverse()) {
-    const raw = await read(`${source.slug}/items/${id}.json`);
-    for (const issue of store.ingest(source.origin, raw)) issues.push({ where: issue.where, code: issue.code, message: issue.message });
-  }
+  // Read in parallel, ingest oldest first, so a newer version of anything wins by arriving later.
+  const documents = await Promise.all([...source.itemIds].reverse().map((id) => read(`${source.slug}/items/${id}.json`)));
+  store.batch(() => {
+    for (const raw of documents) {
+      for (const issue of store.ingest(source.origin, raw)) issues.push({ where: issue.where, code: issue.code, message: issue.message });
+    }
+  });
   return issues;
 }
 
 /** Load every source in the index. */
 export async function loadFixtures(store: Store, read: Reader): Promise<{ index: FixtureIndex; issues: CaptureIssue[] }> {
   const index = await loadFixtureIndex(read);
-  const issues: CaptureIssue[] = [];
-  for (const source of index.sources) issues.push(...(await loadFixtureSource(store, source, read)));
-  return { index, issues };
+  const loaded = await Promise.all(index.sources.map((source) => loadFixtureSource(store, source, read)));
+  return { index, issues: loaded.flat() };
 }

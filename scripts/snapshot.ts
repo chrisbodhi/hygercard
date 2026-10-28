@@ -1,4 +1,4 @@
-// bun run snapshot [--limit-items N] [--origin URL ...]
+// bun run snapshot [--limit-items N] [--origin URL ...] [--out DIR]
 //
 // Captures blyg publication surfaces (manifest, archive index, item documents)
 // into fixtures/, resolving each source URL through §12. Read-only: GET requests
@@ -12,35 +12,35 @@
 
 import { XMLParser } from "fast-xml-parser";
 import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
-import { join } from "node:path";
+import { join, resolve } from "node:path";
 import { readItemDocument } from "../src/core/store";
-import type { Manifest } from "../src/core/types";
 import type { FixtureIndex, FixtureSource } from "../src/feeds/fixtures";
 import { politeFetcher, USER_AGENT } from "../src/feeds/http";
-import { wrapFeed } from "../src/feeds/l0";
-import { resolveUrl } from "../src/feeds/resolveUrl";
-import { fetchIndex, fetchItems, manifestIssues, surfaceOf, type CaptureIssue } from "../src/feeds/surface";
+import { readSource } from "../src/feeds/read";
+import type { CaptureIssue } from "../src/feeds/surface";
 
 const ROOT = new URL("..", import.meta.url).pathname;
-const FIXTURES = join(ROOT, "fixtures");
+let FIXTURES = join(ROOT, "fixtures");
 const OPML = "https://blygger.com/blygs.opml";
 const ALSO = ["https://newschematic.org/blyg/"];
 const CONCURRENT_SOURCES = 6;
 
 function parseArguments(argv: string[]) {
   let limit = 40;
+  let out: string | undefined;
   const origins: string[] = [];
   for (let i = 0; i < argv.length; i++) {
     const argument = argv[i]!;
     if (argument === "--limit-items") limit = Number(argv[++i]);
     else if (argument === "--origin") origins.push(argv[++i] ?? "");
+    else if (argument === "--out") out = argv[++i];
     else if (argument === "--help" || argument === "-h") {
-      console.log("usage: bun run snapshot [--limit-items N] [--origin URL ...]");
+      console.log("usage: bun run snapshot [--limit-items N] [--origin URL ...] [--out DIR]");
       process.exit(0);
     } else throw new Error(`unknown argument ${argument}`);
   }
   if (!Number.isInteger(limit) || limit < 1) throw new Error("--limit-items takes a positive integer");
-  return { limit, origins };
+  return { limit, origins, out };
 }
 
 const fetcher = politeFetcher({ userAgent: USER_AGENT });
@@ -73,51 +73,45 @@ const writeJson = async (path: string, value: unknown) => {
 };
 
 async function capture(input: string, limit: number): Promise<{ source?: FixtureSource; failed?: { input: string; trail: string[] } }> {
-  const resolution = await resolveUrl(input, fetcher);
+  const read = await readSource(input, fetcher, limit);
   const capturedAt = new Date().toISOString();
-  if (resolution.kind === "failed") return { failed: { input, trail: resolution.trail } };
+  if (read.kind === "failed") return { failed: { input, trail: read.trail } };
 
-  if (resolution.kind === "l0") {
-    const slug = slugOf(resolution.feedUrl);
-    const { title, items } = wrapFeed(resolution.feedUrl, resolution.feed, limit);
+  if (read.kind === "l0") {
+    const slug = slugOf(read.feedUrl);
     await rm(join(FIXTURES, slug), { recursive: true, force: true });
-    await writeJson(join(FIXTURES, slug, "l0.json"), { title, items });
+    await writeJson(join(FIXTURES, slug, "l0.json"), { title: read.title, items: read.items });
     return {
-      source: { slug, input, origin: resolution.feedUrl, level: "l0", title, capturedAt, indexed: items.length, itemIds: items.map((i) => i.id), resolution: resolution.trail, issues: [] },
+      source: { slug, input, origin: read.feedUrl, level: "l0", title: read.title, capturedAt, indexed: read.items.length, itemIds: read.items.map((i) => i.id), resolution: read.trail, issues: [] },
     };
   }
 
-  const { origin, manifest } = resolution;
+  const { origin, manifest } = read;
   const slug = slugOf(origin);
-  const issues: CaptureIssue[] = manifestIssues(origin, manifest);
-  const surface = surfaceOf(origin, manifest as Manifest);
-  const { index, issues: indexIssues } = await fetchIndex(surface, fetcher);
-  issues.push(...indexIssues);
-
-  const fetched = index ? await fetchItems(surface, index, fetcher, limit) : { items: [], issues: [] };
-  issues.push(...fetched.issues);
-  for (const { raw } of fetched.items) {
+  const issues: CaptureIssue[] = [...read.issues];
+  for (const { raw } of read.items) {
     for (const issue of readItemDocument(origin, raw).issues) issues.push({ where: issue.where, code: issue.code, message: issue.message });
   }
 
   await rm(join(FIXTURES, slug), { recursive: true, force: true });
   await writeJson(join(FIXTURES, slug, "blyg.json"), manifest);
-  if (index) await writeJson(join(FIXTURES, slug, "items", "index.json"), index);
-  for (const { id, raw } of fetched.items) await writeJson(join(FIXTURES, slug, "items", `${id}.json`), raw);
+  if (read.index) await writeJson(join(FIXTURES, slug, "items", "index.json"), read.index);
+  for (const { id, raw } of read.items) await writeJson(join(FIXTURES, slug, "items", `${id}.json`), raw);
 
   return {
     source: {
       slug, input, origin, level: "blyg", title: String(manifest.title ?? slug), capturedAt,
-      indexed: index?.items.length ?? 0,
-      itemIds: fetched.items.map((item) => item.id),
-      resolution: resolution.trail,
+      indexed: read.indexed,
+      itemIds: read.items.map((item) => item.id),
+      resolution: read.trail,
       issues,
     },
   };
 }
 
 async function main() {
-  const { limit, origins } = parseArguments(process.argv.slice(2));
+  const { limit, origins, out } = parseArguments(process.argv.slice(2));
+  if (out) FIXTURES = resolve(process.cwd(), out);
   const subset = origins.length > 0;
   const inputs = subset ? origins : [...(await opmlSources()), ...ALSO];
   console.log(`${inputs.length} source(s), up to ${limit} items each`);

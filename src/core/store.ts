@@ -144,6 +144,8 @@ export class Store {
   private known = new Map<string, Source>();
   private listeners = new Set<() => void>();
   private changes = 0;
+  private batching = 0;
+  private dirty = false;
 
   /** Bumps on every change, for `useSyncExternalStore`. */
   get revision(): number {
@@ -157,7 +159,21 @@ export class Store {
 
   private changed() {
     this.changes++;
-    for (const listener of this.listeners) listener();
+    if (this.batching > 0) this.dirty = true;
+    else for (const listener of this.listeners) listener();
+  }
+
+  /** Run `work`, telling subscribers once at the end instead of once per change. */
+  batch(work: () => void) {
+    this.batching++;
+    try {
+      work();
+    } finally {
+      if (--this.batching === 0 && this.dirty) {
+        this.dirty = false;
+        for (const listener of this.listeners) listener();
+      }
+    }
   }
 
   // Sources

@@ -149,6 +149,20 @@ describe("rollup and the watermark (§13.1, §13.3, §13.4)", () => {
     expect(store.get(REMOTE, A)?.retained?.version).toBe(1);
   });
 
+  it("tells subscribers once for a batch of changes", () => {
+    const store = new Store();
+    let calls = 0;
+    store.subscribe(() => calls++);
+    store.batch(() => {
+      store.ingest(REMOTE, item(A));
+      store.ingest(REMOTE, item(id(2)));
+    });
+    expect(calls).toBe(1);
+    expect(store.revision).toBe(2);
+    store.batch(() => {});
+    expect(calls).toBe(1);
+  });
+
   it("notifies subscribers", () => {
     const store = new Store();
     let calls = 0;

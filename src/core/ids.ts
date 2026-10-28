@@ -19,7 +19,8 @@ export function isValidId(value: unknown): value is string {
   return typeof value === "string" && ID_PATTERN.test(value);
 }
 
-type Random = <T extends Uint8Array>(bytes: T) => T;
+/** Fills the array with random bytes, in place. */
+type Fill = (bytes: Uint8Array<ArrayBuffer>) => void;
 
 /** Encode 16 bytes (128 bits, big-endian) as 26 base32 characters. */
 export function encodeId(bytes: Uint8Array): string {
@@ -35,6 +36,8 @@ export function encodeId(bytes: Uint8Array): string {
 }
 
 /** Generate an id from a cryptographically strong source (§5.1). */
-export function newId(random: Random = (bytes) => crypto.getRandomValues(bytes)): string {
-  return encodeId(random(new Uint8Array(16)));
+export function newId(fill: Fill = (bytes) => void crypto.getRandomValues(bytes)): string {
+  const bytes = new Uint8Array(16);
+  fill(bytes);
+  return encodeId(bytes);
 }
