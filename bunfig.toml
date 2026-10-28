@@ -1,0 +1,4 @@
+[test]
+# `bun test` runs the runtime-agnostic tests under src/. Browser-mode tests live
+# in test-browser/ and run with `bun run test:browser`.
+root = "src"
