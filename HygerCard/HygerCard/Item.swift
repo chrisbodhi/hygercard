@@ -18,7 +18,7 @@ final class Item {
 }
 
 
-@Model
+//@Model
 final class Blyg {
     var title: String
     var authors: [String]
@@ -33,17 +33,19 @@ final class Blyg {
 
 enum Kind: String { case fragment, thread}
 
-@Model
+//@Model
 final class Post {
-    var kind: Kind
-    var parent: Blyg
-    var author: [String]
-    var hasQuote: Bool
+    let kind: Kind
+    let parent: Blyg
+    let author: [String]
+    let body: String
+    let hasQuote: Bool
     
-    init(parent: Blyg, kind: Kind, author: [String], hasQuote: Bool) {
+    init(parent: Blyg, kind: Kind, author: [String], body: String, hasQuote: Bool) {
         self.parent = parent
         self.kind = kind
         self.author = author
+        self.body = body
         self.hasQuote = hasQuote
     }
 }
