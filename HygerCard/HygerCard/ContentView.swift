@@ -7,23 +7,34 @@
 
 import SwiftUI
 import SwiftData
+internal import System
+
+let b = Blyg(title: "My blyg", authors: ["a"], location: URL(filePath: "http://intertwingle.tm")!)
+let post = Post(parent: b, kind: Kind(rawValue: "thread")!, author: ["a"], body: "lorem ipsum", hasQuote: true)
+
 
 struct ContentView: View {
     @Environment(\.modelContext) private var modelContext
     @Query private var items: [Item]
+    private var posts: [Post] = [post]
 
     var body: some View {
         NavigationViewWrapper {
             List {
-                ForEach(items) { item in
-                    NavigationLink {
-                        Text("Item at \(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))")
-                    } label: {
-                        Text(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))
-                    }
+                ForEach(posts) { post in
+                    CardView(post: post)
                 }
-                .onDelete(perform: deleteItems)
             }
+//            List {
+//                ForEach(items) { item in
+//                    NavigationLink {
+//                        Text("Item at \(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))")
+//                    } label: {
+//                        Text(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))
+//                    }
+//                }
+//                .onDelete(perform: deleteItems)
+//            }
 #if os(macOS)
             .navigationSplitViewColumnWidth(min: 180, ideal: 200)
 #endif
@@ -60,13 +71,18 @@ struct ContentView: View {
 
 fileprivate struct NavigationViewWrapper<Content: View>: View {
     let content: () -> Content
+    var posts: [Post] = [post]
 
     var body: some View {
 #if os(macOS)
         NavigationSplitView {
             content()
         } detail: {
-            Text("Select an item")
+//            Text("Select an item")
+            List { ForEach(posts) { post in
+                CardView(post: post)
+            }
+            }
         }
 #else
         content()

@@ -34,7 +34,8 @@ final class Blyg {
 enum Kind: String { case fragment, thread}
 
 //@Model
-final class Post {
+final class Post: Identifiable {
+    let id: UUID
     let kind: Kind
     let parent: Blyg
     let author: [String]
@@ -42,6 +43,7 @@ final class Post {
     let hasQuote: Bool
     
     init(parent: Blyg, kind: Kind, author: [String], body: String, hasQuote: Bool) {
+        self.id = UUID()
         self.parent = parent
         self.kind = kind
         self.author = author
